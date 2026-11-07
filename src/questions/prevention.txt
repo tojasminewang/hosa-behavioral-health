@@ -1,0 +1,239 @@
+? What is SAMHSA's Strategic Prevention Framework (SPF)?
++ A five-step approach for understanding substance use problems in their community context and developing effective prevention programs
+- A list of FDA-approved medications for addiction
+- A crisis hotline for substance use
+- A law requiring drug testing at work
+@ SAMHSA's comprehensive approach (five steps and two guiding principles)
+
+? What is the first step of the Strategic Prevention Framework?
++ Assessment
+- Capacity
+- Planning
+- Evaluation
+@ 1. Assessment | Identify local prevention needs based on data
+
+? Which SPF step asks, "Is your plan succeeding?"
++ Evaluation
+- Implementation
+- Capacity
+- Assessment
+@ 5. Evaluation | Examine the process and outcomes
+
+? Which SPF step builds local resources and readiness to address prevention needs?
++ Capacity
+- Planning
+- Assessment
+- Implementation
+@ 2. Capacity | Build local resources and readiness
+
+? Which primary prevention strategy uses one-way communication with limited contact between the source and audience?
++ Information dissemination
+- Education
+- Community-based process
+- Environmental
+@ one-way communication with limited contact between source and audience
+
+? Which primary prevention strategy builds skills such as decision making, peer resistance, and coping with stress through structured learning?
++ Education
+- Alternatives
+- Information dissemination
+- Problem identification and referral
+@ critical life and social skills include decision making, peer resistance, coping with stress
+
+? A community hosts drug-free sports nights and art programs for teens. Which prevention strategy is this?
++ Alternatives
+- Environmental
+- Education
+- Information dissemination
+@ Provide healthy activities that exclude alcohol and other drugs to discourage use
+
+? Which strategy changes written and unwritten community standards, codes, and attitudes?
++ Environmental
+- Alternatives
+- Education
+- Problem identification and referral
+@ Establishes or changes written and unwritten community standards, codes, and attitudes
+
+? In the IOM model, prevention aimed at the general public, not based on individual risk, is called what?
++ Universal
+- Selective
+- Indicated
+- Primary
+@ Universal | The general public or a whole population group
+
+? A program targets a subgroup whose risk of developing a disorder is significantly higher than average. Which IOM category is this?
++ Selective
+- Universal
+- Indicated
+- Environmental
+@ Selective | Individuals or a subgroup whose risk of developing a disorder is significantly higher than average
+
+? What percentage of their SUBG allotment must grantees spend on primary prevention?
++ No less than 20%
+- No less than 5%
+- No less than 50%
+- Exactly 100%
+@ SUBG grantees must spend no less than 20% of their allotment on substance use primary prevention
+
+? What is the "Talk. They Hear You." campaign?
++ SAMHSA's national youth substance use prevention campaign that helps parents talk with their children early and often
+- A suicide hotline for teens
+- A law against underage drinking
+- A treatment program for adults with opioid use disorder
+@ SAMHSA's national youth substance use prevention campaign
+
+? When is Mental Health Awareness Month?
++ May
+- September
+- January
+- October
+@ Mental Health Awareness Month | May
+
+? When is National Recovery Month?
++ September
+- May
+- March
+- December
+@ National Recovery Month | September
+
+? Which SAMHSA center provides national leadership to prevent the onset of substance misuse?
++ Center for Substance Abuse Prevention (CSAP)
+- Center for Mental Health Services (CMHS)
+- Center for Substance Abuse Treatment (CSAT)
+- Center for Behavioral Health Statistics and Quality (CBHSQ)
+@ SAMHSA's **Center for Substance Abuse Prevention (CSAP)** provides national leadership
+
+? Which is a suicide risk factor at the relationship level?
++ Family conflict or knowing someone who died by suicide
+- Access to lethal means
+- Stigma and discrimination
+- Untreated mental illness
+@ Family conflict, knowing someone who died by suicide
+
+? Which is a protective factor against suicide at the individual level?
++ Problem-solving and coping skills, positive self-esteem, and a sense of purpose
+- Community violence
+- Social isolation
+- Historical trauma
+@ Problem-solving and coping skills, positive self-esteem, a sense of purpose in life
+
+? What does the Zero Suicide Framework hold?
++ Suicide can be prevented within care systems by improving access, quality, and support
+- Suicide cannot be prevented once a person is in crisis
+- Only emergency rooms can prevent suicide
+- Suicide prevention should focus only on teenagers
+@ Built on the belief that suicide can be prevented within care systems
+
+? What is the Drug-Free Workplace Helpline number?
++ 1-800-WORKPLACE (967-5752)
+- 1-800-662-HELP (4357)
+- 1-800-985-5990
+- 988
+@ 1-800-WORKPLACE (967-5752)
+
+? What does the National Child Traumatic Stress Initiative (NCTSI) do?
++ Raises awareness of trauma's impact on children and develops evidence-based interventions
+- Runs the 988 Lifeline
+- Licenses counselors
+- Funds school construction
+@ Raises awareness of the impact of trauma on children and adolescents
+
+? When is National Children's Mental Health Awareness Day?
++ May
+- October
+- January
+- July
+@ National Children's Mental Health Awareness Day (May)
+
+? Which SAMHSA grant program supports states and tribes with youth suicide prevention and early intervention?
++ Garrett Lee Smith State/Tribal Youth Suicide Prevention and Early Intervention Grant Program
+- Talk. They Hear You.
+- STOP Underage Drinking
+- Communities Talk
+@ Supports states and tribes with youth suicide prevention and early intervention
+
+## hard
+
+? Which description of the SPF's defining characteristics is correct?
++ Dynamic and iterative (circular), data-informed, and reliant on a team approach
+- Linear, opinion-based, and run by a single expert
+- Fixed, one-time, and funded only by states
+- Focused only on treatment, not prevention
+@ SPF defining characteristics: **dynamic and iterative**
+
+? Which IOM category targets people in high-risk environments with minimal but detectable signs of a disorder who do not yet meet diagnostic levels?
++ Indicated
+- Selective
+- Universal
+- Tertiary
+@ Indicated | Individuals in high-risk environments with minimal but detectable signs
+
+? What does "problem identification and referral" NOT include?
++ Determining whether a person needs treatment
+- Identifying people who used alcohol age-inappropriately
+- Identifying people who first used illicit drugs
+- Assessing whether behavior can be reversed through education
+@ does not include determining whether a person needs treatment
+
+? A neighborhood coalition trains volunteers and builds collaborative action plans. Which strategy is this?
++ Community-based process
+- Information dissemination
+- Alternatives
+- Environmental
+@ neighborhood-based, grassroots empowerment models using action planning
+
+? How many federal agencies make up the Interagency Coordinating Committee on the Prevention of Underage Drinking (ICCPUD)?
++ 15
+- 5
+- 50
+- 100
+@ Led by SAMHSA and made up of 15 federal agencies
+
+? Which is a suicide risk factor at the community level?
++ Access to lethal means
+- Untreated mental illness
+- Family conflict
+- Stigma and racism
+@ Community violence, historical trauma, access to lethal means
+
+? Which program promotes the wellness of young children from birth to 8 years of age?
++ Project LAUNCH
+- Project AWARE
+- TISS
+- Communities Talk
+@ Promotes the wellness of young children from birth to 8 years of age
+
+? Since what year has Mental Health Awareness Month been observed?
++ 1949
+- 1979
+- 1999
+- 2009
+@ Observed since 1949
+
+? Among 5.1 million young adults with a substance use disorder in 2018, how many did not get treatment?
++ Nearly 9 in 10
+- About 1 in 10
+- About half
+- None; all received treatment
+@ of 5.1 million with a substance use disorder, nearly 9 in 10 did not get treatment
+
+? In 2024, which group had the highest suicide rate in SAMHSA's data?
++ People 85 and older (21.4 per 100,000)
+- Youth ages 10–14 (2.31 per 100,000)
+- Young adults 18–25
+- Adults 45–54
+@ to 21.4 per 100,000 among people 85 and older
+
+? What does the Federal Commission on School Safety do?
++ Recommends policies and best practices for preventing school violence
+- Funds college scholarships
+- Approves medications
+- Runs NAMI programs
+@ Recommends policies and best practices for preventing school violence
+
+? What does the Garrett Lee Smith Campus Suicide Prevention Grant aim to do?
++ Build coordinated behavioral health services for college students and identify students at risk for suicide
+- Train police officers in crisis response
+- Fund elementary school lunches
+- License psychiatrists
+@ Builds a coordinated approach to behavioral health services for all college students

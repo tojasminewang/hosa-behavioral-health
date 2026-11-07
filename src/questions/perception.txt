@@ -1,0 +1,204 @@
+? What is perception?
++ The process of interpreting sensory information
+- The process of detecting stimuli from the environment or the body
+- Translating a stimulus into a neural signal
+- A reduced response to an unchanging stimulus
+@ The process of interpreting sensory information; it allows us to organize
+
+? What is selective attention?
++ The ability to focus on a subset of available information and exclude the rest
+- Processing multiple sources of sensory information at once
+- Building simple input into more complex perceptions
+- Using memory to interpret incoming sensory information
+@ The ability to focus on a subset of available information and exclude the rest
+
+? Reading a sentence full of jumbled words relies heavily on which kind of processing?
++ Top-down processing
+- Bottom-up processing
+- Divided attention
+- Sensory adaptation
+@ memory and other cognitive processes are required for interpreting incoming sensory information
+
+? Which theory of color vision is based on three types of cones that detect short, medium, and long wavelengths?
++ Trichromatic theory
+- Opponent process theory
+- Place theory
+- Gate theory
+@ A theory of color vision based on three types of cones
+
+? Which theory of color vision explains color afterimages?
++ Opponent process theory
+- Trichromatic theory
+- Temporal theory
+- Signal detection theory
+@ Opponent process theory explains color afterimages
+
+? Why is red–green color vision deficiency far more common in males?
++ The red and green pigment genes are on the X chromosome
+- Males have fewer rods than females
+- The genes are on the Y chromosome
+- Males have no blue cones
+@ it is sex-linked because the red and green pigment genes are on the X chromosome
+
+? Which Gestalt principle says that objects close together tend to be grouped together?
++ Proximity
+- Similarity
+- Continuity
+- Closure
+@ Objects that are close together tend to be grouped together
+
+? You see a complete, unbroken logo even though there are gaps in its lines. Which Gestalt principle is this?
++ Closure
+- Proximity
+- Figure–ground
+- Simplicity
+@ We see a complete, unbroken image even when there are gaps in the lines
+
+? What is a binocular depth cue?
++ A depth cue that requires the use of both eyes
+- A depth cue that requires only one eye
+- The convergence of parallel lines at the horizon
+- A cue based on the known size of objects
+@ A depth cue that requires the use of both eyes
+
+? Which depth cue is the apparent convergence of parallel lines at the horizon?
++ Linear perspective
+- Texture gradients
+- Occlusion
+- Motion parallax
+@ The apparent convergence of parallel lines at the horizon
+
+? When you are moving, closer objects seem to move faster than distant ones. Which depth cue is this?
++ Motion parallax
+- Retinal disparity
+- Relative size
+- Shading
+@ When moving, closer objects appear to move faster
+
+? What is occlusion?
++ The blocking of images of distant objects by closer objects
+- The difference between the images projected onto each eye
+- Seeing more texture in close objects
+- Judging distance from the size of familiar objects
+@ The blocking of images of distant objects by closer objects
+
+? Why does the moon look larger near the horizon?
++ We judge it against familiar objects (relative size)
+- Light bends more near the horizon
+- The moon is closer to Earth when it rises
+- Retinal disparity increases at night
+@ The moon looks larger near the horizon because we judge it against familiar objects
+
+? Hearing "ba-ba" while seeing lips say "ga-ga" is perceived as "da-da." What is this illusion called?
++ The McGurk effect
+- Sine wave speech
+- Absolute pitch
+- The Ponzo illusion
+@ hearing "ba-ba" while seeing lips say "ga-ga" is perceived as "da-da"
+
+? According to gate theory, why does rubbing a bumped elbow help?
++ Input from touch fibers competes with pain input and may keep pain messages from reaching the brain
+- Rubbing releases dopamine in the basal ganglia
+- Rubbing destroys the pain receptors in the skin
+- Touch fibers increase the speed of pain signals
+@ Input from touch fibers competes with input from pain receptors
+
+? What is the placebo effect in pain?
++ Pain reduction after an ineffective substance or treatment, such as a sugar pill
+- Pain that comes from a missing body part
+- Pain that increases when people know they are being treated
+- Pain caused by chemicals such as capsaicin
+@ Pain reduction after an ineffective substance or treatment, such as a sugar pill
+
+? What is flavor?
++ The combined perception of smell and taste
+- The sense of taste alone
+- The sense of smell alone
+- The pleasantness rating of a food
+@ The combined perception of smell and taste
+
+? At least how many odors can humans distinguish?
++ At least 1 trillion
+- About 10,000
+- About 1 million
+- About 6,000
+@ Humans can distinguish among at least 1 trillion odors
+
+? What is absolute pitch?
++ The ability to name a musical tone you hear
+- The highest frequency a person can hear
+- Hearing speech as tweeting birds
+- Localizing a sound by comparing arrival times at each ear
+@ The ability to name a musical tone you hear
+
+? What is another name for the Gestalt simplicity principle?
++ Prägnanz
+- Closure
+- Proximity
+- Continuity
+@ The Gestalt simplicity principle is also called Prägnanz
+
+## hard
+
+? According to the textbook, how do the two theories of color vision fit together?
++ Both are correct at different levels: trichromatic at the retina's cones, opponent process at higher levels of visual analysis
+- Trichromatic theory replaced opponent process theory after the 1917 Ishihara test
+- Opponent process theory fits the cones, and trichromatic theory fits higher visual analysis
+- Neither theory is supported; color comes from "grandmother cells"
+@ Both theories are correct at different levels
+
+? Which statement about pitch theories is correct?
++ Place theory works well above 4,000 Hz; below 4,000 Hz the firing pattern matches the frequency (temporal theory)
+- Temporal theory works well above 4,000 Hz; place theory works below 4,000 Hz
+- High tones peak near the wide, floppy apex of the basilar membrane
+- Low tones peak near the narrow, stiff base of the basilar membrane
+@ Below 4,000 Hz, the pattern of neural firing matches the frequency of the sound
+
+? How does the brain localize a sound horizontally?
++ By comparing arrival times and intensity differences at the two ears
+- By using the pinna to compare the sound's height
+- By measuring the sound's frequency on the basilar membrane
+- By counting how many hair cells respond
+@ horizontally we compare arrival times at each ear
+
+? What did the "invisible gorilla" study with expert radiologists show?
++ 20 out of 24 radiologists focused on cancer completely missed a gorilla on the scans
+- Radiologists noticed the gorilla more often than untrained people
+- Radiologists with divided attention found more tumors
+- Only 4 radiologists focused on the scans at all
+@ 20 out of 24 completely missed a gorilla
+
+? Which statement about retinal disparity is correct?
++ It is a binocular cue, and disparity increases as the distance between objects increases
+- It is a monocular cue used by Italian artists in the 15th century
+- It decreases as the distance between objects increases
+- It cannot be used by 3D cameras
+@ disparity increases as the distance between objects increases
+
+? Lonely people become more sensitive to which kind of threats?
++ Social threats such as rejection, but not non-social threats such as snakes
+- Non-social threats such as snakes, but not social threats
+- Both social and non-social threats equally
+- Neither; loneliness dulls threat perception
+@ more sensitive to social threats (such as social rejection) but not to non-social threats
+
+? How do East Asian and Western cultures tend to process visual scenes?
++ East Asian: holistically (context and relationships); Western: analytically (salient objects and categories)
+- East Asian: analytically; Western: holistically
+- Both process scenes holistically until age 5, then analytically
+- Culture has no measurable effect on perception
+@ East Asian cultures tend to process information holistically
+
+? Which is NOT one of the textbook's examples of something that reduced pain?
++ Being told the pain would be worse than expected
+- Taking prepared childbirth classes
+- Self-administering morphine (a sense of control)
+- Holding a husband's hand in a happy marriage
+@ patients who self-administer morphine need less medication (sense of control)
+
+? According to HOSA Canada's study deck, where do individual differences show up much more?
++ In perception (interpreting information) rather than sensation (detecting stimuli)
+- In sensation rather than perception
+- Equally in sensation and perception
+- Only in vision
+@ individual differences show up much more in perception than in sensation

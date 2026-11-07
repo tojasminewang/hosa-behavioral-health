@@ -1,0 +1,197 @@
+? What is an obsession?
++ An intrusive, distressing thought
+- A repetitive, ritualistic behavior
+- A false perception
+- An unrealistic perception of physical flaws
+@ An intrusive, distressing thought
+
+? What is a compulsion?
++ A repetitive, ritualistic behavior associated with high anxiety
+- An intrusive, distressing thought
+- A fear of open spaces
+- A sudden period of intense fear
+@ Repetitive, ritualistic behavior associated with high anxiety
+
+? Why do people with OCD perform compulsions?
++ To ward off the anxiety produced by obsessions
+- To gain pleasure
+- Because they cannot remember doing them
+- To get attention from others
+@ compulsions are efforts to ward off the anxiety produced by obsessions
+
+? About what percentage of the U.S. population reports OCD in their lifetime?
++ 2% to 3%
+- 20% to 30%
+- 0.1%
+- 10%
+@ 2% to 3% of the U.S. population report OCD in their lifetime
+
+? According to DSM-5, engaging in compulsive behavior for more than how long per day is considered abnormal?
++ More than 1 hour per day
+- More than 5 minutes per day
+- More than 4 hours per day
+- More than 8 hours per day
+@ engaging in compulsive behavior for more than 1 hour per day
+
+? What is body dysmorphic disorder (BDD)?
++ A disorder characterized by the unrealistic perception of physical flaws
+- A fear of gaining weight with restricted eating
+- An inability to recognize faces
+- A belief that imposters replaced loved ones
+@ A disorder characterized by the unrealistic perception of physical flaws
+
+? Which treatment is highly effective for OCD?
++ Cognitive behavioral therapy (CBT)
+- Psychoanalysis alone
+- Lobotomy
+- Insulin shock therapy
+@ CBT is highly effective
+
+? Which is a common compulsion?
++ Checking locks and faucets
+- Hearing voices
+- Binge eating
+- Sleepwalking
+@ Common compulsions: hand washing (hundreds of times per day), checking (locks, faucets)
+
+? According to SAMHSA, when do OCD symptoms often begin?
++ In children or teens
+- After age 60
+- Only in middle adulthood
+- Only after a head injury
+@ symptoms often begin in children or teens
+
+? According to NAMI, what percentage of U.S. adults experience OCD each year?
++ 1.2%
+- 4.1%
+- 15.5%
+- 19.1%
+@ 1.2% of U.S. adults experience OCD each year
+
+? In OCD, what are compulsions?
++ Repetitive acts that temporarily relieve the stress of an obsession
+- Intrusive thoughts that keep coming back
+- Periods of extremely high mood
+- Memory gaps after a trauma
+@ Repetitive acts that temporarily relieve the stress of an obsession
+
+? Which of these is an example of an obsession, according to NAMI?
++ Doubting whether you locked the door or turned off the stove
+- Washing your hands many times
+- Counting money over and over
+- Checking the lock again and again
+@ doubts about locking a door or turning off the stove
+
+? According to NAMI, which type of medication is most helpful for reducing obsessions and compulsions?
++ SSRIs
+- Stimulants
+- Benzodiazepines
+- Lithium
+@ SSRIs are the medication most helpful for reducing obsessions and compulsions
+
+? Which disorder involves a compulsive urge to pull out one's own hair, including eyelashes and eyebrows?
++ Trichotillomania
+- Excoriation disorder
+- Body dysmorphic disorder
+- Hoarding disorder
+@ A compulsive urge to pull out (and possibly eat) one's own hair
+
+? Which disorder involves a drive to collect large amounts of valueless items and extreme distress at throwing anything away?
++ Hoarding disorder
+- Trichotillomania
+- Body dysmorphic disorder
+- Binge eating disorder
+@ A drive to collect large amounts of valueless items plus extreme distress at throwing anything away
+
+## hard
+
+? Which brain circuit shows abnormal activity in OCD?
++ Circuits linking the frontal lobe (orbitofrontal and anterior cingulate cortices) with the basal ganglia and thalamus
+- Circuits linking the occipital lobe with the cerebellum
+- The hippocampus alone
+- Circuits linking the medulla with the spinal cord
+@ abnormal activity in circuits linking the frontal lobe
+
+? How does CBT for OCD work?
++ The person learns to anticipate the urge and do a competing behavior instead, then reward themselves
+- The person is prevented from sleeping until the urge passes
+- The person discusses childhood conflicts until the urge stops
+- The person is given a shock each time they perform a compulsion
+@ CBT for OCD trains the person to anticipate the urge to perform a compulsion
+
+? What did PET scans show about CBT and medication for OCD?
++ Both produced the same decrease in basal ganglia activity
+- Only medication changed brain activity
+- Only CBT changed brain activity
+- Both increased basal ganglia activity
+@ PET scans show that CBT and medication produce the same decrease in basal ganglia activity
+
+? Which statement about BDD is correct?
++ Suicide rates for BDD are higher than for OCD and anorexia nervosa
+- BDD affects mostly males and has no heredity
+- BDD is never treated with CBT
+- People with BDD perceive faces less accurately in every way
+@ Suicide rates for BDD are higher than for OCD and anorexia nervosa
+
+? How does the learning view explain compulsions?
++ They are reinforced because they reduce anxiety (operant conditioning)
+- They are classically conditioned reflexes
+- They come from observing others' rituals only
+- They are caused by low intelligence
+@ compulsions are reinforced because they reduce anxiety (operant conditioning)
+
+? In DSM-5, OCD is grouped with which disorders?
++ Body dysmorphic disorder and hoarding disorder
+- Panic disorder and agoraphobia
+- Schizophrenia and delusional disorder
+- Anorexia and bulimia
+@ groups obsessive-compulsive disorder (formerly an anxiety disorder) with body dysmorphic disorder, hoarding disorder
+
+? For an OCD diagnosis, symptoms typically last at least how long each day?
++ An hour
+- Ten minutes
+- Six hours
+- The entire day
+@ typically last at least an hour a day
+
+? According to NAMI, if you, a parent or a sibling has OCD, what is the chance that another immediate family member has it?
++ About 25%
+- About 2%
+- About 50%
+- About 90%
+@ there is about a 25% chance another immediate family member has it
+
+? How does treating OCD with antidepressants differ from treating depression?
++ It often takes longer to work and may need larger doses for a longer time
+- It works faster and needs smaller doses
+- Antidepressants never help OCD
+- It requires only one dose
+@ Antidepressants for OCD often take longer to work than for depression
+
+? In exposure and response prevention for OCD, what might a person who fears germs be asked to do?
++ Touch a doorknob and wait longer and longer before washing
+- Wash their hands right away every time
+- Avoid all doorknobs forever
+- Take a stimulant before touching anything
+@ touching a doorknob and waiting longer and longer before washing
+
+? Which disorder involves a compulsive urge to scratch or pick at the skin?
++ Excoriation disorder
+- Trichotillomania
+- Hoarding disorder
+- Body dysmorphic disorder
+@ A compulsive urge to scratch or pick at the skin
+
+? According to NAMI, which brain chemical may several brain areas fail to respond to normally in OCD?
++ Serotonin
+- Glutamate
+- Dopamine
+- Endorphins
+@ several brain areas may not respond normally to serotonin
+
+? According to HOSA Canada's study deck, what can sometimes bring on OCD symptoms?
++ A head injury
+- Too much sleep
+- Vitamin C
+- Daily exercise
+@ OCD symptoms may appear after a head injury

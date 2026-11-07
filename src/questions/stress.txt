@@ -1,0 +1,218 @@
+? How does the textbook define stress?
++ An unpleasant emotional state that results from the perception of danger
+- A stimulus that serves as a source of stress
+- A competitive, workaholic personality
+- Relatively insignificant daily annoyances
+@ An unpleasant emotional state that results from the perception of danger
+
+? What is a stressor?
++ A stimulus that serves as a source of stress
+- An unpleasant emotional state
+- A hormone released by the adrenal glands
+- A coping strategy
+@ A stimulus that serves as a source of stress
+
+? Who developed the general adaptation syndrome (GAS)?
++ Hans Selye
+- Walter Cannon
+- Richard Lazarus
+- Shelley Taylor
+@ Hans Selye's three-stage model
+
+? What are the three stages of the GAS, in order?
++ Alarm, resistance, exhaustion
+- Resistance, alarm, exhaustion
+- Alarm, exhaustion, recovery
+- Appraisal, coping, adaptation
+@ alarm, resistance, and exhaustion
+
+? Which GAS stage is characterized by depletion of physical and psychological resources?
++ Exhaustion
+- Alarm
+- Resistance
+- Recovery
+@ The third and last stage of the GAS
+
+? Who described the fight-or-flight response?
++ Walter Cannon
+- Hans Selye
+- Thomas Holmes
+- Meyer Friedman
+@ **Fight-or-flight response:** Walter Cannon
+
+? Which scale by Holmes and Rahe lists life events by the amount of adjustment they require?
++ Social Readjustment Rating Scale (SRRS)
+- Epworth Sleepiness Scale
+- Yale Food Addiction Scale
+- Stress Mindset Scale
+@ Holmes and Rahe (1967) listed life events
+
+? What are hassles?
++ Relatively insignificant sources of stress that add up, like long lines and lost keys
+- Major life events such as divorce
+- Catastrophic disasters
+- Positive events like getting married
+@ Relatively insignificant sources of stress
+
+? Which circuit releases cortisol into the bloodstream in response to stress?
++ Hypothalamic–pituitary–adrenal (HPA) axis
+- Sympathetic adrenal–medullary (SAM) system
+- Parasympathetic nervous system
+- Reticular formation
+@ A circuit that responds to perceived stressors by initiating the release of cortisol
+
+? Which circuit releases epinephrine and norepinephrine for fast, short-lived stress effects?
++ Sympathetic adrenal–medullary (SAM) system
+- Hypothalamic–pituitary–adrenal (HPA) axis
+- Enteric nervous system
+- Default mode network
+@ A circuit that responds to perceived stressors by initiating the release of epinephrine
+
+? What is the Type A personality?
++ A competitive, workaholic, and in some cases hostile personality type
+- A mellow, laid-back personality type
+- A personality with high resilience
+- A personality focused on tend-and-befriend
+@ A competitive, workaholic, and in some cases hostile personality type
+
+? What is the tend-and-befriend response?
++ An alternative to fight-or-flight that involves soothing and building social connections, linked to oxytocin
+- Fighting with friends during stress
+- Avoiding all people when stressed
+- A stage of the GAS
+@ An alternative to fight-or-flight, characterized by soothing and building social connections
+
+? What did Richard Lazarus's concept of cognitive appraisal say?
++ We make rapid initial assessments of potential stressors, so the same event stresses people differently
+- All people experience the same stress from the same event
+- Stress comes only from physical danger
+- Appraisal happens only after the exhaustion stage
+@ We make rapid initial assessments of potential stressors
+
+? According to NAMI, which hormone increases in the brain during long-term stress and weakens the immune system?
++ Cortisol
+- Melatonin
+- Insulin
+- Endorphins
+@ Long-term stress exposes the brain to more cortisol
+
+? Which is a common sign of stress listed by NAMI?
++ Jaw pain
+- Better concentration
+- Better sleep
+- A stable mood
+@ Common signs of stress: headaches, trouble sleeping, jaw pain
+
+? According to NAMI, how can stress affect bipolar disorder?
++ It can trigger episodes of mania and depression
+- It always cures mania
+- It has no effect
+- It causes only hallucinations
+@ in bipolar disorder it can trigger mania and depression
+
+? How do stress hormones affect lymphocytes?
++ They directly suppress lymphocyte activity
+- They increase lymphocyte activity
+- They create new lymphocytes
+- They have no effect
+@ Stress hormones directly suppress the activity of lymphocytes
+
+## hard
+
+? What is happening during the resistance stage of the GAS?
++ Arousal and rest functions run at the same time, so neither works smoothly and judgment may suffer
+- The body has completely depleted its resources
+- There is sympathetic arousal with mental clarity only
+- Stress has ended and the body is fully recovered
+@ arousal and rest functions run at the same time
+
+? What part of the Type A personality actually predicted heart disease risk?
++ Hostility (suspicion, anger, and resentment)
+- Competitiveness
+- Working long hours
+- Being laid-back
+@ the risk came from hostility (suspicion, anger, and resentment of others)
+
+? On the SRRS, which event ranks as more stressful?
++ Getting married ranks as more stressful than being fired
+- Being fired ranks as more stressful than getting married
+- Parking tickets rank higher than divorce
+- All events rank equally
+@ getting married ranks as more stressful than being fired
+
+? How does short-term stress differ from chronic stress in its effect on immunity?
++ Short bursts can enhance immune responses, while chronic stress reduces them
+- Both always enhance immunity
+- Both always suppress immunity equally
+- Short bursts suppress immunity; chronic stress enhances it
+@ Short bursts of stress can enhance immune responses and wound healing
+
+? How does the hippocampus act like a "rev limiter" in stress?
++ It detects high stress hormones and signals the hypothalamus to reduce cortisol
+- It releases cortisol when stress is low
+- It blocks all fear responses from the amygdala
+- It speeds up the heart during danger
+@ it detects high stress hormones and signals the hypothalamus to reduce cortisol
+
+? What happens to telomeres under chronic stress?
++ They shorten, reflecting accelerated aging
+- They lengthen, slowing aging
+- They are unaffected
+- They disappear completely
+@ shortening of telomeres
+
+? Which chronic stressors cause the greatest immune suppression?
++ Those affecting social roles (death of a loved one, divorce), especially when uncontrollable
+- Brief exams and job interviews
+- Positive life events
+- Daily hassles only
+@ Chronic stressors affecting social roles (death of a loved one, divorce) cause the greatest immune suppression
+
+? Why may we feel frightened before understanding why?
++ Sensory input can reach the amygdala separately from the cortex
+- The cortex always processes danger before the amygdala
+- The hippocampus produces fear before perception
+- Cortisol is released before any sensory input
+@ sensory input can reach it separately from the cortex
+
+? What did the one-time "belongingness" intervention do for African American Stanford students?
++ Raised GPAs and happiness and reduced doctor visits over three years
+- Had no effect at all
+- Raised stress and lowered grades
+- Only changed sleep patterns
+@ raised African American Stanford students' GPAs and happiness and reduced doctor visits over three years
+
+? According to NAMI, when are people most vulnerable to stress?
++ When they lack sleep or a support network, or face a major life change
+- When they exercise daily
+- When they eat unprocessed foods
+- When they have plenty of free time and support
+@ People are most vulnerable to stress when they lack sleep, lack a support network, face a major life change
+
+? Why does NAMI recommend daily exercise for managing stress?
++ It naturally produces stress-relieving hormones and improves physical health
+- It raises cortisol levels
+- It replaces the need for sleep
+- It only works for people without mental illness
+@ Daily exercise naturally produces stress-relieving hormones
+
+? What does NAMI say about using alcohol and drugs to relieve stress?
++ They do not actually reduce stress and often make it worse
+- They are the best way to relax
+- They lower cortisol
+- They help as long as it's only on weekends
+@ Alcohol and drugs do not actually reduce stress and often make it worse
+
+? According to HOSA Canada's study deck, when does oxytocin relieve stress in animals?
++ Only when they are in a social group
+- Only when they are isolated
+- Only at night
+- In every situation
+@ Oxytocin relieves stress in animals only when they are in a social group rather than isolated
+
+? According to HOSA Canada's study deck, how does stress put the cardiovascular system at risk?
++ By affecting the ability of blood vessels to expand when needed
+- By permanently lowering heart rate
+- By shrinking the heart
+- By increasing lymphocyte activity
+@ Stress puts the cardiovascular system at risk by affecting the ability of blood vessels to expand when needed

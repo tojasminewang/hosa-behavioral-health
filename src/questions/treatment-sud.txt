@@ -1,0 +1,239 @@
+? What does SAMHSA call using medications combined with counseling and behavioral therapies to treat SUDs?
++ A "whole-patient" approach
+- Detoxification only
+- Harm reduction
+- Aversion therapy
+@ provides a **"whole-patient" approach**
+
+? Do SUD medications just substitute one drug for another, according to SAMHSA?
++ No; they are evidence-based and relieve withdrawal symptoms and cravings
+- Yes; they simply replace one addiction with another
+- Yes, but only methadone
+- No, because they are never taken long-term
+@ **do not just substitute one drug for another**
+
+? Which medication is a long-acting full opioid agonist that, for OUD, can only be dispensed through a certified opioid treatment program?
++ Methadone
+- Buprenorphine
+- Naltrexone
+- Acamprosate
+@ Long-acting **full opioid agonist**
+
+? Which OUD medication is an opioid partial agonist and was the first that could be prescribed in physician offices?
++ Buprenorphine
+- Methadone
+- Disulfiram
+- Naloxone
+@ **Opioid partial agonist**
+
+? Which medication is not an opioid, is not addictive, and blocks the euphoric and sedative effects of opioids?
++ Naltrexone
+- Methadone
+- Buprenorphine
+- Fentanyl
+@ **Not an opioid**, not addictive, no withdrawal
+
+? Which alcohol use disorder medication causes a very unpleasant reaction when alcohol is consumed?
++ Disulfiram
+- Acamprosate
+- Naltrexone
+- Methadone
+@ Causes a very unpleasant reaction (flushing, sweating, headache, nausea, vomiting, palpitations)
+
+? Which AUD medication restores the balance of neurotransmitters disrupted by chronic alcohol use and decreases cravings?
++ Acamprosate
+- Disulfiram
+- Buprenorphine
+- Nalmefene
+@ Restores the natural balance of neurotransmitters disrupted by chronic alcohol use
+
+? What is naloxone?
++ An opioid antagonist that rapidly reverses opioid overdose
+- A full opioid agonist used daily for OUD
+- A medication for alcohol cravings
+- A stimulant that wakes people up after drinking
+@ An **opioid antagonist** that rapidly reverses opioid overdose
+
+? In March 2023, the FDA approved naloxone nasal spray as the first what?
++ Over-the-counter opioid overdose reversal medication
+- Prescription-only overdose medication
+- Daily OUD maintenance medication
+- Medication for cocaine overdose
+@ as the **first over-the-counter** opioid overdose reversal medication
+
+? Which is a sign of opioid overdose?
++ Pin-point sized pupils and bluish lips
+- Very large pupils and red face
+- Fast, deep breathing
+- High energy and talkativeness
+@ Signs of opioid overdose also include **pin-point sized pupils**
+
+? What should you do first if someone shows signs of an opioid overdose?
++ Call 911, begin CPR if breathing has stopped or is very weak, and give naloxone if available
+- Let them sleep it off
+- Give them coffee
+- Wait to see if they wake up on their own
+@ What to do: call 911, begin CPR if breathing has stopped or is very weak
+
+? Which medications are the treatments of choice for OUD in pregnant and breastfeeding women?
++ Buprenorphine and methadone
+- Naltrexone and disulfiram
+- Acamprosate and naloxone
+- No medication is ever used in pregnancy
+@ Buprenorphine and methadone are considered the **treatments of choice for OUD in pregnant and breastfeeding women**
+
+? What is neonatal abstinence syndrome (NAS)?
++ Withdrawal in a newborn after birth
+- A birth defect caused by methadone
+- A newborn's allergy to formula
+- A breathing disorder in premature infants
+@ Withdrawal in a newborn after birth
+
+? Which federal regulations guide opioid treatment programs (OTPs)?
++ 42 CFR Part 8
+- 42 CFR Part 2
+- 45 CFR Part 96
+- HIPAA
+@ The federal regulations guiding OTPs (in effect since 2001)
+
+? About what share of new U.S. HIV diagnoses are attributed to injection drug use?
++ About 1 in 10
+- About 1 in 2
+- About 1 in 100
+- None
+@ about 1 in 10 new U.S. HIV diagnoses are attributed to injection drug use
+
+? More than what share of adults with a substance use disorder began using in adolescence?
++ More than 90%
+- About 10%
+- About 50%
+- About 25%
+@ More than 90% of adults with a substance use disorder began their substance use in adolescence
+
+? What is dual diagnosis?
++ Having both a mental illness and a substance use disorder
+- Being diagnosed by two different doctors
+- Having two personality disorders
+- Getting a second opinion
+@ Having both a mental illness and a substance use disorder; either one can develop first
+
+? According to NAMI, what is the best treatment for dual diagnosis?
++ Integrated intervention that treats both the mental illness and the substance use disorder
+- Treating the substance use first and the mental illness years later
+- Treating only the mental illness
+- Refusing mental health care until the person stops drinking
+@ The best treatment for dual diagnosis, giving care for both the mental illness and the substance use disorder
+
+? Which support group is a 12-step fellowship for people managing both mental illness and substance use disorders?
++ Double Trouble in Recovery
+- SMART Recovery
+- NAMI Homefront
+- Narcotics Anonymous
+@ Double Trouble in Recovery (a 12-step fellowship for people with both mental illness and SUD)
+
+## hard
+
+? Why can returning to opioid use after stopping naltrexone be deadly?
++ Reduced tolerance means even the old or a lower dose can be fatal
+- Naltrexone makes opioids stronger
+- Naltrexone causes seizures when stopped
+- Naltrexone stays in the body for years
+@ People who stop naltrexone or relapse after abstinence have reduced tolerance
+
+? How does nalmefene differ from naloxone?
++ It is prescription-only and has a longer half-life, so withdrawal can be more severe and longer
+- It is over-the-counter and shorter-acting
+- It treats cocaine overdoses too
+- It is an opioid agonist
+@ it has a longer half-life than naloxone
+
+? Which overdoses do opioid overdose reversal medications NOT treat?
++ Overdoses of benzodiazepines or stimulants like cocaine and amphetamines
+- Overdoses of fentanyl
+- Overdoses of heroin
+- Opioid overdoses mixed with stimulants
+@ they do not treat overdoses of benzodiazepines or stimulants like cocaine and amphetamines
+
+? Before starting buprenorphine, what must patients do?
++ Abstain for 12–24 hours and be in early withdrawal
+- Take a full dose of methadone first
+- Wait at least 30 days without opioids
+- Drink alcohol to reduce withdrawal
+@ patients must abstain 12–24 hours and be in early withdrawal before starting
+
+? How long should people wait after short-acting opioids before starting naltrexone?
++ At least 7 days (10–14 days after long-acting opioids)
+- At least 1 hour
+- At least 6 months
+- No wait is needed
+@ wait at least 7 days after short-acting opioids
+
+? Which statement about disulfiram is correct?
++ It does not reduce cravings or treat withdrawal, and works better if someone observes the daily dose
+- It reduces cravings and treats withdrawal
+- It is an opioid partial agonist
+- It is given as a monthly injection for OUD
+@ does not reduce cravings or treat withdrawal
+
+? Naloxone should be replaced when exposed to which temperatures?
++ Below 39°F or above 104°F
+- Below 60°F or above 80°F
+- Below 0°F only
+- Temperature does not matter
+@ exposed to temperatures below 39°F or above 104°F
+
+? According to 2024 NSDUH data, about how many adults had a co-occurring mental illness and substance use disorder?
++ About 21.2 million
+- About 2.1 million
+- About 48.4 million
+- About 120 million
+@ about 21.2 million adults had a co-occurring mental illness and substance use disorder
+
+? Which statement about hepatitis is correct, according to SAMHSA?
++ Hepatitis A and B have vaccines, there is no vaccine for hepatitis C, and injection drug use is its major source
+- There is a vaccine for hepatitis C only
+- Hepatitis C is spread mainly through food
+- None of the hepatitis types has a vaccine
+@ there is no vaccine for hepatitis C
+
+? DPT supports certification of more than how many OTPs, treating how many patients each year?
++ More than 1,900 OTPs treating more than 600,000 patients
+- About 190 OTPs treating 6,000 patients
+- About 19,000 OTPs treating 6 million patients
+- About 50 OTPs treating 60,000 patients
+@ DPT supports certification and accreditation of more than 1,900 OTPs
+
+? According to the 2023 NSDUH, which age group had the highest SUD rate?
++ Young adults 18–25 (27.1%)
+- Adults 26 and older (16.6%)
+- Adolescents 12–17 (8.5%)
+- Adults over 65
+@ 27.1% of young adults 18–25 had an SUD
+
+? According to the National Survey on Drug Use and Health, how many U.S. adults had both a mental illness and a substance use disorder in 2020?
++ 17 million
+- 3 million
+- 170 million
+- 700,000
+@ 17 million U.S. adults had both a mental illness and a substance use disorder in 2020
+
+? According to NAMI, which type of detoxification is generally more effective for initial sobriety and safety?
++ Inpatient detoxification, with 24/7 monitoring for up to seven days
+- Outpatient detoxification with no monitoring
+- Detoxing alone at home
+- A detox that lasts one hour
+@ Inpatient detoxification is generally more effective than outpatient for initial sobriety and safety
+
+? What is SMART Recovery?
++ A sobriety support group that is not based in faith
+- A 12-step group for people with both mental illness and SUD
+- A medication for alcohol withdrawal
+- A federal treatment law
+@ SMART Recovery (a sobriety support group not based in faith)
+
+? Why have sober homes been criticized, according to NAMI?
++ They vary in quality because licensed professionals typically do not run them
+- They are too expensive for everyone
+- They only accept people with schizophrenia
+- They require 12-step participation by law
+@ sober homes vary in quality because licensed professionals typically do not run them

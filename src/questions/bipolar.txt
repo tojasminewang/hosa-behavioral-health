@@ -1,0 +1,239 @@
+? How does the textbook define bipolar disorder?
++ A mood disorder characterized by alternating periods of mania and depression
+- A disorder of hallucinations and delusions only
+- A depressive disorder that occurs only in winter
+- A personality disorder with unstable relationships
+@ A mood disorder characterized by alternating periods of mania and depression
+
+? What is mania?
++ A period of unrealistically elevated mood
+- A period of deep sadness and hopelessness
+- A false perception, such as hearing voices
+- A lack of goal-oriented behavior
+@ A period of unrealistically elevated mood
+
+? Which is a manic symptom?
++ Little need for sleep
+- Excessive sleepiness
+- Slowed speech
+- Lack of energy
+@ Manic symptoms: grandiosity
+
+? Which medication is most commonly prescribed for bipolar disorder?
++ Lithium carbonate
+- Chlorpromazine
+- Methylphenidate
+- Fluoxetine
+@ **Lithium carbonate** is the most commonly prescribed medication
+
+? Who discovered in 1949 that lithium salts improved bipolar disorder?
++ John Cade
+- Charles Bradley
+- Henri Laborit
+- Philippe Pinel
+@ In 1949 Australian psychiatrist John Cade discovered that lithium salts improved bipolar disorder
+
+? Why do patients on lithium need regular blood tests?
++ Toxic lithium levels can cause nausea, vomiting, tremor, coma, and seizures
+- Lithium lowers blood sugar to dangerous levels
+- Lithium is addictive
+- Lithium works only at very high levels
+@ Toxic lithium levels cause nausea, vomiting, tremor, coma, and seizures
+
+? Children and youth under 18 with bipolar-like symptoms are diagnosed with what?
++ Disruptive mood dysregulation disorder
+- Childhood schizophrenia
+- Cyclothymic disorder
+- ADHD, combined presentation
+@ diagnosed with **disruptive mood dysregulation disorder**
+
+? Which type of bipolar disorder requires a history of at least one manic episode?
++ Bipolar I disorder
+- Bipolar II disorder
+- Cyclothymic disorder
+- Persistent depressive disorder
+@ Bipolar I disorder | A history of at least one manic episode
+
+? What is a hypomanic state?
++ A high that is less extreme than full mania
+- A low that is deeper than major depression
+- A period of normal mood between episodes
+- A psychotic episode with hallucinations
+@ A high that is less extreme than full mania
+
+? According to SAMHSA, when are most people with bipolar disorder diagnosed?
++ In their teens or twenties
+- In early childhood
+- After age 50
+- Only after age 65
+@ Most people are diagnosed in their teens or twenties
+
+? According to SAMHSA, what healthy habit helps with bipolar disorder because sleep deprivation can trigger episodes?
++ Keeping a consistent sleep schedule
+- Drinking extra caffeine
+- Stopping medicine when mood is stable
+- Avoiding a support network
+@ keep a consistent sleep schedule (sleep deprivation can trigger episodes)
+
+? According to NAMI, what is the average age of onset for bipolar disorder?
++ About 25
+- About 10
+- About 45
+- About 65
+@ The average age of onset is about 25
+
+? According to NAMI, about what percentage of the U.S. population is diagnosed with bipolar disorder?
++ About 2.8%
+- About 19.1%
+- About 8.8%
+- About 0.5%
+@ about 2.8% of the U.S. population is diagnosed
+
+? What is required for a diagnosis of bipolar disorder?
++ At least one episode of mania or hypomania
+- At least two depressive episodes
+- Hallucinations lasting one month
+- A positive blood test
+@ A bipolar diagnosis requires at least one episode of mania or hypomania
+
+? What is hypomania?
++ A milder form of mania without psychotic episodes
+- A severe depressive episode
+- Mania lasting at least 7 days that requires hospitalization
+- A type of schizophrenia
+@ A milder form of mania without psychotic episodes
+
+? Which type of bipolar disorder involves depressive episodes that alternate with hypomania but never a full manic episode?
++ Bipolar II disorder
+- Bipolar I disorder
+- Cyclothymic disorder
+- Disruptive mood dysregulation disorder
+@ Depressive episodes that shift back and forth with hypomanic episodes, but never a full manic episode
+
+? Why does lithium treatment require periodic blood tests?
++ It can cause thyroid and kidney problems and toxicity
+- It only works at very high levels
+- It causes ADHD symptoms
+- It is a stimulant
+@ it needs periodic blood tests because it can cause thyroid and kidney problems and toxicity
+
+? According to NAMI, what usually happens when bipolar disorder is left untreated?
++ It usually gets worse
+- It always goes away on its own
+- It turns into schizophrenia
+- It stays exactly the same
+@ Untreated bipolar disorder usually gets worse
+
+## hard
+
+? Which SAMHSA type of bipolar disorder involves chronic mood instability that is not as long, severe, or frequent as bipolar I or II?
++ Cyclothymic disorder
+- Bipolar I disorder
+- Bipolar II disorder
+- Disruptive mood dysregulation disorder
+@ Cyclothymic disorder | More chronic mood instability
+
+? Which statement about bipolar II disorder is correct?
++ Its highs are hypomanic, but its depressive episodes may be as severe as in MDD or bipolar I
+- It requires at least one full manic episode
+- It has no depressive episodes
+- It is the least severe because its lows are mild
+@ Highs are less extreme (hypomanic states)
+
+? What makes lithium unique among bipolar treatments?
++ It prevents recurrences of mania and is uniquely preventive of suicidal behavior
+- It has no side effects
+- It cures bipolar disorder after one dose
+- It works only as a sleep aid
+@ it prevents recurrences of mania and is uniquely preventive of suicidal behavior
+
+? Why is the omega-3 finding about bipolar disorder notable?
++ Rates are highest where fish is rarely eaten (Germany) and lowest where it is a staple (Iceland)
+- Rates are highest where fish is a staple (Iceland)
+- Omega-3s cause manic episodes
+- Patients with bipolar disorder have high omega-3 levels
+@ rates are highest where fish is rarely eaten (Germany) and lowest where it is a staple (Iceland)
+
+? Which statement about bipolar disorder statistics is correct?
++ It affects about 2.6% of American adults each year, with an average onset age of 25
+- It affects about 26% of adults each year, with onset at age 50
+- Men are diagnosed more than women by 3:2
+- Average onset is in early childhood
+@ Bipolar disorder affects about 2.6% of American adults each year
+
+? Which patient group is described as less likely to follow treatment instructions than any other patients?
++ Patients with bipolar disorder
+- Patients with ADHD
+- Patients with OCD
+- Patients with phobias
+@ patients with bipolar disorder are less likely to follow treatment instructions than any other patients
+
+? DSM-5 describes bipolar disorder as a bridge between which two groups?
++ Psychotic disorders such as schizophrenia, and depressive disorders
+- Anxiety disorders and personality disorders
+- Eating disorders and substance use disorders
+- Neurodevelopmental disorders and dissociative disorders
+@ a bridge between psychotic disorders, such as schizophrenia, and depressive disorders
+
+? To be diagnosed with bipolar I disorder, how long must manic episodes last (unless hospitalization is required)?
++ At least 7 days
+- At least 2 days
+- At least 2 weeks
+- At least 2 years
+@ One or more manic episodes lasting at least 7 days or severe enough to require hospitalization
+
+? Which describes cyclothymic disorder?
++ Hypomania and mild depression for at least two years, with normal-mood periods lasting less than eight weeks
+- One manic episode lasting at least 7 days
+- Depression nearly every day for two weeks
+- Intense irritability and temper tantrums in children without mania
+@ Hypomania and mild depression for at least two years
+
+? What did the STEP-BD study find?
++ Patients on medication got well faster and stayed well with intensive psychotherapy
+- Antidepressants alone cure bipolar disorder
+- Psychotherapy makes bipolar disorder worse
+- Lithium has no effect on mood
+@ found that patients on medication got well faster and stayed well with intensive psychotherapy
+
+? According to NAMI, which medications are approved for treating bipolar depression?
++ Quetiapine and the olanzapine–fluoxetine combination (Symbyax)
+- Lamotrigine and carbamazepine
+- Methylphenidate and amphetamine
+- Benzodiazepines
+@ only quetiapine and the olanzapine–fluoxetine combination (Symbyax) are approved for bipolar depression
+
+? Why do antidepressants raise special concerns in bipolar disorder?
++ They can trigger mania in some people
+- They cause hyperthyroidism
+- They never improve depression
+- They must be combined with stimulants
+@ Antidepressants can trigger mania in some people
+
+? Which diagnosis describes children who are intensely irritable with temper tantrums but no classic mania?
++ Disruptive mood dysregulation disorder (DMDD)
+- Bipolar I disorder
+- Cyclothymic disorder
+- Oppositional defiant disorder
+@ A diagnosis for children who are intensely irritable with temper tantrums but no classic mania
+
+? Which illness can tests rule out because it can look like bipolar disorder?
++ Hyperthyroidism
+- Diabetes
+- Asthma
+- Lead poisoning
+@ tests can rule out look-alike illnesses such as hyperthyroidism
+
+? According to NAMI, which medications treat mania about as well as lithium?
++ Valproic acid and carbamazepine
+- Lamotrigine and bupropion
+- Atomoxetine and guanfacine
+- Benzodiazepines
+@ valproic acid and carbamazepine treat mania about as well as lithium
+
+? According to HOSA Canada's study deck, what happens when people without bipolar symptoms take lithium?
++ Their behavior shows no change
+- They become manic
+- They become depressed
+- They develop psychosis
+@ people without bipolar symptoms show no behavior change when given lithium

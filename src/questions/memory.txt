@@ -1,0 +1,239 @@
+? What are the three steps of memory?
++ Encoding, storage, and retrieval
+- Attention, rehearsal, and forgetting
+- Sensation, perception, and recall
+- Acquisition, extinction, and recovery
+@ Memory has three steps: encoding, storage, and retrieval
+
+? What is encoding?
++ The transformation of information from one form to another, transferring it into memory
+- The retention of information over time
+- Locating stored information when it is needed
+- Grouping information into meaningful units
+@ The transformation of information from one form to another
+
+? In the Atkinson–Shiffrin model, what is the correct order of memory stages?
++ Sensory memory → short-term memory → long-term memory
+- Short-term memory → sensory memory → long-term memory
+- Sensory memory → long-term memory → short-term memory
+- Working memory → sensory memory → long-term memory
+@ sensory memory → short-term memory → long-term memory
+
+? What is iconic memory?
++ Visual sensory memory
+- Acoustic sensory memory
+- Memory for touch
+- Memory for skilled movement
+@ **Iconic memory:** Visual sensory memory
+
+? Without rehearsal, how long can short-term memory hold information at most?
++ About 30 seconds
+- About 1 second
+- About 5 minutes
+- Indefinitely
+@ (30 seconds at most without rehearsal)
+
+? George Miller said short-term memory holds how many items?
++ 7 plus or minus 2 (5 to 9)
+- 3 plus or minus 1
+- 12 plus or minus 3
+- An unlimited number
+@ the magical number 7 plus or minus 2
+
+? Grouping FBI IRS CIA EPA into 4 units instead of 12 letters is an example of what?
++ Chunking
+- Rehearsal
+- Priming
+- Interleaving
+@ Grouping similar or meaningful information together to expand STM capacity
+
+? Which component of working memory directs attention to tasks?
++ Central executive
+- Phonological loop
+- Visuospatial sketch pad
+- Episodic buffer
+@ the central executive (directs attention to tasks)
+
+? Linking new material to things you already know is called what?
++ Elaborative rehearsal
+- Maintenance rehearsal
+- Chunking
+- Recitation
+@ Linking new material to things you already know
+
+? When recalling a list, people remember the first and last items best. What is this?
++ Serial position effect
+- Spreading activation
+- Encoding specificity
+- Tip-of-the-tongue phenomenon
+@ people remember the first and last items best
+
+? Memory for word meanings and facts is called what?
++ Semantic memory
+- Episodic memory
+- Procedural memory
+- Priming
+@ Your store of general knowledge in the form of word meanings and facts
+
+? Remembering your last birthday party is an example of what kind of memory?
++ Episodic memory
+- Semantic memory
+- Procedural memory
+- Iconic memory
+@ A memory for personal experience; organized as a timeline
+
+? Knowing how to ride a bike without thinking about it is which kind of memory?
++ Procedural memory
+- Semantic memory
+- Episodic memory
+- Sensory memory
+@ A nondeclarative (implicit) memory for how to carry out skilled movement
+
+? What is a schema?
++ A set of expectations about objects and situations
+- A memory aid like an acronym
+- An especially vivid memory of an emotional event
+- A network of neurons that stores one memory
+@ A set of expectations about objects and situations
+
+? Scuba divers recalled more words when tested in the same place they learned them. What does this show?
++ Context-dependent memory
+- Proactive interference
+- The testing effect
+- Flashbulb memory
+@ Scuba divers recalled more words when tested in the same place they learned them
+
+? What is a flashbulb memory?
++ An especially vivid and detailed memory of an emotional event that is not always accurate
+- A perfect, unchangeable record of an event
+- Visual sensory memory lasting under a second
+- A false memory implanted by a researcher
+@ An especially vivid and detailed memory of an emotional event
+
+? Old learning makes it harder to remember new target information. What is this called?
++ Proactive interference
+- Retroactive interference
+- Decay
+- Motivated forgetting
+@ Reduced memory for target information because of earlier learning
+
+? What is anterograde amnesia?
++ The inability to form new memories
+- The loss of memories from before an injury
+- Forgetting how information was acquired
+- Failure to retrieve negative memories
+@ The inability to form new memories
+
+? Which study habit produces better memory than cramming?
++ Distributed practice spread out over time
+- Massed practice the night before
+- Rereading notes many times in a row
+- Studying while sleep deprived
+@ Practice spread out over time; produces better memory than massed practice
+
+? Taking practice tests produces better long-term memory than restudying. What is this called?
++ The testing effect
+- Interleaving
+- Latent learning
+- The recency effect
+@ Taking tests produces better long-term memory than restudying
+
+? Which neurotransmitter affects encoding of new information and degenerates in Alzheimer's disease?
++ Acetylcholine (ACh)
+- Dopamine
+- Serotonin
+- GABA
+@ Acetylcholine (ACh) affects encoding of new information
+
+? Which study tip is in HOSA Canada's memory deck?
++ Recite the material in your own words
+- Cram the night before
+- Study one topic in a single long block
+- Skip sleep to study more
+@ recite the material in your own words
+
+## hard
+
+? What happened to patient H.M. after his hippocampus was removed?
++ His personality and intellect remained, but he could not form new long-term declarative memories
+- He lost all memories from before the surgery but learned new facts easily
+- He could not learn any new skills, including mirror tracing
+- His working memory was limited to one or two digits
+@ he could not form new long-term declarative memories
+
+? Patient K.F. had the opposite problem from H.M. What was it?
++ Normal long-term memory but severely impaired working memory
+- Normal working memory but no long-term memory
+- Inability to recognize faces
+- Inability to learn procedures
+@ Patient K.F. had the opposite problem from H.M.
+
+? A 30-second delay before recall erases which effect?
++ The recency effect, but not the primacy effect
+- The primacy effect, but not the recency effect
+- Both the primacy and recency effects
+- Neither effect
+@ a 30-second delay erases the recency effect but not the primacy effect
+
+? According to levels of processing theory, which is the deepest kind of encoding?
++ Encoding meaning
+- Encoding sound
+- Encoding appearance
+- All are equally deep
+@ encoding meaning is deeper than encoding sound
+
+? After learning a new phone password, you can no longer recall your old one. Which interference is this?
++ Retroactive interference (later learning hurts memory for older information)
+- Proactive interference (earlier learning hurts memory for newer information)
+- Decay
+- Source amnesia
+@ Reduced memory for target information because of later learning
+
+? In Elizabeth Loftus's research, what happened when people heard "smashed" instead of "hit"?
++ They "remembered" broken glass that was not there
+- They remembered the event more accurately
+- They forgot the event entirely
+- They reported the cars moving more slowly
+@ hearing "smashed" instead of "hit" made people "remember" broken glass
+
+? Which statement about eyewitness identification is correct?
++ Confidence at the first identification predicts accuracy better than courtroom confidence
+- Simultaneous lineups produce fewer mistakes than sequential lineups
+- About 25% of DNA exonerations involved mistaken eyewitness identification
+- Courtroom confidence is the best predictor of accuracy
+@ confidence at the time of the first identification predicts accuracy better than courtroom confidence
+
+? H.M. learned the mirror-tracing task normally. What did this show?
++ Procedural memory is separate from declarative memory
+- The hippocampus stores procedural memories
+- H.M.'s amnesia was not real
+- Working memory and long-term memory are the same system
+@ showing procedural memory is separate from declarative memory
+
+? Which statement about stress and memory is correct?
++ Stress at the same time as learning can enhance memory, but stress before or after learning impairs it
+- Any stress always improves memory
+- Stress only affects procedural memory
+- Chronic stress increases hippocampal volume
+@ Stress at the same time as learning can enhance memory
+
+? Which brain structure is correlated with procedural memories, making new procedures hard to learn in Parkinson's and Huntington's disease?
++ Basal ganglia
+- Hippocampus
+- Amygdala
+- Occipital lobe
+@ Procedural memories are correlated with the basal ganglia
+
+? Which memory improvement technique places items along an imagined familiar route?
++ Method of loci
+- Interleaving
+- Transactive memory
+- Recitation
+@ placing items along an imagined familiar route
+
+? How does the number of axon terminals change with sensitization and habituation?
++ It increases after sensitization and decreases after habituation
+- It decreases after sensitization and increases after habituation
+- It increases after both
+- It does not change
+@ The number of axon terminals increases after sensitization and decreases after habituation

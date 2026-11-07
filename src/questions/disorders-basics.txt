@@ -1,0 +1,302 @@
+? What is the textbook's combined definition of abnormal behavior?
++ Abnormal behavior is distressing and harmful to self or others
+- Any behavior that is statistically rare
+- Any behavior that differs from the ideal
+- Behavior that a doctor can diagnose with a blood test
+@ Abnormal behavior is distressing and harmful to self or others
+
+? What does "comorbid" mean?
++ Two or more disorders in the same individual
+- A disorder that is fatal
+- A disorder caused by another person
+- A disorder with no known cause
+@ Two or more disorders in the same individual
+
+? Who publishes the Diagnostic and Statistical Manual of Mental Disorders (DSM)?
++ The American Psychiatric Association
+- The World Health Organization
+- SAMHSA
+- The American Psychological Association
+@ A system for classification of psychological disorders published by the American Psychiatric Association
+
+? When was the DSM first published?
++ 1952
+- 1840
+- 1980
+- 2013
+@ first published in 1952
+
+? Which classification system, published by the World Health Organization, includes a category for gaming disorder?
++ ICD-11
+- DSM-5
+- DSM-IV
+- NSDUH
+@ ICD-11 (but not DSM-5) has a category for gaming disorder
+
+? How are psychological disorders diagnosed?
++ Purely on observable behaviors; no blood tests or brain scans diagnose them
+- With blood tests that measure neurotransmitters
+- With brain scans that show each disorder
+- With genetic tests at birth
+@ psychological disorders are diagnosed purely on observable behaviors
+
+? What does the diathesis–stress model say?
++ Biological predispositions interact with a person's experience of stress to produce a disorder
+- Stress alone causes every psychological disorder
+- Genes alone determine every psychological disorder
+- Disorders are caused by evil spirits under stress
+@ biological predispositions interact with a person's experience of stress to produce a disorder
+
+? Who is called "the father of modern psychiatry" for removing patients' iron shackles?
++ Philippe Pinel
+- Benjamin Rush
+- Sigmund Freud
+- Franz Anton Mesmer
+@ "The father of modern psychiatry"
+
+? According to SAMHSA, what does mental health include?
++ Our emotional, psychological, and social well-being
+- Only the absence of a diagnosed disorder
+- Only our physical and emotional health
+- Our intelligence and memory
+@ Includes our emotional, psychological, and social well-being
+
+? According to SAMHSA (citing NIMH), about how many adults live with a mental illness?
++ Nearly one in five
+- Nearly one in two
+- About one in fifty
+- About one in ten thousand
+@ nearly one in five adults live with a mental illness
+
+? Which term does SAMHSA use for children, alongside "serious mental illness" for adults?
++ Serious emotional disturbance (SED)
+- Childhood mental illness (CMI)
+- Developmental disability (DD)
+- Pediatric behavioral disorder (PBD)
+@ the term SAMHSA uses alongside SMI for adults
+
+? Which is an early warning sign of a mental health problem, according to SAMHSA?
++ Pulling away from people and usual activities
+- Getting a normal amount of sleep
+- Feeling hopeful about the future
+- Keeping up with daily tasks
+@ Pulling away from people and usual activities
+
+? According to SAMHSA, by what age do half of all mental health disorders show first signs?
++ Before age 14
+- Before age 5
+- Before age 24
+- Before age 40
+@ half of all mental health disorders show first signs before age 14
+
+? What does SAMHSA say about violence and mental illness?
++ Most people with mental health conditions are no more likely to be violent than anyone else
+- People with mental illness commit most violent crimes
+- People with severe mental illness are rarely victims of crime
+- About half of violent acts come from people with serious mental illness
+@ Most people with mental health conditions are no more likely to be violent than anyone else
+
+? What are co-occurring disorders?
++ Mental health problems and substance use disorders occurring together
+- Two physical illnesses at the same time
+- A disorder shared by two family members
+- A mental illness that occurs only in childhood
+@ Mental health problems and substance use disorders occurring together
+
+? What is SAMHSA's survey that reports national data on mental illness and substance use?
++ National Survey on Drug Use and Health (NSDUH)
+- Behavioral Risk Factor Survey
+- National Census of Mental Health
+- Youth Risk Behavior Survey
+@ SAMHSA's survey that reports national data on mental illness and substance use
+
+? What does SAMHSA advise about following a treatment plan?
++ Even if you feel better, don't stop therapy or medication without a doctor's guidance
+- Stop medication as soon as symptoms improve
+- Only see a psychiatrist, not a primary care physician
+- Skip therapy once medication starts working
+@ even if you feel better, don't stop therapy or medication without a doctor's guidance
+
+? According to NAMI, how many U.S. adults experience mental illness each year?
++ More than 1 in 5
+- More than 1 in 20
+- About 1 in 100
+- About 1 in 2
+@ More than 1 in 5 U.S. adults experience mental illness each year
+
+? According to NAMI, how many U.S. adults experience serious mental illness each year?
++ More than 1 in 20
+- More than 1 in 5
+- About 1 in 3
+- About 1 in 1,000
+@ More than 1 in 20 U.S. adults experience serious mental illness each year
+
+? According to NAMI, by what age does 50% of all lifetime mental illness begin?
++ Age 14
+- Age 24
+- Age 30
+- Age 5
+@ 50% of all lifetime mental illness begins by age 14
+
+? According to NAMI, what is the average delay between the start of mental illness symptoms and treatment?
++ 11 years
+- 11 days
+- 11 months
+- 1 year
+@ The average delay between the start of mental illness symptoms and treatment is 11 years
+
+? According to NAMI, which condition has the highest annual prevalence among U.S. adults?
++ Anxiety disorders (19.1%)
+- Major depressive disorder (15.5%)
+- PTSD (4.1%)
+- Bipolar disorder (2.8%)
+@ Anxiety disorders | 19.1%
+
+? How does NAMI define mental illness?
++ A condition that affects a person's thinking, feeling, behavior or mood
+- Any feeling of sadness
+- A sign of personal weakness
+- A condition caused by one bad event
+@ A condition that affects a person's thinking, feeling, behavior or mood
+
+? Besides guiding treatment, why does a diagnosis matter, according to NAMI?
++ It is needed for insurance, Social Security disability support and job protection under the ADA
+- It guarantees a cure
+- It prevents all future symptoms
+- It is used only for research
+@ is required for Social Security disability support or job protection under the Americans with Disabilities Act
+
+? According to NAMI, suicide is the 2nd leading cause of death among which age group?
++ People ages 10–24
+- People ages 65 and older
+- People ages 40–60
+- Children under 5
+@ Suicide is the 2nd leading cause of death among people ages 10–24
+
+## hard
+
+? Which statement correctly contrasts SMI and SED?
++ SMI applies to someone over 18; SED applies to someone under 18 with impairment in family, school, or community roles
+- SMI applies to someone under 18; SED applies to adults
+- Both apply only to people with schizophrenia
+- SED requires symptoms for at least 10 years
+@ Someone under 18 having (within the past year) a diagnosable mental, behavioral, or emotional disorder
+
+? Which three "false epidemics" did Allen Frances warn about?
++ ADHD, autism, and childhood bipolar disorder
+- Depression, anxiety, and PTSD
+- Schizophrenia, OCD, and eating disorders
+- Gaming disorder, insomnia, and phobias
+@ ADHD, autism, and childhood bipolar disorder
+
+? Why does SAMHSA say mental and substance use disorders often co-occur?
++ Some substances cause mental health symptoms, people may self-medicate, and both share underlying causes
+- Substance use always causes mental illness
+- Mental illness always causes substance use
+- They co-occur only by chance
+@ people with mental health problems may misuse substances to **self-medicate**
+
+? Which statement about people with severe mental illness and violent crime is correct, according to SAMHSA?
++ They are over 10 times more likely to be victims of a violent crime than the general population
+- They commit over 10 times more violent crimes than the general population
+- About 50% of violent acts are attributed to them
+- They are no more likely to be victims than anyone else
+@ People with severe mental illnesses are over 10 times more likely to be victims of a violent crime
+
+? Why does the textbook prefer "a person with autism spectrum disorder" over "an autistic person"?
++ People are not their disorders (person-first language)
+- The DSM-5 bans the word "autistic"
+- Autism is no longer a diagnosis
+- It is shorter and easier to say
+@ because people are not their disorders
+
+? What is the ISMICC?
++ The Interdepartmental Serious Mental Illness Coordinating Committee, established in 2017, reporting to Congress on SMI and SED needs
+- A survey of drug use in adolescents
+- A classification manual for disorders
+- A crisis hotline for people with SMI
+@ Established in 2017; reports to Congress and federal agencies
+
+? According to the 2023 NSDUH figures in SAMHSA's SMI page, how many adults reported SMI in the past year?
++ 14.6 million adults (5.7%)
+- 46 million adults (20%)
+- 4.6 million adults (2%)
+- 1.46 million adults (0.5%)
+@ 14.6 million adults, or 5.7%, reported having SMI in the past year
+
+? In 2020, what share of U.S. adults received any mental health treatment in the past year, according to SAMHSA?
++ Only 20%
+- About 50%
+- About 75%
+- Nearly all
+@ In 2020, only 20% of adults received any mental health treatment
+
+? According to NAMI, what percentage of U.S. adults experienced mental illness in 2024?
++ 23.4% (61.5 million people)
+- 5.6% (14.6 million people)
+- 50% (130 million people)
+- 2.8% (7 million people)
+@ 23.4% in 2024, or 61.5 million people
+
+? According to NAMI, what percentage of U.S. adults with mental illness received treatment in 2024?
++ 52.1%
+- 70.8%
+- 9.6%
+- 100%
+@ 52.1% of U.S. adults with mental illness
+
+? According to NAMI, what share of U.S. adults with mental illness also have a substance use disorder?
++ 34.5%
+- 3.5%
+- 80%
+- 8.1%
+@ 34.5% of U.S. adults with mental illness also have a substance use disorder
+
+? According to NAMI, what is the leading cause of years lived with disability worldwide?
++ Mental health disorders
+- Heart disease
+- Broken bones
+- Cancer
+@ Globally, mental health disorders are the leading cause of years lived with disability
+
+? On average, how many hours per week do caregivers of adults with mental or emotional health issues spend giving unpaid care?
++ 32 hours
+- 3 hours
+- 80 hours
+- 10 hours
+@ giving an average of 32 hours of unpaid care per week
+
+? According to NAMI, how much do depression and anxiety cost the global economy in lost productivity each year?
++ $1 trillion
+- $1 million
+- $193.2 billion
+- $10 billion
+@ depression and anxiety cost the global economy $1 trillion in lost productivity each year
+
+? Among the groups NAMI lists, which had the highest annual rate of mental illness?
++ Lesbian, gay or bisexual adults (53.2%)
+- Females (26.7%)
+- Males (20.0%)
+- All adults (23.4%)
+@ and 53.2% for lesbian, gay or bisexual adults
+
+? According to NAMI, how much higher is the risk of heart disease, stroke, diabetes and obesity in people with depression?
++ 40% higher
+- 4% higher
+- 400% higher
+- No higher
+@ people with depression have a 40% higher risk
+
+? What does NAMI say about the terms "mental health conditions" and "mental illnesses"?
++ NAMI uses the terms interchangeably
+- They mean completely different things
+- Only mental illnesses are real
+- Mental health conditions are always mild
+@ NAMI uses "mental health conditions" and "mental illnesses" interchangeably
+
+? According to NAMI's table, which condition has an annual prevalence of 8.1% among U.S. adults?
++ Co-occurring substance use disorder and mental illness
+- Bipolar disorder
+- Posttraumatic stress disorder
+- Major depressive disorder
+@ Co-occurring substance use disorder and mental illness | 8.1%

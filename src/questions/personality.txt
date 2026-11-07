@@ -1,0 +1,225 @@
+? How does the textbook define a personality disorder?
++ Impairments in identity, in personality traits, and in establishing empathy or intimacy
+- Disruptions in identity, memory, or consciousness
+- Episodes of mania and depression
+- Unrealistic anxiety about specific objects
+@ A disorder characterized by impairments in identity, in personality traits, and in establishment of empathy or intimacy
+
+? Personality disorders cannot be diagnosed in people under what age?
++ 18
+- 12
+- 21
+- 25
+@ Personality disorders cannot be diagnosed in people under the age of 18
+
+? How many types of personality disorders does the DSM-5 have?
++ Ten
+- Three
+- Five
+- Twenty
+@ The DSM-5 has ten types of personality disorders
+
+? Which disorder is characterized by a lack of remorse, empathy, or regard for social rules, and a pattern of violating others' rights?
++ Antisocial personality disorder
+- Borderline personality disorder
+- Narcissistic personality disorder
+- Dissociative identity disorder
+@ A disorder characterized by an unusual lack of remorse, empathy, or regard for normal social rules
+
+? Which disorder is characterized by instability in relationships, self-image, and emotion?
++ Borderline personality disorder
+- Antisocial personality disorder
+- Narcissistic personality disorder
+- Bipolar disorder
+@ A disorder characterized by instability in interpersonal relationships, self-image, and emotion
+
+? Which disorder is characterized by grandiosity, need for admiration, and low empathy?
++ Narcissistic personality disorder
+- Borderline personality disorder
+- Antisocial personality disorder
+- Generalized anxiety disorder
+@ A disorder characterized by grandiosity, need for admiration, and low empathy
+
+? Which therapy was designed for borderline personality disorder by Marsha Linehan?
++ Dialectical behavior therapy (DBT)
+- Rational emotive behavior therapy
+- Client-centered therapy
+- Applied behavior analysis
+@ A therapy designed for borderline personality disorder (Marsha Linehan)
+
+? What are the three traits of the Dark Triad?
++ Psychopathy, narcissism, and Machiavellianism
+- Anxiety, depression, and anger
+- Impulsivity, hyperactivity, and inattention
+- Grandiosity, paranoia, and avolition
+@ Psychopathy, narcissism, and Machiavellianism
+
+? Which personality disorder occurs more often in women, according to the textbook and SAMHSA?
++ Borderline personality disorder
+- Antisocial personality disorder
+- Narcissistic personality disorder
+- All personality disorders equally
+@ BPD affects about 2% of people; women outnumber men about 3 to 1
+
+? According to SAMHSA, which childhood behaviors are linked to developing antisocial personality?
++ Intentional fire-setting and cruelty to animals
+- Shyness and bedwetting
+- Daydreaming and reading alone
+- Picky eating and nail biting
+@ Intentional fire-setting and cruelty to animals during childhood
+
+? According to SAMHSA, people with BPD often see things how?
++ In extremes, as "all good or all bad"
+- Without any emotion at all
+- Only through visual hallucinations
+- With perfect stability over time
+@ see things in extremes ("all good or all bad")
+
+? According to NAMI, what is the core difficulty in borderline personality disorder (BPD)?
++ Regulating emotion
+- Telling what is real from what is not
+- Paying attention in class
+- Remembering personal information
+@ NAMI describes BPD as a condition of difficulty regulating emotion
+
+? According to NAMI, about what percentage of U.S. adults experience BPD?
++ About 1.4%
+- About 15.5%
+- About 19.1%
+- About 8.8%
+@ About 1.4% of U.S. adults experience BPD
+
+? In BPD, what is "splitting"?
++ Relationships that swing between idealization and devaluation
+- Having two separate identities
+- Losing touch with reality
+- Splitting time between work and school
+@ relationships that swing between idealization ("I'm so in love!") and devaluation ("I hate her")
+
+? According to NAMI, what is the first-line treatment for BPD?
++ Psychotherapy
+- Medication made specifically for BPD
+- Long-term inpatient hospitalization
+- Electroconvulsive therapy
+@ Psychotherapy is the first-line treatment and the cornerstone of BPD care
+
+? Which therapy teaches coping and mindfulness skills in individual and group sessions, and reduces suicidal behavior in people with BPD?
++ Dialectical behavior therapy (DBT)
+- Interpersonal therapy (IPT)
+- Exposure response prevention
+- Psychodynamic therapy
+@ Individual and group therapy that teaches coping and mindfulness skills to regulate emotions
+
+? Which eating disorder does NAMI note often occurs with BPD?
++ Bulimia nervosa
+- Anorexia nervosa
+- Pica
+- Rumination disorder
+@ eating disorders (notably bulimia nervosa)
+
+? In what order does DBT address the symptoms of borderline personality disorder?
++ Suicidal thoughts first, then behaviors that interfere with therapy, then quality-of-life behaviors
+- Quality-of-life behaviors first, then suicidal thoughts
+- Medication first, then therapy
+- All symptoms at the same time
+@ DBT addresses BPD symptoms in order of importance
+
+## hard
+
+? How does "psychopath" differ from the DSM's ASPD criteria?
++ ASPD criteria focus on behavior, while "psychopath" implies flawed character traits
+- "Psychopath" is the current DSM-5 diagnosis
+- ASPD focuses on character traits, while "psychopath" focuses on behavior
+- They are identical terms used in DSM-5
+@ ASPD criteria focus on behavior (especially criminal behavior)
+
+? Which statement about ASPD and crime is correct?
++ Most people with ASPD are not criminals, and not all criminals have ASPD
+- Everyone with ASPD is a criminal
+- All criminals have ASPD
+- ASPD is diagnosed only after a conviction
+@ Most people with ASPD are not criminals, and not all criminals have ASPD
+
+? In what order does DBT address symptoms?
++ Suicidal thoughts first, then behaviors that interfere with therapy, then behaviors that interfere with quality of life
+- Quality of life first, then therapy behaviors, then suicidal thoughts
+- Childhood memories first, then current relationships
+- Medication first, then family therapy
+@ addresses symptoms in order of importance: reducing suicidal thoughts
+
+? Where did the name "borderline" come from?
++ Its characteristics were thought to fall on the border between anxiety and psychosis
+- It was first found in people living near national borders
+- It is on the border between childhood and adulthood
+- It borders on antisocial personality disorder
+@ The name came from the idea that its characteristics fell on the "border" between anxiety and psychosis
+
+? Which brain differences are found in people with ASPD?
++ Reduced prefrontal volume and activity, and little amygdala activity to emotional words
+- An enlarged amygdala and extra prefrontal volume
+- Enlarged ventricles only
+- A larger hippocampus
+@ People with ASPD show reduced prefrontal volume and activity
+
+? Which statement about the two possible subtypes of narcissism is correct?
++ Grandiose narcissists are dominant and extroverted; vulnerable narcissists are insecure, defensive, shy, and neurotic
+- Grandiose narcissists are shy; vulnerable narcissists are dominant
+- Both subtypes lack inflated self-worth
+- Vulnerable narcissists are always criminals
+@ the grandiose narcissist (inflated self-worth, aggressiveness, dominance, extroverted)
+
+? Which Dark Triad traits are linked to career success?
++ Narcissism and Machiavellianism, but not psychopathy
+- Psychopathy only
+- All three equally
+- None of them
+@ narcissism and Machiavellianism are linked to career success, but psychopathy is not
+
+? According to SAMHSA, why is antisocial personality disorder difficult to treat?
++ People with it rarely seek treatment
+- No therapist will treat it
+- Medications for it are too strong
+- It disappears on its own
+@ ASPD is difficult to treat because people rarely seek treatment
+
+? Nearly 75% of people diagnosed with BPD are women. What does NAMI say about men?
++ Men may be equally affected but are often misdiagnosed with PTSD or depression
+- Men cannot develop BPD
+- Men have BPD only after age 65
+- Men are usually misdiagnosed with ADHD
+@ men may be equally affected and are often misdiagnosed with PTSD or depression
+
+? Which therapy helps people with BPD become aware of their own internal states and develop empathy for others' experiences?
++ Mentalization-based therapy (MBT)
+- Dialectical behavior therapy (DBT)
+- Cognitive behavioral therapy (CBT)
+- Light therapy
+@ Therapy that helps people become aware of their own internal states and develop empathy
+
+? Which statement about medication for BPD is correct, according to NAMI?
++ No medication is made specifically for BPD's core symptoms, so medications are used off-label for symptoms
+- Lithium is the only FDA-approved BPD medication
+- Medication is the first-line treatment for BPD
+- Stimulants cure BPD
+@ No medication is made specifically for the core symptoms of BPD
+
+? Which is a brain-function explanation NAMI gives for BPD?
++ The brain areas for emotion and for judgment may not communicate well
+- The frontal lobe becomes more active during episodes
+- Dopamine levels are too high in the basal ganglia
+- The hippocampus is missing
+@ the brain areas for emotion and for judgment may not communicate well
+
+? How is BPD diagnosed, according to NAMI?
++ By a mental health professional after a comprehensive clinical interview
+- With a blood test
+- With a brain scan
+- By a single symptom such as self-harm
+@ There is no medical test for BPD; a mental health professional diagnoses it after a comprehensive clinical interview
+
+? According to HOSA Canada's study deck, how do people with antisocial personality disorder tend to see themselves?
++ As "okay" and not in need of treatment
+- As needing medication
+- As very depressed
+- As very anxious
+@ People with antisocial personality disorder tend to see themselves as "okay" and not in need of treatment

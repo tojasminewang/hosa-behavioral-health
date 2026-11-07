@@ -1,0 +1,246 @@
+? What does integrating screening and treatment for mental and substance use disorders lead to, according to SAMHSA?
++ Better quality of care and health outcomes by treating the whole person
+- Longer hospital stays
+- Less need for any follow-up care
+- Higher costs with no benefit
+@ leads to better quality of care and health outcomes by treating the whole person
+
+? What are the three models for delivering care for co-occurring disorders?
++ Coordinated, co-located, and fully integrated
+- Universal, selective, and indicated
+- Outpatient, inpatient, and residential
+- Alarm, resistance, and exhaustion
+@ coordinated, co-located, and fully integrated
+
+? What is SAMHSA's "no wrong door" policy?
++ A person needing treatment should be identified, assessed, and treated, directly or through referral, no matter where they seek services
+- Hospitals cannot lock their doors
+- People must enter treatment through the emergency room
+- Only one clinic in each state may treat co-occurring disorders
+@ Effective systems must ensure a person needing treatment is identified, assessed, and treated
+
+? What is a Certified Community Behavioral Health Clinic (CCBHC)?
++ A clinic model ensuring access to coordinated comprehensive behavioral health care for anyone, regardless of ability to pay, residence, or age
+- A private clinic for people with insurance only
+- A hospital emergency department
+- A school counseling office
+@ A clinic model designed to ensure access to coordinated comprehensive behavioral health care
+
+? CCBHCs must provide crisis services how often?
++ 24 hours a day, 7 days a week
+- Only during business hours
+- Only on weekends
+- Once a month
+@ crisis services available 24 hours a day, 7 days a week
+
+? How many required services do CCBHCs provide?
++ 9
+- 3
+- 5
+- 12
+@ **The 9 required CCBHC services:**
+
+? Which law established the CCBHC Medicaid Demonstration in 2014 through Section 223?
++ Protecting Access to Medicare Act (PAMA)
+- Affordable Care Act
+- Bipartisan Safer Communities Act
+- 21st Century Cures Act
+@ Congress passes the Protecting Access to Medicare Act (PAMA)
+
+? What does the Sequential Intercept Model (SIM) describe?
++ How people with mental and substance use disorders come into contact with and move through the criminal justice system
+- The stages of grief after a loss
+- The order of medications for opioid use disorder
+- How to build a hospital
+@ Details how people with mental and substance use disorders come into contact with and move through the criminal justice system
+
+? Which SIM intercept involves diversion by police and emergency responders instead of arrest?
++ Intercept 1: Law enforcement
+- Intercept 0: Community services
+- Intercept 3: Jails/courts
+- Intercept 5: Community corrections
+@ 1 | Law enforcement
+
+? Which SIM intercept involves supported reentry after jail or prison?
++ Intercept 4: Reentry
+- Intercept 2: Initial court hearings
+- Intercept 1: Law enforcement
+- Intercept 0: Community services
+@ 4 | Reentry
+
+? According to SAMHSA, people with SUD report a greater willingness to enter treatment in which setting?
++ Primary care
+- Specialty care
+- Jail
+- Emergency rooms only
+@ greater willingness to enter treatment in a primary care setting
+
+? Office-based opioid treatment (OBOT) is effective for what share of patients?
++ 50–80 percent
+- 5–10 percent
+- 100 percent
+- Less than 1 percent
+@ Effective for a substantial proportion of patients (50–80 percent)
+
+? Which OUD medication is available only through opioid treatment programs?
++ Methadone
+- Buprenorphine
+- Naltrexone
+- Naloxone
+@ methadone is available only through opioid treatment programs (OTPs)
+
+? What is a low-barrier model of care?
++ SUD treatment that removes barriers, making services easily accessible in a nonjudgmental, welcoming environment
+- Treatment available only after a long waiting list
+- Care that requires abstinence before entry
+- A model that limits services to insured patients
+@ SUD treatment that removes barriers
+
+? What is PATH?
++ Projects for Assistance in Transition from Homelessness, funding services for people with SMI experiencing homelessness
+- A crisis hotline for veterans
+- A drug-testing program
+- A school-based prevention curriculum
+@ A CMHS program that funds services for people with serious mental illness experiencing homelessness
+
+? What are SAMHSA's three Technology Transfer Center networks?
++ Addiction (ATTC), Mental Health (MHTTC), and Prevention (PTTC)
+- Crisis, Hospital, and School
+- Federal, State, and Local
+- Medication, Therapy, and Recovery
+@ Three SAMHSA-funded networks
+
+? What is NAMI's message about people with mental illness and the justice system?
++ They deserve help, not handcuffs
+- They should always be jailed
+- Jails are the best place for treatment
+- Mental illness never affects the justice system
+@ people with mental illness deserve help, not handcuffs
+
+? According to NAMI, what is the leading cause of death for people held in local jails?
++ Suicide
+- Heart disease
+- Overdose
+- Infection
+@ Suicide is the leading cause of death for people held in local jails
+
+## hard
+
+? Of the 4.8 million people with an OUD in the 2024 NSDUH, what share received medications for OUD?
++ Only 17 percent (818,000)
+- About 80 percent
+- About half
+- Nearly all
+@ only 17 percent (818,000) received medications for their OUD
+
+? Which states were the eight original CCBHC demonstration states selected in 2016?
++ Minnesota, Missouri, Nevada, New Jersey, New York, Oklahoma, Oregon, and Pennsylvania
+- California, Texas, Florida, New York, Illinois, Ohio, Georgia, and Michigan
+- Alabama, Illinois, Iowa, Indiana, Kansas, Maine, New Hampshire, and Vermont
+- Michigan, Kentucky, Kansas, Texas, Iowa, Utah, Idaho, and Montana
+@ Eight demonstration states selected: Minnesota, Missouri, Nevada, New Jersey, New York, Oklahoma, Oregon, and Pennsylvania
+
+? What did the Bipartisan Safer Communities Act (2022) do for CCBHCs?
++ Added up to 10 states to the CCBHC Medicaid Demonstration every two years
+- Ended the CCBHC program
+- Created the first CCBHC in Texas
+- Banned Medicaid payments to CCBHCs
+@ The Bipartisan Safer Communities Act adds up to 10 states to the demonstration every two years
+
+? Which federal partner develops the CCBHC Prospective Payment System?
++ The Centers for Medicare & Medicaid Services (CMS)
+- SAMHSA's Office of Recovery
+- The Department of Justice
+- The FCC
+@ the Centers for Medicare & Medicaid Services (CMS; the Prospective Payment System)
+
+? Which SIM intercept involves diversion to local crisis care without requiring a 911 call?
++ Intercept 0: Community services
+- Intercept 1: Law enforcement
+- Intercept 2: Initial detention
+- Intercept 4: Reentry
+@ 0 | Community services
+
+? Which SIM intercept involves community-based supervision with added supports to prevent violations?
++ Intercept 5: Community corrections
+- Intercept 3: Jails/courts
+- Intercept 4: Reentry
+- Intercept 1: Law enforcement
+@ 5 | Community corrections
+
+? Which is NOT one of the 9 required CCBHC services?
++ Inpatient surgical care
+- Crisis services
+- Targeted care management
+- Psychiatric rehabilitation services
+@ **The 9 required CCBHC services:**
+
+? Which statement about the 2024 CCBHC milestones is correct?
++ Ten more states joined, and the Consolidated Appropriations Act created a permanent state option for CCBHC services in Medicaid
+- The program was ended
+- Only Missouri remained in the demonstration
+- PAMA was passed
+@ Ten more states join; the Consolidated Appropriations Act creates a permanent state option
+
+? According to the Office of National Drug Control Policy, about what share of people experiencing chronic homelessness have a serious mental illness?
++ About 30%
+- About 3%
+- About 75%
+- About 100%
+@ about 30% of people experiencing chronic homelessness have a serious mental illness
+
+? What makes Building Communities of Recovery (BCOR) programs unique?
++ They are administered and implemented by people with lived experience in recovery from SUDs
+- They are run only by psychiatrists
+- They are located only in hospitals
+- They provide only medication
+@ Programs administered and implemented by people with lived experience in recovery
+
+? According to SAMHSA's 2024 Core Curriculum, SUD should be taught as what?
++ A treatable disease, similar to diabetes and heart disease
+- A moral failing
+- A rare condition seen only in specialists' offices
+- A problem that cannot be treated
+@ teaches that SUD is a treatable disease, similar to diabetes and heart disease
+
+? Which outcome is linked to integrated treatment for co-occurring disorders?
++ Decreased hospitalization and increased housing stability
+- More medication interactions
+- More arrests
+- Lower quality of life
+@ Integrated treatment outcomes: reduced or discontinued substance use
+
+? About how many times each year are people with serious mental illness booked into jails, according to NAMI?
++ About 2 million
+- About 2,000
+- About 200
+- About 20 million
+@ About 2 million times each year, people with serious mental illness are booked into jails
+
+? According to NAMI, what share of youth in the juvenile justice system have a diagnosable mental health condition?
++ 70%
+- 7%
+- 30%
+- 100%
+@ 70% of youth in the juvenile justice system have a diagnosable mental health condition
+
+? Compared with suburban and urban residents, how far must rural Americans travel to the nearest hospital?
++ Twice as far
+- Half as far
+- The same distance
+- Ten times as far
+@ Rural Americans must travel twice as far to the nearest hospital
+
+? According to NAMI, what share of incarcerated people have a history of mental illness?
++ About 2 in 5
+- About 1 in 50
+- Nearly all
+- About 1 in 10
+@ About 2 in 5 incarcerated people have a history of mental illness
+
+? Why does health coverage at release from incarceration matter, according to NAMI?
++ People with coverage are more likely to use services that reduce recidivism
+- It is required to leave prison
+- It prevents all mental illness
+- It replaces parole
+@ People with health coverage when released from incarceration are more likely to use services that reduce recidivism

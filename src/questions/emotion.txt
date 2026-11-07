@@ -1,0 +1,183 @@
+? How does the textbook define emotion?
++ A combination of arousal, physical sensations, and subjective feelings that occurs spontaneously in response to environmental stimuli
+- A general, longer-lasting state that can include several specific feelings
+- A process that arouses, maintains, and guides behavior toward a goal
+- A cultural norm for when and how to express feelings
+@ A combination of arousal, physical sensations, and subjective feelings
+
+? How does a mood differ from an emotion?
++ A mood is a more general and longer-lasting state
+- A mood is briefer and more intense than an emotion
+- A mood always has a single specific cause
+- A mood prepares a person for immediate action
+@ A more general and longer-lasting state than an emotion
+
+? Which theory says "We feel sorry because we cry, angry because we strike, afraid because we tremble"?
++ James–Lange theory
+- Cannon–Bard theory
+- Schachter–Singer two-factor theory
+- Appraisal theory
+@ We feel sorry because we cry, angry because we strike, afraid because we tremble
+
+? Which theory says physical sensations and subjective feelings occur simultaneously and independently?
++ Cannon–Bard theory
+- James–Lange theory
+- Two-factor theory
+- Catharsis
+@ Physical sensations and subjective feelings occur simultaneously and independently
+
+? Which theory says general arousal leads to a cognitive assessment of the situation, which identifies the emotion?
++ Schachter–Singer two-factor theory
+- James–Lange theory
+- Cannon–Bard theory
+- Somatovisceral afference model
+@ General arousal leads to a cognitive appraisal, which identifies the emotion
+
+? Which idea views emotion as a reservoir that fills up and spills over, predicting that expressing an emotion reduces arousal?
++ Catharsis
+- Appraisal
+- Display rule
+- Anthropomorphism
+@ A theory viewing emotion as a reservoir that fills up and spills over
+
+? What does the Yerkes–Dodson law say about a difficult exam?
++ Moderate arousal is best; high arousal hurts performance
+- The higher the arousal, the better the performance
+- Arousal has no effect on complex tasks
+- Low arousal is best for every task
+@ for complex tasks (like a difficult exam) moderate arousal is best
+
+? Which brain structure identifies emotional stimuli, both positive and negative, and initiates responses through the hypothalamus?
++ Amygdala
+- Insula
+- Basal ganglia
+- Cerebellum
+@ Identifies emotional stimuli, both positive and negative
+
+? Which region, at the junction of the frontal and temporal lobes, is important for subjective feelings, including a strong reaction to disgust?
++ Insula
+- Amygdala
+- Hippocampus
+- Occipital lobe
+@ Regions of cortex at the junction of the frontal and temporal lobes
+
+? What is a display rule?
++ A cultural norm that specifies when, where, and how a person should express an emotion
+- A law describing arousal and task performance
+- A rule that every emotion has a positive or negative valence
+- The order in which feelings follow physical changes
+@ A cultural norm that specifies when, where, and how a person should express an emotion
+
+? What is emotional intelligence?
++ Our abilities to perceive, use, understand, and manage emotions
+- The ability to hide all emotional expressions
+- Scoring high on an IQ test while calm
+- Attributing human qualities to animals
+@ Our abilities to perceive, use, understand, and manage emotions
+
+? Who concluded that emotional expression evolved because all primates form facial expressions with the same muscles?
++ Charles Darwin
+- William James
+- Walter Cannon
+- John Gottman
+@ Charles Darwin (1872) found that all primates form facial expressions with the same muscles
+
+? Which emotion regulation strategy is linked to less depression and higher life satisfaction?
++ Cognitive reappraisal (changing the meaning of an event)
+- Suppression (inhibiting expression)
+- Catharsis (letting emotions spill over)
+- Avoiding all emotional situations
+@ people who use reappraisal more experience less depression and higher life satisfaction
+
+? What ratio of positive to negative comments did John Gottman find in happy couples?
++ 5:1
+- 1:1
+- 2:1
+- 10:1
+@ happy couples make five times more positive than negative comments
+
+? What is anthropomorphism?
++ Attributing human qualities to other animals
+- The study of emotion across cultures
+- The neuroscience of emotion
+- Reading emotions from body language
+@ Attributing human qualities to other animals
+
+? According to HOSA Canada's study deck, along which two dimensions do emotions vary?
++ Pleasure and arousal
+- Speed and strength
+- Color and sound
+- Memory and attention
+@ emotions vary along two dimensions, pleasure (unpleasant to pleasant) and arousal (low to high)
+
+## hard
+
+? Why do silver medalists often look less happy than bronze medalists?
++ Silver medalists compare themselves to gold medalists, while bronze medalists compare themselves to those who got no medal
+- Silver medalists have lower arousal after their events
+- Bronze medalists receive more praise from coaches
+- Silver medalists are more likely to have used display rules
+@ silver medalists compare themselves to gold medalists
+
+? In the Capilano Canyon bridge study, what was the main flaw?
++ The men were not randomly assigned to the bridges
+- The interviewer was not attractive
+- Too few men were interviewed on the solid bridge
+- No one telephoned the interviewer
+@ flaw: men were not randomly assigned to bridges
+
+? In the Botox study, people with less facial movement were worse at identifying others' emotions. Which theory does this support?
++ James–Lange (facial feedback)
+- Cannon–Bard
+- Catharsis
+- Schachter–Singer
+@ supporting facial feedback (James–Lange)
+
+? The Maori haka "psyching up" ritual challenges which idea and supports which theory?
++ It challenges catharsis and supports James–Lange
+- It challenges James–Lange and supports catharsis
+- It challenges Cannon–Bard and supports appraisal theory
+- It challenges appraisal theory and supports Schachter–Singer
+@ challenges catharsis and supports James–Lange
+
+? Which model sits as a middle ground between James–Lange and Schachter–Singer, saying precise sensations need little thinking but general arousal needs more?
++ Somatovisceral afference model of emotion (SAME)
+- Cannon–Bard theory
+- Appraisal theory
+- Opponent process theory
+@ a middle ground between James–Lange and Schachter–Singer
+
+? A tumor in the right motor cortex makes a person's voluntary smiles crooked. What happens to spontaneous smiles?
++ They look natural, because spontaneous expressions come from subcortical areas like the basal ganglia
+- They are also crooked, because all smiles come from the motor cortex
+- They disappear completely
+- They become crooked on the opposite side
+@ A tumor in the right motor cortex makes voluntary smiles crooked but spontaneous smiles natural
+
+? Which statement about the biology of emotion is correct?
++ Negative emotions produce stronger autonomic responses than positive emotions
+- Autonomic measures reliably predict each specific emotion
+- There are distinct "happy centers" and "sad centers" in the brain
+- The left hemisphere plays a stronger role in emotion
+@ negative emotions produce stronger autonomic responses than positive emotions
+
+? People with which conditions have specific difficulty recognizing fear?
++ Autism spectrum disorder and antisocial personality disorder
+- Schizophrenia and bipolar disorder
+- Depression and insomnia
+- Parkinson's and Huntington's disease
+@ people with autism spectrum disorder and antisocial personality disorder have specific difficulty recognizing fear
+
+? What did Antonio Damasio's patient Elliot show after frontal lobe surgery?
++ He kept his intelligence but could not set priorities
+- He lost his intelligence but made good decisions
+- He became unable to feel any physical pain
+- He could no longer recognize faces
+@ kept his intelligence but could not set priorities
+
+? Which statement about reading emotions is correct, according to HOSA Canada's study deck?
++ Adults read emotions accurately but are worse at telling genuine from fake expressions
+- Adults cannot read emotions accurately
+- Adults always detect fake expressions
+- Only children can read emotions
+@ Human adults read emotions quite accurately, but they are not as good at telling genuine expressions from fake ones

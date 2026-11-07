@@ -1,0 +1,296 @@
+? Which type of psychology explores regular changes in behavior that occur across the lifespan?
++ Developmental
+- Cognitive
+- Clinical
+- Behavioral
+@ Explores the normal changes in behavior that occur across the life span
+! This is HOSA's official sample question 3 (Cacioppo p. 24).
+
+? Which perspective investigates information processing, thinking, reasoning, and problem solving?
++ Cognitive psychology
+- Social psychology
+- Clinical psychology
+- Evolutionary psychology
+@ A perspective that investigates information processing, thinking, reasoning, and problem solving
+
+? Which perspective seeks to explain, define, and treat abnormal behaviors?
++ Clinical psychology
+- Developmental psychology
+- Cognitive psychology
+- Biological psychology
+@ A perspective that seeks to explain, define, and treat abnormal behaviors
+
+? Which perspective examines the effects of the social environment on the behavior of individuals?
++ Social psychology
+- Clinical psychology
+- Evolutionary psychology
+- Cognitive psychology
+@ A perspective that examines the effects of the social environment on the behavior of individuals
+
+? Biological psychology is also known as what?
++ Behavioral neuroscience
+- Psychoanalysis
+- Functionalism
+- Social psychology
+@ also known as behavioral neuroscience
+
+? Who can call themselves a psychologist?
++ Only holders of graduate (usually doctorate) degrees
+- Anyone with a bachelor's degree in psychology
+- Anyone who works in mental health
+- Life coaches with a certificate
+@ Calling oneself a psychologist is restricted to holders of graduate (usually doctorate) degrees
+
+? What is a psychiatrist?
++ A medical doctor who specializes in psychiatry and can prescribe medication
+- A therapist with a master's degree in counseling
+- A psychologist with a PsyD
+- A peer support worker
+@ A medical doctor (MD) who specializes in psychiatry
+
+? What is the PsyD?
++ The Doctor of Psychology, developed in the 1970s to train practitioners with less research training than the PhD
+- A medical degree for psychiatrists
+- A master's degree in counseling
+- A certificate for life coaches
+@ Developed in the 1970s, modeled on dental and medical schools
+
+? Which state first allowed specially trained psychologists to prescribe medication, in 2002?
++ New Mexico
+- Louisiana
+- Illinois
+- Idaho
+@ New Mexico (2002)
+
+? Which practitioners require no license?
++ Life coaches
+- Psychiatrists
+- Clinical psychologists
+- Licensed professional counselors
+@ Require no license
+
+? Who administers licensing of mental health professionals in the U.S.?
++ State governments
+- The federal government
+- The American Psychological Association
+- Universities
+@ Licensing of mental health professionals is administered by state governments in the U.S.
+
+? According to SAMHSA, how does a license differ from a certification?
++ A license is issued by a state agency and grants legal authority to practice; a certification comes from a professional organization
+- A certification is issued by the state; a license comes from a professional group
+- They are exactly the same
+- A license is only for physicians
+@ a license is issued by a state governmental agency and grants legal authority to practice
+
+? Which SAMHSA tool shows state-specific education, credentialing, and licensing requirements for behavioral health careers?
++ Behavioral Health Career Navigator
+- FindTreatment.gov
+- Screen4Success
+- BHbusiness Plus
+@ A SAMHSA tool (launched November 2024)
+
+? Which career uses lived experience in recovery to support others in nonclinical activities?
++ Peer recovery support specialist
+- Psychiatrist
+- Physician assistant
+- Psychologist
+@ Uses lived experience of recovery to support others in nonclinical activities
+
+? Which career diagnoses and treats disorders in the context of marriage, couples, and family systems?
++ Marriage and family therapist (MFT)
+- Community health worker
+- Prevention specialist
+- Psychiatric aide
+@ Diagnoses and treats disorders in the context of marriage, couples, family systems
+
+? Which career connects people to health and social services and provides culturally appropriate health services?
++ Community health worker (CHW)
+- Addiction medicine physician
+- Psychologist
+- Marriage and family therapist
+@ Connects individuals to health and social services, supports preventive care
+
+? What does the Minority Fellowship Program (MFP) aim to do?
++ Reduce health disparities and improve behavioral health outcomes for underserved racial and ethnic populations
+- License psychiatrists in rural areas
+- Fund hospitals for veterans
+- Provide crisis counseling after disasters
+@ aims to reduce health disparities and improve behavioral health outcomes for underserved racial and ethnic populations
+
+? What are school psychologists described as doing?
++ Working in schools on academic and career counseling and removing barriers to student success
+- Prescribing medication to students
+- Running hospitals
+- Studying the criminal mind
+@ work in elementary, middle, and high schools on academic and career counseling
+
+? Which mental health professional is a licensed medical doctor (MD or DO) who can prescribe medication?
++ Psychiatrist
+- Psychologist
+- Licensed Professional Counselor
+- Certified peer specialist
+@ A licensed medical doctor (MD or DO) who completed a psychiatry residency
+
+? According to NAMI, what degree does a psychologist hold?
++ A doctoral degree (Ph.D. or Psy.D.)
+- A bachelor's degree
+- A Doctor of Medicine (MD)
+- A Doctor of Pharmacy (PharmD)
+@ Holds a doctoral degree (Ph.D. or Psy.D.)
+
+? What does LMFT stand for?
++ Licensed Marriage and Family Therapist
+- Licensed Medical Family Technician
+- Licensed Mental Fitness Trainer
+- Limited Marriage and Family Treatment
+@ LMFT (Licensed Marriage and Family Therapist)
+
+? Which professional has lived experience of a mental health condition or substance use disorder and helps people set recovery goals?
++ Certified peer specialist
+- Psychiatric pharmacist
+- Pastoral counselor
+- Clinical social worker
+@ A trained professional with lived experience of a mental health condition or substance use disorder
+
+? What degree does a clinical social worker hold, according to NAMI?
++ A master's in social work (MSW)
+- A Psy.D.
+- An MD
+- No degree is required
+@ Holds a master's in social work (MSW)
+
+? According to HOSA Canada's study deck, what training does a psychiatrist need after the MD degree?
++ 5 years of residency, plus a fellowship for a subspecialty
+- A 1-year internship only
+- A master's degree in counseling
+- CCPA certification
+@ Bachelor's degree, MD degree, 5 years of residency, and a fellowship for a subspecialty
+
+? Which certification does HOSA Canada's study deck list for counselors?
++ CCPA certification
+- NBCCH certification
+- An MD
+- An ACH license
+@ Bachelor's and master's degrees and CCPA certification
+
+## hard
+
+? A psychiatrist must complete what training after medical school, according to SAMHSA?
++ An accredited 4-year residency
+- A 1-year internship only
+- A master's degree in counseling
+- No additional training
+@ completes an accredited 4-year residency after medical school
+
+? Which typical education is listed for an addiction counselor?
++ From a high school diploma (or GED) to a graduate degree
+- Always a medical degree
+- Always a doctoral degree
+- No education requirement at all
+@ Addiction counselor | Advises people on substance use issues and substance use disorders | From a high school diploma (or GED) to a graduate degree
+
+? When did the MFP start, and how did it expand in 2014?
++ 1973; it expanded to master's-level professionals serving youth 16–25 (MFP-Y) and addiction counselors (MFP-AC)
+- 1992; it expanded to medical doctors only
+- 2014; it was created to train peers
+- 1949; it expanded to include veterans
+@ The MFP was first for doctoral-level professionals only
+
+? Which three SAMHSA centers administer the Minority Fellowship Program?
++ CMHS, CSAT, and CSAP
+- CBHSQ, CDC, and NIH
+- CMS, ASPE, and HRSA
+- OTAP, OCMO, and OR
+@ The MFP is administered by CMHS, CSAT, and CSAP
+
+? Why is the behavioral health field growing, according to SAMHSA?
++ Increased insurance coverage and the rising rate of military veterans seeking behavioral health services
+- Fewer people need care each year
+- New laws removed licensing
+- Hospitals closed outpatient programs
+@ The field is growing because of increased insurance coverage
+
+? Which statement about counselors in the textbook is correct?
++ They specialize in adjustment problems such as marriage, substance abuse, and grief, not disorders like schizophrenia
+- They are medical doctors who prescribe medication
+- They specialize mainly in schizophrenia
+- They require no degree
+@ specialize in adjustment problems such as marriage and family, substance abuse
+
+? About what share of the world's psychologists live in the U.S. today?
++ About 21 to 24%, down from 80% in the 1980s
+- About 80%, the same as in the 1980s
+- About 50%
+- Less than 5%
+@ Only about 21 to 24% of the world's psychologists live in the U.S. today
+
+? Which credential exam do PTTC Prevention Fellowships prepare fellows for?
++ IC&RC Certified Prevention Specialist (CPS)
+- National Council Licensure Examination
+- Board certification in addiction psychiatry
+- Licensed Professional Counselor exam
+@ prepare fellows for the IC&RC Certified Prevention Specialist (CPS) exam
+
+? What does SAMHSA's Student Loan Repayment Program offer?
++ Up to $10,000 per calendar year, with a lifetime maximum of $60,000
+- Up to $60,000 per year, with no maximum
+- A one-time payment of $1,000
+- Full tuition for medical school
+@ up to $10,000 per calendar year (lifetime maximum of $60,000)
+
+? Which professional is an advanced-practice pharmacist (PharmD) who specializes in mental health medication management?
++ Psychiatric pharmacist
+- Psychiatric nurse practitioner
+- Psychologist
+- Family nurse practitioner
+@ An advanced-practice pharmacist (PharmD) who specializes in mental health medication management
+
+? Which professional is a clergy member trained in clinical pastoral education who can diagnose and provide counseling?
++ Pastoral counselor
+- Certified peer specialist
+- Case manager
+- Clinical social worker
+@ A clergy member trained in clinical pastoral education
+
+? According to NAMI, which board may certify a psychiatrist?
++ The Board of Neurology and Psychiatry
+- The Board of Pharmacy Specialties
+- A state licensure board for counselors
+- The NAMI HelpLine
+@ may be board certified by the Board of Neurology and Psychiatry
+
+? What does LCADAC stand for?
++ Licensed Clinical Alcohol & Drug Abuse Counselor
+- Licensed Certified Addiction Doctor and Clinician
+- Licensed Counselor for Anxiety, Depression and Conduct
+- Licensed Clinical ADHD Counselor
+@ LCADAC (Licensed Clinical Alcohol & Drug Abuse Counselor)
+
+? Which professionals can prescribe medication in some states, depending on state law?
++ Psychiatric or mental health nurse practitioners
+- Certified peer specialists
+- Pastoral counselors
+- Licensed Professional Counselors
+@ and in some states can prescribe medication
+
+? According to NAMI, which services do social workers with a bachelor's degree provide?
++ Case management, inpatient discharge planning and placement services
+- Prescribing medication
+- Brain stimulation therapy
+- Psychological testing
+@ provide case management, inpatient discharge planning and placement services
+
+? According to HOSA Canada's study deck, what must a clinical psychologist complete to register with the College of Psychologists?
++ 5 years of work and practice after the PhD in clinical psychology
+- The MCAT exam
+- CCPA certification
+- A 5-year medical residency
+@ 5 years of work and practice to register with the College of Psychologists
+
+? In HOSA Canada's study deck, which professional uses talk therapies and psychometric tests to diagnose and treat?
++ Clinical psychologist
+- Psychiatrist
+- Hypnotherapist
+- Life coach
+@ Talk therapies and psychometric tests to diagnose and treat mental and behavioral health problems

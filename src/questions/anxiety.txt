@@ -1,0 +1,253 @@
+? How does the textbook define an anxiety disorder?
++ A disorder featuring anxiety that is not proportional to a person's circumstances
+- Any fear of a real, present danger
+- A disorder of hallucinations and delusions
+- A loss of pleasure in usual activities
+@ A disorder featuring anxiety that is not proportional to a person's circumstances
+
+? How does fear differ from anxiety?
++ Fear responds to something happening in the present; anxiety is worry about the future
+- Fear is worry about the future; anxiety responds to the present
+- Fear is always irrational; anxiety is always rational
+- There is no difference between them
+@ Fear is a response to something happening in the present; anxiety is worry about the future
+
+? About what share of Americans experience one or more anxiety disorders in their lifetime?
++ About 30%
+- About 3%
+- About 60%
+- About 90%
+@ About 30% of Americans experience one or more anxiety disorders in their lifetime
+
+? What is social anxiety disorder?
++ An overwhelming fear of being watched and judged by others
+- Fear of open spaces or crowds
+- Fear of closed-in places
+- Excessive worry about everything for 6 months
+@ An overwhelming, ongoing fear of being watched and judged by others
+
+? What is agoraphobia?
++ Unrealistic fear of open spaces, being outside the home alone, or being in a crowd
+- Fear of closed-in places
+- Fear of heights
+- Fear of being judged during public speaking
+@ Unrealistic fear of open spaces, being outside the home alone, or being in a crowd
+
+? Fear of closed-in places is called what?
++ Claustrophobia
+- Agoraphobia
+- Acrophobia
+- Taijin kyofusho
+@ **claustrophobia** is a fear of closed-in places
+
+? About how long do panic attack symptoms typically last?
++ About 10 minutes
+- About 10 seconds
+- About 6 hours
+- Several days
+@ symptoms typically last about 10 minutes
+
+? What is panic disorder?
++ Repeated panic attacks and fear of future attacks
+- A single panic attack after a real threat
+- Excessive worry for 6 months
+- Fear of being scrutinized by others
+@ Repeated panic attacks and fear of future attacks
+
+? Generalized anxiety disorder involves excessive anxiety and worry for at least how long?
++ 6 months
+- 2 weeks
+- 1 month
+- 2 years
+@ Excessive anxiety and worry for 6 months
+
+? Most anxiety medications reduce brain activity by enhancing which neurotransmitter?
++ GABA
+- Dopamine
+- Glutamate
+- Acetylcholine
+@ Most anxiety medications reduce brain activity by enhancing GABA
+
+? Which therapy gradually exposes a person to a feared stimulus while they relax?
++ Exposure therapy
+- Psychoanalysis
+- Aversion therapy
+- Electroconvulsive therapy
+@ Gradual exposure to the feared stimulus
+
+? According to SAMHSA, which is a symptom of GAD?
++ Restlessness and being on edge
+- Hearing voices
+- Elevated mood and little need for sleep
+- Loss of memory for personal information
+@ GAD symptoms: restlessness, being on edge or wound up
+
+? A strong, irrational fear of something that poses little or no actual danger, such as heights, is what?
++ Specific phobia
+- Generalized anxiety disorder
+- Panic disorder
+- Obsessive-compulsive disorder
+@ A strong, irrational fear of something that poses little or no actual danger
+
+? Which Japanese culture-bound syndrome involves fear of offending others with one's odor, eye contact, blushing, or appearance?
++ Taijin kyofusho
+- Morita Therapy
+- Ijirashi
+- Agoraphobia
+@ A Japanese culture-bound syndrome
+
+? According to NAMI, what is the most common type of mental health concern in the United States?
++ Anxiety disorders
+- Major depressive disorder
+- Substance use disorders
+- ADHD
+@ Anxiety disorders are the most common type of mental health concern in the United States
+
+? According to NAMI, about what share of U.S. adults have an anxiety disorder?
++ More than 1 in 6 (19.1%)
+- About 1 in 20 (5%)
+- About 1 in 9 (11%)
+- About 1 in 2 (50%)
+@ More than 1 in 6 U.S. adults (19.1%) have an anxiety disorder
+
+? According to NAMI, before what age do most people develop anxiety symptoms?
++ Age 21
+- Age 10
+- Age 40
+- Age 65
+@ most people develop symptoms before age 21
+
+? What do all anxiety disorders have in common?
++ Persistent, excessive fear or worry in situations that are not threatening
+- Hallucinations and delusions
+- Extreme highs and lows in mood
+- Rituals performed to reduce obsessions
+@ persistent, excessive fear or worry in situations that are not threatening
+
+? Which anxiety disorder causes chronic, exaggerated worry about everyday life that can consume hours each day?
++ Generalized anxiety disorder
+- Panic disorder
+- Social anxiety disorder
+- Specific phobia
+@ Chronic, exaggerated worry about everyday life that can consume hours each day
+
+? According to NAMI, a panic attack is often mistaken for what?
++ A heart attack
+- A seizure
+- A stroke
+- An asthma attack
+@ a panic attack is often mistaken for a heart attack
+
+? Why are benzodiazepines recommended only for limited use?
++ Long-term use can lead to dependence
+- They never relieve anxiety
+- They trigger mania
+- They work only in children
+@ long-term use can lead to dependence
+
+? According to NAMI, which medications are often a first-line treatment for anxiety disorders, even when a person is not depressed?
++ Antidepressants
+- Stimulants
+- Antipsychotics
+- Mood stabilizers
+@ Antidepressants are often a first-line treatment for anxiety disorders
+
+## hard
+
+? Unlike most disorders, what is true of thinking in anxiety disorders?
++ They do not impair realistic thinking; adults usually know their anxiety is unwarranted but feel unable to control it
+- They always involve delusions
+- People believe their fears are completely realistic
+- They cause memory loss for the feared event
+@ anxiety disorders do not impair realistic thinking
+
+? What biological clue points to a physical basis for panic disorder?
++ Sodium lactate injections trigger panic attacks in people with panic disorder but not in others
+- Panic disorder is diagnosed with a blood test
+- People with panic disorder have fewer orexins
+- Caffeine prevents panic attacks
+@ sodium lactate injections trigger panic attacks in people with panic disorder but not others
+
+? What does the cognitive explanation of panic disorder say?
++ Misinterpreting body symptoms (a fast heart rate as a heart attack) creates a spiral of arousal and anxiety
+- Panic comes only from childhood conflicts
+- Panic is learned by observing a parent
+- Panic is caused by too much serotonin
+@ misinterpreting body symptoms (a fast heart rate as a heart attack)
+
+? Why are barbiturates no longer desirable for treating anxiety?
++ They are addictive and have been used in suicides
+- They do not act on GABA receptors
+- They were never effective for seizures
+- They were developed too recently to trust
+@ no longer desirable for anxiety because they are addictive and used in suicides
+
+? For social anxiety disorder, what happened after treatment ended?
++ Gains from exposure therapy kept improving, while gains from medication deteriorated
+- Gains from medication kept improving, while exposure gains disappeared
+- Both treatments lost all gains
+- Neither treatment worked at all
+@ exposure therapy alone kept improving after treatment ended, while gains from medication deteriorated
+
+? Which statement about specific phobia rates is correct?
++ 21.2% of women and 10.9% of men report at least one; there is no gender difference in injury phobias
+- 10.9% of women and 21.2% of men report at least one
+- Men report more animal phobias than women
+- Women report more injury phobias than men
+@ there is no gender difference in injury phobias
+
+? Why are people with GAD vulnerable to substance use disorders?
++ Alcohol and benzodiazepines reduce anxiety at GABA receptors, so people may self-medicate
+- GAD is caused by drug use
+- GAD medications are all illegal drugs
+- People with GAD have no GABA receptors
+@ so people may self-medicate and become vulnerable to substance use disorders
+
+? Which is generally more effective for anxiety than tranquilizers?
++ Antidepressants
+- Barbiturates
+- Stimulants
+- Antipsychotics
+@ Antidepressants are typically more effective than tranquilizers for anxiety
+
+? Which therapy has a person face the thing they fear so their anxiety drops over time, and is used for phobias and social anxiety?
++ Exposure response prevention
+- Family-focused therapy
+- Neurofeedback
+- ADHD coaching
+@ A therapy for phobias and social anxiety in which a person faces the feared thing
+
+? According to NAMI, how does CBT delivered by telehealth compare with face-to-face therapy for anxiety?
++ It can work as well as face-to-face therapy
+- It does not work at all
+- It works only for children
+- It works only when combined with medication
+@ CBT delivered by telehealth can work as well as face-to-face therapy
+
+? According to NAMI, what share of U.S. youth ages 3–17 have problems with anxiety?
++ 1 in 9 (11%)
+- 1 in 6 (19.1%)
+- 1 in 20 (5%)
+- 1 in 2 (50%)
+@ 1 in 9 U.S. youth ages 3–17 (11%) have problems with anxiety
+
+? Which advice does NAMI give for helping a loved one with anxiety?
++ Listen without judgment and avoid minimizing their worries or giving immediate reassurance
+- Tell them their fears are silly
+- Always reassure them right away that nothing is wrong
+- Push them to change as fast as possible
+@ avoid minimizing their worries or giving immediate reassurance
+
+? Why might a provider do a physical exam and lab tests before diagnosing an anxiety disorder?
++ Physical symptoms of anxiety can be confused with heart disease, thyroid problems or asthma
+- Lab tests can directly diagnose anxiety
+- Anxiety is always caused by a thyroid problem
+- A blood test is required for every mental illness
+@ Physical symptoms of anxiety can be confused with heart disease, thyroid problems or asthma
+
+? Which substances does NAMI say can worsen anxiety by increasing restlessness and jitteriness?
++ Caffeine (including energy drinks) and cigarettes
+- Omega-3 supplements
+- Lithium
+- Water and herbal tea
+@ Caffeine (including energy drinks) and cigarettes can worsen anxiety

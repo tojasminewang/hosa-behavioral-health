@@ -1,0 +1,211 @@
+? How does SAMHSA define recovery?
++ A process of change through which individuals improve their health and wellness, live self-directed lives, and strive to reach their full potential
+- Never using any substance again after one treatment
+- A cure that removes all symptoms permanently
+- A single event that happens when treatment ends
+@ A process of change through which individuals improve their health and wellness
+
+? According to SAMHSA, what is the foundation of recovery?
++ Hope
+- Medication
+- Money
+- Willpower alone
+@ **Hope**, the belief that these challenges and conditions can be overcome, is the foundation of recovery
+
+? Which is one of SAMHSA's four major dimensions of recovery?
++ Home
+- Wealth
+- Fame
+- Education level
+@ Home | Having a stable and safe place to live
+
+? Which recovery dimension means having relationships and social networks that provide support, friendship, love, and hope?
++ Community
+- Health
+- Home
+- Purpose
+@ Community | Having relationships and social networks
+
+? Which recovery dimension means conducting meaningful daily activities, such as a job, school, or volunteering?
++ Purpose
+- Home
+- Health
+- Community
+@ Purpose | Conducting meaningful daily activities
+
+? What are peer support workers?
++ People who have been successful in the recovery process who help others experiencing similar situations
+- Licensed psychiatrists who prescribe medication
+- Police officers trained in crisis response
+- Family members who pay for treatment
+@ People who have been successful in the recovery process who help others experiencing similar situations
+
+? According to SAMHSA, recovery occurs via how many pathways?
++ Many pathways, such as clinical treatment, medications, faith-based approaches, and peer support
+- Only one pathway: medication
+- Only one pathway: abstinence-only support groups
+- Two pathways: inpatient or outpatient
+@ Recovery is highly personal and occurs via **many pathways**
+
+? Because setbacks are a natural part of life, what is a key component of recovery?
++ Resilience
+- Isolation
+- Perfection
+- Avoiding all support
+@ **resilience** is a key component of recovery
+
+? About how many American adults consider themselves to be in recovery from substance use and/or mental health problems?
++ 50.2 million
+- 5.2 million
+- 502,000
+- 150 million
+@ 50.2 million American adults consider themselves to be in recovery
+
+? What is a recovery plan?
++ A written plan identifying wellness goals, steps to reach them, activities, tracking, and triggers
+- A prescription for medication
+- A court order for treatment
+- A list of hospitals in your area
+@ A written **recovery plan** identifies wellness goals
+
+? What is SAMHSA's RecoverMe campaign?
++ A campaign connecting people in recovery with empowering, practical resources
+- A hotline for overdose emergencies
+- A law requiring recovery housing
+- A medication for alcohol cravings
+@ Connects people in recovery with empowering, practical resources
+
+? Which NAMI class is for families, significant others and friends of people with mental health conditions, and is designated evidence-based by SAMHSA?
++ NAMI Family-to-Family
+- NAMI Peer-to-Peer
+- NAMI Provider
+- NAMI In Our Own Voice
+@ A class for families, significant others and friends of people with mental health conditions; designated an evidence-based program by SAMHSA
+
+? Which NAMI class is for adults with mental health conditions?
++ NAMI Peer-to-Peer
+- NAMI Family-to-Family
+- NAMI Homefront
+- NAMI Basics OnDemand
+@ A class for adults with mental health conditions that encourages growth, healing and recovery
+
+? Which NAMI presentation is designed for middle and high school students, school staff and parents?
++ NAMI Ending the Silence
+- NAMI In Our Own Voice
+- NAMI Provider
+- NAMI FaithNet
+@ A presentation for middle and high school students, school staff and parents
+
+? What is NAMI Connection?
++ A peer-led support group for people with mental health conditions
+- A class for mental health professionals
+- A support group for family members
+- A crisis hotline
+@ A peer-led support group for people with mental health conditions
+
+? Who leads NAMI programs?
++ Trained volunteers with lived experience (they are peer-led)
+- Only psychiatrists
+- Police officers
+- Pharmaceutical companies
+@ NAMI programs are peer-led by trained volunteers with lived experience
+
+## hard
+
+? Which principle of peer core competencies means services are directed by the person and aligned with their hopes, goals, and preferences?
++ Person-centered
+- Voluntary
+- Recovery-oriented
+- Relationship-focused
+@ Person-centered | Services are always directed by the person
+
+? Which principle of peer core competencies means participation is always the person's choice?
++ Voluntary
+- Trauma-informed
+- Person-centered
+- Recovery-oriented
+@ Voluntary | Peers are partners or consultants
+
+? Which statement about peer core competencies is correct?
++ They guide training, certification standards, and job descriptions, and are not meant to be barriers to entering the workforce
+- They are a license required by federal law
+- They prevent people in recovery from becoming peers
+- They apply only to psychiatrists
+@ (not barriers to entering the workforce)
+
+? According to SAMHSA, what share of adults who ever had a substance use problem consider themselves in recovery?
++ 7 in 10
+- 2 in 3
+- 1 in 10
+- 9 in 10
+@ 7 in 10 adults who ever had a substance use problem
+
+? Under the Health dimension of recovery, what does managing an addiction include?
++ Abstaining from alcohol, illicit drugs, and non-prescribed medication
+- Moving to a new city
+- Finding a new job
+- Joining a sports team
+@ abstaining from alcohol, illicit drugs, and non-prescribed medication if one has an addiction
+
+? What is the foundation of the peer recovery support relationship?
++ The shared experience of recovery (or of being a family member)
+- A medical license
+- A court referral
+- Paying for services
+@ The shared experience of recovery (or of being a family member) is the foundation
+
+? SAMHSA describes moving "from chemical coping to" what?
++ Human connection
+- Medication management
+- Abstinence only
+- Inpatient treatment
+@ move "from chemical coping to human connection,"
+
+? Which NAMI class is for mental health professionals and promotes a collaborative model of care?
++ NAMI Provider
+- NAMI Basics OnDemand
+- NAMI Homefront
+- NAMI Family & Friends
+@ A class for mental health professionals that builds compassion
+
+? What is NAMI Family & Friends?
++ A 4-hour seminar for people with loved ones who have a mental health condition
+- A class for adults with mental illness
+- A support group for veterans
+- A middle school curriculum
+@ A 4-hour seminar for people with loved ones who have a mental health condition
+
+? What does NAMI Sharing Your Story with Law Enforcement do?
++ Trains peers and families to share their stories during law enforcement trainings such as CIT
+- Trains police to diagnose mental illness
+- Provides lawyers for people in jail
+- Runs the 988 Lifeline
+@ Trains peers and families to share their stories during law enforcement trainings such as CIT training
+
+? What is NAMI On Campus?
++ Student-led, student-run mental health clubs for colleges and high schools
+- NAMI offices on campuses staffed by psychiatrists
+- An online class for professors
+- A college scholarship
+@ Student-led, student-run mental health clubs for colleges and high schools
+
+? According to NAMI, what does "support is not control" mean for family members?
++ Families can encourage but must accept the person's right to make their own treatment decisions
+- Families should make all treatment decisions
+- Families should stop helping
+- Families should manage medication without telling the person
+@ support is not control (accept their right to make treatment decisions)
+
+? Why should a family member ask their loved one to arrange permission with providers?
++ Providers cannot talk to family members without the patient's permission
+- Providers must talk to families by law
+- Permission is needed to fill a prescription
+- It is required for NAMI membership
+@ Providers cannot talk to family members without the patient's permission
+
+? What is NAMI FaithNet?
++ An interfaith network that encourages faith communities to welcome and support people living with mental illness
+- A counseling service for one religion only
+- A prayer hotline
+- A religious school curriculum
+@ An interfaith network that encourages faith communities to welcome and support people and families living with mental illness

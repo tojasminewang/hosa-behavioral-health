@@ -1,0 +1,2405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HOSA Behavioral Health Prep</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..700&family=Fraunces:opsz,wght@9..144,400..700&display=swap">
+<style>
+:root{
+  --bg:#F4F7EF; --bg-glass:rgba(244,247,239,.88); --side:#EBF1E3; --side-hover:rgba(255,255,255,.6); --surface:#FFFFFF; --field:#F1F4EC; --hover:#EEF2E8;
+  --ink:#1A1C17; --ink-2:#3D4337; --ink-3:#687062; --ink-4:#A1A898;
+  --line:#E5EBDD; --line-2:#D6DECB;
+  --primary:#1B1D18; --primary-hover:#353A2F; --primary-ink:#4A6A2E; --on-primary:#FFFFFF;
+  --primary-soft:#E2ECD5; --primary-softer:#F0F5E9; --logo-a:#DCE8C9; --logo-b:#B9D198;
+  --good:#5E9B4F; --good-ink:#3B6F2E; --good-soft:#EAF4E3; --good-line:#B8D9A6;
+  --bad:#D47462; --bad-ink:#A9432F; --bad-soft:#FBECE8; --bad-line:#EDB9AD;
+  --track:#E9EEE2; --flash:#E9F2C9;
+  --hl-yellow:#F5EE9A; --hl-green:#D6EAC4; --hl-blue:#D3E2F5; --hl-pink:#F4D6DC;
+  --t-orange:#8A5E22; --t-orange-bg:#F3ECDC; --t-blue:#436490; --t-blue-bg:#E4EDF7; --t-green:#3B6F2E; --t-green-bg:#E5F0DB;
+  --p1:#4E6E2E; --p1-bg:#E8F0DD; --p1-line:#C7DAAF;
+  --p2:#436490; --p2-bg:#E4EDF7; --p2-line:#BED0E8;
+  --p3:#964F5C; --p3-bg:#F6E7EA; --p3-line:#E5C3CA;
+  --p4:#7E5E26; --p4-bg:#F3EDDF; --p4-line:#E0CFA9;
+  --p5:#2E6C65; --p5-bg:#E1EFEC; --p5-line:#B0D4CE;
+  --p6:#5F6488; --p6-bg:#ECEDF5; --p6-line:#C7CADF;
+  --pink:#E1EBD3; --pink-ink:#40602A; --lime:#E1EBD2; --sky:#E3ECF7; --beige:#F4F2EB; --mint:#E3EFDE; --butter:#F0EFDD; --peach:#E5EDD9; --coral:#8FB06B;
+  --mark:#D9E8C3; --ring:#86A963; --meter-a:#C7DDAC; --logo-bg:#1B1D18; --logo-fg:#E8F0DD;
+  --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#7FA35A; --dd4:#A9C3E6; --dd5:#BCD3A2;
+  --shadow-sm:0 1px 2px rgba(30,40,20,.04),0 3px 12px rgba(30,40,20,.05);
+  --shadow:0 2px 4px rgba(30,40,20,.05),0 14px 30px rgba(30,40,20,.08);
+  --glow:0 6px 16px rgba(27,29,24,.16);
+  --font:"DM Sans",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+  --serif:"Fraunces",ui-serif,Georgia,"Times New Roman",serif;
+  --wave-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='18' viewBox='0 0 48 18'%3E%3Cpath d='M0 18V10Q12 0 24 10T48 10V18Z'/%3E%3C/svg%3E");
+  --wave-line:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='22' viewBox='0 0 48 22'%3E%3Cpath d='M0 11Q12 1 24 11T48 11' fill='none' stroke='%23B5CC9A' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E");
+  --scallop:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 80' preserveAspectRatio='none'%3E%3Cpath d='M99.3 40.0 L99.2 40.9 L98.9 41.7 L98.3 42.6 L97.5 43.4 L96.7 44.1 L95.9 44.9 L95.1 45.6 L94.4 46.3 L93.9 47.1 L93.5 47.8 L93.4 48.6 L93.5 49.4 L93.7 50.3 L94.0 51.3 L94.4 52.2 L94.7 53.2 L94.9 54.2 L95.0 55.1 L94.8 56.0 L94.5 56.9 L93.9 57.6 L93.1 58.2 L92.1 58.8 L91.0 59.3 L89.8 59.7 L88.6 60.1 L87.5 60.5 L86.5 60.9 L85.6 61.3 L84.9 61.9 L84.4 62.6 L84.0 63.4 L83.7 64.2 L83.4 65.2 L83.2 66.2 L83.0 67.2 L82.6 68.1 L82.2 69.0 L81.6 69.8 L80.8 70.4 L79.8 70.8 L78.7 71.1 L77.6 71.3 L76.3 71.4 L75.0 71.3 L73.7 71.3 L72.5 71.2 L71.4 71.3 L70.3 71.4 L69.4 71.7 L68.5 72.1 L67.7 72.6 L67.0 73.3 L66.3 74.1 L65.5 74.9 L64.7 75.7 L63.9 76.5 L63.0 77.1 L62.0 77.6 L61.0 77.9 L59.9 78.0 L58.7 77.9 L57.6 77.6 L56.4 77.2 L55.3 76.8 L54.1 76.3 L53.1 75.8 L52.0 75.5 L51.0 75.2 L50.0 75.2 L49.0 75.2 L48.0 75.5 L46.9 75.8 L45.9 76.3 L44.7 76.8 L43.6 77.2 L42.4 77.6 L41.3 77.9 L40.1 78.0 L39.0 77.9 L38.0 77.6 L37.0 77.1 L36.1 76.5 L35.3 75.7 L34.5 74.9 L33.7 74.1 L33.0 73.3 L32.3 72.6 L31.5 72.1 L30.6 71.7 L29.7 71.4 L28.6 71.3 L27.5 71.2 L26.3 71.3 L25.0 71.3 L23.7 71.4 L22.4 71.3 L21.3 71.1 L20.2 70.8 L19.2 70.4 L18.4 69.8 L17.8 69.0 L17.4 68.1 L17.0 67.2 L16.8 66.2 L16.6 65.2 L16.3 64.2 L16.0 63.4 L15.6 62.6 L15.1 61.9 L14.4 61.3 L13.5 60.9 L12.5 60.5 L11.4 60.1 L10.2 59.7 L9.0 59.3 L7.9 58.8 L6.9 58.2 L6.1 57.6 L5.5 56.9 L5.2 56.0 L5.0 55.1 L5.1 54.2 L5.3 53.2 L5.6 52.2 L6.0 51.3 L6.3 50.3 L6.5 49.4 L6.6 48.6 L6.5 47.8 L6.1 47.1 L5.6 46.3 L4.9 45.6 L4.1 44.9 L3.3 44.1 L2.5 43.4 L1.7 42.6 L1.1 41.7 L0.8 40.9 L0.6 40.0 L0.8 39.1 L1.1 38.3 L1.7 37.4 L2.5 36.6 L3.3 35.9 L4.1 35.1 L4.9 34.4 L5.6 33.7 L6.1 32.9 L6.5 32.2 L6.6 31.4 L6.5 30.6 L6.3 29.7 L6.0 28.7 L5.6 27.8 L5.3 26.8 L5.1 25.8 L5.0 24.9 L5.2 24.0 L5.5 23.1 L6.1 22.4 L6.9 21.8 L7.9 21.2 L9.0 20.7 L10.2 20.3 L11.4 19.9 L12.5 19.5 L13.5 19.1 L14.4 18.7 L15.1 18.1 L15.6 17.4 L16.0 16.6 L16.3 15.8 L16.6 14.8 L16.8 13.8 L17.0 12.8 L17.4 11.9 L17.8 11.0 L18.4 10.2 L19.2 9.6 L20.2 9.2 L21.3 8.9 L22.4 8.7 L23.7 8.6 L25.0 8.7 L26.3 8.7 L27.5 8.8 L28.6 8.7 L29.7 8.6 L30.6 8.3 L31.5 7.9 L32.3 7.4 L33.0 6.7 L33.7 5.9 L34.5 5.1 L35.3 4.3 L36.1 3.5 L37.0 2.9 L38.0 2.4 L39.0 2.1 L40.1 2.0 L41.3 2.1 L42.4 2.4 L43.6 2.8 L44.7 3.2 L45.9 3.7 L46.9 4.2 L48.0 4.5 L49.0 4.8 L50.0 4.9 L51.0 4.8 L52.0 4.5 L53.1 4.2 L54.1 3.7 L55.3 3.2 L56.4 2.8 L57.6 2.4 L58.7 2.1 L59.9 2.0 L61.0 2.1 L62.0 2.4 L63.0 2.9 L63.9 3.5 L64.7 4.3 L65.5 5.1 L66.3 5.9 L67.0 6.7 L67.7 7.4 L68.5 7.9 L69.4 8.3 L70.3 8.6 L71.4 8.7 L72.5 8.8 L73.7 8.7 L75.0 8.7 L76.3 8.6 L77.6 8.7 L78.7 8.9 L79.8 9.2 L80.8 9.6 L81.6 10.2 L82.2 11.0 L82.6 11.9 L83.0 12.8 L83.2 13.8 L83.4 14.8 L83.7 15.8 L84.0 16.6 L84.4 17.4 L84.9 18.1 L85.6 18.7 L86.5 19.1 L87.5 19.5 L88.6 19.9 L89.8 20.3 L91.0 20.7 L92.1 21.2 L93.1 21.8 L93.9 22.4 L94.5 23.1 L94.8 24.0 L95.0 24.9 L94.9 25.8 L94.7 26.8 L94.4 27.8 L94.0 28.7 L93.7 29.7 L93.5 30.6 L93.4 31.4 L93.5 32.2 L93.9 32.9 L94.4 33.7 L95.1 34.4 L95.9 35.1 L96.7 35.9 L97.5 36.6 L98.3 37.4 L98.9 38.3 L99.2 39.1Z'/%3E%3C/svg%3E");
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#141712; --bg-glass:rgba(20,23,18,.86); --side:#181C15; --side-hover:rgba(255,255,255,.06); --surface:#1D211A; --field:#242A20; --hover:#2A3125;
+    --ink:#EFF3EA; --ink-2:#D3DACA; --ink-3:#A6AF9B; --ink-4:#7A8370;
+    --line:#2A3025; --line-2:#394130;
+    --primary:#DCE8C9; --primary-hover:#EAF1DE; --primary-ink:#B6D199; --on-primary:#141712;
+    --primary-soft:#2C3A22; --primary-softer:#212A1B; --logo-a:#DCE8C9; --logo-b:#B9D198;
+    --good:#7DBA6A; --good-ink:#A3D48F; --good-soft:#1B2A17; --good-line:#3B6430;
+    --bad:#E5917F; --bad-ink:#F0A796; --bad-soft:#33201B; --bad-line:#76392C;
+    --track:#2C3328; --flash:#3E4A1E;
+    --hl-yellow:rgba(247,232,120,.30); --hl-green:rgba(170,215,130,.28); --hl-blue:rgba(140,180,240,.30); --hl-pink:rgba(240,160,180,.28);
+    --t-orange:#E2B676; --t-orange-bg:#33291A; --t-blue:#9FBDE6; --t-blue-bg:#1D2836; --t-green:#A3D48F; --t-green-bg:#1B2A17;
+    --p1:#B6D199; --p1-bg:#25311C; --p1-line:#4A6334;
+    --p2:#9FBDE6; --p2-bg:#1D2836; --p2-line:#3A5373;
+    --p3:#E3A3AD; --p3-bg:#36222A; --p3-line:#704453;
+    --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
+    --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
+    --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+    --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
+    --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
+    --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
+    --shadow-sm:0 1px 2px rgba(0,0,0,.35); --shadow:0 2px 6px rgba(0,0,0,.4),0 12px 28px rgba(0,0,0,.35); --glow:0 6px 18px rgba(220,232,201,.12);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#141712; --bg-glass:rgba(20,23,18,.86); --side:#181C15; --side-hover:rgba(255,255,255,.06); --surface:#1D211A; --field:#242A20; --hover:#2A3125;
+  --ink:#EFF3EA; --ink-2:#D3DACA; --ink-3:#A6AF9B; --ink-4:#7A8370;
+  --line:#2A3025; --line-2:#394130;
+  --primary:#DCE8C9; --primary-hover:#EAF1DE; --primary-ink:#B6D199; --on-primary:#141712;
+  --primary-soft:#2C3A22; --primary-softer:#212A1B; --logo-a:#DCE8C9; --logo-b:#B9D198;
+  --good:#7DBA6A; --good-ink:#A3D48F; --good-soft:#1B2A17; --good-line:#3B6430;
+  --bad:#E5917F; --bad-ink:#F0A796; --bad-soft:#33201B; --bad-line:#76392C;
+  --track:#2C3328; --flash:#3E4A1E;
+  --hl-yellow:rgba(247,232,120,.30); --hl-green:rgba(170,215,130,.28); --hl-blue:rgba(140,180,240,.30); --hl-pink:rgba(240,160,180,.28);
+  --t-orange:#E2B676; --t-orange-bg:#33291A; --t-blue:#9FBDE6; --t-blue-bg:#1D2836; --t-green:#A3D48F; --t-green-bg:#1B2A17;
+  --p1:#B6D199; --p1-bg:#25311C; --p1-line:#4A6334;
+  --p2:#9FBDE6; --p2-bg:#1D2836; --p2-line:#3A5373;
+  --p3:#E3A3AD; --p3-bg:#36222A; --p3-line:#704453;
+  --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
+  --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
+  --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+  --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
+  --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
+  --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.35); --shadow:0 2px 6px rgba(0,0,0,.4),0 12px 28px rgba(0,0,0,.35); --glow:0 6px 18px rgba(220,232,201,.12);
+}
+/* the viewer's own choice (Light / Dark buttons) beats both the system setting and the host stamp */
+html:root[data-user-theme="light"]{
+  color-scheme:light;
+  --bg:#F4F7EF; --bg-glass:rgba(244,247,239,.88); --side:#EBF1E3; --side-hover:rgba(255,255,255,.6); --surface:#FFFFFF; --field:#F1F4EC; --hover:#EEF2E8;
+  --ink:#1A1C17; --ink-2:#3D4337; --ink-3:#687062; --ink-4:#A1A898;
+  --line:#E5EBDD; --line-2:#D6DECB;
+  --primary:#1B1D18; --primary-hover:#353A2F; --primary-ink:#4A6A2E; --on-primary:#FFFFFF;
+  --primary-soft:#E2ECD5; --primary-softer:#F0F5E9; --logo-a:#DCE8C9; --logo-b:#B9D198;
+  --good:#5E9B4F; --good-ink:#3B6F2E; --good-soft:#EAF4E3; --good-line:#B8D9A6;
+  --bad:#D47462; --bad-ink:#A9432F; --bad-soft:#FBECE8; --bad-line:#EDB9AD;
+  --track:#E9EEE2; --flash:#E9F2C9;
+  --hl-yellow:#F5EE9A; --hl-green:#D6EAC4; --hl-blue:#D3E2F5; --hl-pink:#F4D6DC;
+  --t-orange:#8A5E22; --t-orange-bg:#F3ECDC; --t-blue:#436490; --t-blue-bg:#E4EDF7; --t-green:#3B6F2E; --t-green-bg:#E5F0DB;
+  --p1:#4E6E2E; --p1-bg:#E8F0DD; --p1-line:#C7DAAF;
+  --p2:#436490; --p2-bg:#E4EDF7; --p2-line:#BED0E8;
+  --p3:#964F5C; --p3-bg:#F6E7EA; --p3-line:#E5C3CA;
+  --p4:#7E5E26; --p4-bg:#F3EDDF; --p4-line:#E0CFA9;
+  --p5:#2E6C65; --p5-bg:#E1EFEC; --p5-line:#B0D4CE;
+  --p6:#5F6488; --p6-bg:#ECEDF5; --p6-line:#C7CADF;
+  --pink:#E1EBD3; --pink-ink:#40602A; --lime:#E1EBD2; --sky:#E3ECF7; --beige:#F4F2EB; --mint:#E3EFDE; --butter:#F0EFDD; --peach:#E5EDD9; --coral:#8FB06B;
+  --mark:#D9E8C3; --ring:#86A963; --meter-a:#C7DDAC; --logo-bg:#1B1D18; --logo-fg:#E8F0DD;
+  --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#7FA35A; --dd4:#A9C3E6; --dd5:#BCD3A2;
+  --shadow-sm:0 1px 2px rgba(30,40,20,.04),0 3px 12px rgba(30,40,20,.05);
+  --shadow:0 2px 4px rgba(30,40,20,.05),0 14px 30px rgba(30,40,20,.08);
+  --glow:0 6px 16px rgba(27,29,24,.16);
+}
+html:root[data-user-theme="dark"]{
+  color-scheme:dark;
+  --bg:#141712; --bg-glass:rgba(20,23,18,.86); --side:#181C15; --side-hover:rgba(255,255,255,.06); --surface:#1D211A; --field:#242A20; --hover:#2A3125;
+  --ink:#EFF3EA; --ink-2:#D3DACA; --ink-3:#A6AF9B; --ink-4:#7A8370;
+  --line:#2A3025; --line-2:#394130;
+  --primary:#DCE8C9; --primary-hover:#EAF1DE; --primary-ink:#B6D199; --on-primary:#141712;
+  --primary-soft:#2C3A22; --primary-softer:#212A1B; --logo-a:#DCE8C9; --logo-b:#B9D198;
+  --good:#7DBA6A; --good-ink:#A3D48F; --good-soft:#1B2A17; --good-line:#3B6430;
+  --bad:#E5917F; --bad-ink:#F0A796; --bad-soft:#33201B; --bad-line:#76392C;
+  --track:#2C3328; --flash:#3E4A1E;
+  --hl-yellow:rgba(247,232,120,.30); --hl-green:rgba(170,215,130,.28); --hl-blue:rgba(140,180,240,.30); --hl-pink:rgba(240,160,180,.28);
+  --t-orange:#E2B676; --t-orange-bg:#33291A; --t-blue:#9FBDE6; --t-blue-bg:#1D2836; --t-green:#A3D48F; --t-green-bg:#1B2A17;
+  --p1:#B6D199; --p1-bg:#25311C; --p1-line:#4A6334;
+  --p2:#9FBDE6; --p2-bg:#1D2836; --p2-line:#3A5373;
+  --p3:#E3A3AD; --p3-bg:#36222A; --p3-line:#704453;
+  --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
+  --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
+  --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+  --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
+  --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
+  --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.35); --shadow:0 2px 6px rgba(0,0,0,.4),0 12px 28px rgba(0,0,0,.35); --glow:0 6px 18px rgba(220,232,201,.12);
+}
+.pc-1{--pc:var(--p1);--pc-bg:var(--p1-bg);--pc-line:var(--p1-line)}
+.pc-2{--pc:var(--p2);--pc-bg:var(--p2-bg);--pc-line:var(--p2-line)}
+.pc-3{--pc:var(--p3);--pc-bg:var(--p3-bg);--pc-line:var(--p3-line)}
+.pc-4{--pc:var(--p4);--pc-bg:var(--p4-bg);--pc-line:var(--p4-line)}
+.pc-5{--pc:var(--p5);--pc-bg:var(--p5-bg);--pc-line:var(--p5-line)}
+.pc-6{--pc:var(--p6);--pc-bg:var(--p6-bg);--pc-line:var(--p6-line)}
+
+*,*::before,*::after{box-sizing:border-box}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 var(--font);-webkit-font-smoothing:antialiased}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--primary-ink)}
+svg{flex:none}
+:focus-visible{outline:2px solid var(--primary-ink);outline-offset:2px;border-radius:8px}
+.sr{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.ic{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* ---------- app shell ---------- */
+.app{display:grid;grid-template-columns:284px minmax(0,1fr);min-height:100vh}
+.sidebar{position:sticky;top:0;height:100vh;height:100dvh;overflow-y:auto;overscroll-behavior:contain;background:var(--side);border-right:1px solid var(--line);padding:20px 16px 28px;display:flex;flex-direction:column;gap:18px}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.side-top{display:flex;align-items:center}
+.logo{display:flex;align-items:center;gap:12px;padding:2px 6px;color:var(--ink);text-decoration:none}
+.logo-tile{width:42px;height:42px;border-radius:12px;background:linear-gradient(135deg,var(--logo-a),var(--logo-b));color:#fff;display:grid;place-items:center;font-weight:800;font-size:20px;box-shadow:var(--glow)}
+.logo-name{font-size:21px;font-weight:700;letter-spacing:-.02em}
+.icon-btn.side-close{display:none;margin-left:auto}
+.side-card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:14px 14px 12px;display:grid;grid-template-columns:44px minmax(0,1fr);gap:2px 12px;align-items:center;box-shadow:var(--shadow-sm)}
+.avatar{grid-row:span 2;width:44px;height:44px;border-radius:50%;background:var(--primary-soft);color:var(--primary-ink);display:grid;place-items:center}
+.side-card .name{font-weight:600;font-size:15.5px;line-height:1.25}
+.side-card .sub{font-size:13px;color:var(--ink-3);line-height:1.3}
+.side-card .mini{grid-column:1/3;display:flex;align-items:center;gap:10px;margin-top:10px}
+.side-card .mini .meter{height:6px}
+.side-card .mini .pct{font-size:13px;min-width:0}
+.nav{display:grid;gap:4px}
+.nav a{display:flex;align-items:center;gap:14px;height:46px;padding:0 14px;border-radius:12px;color:var(--ink-2);text-decoration:none;font-size:15.5px;font-weight:500}
+.nav a .ic{width:21px;height:21px}
+.nav a:hover{background:var(--hover);color:var(--ink)}
+.nav a.active{background:var(--primary-soft);color:var(--primary-ink);font-weight:600}
+.badge{margin-left:auto;font-size:12px;font-weight:600;background:var(--bad-soft);color:var(--bad-ink);padding:2px 9px;border-radius:99px}
+.sec-label{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3);padding:14px 14px 6px;border-top:1px solid var(--line);margin:0}
+.sec-label .ic{width:18px;height:18px}
+.tree{display:grid;gap:2px}
+.pkt-btn{display:flex;align-items:center;gap:10px;width:100%;padding:8px 10px;border:0;background:none;border-radius:10px;cursor:pointer;text-align:left;font-size:15px;font-weight:500;color:var(--ink);line-height:1.3}
+.pkt-btn:hover{background:var(--hover)}
+.pkt-btn .chev{width:16px;height:16px;color:var(--ink-4);transition:transform .2s}
+.pkt-btn[aria-expanded="false"] .chev{transform:rotate(-90deg)}
+.folder{width:20px;height:20px;color:var(--pc);fill:currentColor;stroke:none}
+.tree ol{list-style:none;margin:2px 0 8px 27px;padding:0 0 0 10px;border-left:2px solid var(--pc-line)}
+.tree ol a{display:block;padding:7px 10px;border-radius:9px;color:var(--ink-2);text-decoration:none;font-size:14.5px;line-height:1.3}
+.tree ol a:hover{background:var(--hover);color:var(--ink)}
+.tree ol a[aria-current="true"]{background:var(--primary-soft);color:var(--primary-ink);font-weight:600}
+.theme-seg{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;padding:3px;margin:0 6px;border-radius:12px;background:var(--field)}
+.theme-seg button{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:34px;border:0;border-radius:9px;background:transparent;color:var(--ink-3);font-size:13.5px;font-weight:600;cursor:pointer}
+.theme-seg button .ic{width:16px;height:16px}
+.theme-seg button:hover{color:var(--ink)}
+.theme-seg button[aria-pressed="true"]{background:var(--surface);color:var(--primary-ink);box-shadow:var(--shadow-sm)}
+.scrim{display:none}
+
+.main{min-width:0;display:flex;flex-direction:column}
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:40;display:flex;align-items:center;gap:14px;padding:14px 32px;background:var(--bg-glass);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.icon-btn.menu-btn{display:none}
+.icon-btn{display:inline-grid;place-items:center;width:46px;height:46px;border-radius:12px;border:1px solid var(--line-2);background:var(--surface);cursor:pointer;color:var(--ink);flex:none}
+.searchbox{position:relative;flex:1;max-width:780px}
+.searchbox .ic{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--ink-3);pointer-events:none}
+.searchbox input{width:100%;height:50px;border-radius:14px;border:1px solid transparent;background:var(--field);padding:0 16px 0 48px;font-size:16px;color:var(--ink)}
+.searchbox input::placeholder{color:var(--ink-4)}
+.searchbox input:focus{outline:none;background:var(--surface);border-color:var(--primary-ink);box-shadow:0 0 0 4px var(--primary-soft)}
+.theme-btn{margin-left:auto}
+.topbar .new-quiz{height:50px;padding:0 22px;border-radius:14px;font-size:16px}
+.content{width:100%;max-width:1240px;padding:18px 32px 110px}
+@media (max-width:1023px){
+  .app{grid-template-columns:minmax(0,1fr)}
+  .sidebar{position:fixed;z-index:60;left:0;top:0;bottom:0;height:auto;width:min(300px,86vw);transform:translateX(-105%);visibility:hidden;transition:transform .25s ease,visibility 0s linear .25s;box-shadow:0 0 50px rgba(0,0,0,.25);padding-top:calc(env(safe-area-inset-top,0px) + 18px);padding-bottom:calc(env(safe-area-inset-bottom,0px) + 28px)}
+  .sidebar.open{transform:none;visibility:visible;transition:transform .25s ease}
+  .icon-btn.side-close{display:inline-grid;width:40px;height:40px}
+  .scrim{display:block;position:fixed;inset:0;z-index:55;background:rgba(10,8,16,.45)}
+  .icon-btn.menu-btn{display:inline-grid}
+}
+@media (max-width:640px){
+  .topbar{padding:12px 16px;gap:10px}
+  .content{padding:10px 16px 110px}
+  .topbar .new-quiz{width:46px;height:46px;padding:0;border-radius:12px}
+  .topbar .new-quiz .lbl{display:none}
+  .searchbox input{height:46px;font-size:16px}
+}
+
+/* ---------- shared pieces ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:44px;padding:0 18px;border-radius:12px;border:1px solid var(--line-2);background:var(--surface);color:var(--ink);font-size:15px;font-weight:600;cursor:pointer;text-decoration:none;white-space:nowrap;transition:background .15s,border-color .15s,box-shadow .15s}
+.btn:hover{background:var(--hover)}
+.btn .ic{width:18px;height:18px}
+.btn.primary{background:var(--primary);border-color:var(--primary);color:var(--on-primary);box-shadow:var(--glow)}
+.btn.primary:hover{background:var(--primary-hover);border-color:var(--primary-hover)}
+.btn.sm{height:36px;padding:0 13px;font-size:14px;border-radius:10px}
+.btn.ghost{background:transparent;border-color:transparent;color:var(--primary-ink)}
+.btn.ghost:hover{background:var(--primary-soft)}
+.btn:disabled{opacity:.5;cursor:not-allowed;box-shadow:none}
+.btn .count{font-weight:500;opacity:.8}
+.btn.wide{width:100%;height:52px;font-size:16px;border-radius:14px}
+.linkbtn{background:none;border:0;padding:0;color:var(--primary-ink);font-weight:600;cursor:pointer;font-size:14.5px}
+.linkbtn:hover{text-decoration:underline;text-underline-offset:3px}
+.linkbtn.danger{color:var(--bad-ink)}
+.chip{display:inline-flex;align-items:center;font-size:12.5px;font-weight:600;padding:3px 10px;border-radius:99px;background:var(--pc-bg,var(--primary-soft));color:var(--pc,var(--primary-ink));white-space:nowrap;line-height:1.5}
+.meter{flex:1;display:block;height:8px;min-width:40px;border-radius:99px;background:var(--track);overflow:hidden}
+.meter>i{display:block;height:100%;width:var(--w,0%);background:var(--good);border-radius:inherit;transition:width .5s ease}
+.pct{font-size:14.5px;font-weight:700;color:var(--good-ink);min-width:42px;text-align:right;font-variant-numeric:tabular-nums}
+.pct.zero{color:var(--ink-4)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow-sm)}
+.page-title{font-size:clamp(27px,3.4vw,34px);font-weight:700;letter-spacing:-.022em;line-height:1.15;margin:6px 0 6px;text-wrap:balance}
+.page-sub{font-size:16.5px;color:var(--ink-3);margin:0;max-width:64ch}
+.tile{flex:none;display:grid;place-items:center;width:52px;height:52px;border-radius:14px}
+.tile .ic{width:24px;height:24px}
+.tile.orange{background:var(--t-orange-bg);color:var(--t-orange)}
+.tile.blue{background:var(--t-blue-bg);color:var(--t-blue)}
+.tile.green{background:var(--t-green-bg);color:var(--t-green)}
+.tile.pk{background:var(--pc-bg);color:var(--pc)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:18px;margin:26px 0 34px}
+.statcard{display:flex;align-items:center;gap:18px;padding:22px 24px}
+.stat-num{font-size:30px;font-weight:700;letter-spacing:-.02em;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat-label{font-size:15px;color:var(--ink-3)}
+.dot{color:var(--ink-4)}
+@media (max-width:640px){
+  .stats{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:20px 0 26px}
+  .statcard{flex-direction:column;align-items:flex-start;gap:10px;padding:14px 14px 12px}
+  .statcard .tile{width:38px;height:38px;border-radius:11px}
+  .statcard .tile .ic{width:19px;height:19px}
+  .stat-num{font-size:22px}
+  .stat-label{font-size:12.5px;line-height:1.3}
+}
+.sec-title{font-size:20px;font-weight:700;letter-spacing:-.012em;margin:34px 0 14px}
+
+/* ---------- home ---------- */
+.home-head{display:flex;flex-wrap:wrap;align-items:flex-end;gap:14px 20px}
+.done-actions{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:6px}
+.page-sub+.done-actions{margin-top:20px}
+.home-head .actions{margin-left:auto;display:flex;gap:10px;flex-wrap:wrap}
+.packet{margin-bottom:36px}
+.packet-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+.packet-head .folder{width:26px;height:26px}
+.packet-title{font-size:19px;font-weight:700;letter-spacing:-.012em;margin:0}
+.packet-meta{font-size:14.5px;color:var(--ink-3)}
+.packet-actions{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+.decks{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,420px),1fr));gap:14px}
+.deck{position:relative;display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:2px 18px;align-items:start;padding:20px 22px;transition:box-shadow .15s,border-color .15s}
+.deck:hover{box-shadow:var(--shadow);border-color:var(--line-2)}
+.deck .tile{grid-row:span 2}
+.deck-title{font-size:17.5px;font-weight:600;color:var(--ink);text-decoration:none;line-height:1.3;align-self:center}
+.deck-title::after{content:"";position:absolute;inset:0;border-radius:18px}
+.deck-meta{font-size:14px;color:var(--ink-3);display:flex;gap:6px;flex-wrap:wrap;grid-column:2/4}
+.deck-prog{grid-column:1/4;display:flex;align-items:center;gap:14px;margin-top:14px}
+.deck .quiz-btn{position:relative;z-index:1}
+
+/* ---------- notes ---------- */
+.event-head{margin:4px 0 22px;max-width:900px}
+.crumb{display:flex;align-items:center;gap:10px;font-size:14.5px;color:var(--ink-3);margin:0 0 8px;flex-wrap:wrap}
+.event-meta{display:flex;gap:8px;flex-wrap:wrap;color:var(--ink-3);font-size:15.5px;margin:0 0 18px}
+.head-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px}
+.head-prog{display:flex;align-items:center;gap:12px;flex:1 1 220px;max-width:340px;margin-left:auto}
+.doc{padding:34px 40px;max-width:900px;border-radius:20px}
+@media (max-width:640px){.doc{padding:20px 18px;border-radius:16px}.head-prog{margin-left:0;max-width:none}}
+.prose{font-size:16.5px;line-height:1.72;color:var(--ink-2);max-width:74ch}
+.prose>:first-child{margin-top:0}
+.prose p{margin:0 0 14px}
+.prose b{color:var(--ink);font-weight:600}
+.prose i{font-style:italic}
+.prose h2{font-size:19px;font-weight:700;color:var(--primary-ink);margin:34px 0 10px;letter-spacing:-.012em;line-height:1.3}
+.prose h3{font-size:16.5px;font-weight:600;color:var(--primary-ink);margin:24px 0 8px}
+.prose h4{font-size:16.5px;font-weight:700;color:var(--ink);margin:24px 0 8px}
+.prose ul,.prose ol{margin:6px 0 16px;padding-left:1.4em}
+.prose li{margin:5px 0;padding-left:.2em}
+.prose li>ul,.prose li>ol{margin:5px 0 8px}
+.prose ul>li::marker{color:var(--primary-ink)}
+.prose ol>li::marker{color:var(--primary-ink);font-weight:600}
+.prose .acc{color:var(--primary-ink)}
+.prose b.acc{color:var(--primary-ink)}
+.prose u{text-decoration-thickness:1px;text-underline-offset:3px}
+.prose .tip{background:var(--primary-softer);border:1px solid var(--primary-soft);padding:12px 16px;border-radius:12px}
+.prose li,.prose p,.prose tr,.prose h2,.prose h3,.prose h4{scroll-margin-top:110px;scroll-margin-bottom:60px}
+.flash{animation:flash 3s ease-out;border-radius:6px}
+@keyframes flash{0%,45%{background:var(--flash);box-shadow:0 0 0 6px var(--flash)}100%{background:transparent;box-shadow:0 0 0 6px transparent}}
+.tbl{margin:14px 0 22px;overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.tbl table{width:100%;border-collapse:collapse;font-size:14.5px;line-height:1.5;color:var(--ink-2)}
+.tbl th,.tbl td{text-align:left;vertical-align:top;padding:11px 14px;border-bottom:1px solid var(--line)}
+.tbl tr:last-child>*{border-bottom:0}
+.tbl thead th{font-weight:600;font-size:13.5px;color:var(--primary-ink);background:var(--primary-softer)}
+.tbl tbody th{font-weight:600;color:var(--ink)}
+.tbl ul{margin:0;padding-left:1.1em}
+.tbl li{margin:2px 0}
+.tbl ul.plain{list-style:none;padding:0}
+.tbl table.calc{min-width:600px}
+.tbl table.cpr{min-width:660px}
+.tbl table.num td{font-variant-numeric:tabular-nums}
+.tbl table.two td,.tbl table.formula td{width:50%}
+.math{display:inline-flex;align-items:center;gap:.3em;font-style:italic;white-space:nowrap}
+.frac{display:inline-flex;flex-direction:column;align-items:center;line-height:1.3;font-size:.95em}
+.frac>span:first-child{padding:0 .25em 2px;border-bottom:1px solid currentColor}
+.frac>span:last-child{padding:2px .25em 0}
+.sqrt{display:inline-flex;align-items:stretch}
+.sqrt .rs{font-style:normal;font-size:1.75em;line-height:1;align-self:center;margin-right:-1px}
+.sqrt .rad{border-top:1px solid currentColor;padding:4px 2px 0}
+.sw{display:inline-block;width:.8em;height:.8em;border-radius:50%;margin-right:.5em;vertical-align:-.05em;box-shadow:inset 0 0 0 1px rgba(128,128,128,.6)}
+.sw-blue{background:#2B63B8}.sw-red{background:#B3261E}.sw-white{background:#FFFFFF}.sw-black{background:#111111}.sw-gray{background:#9B9B9B}
+.duo{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:12px;margin:14px 0 22px}
+.duo-col{border:1px solid var(--line);border-radius:14px;padding:14px 16px 4px;background:var(--primary-softer)}
+.prose .duo-h{font-size:14.5px;font-weight:600;color:var(--ink);margin:0 0 6px}
+.ev-nav{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:22px;max-width:900px}
+.ev-nav a{display:flex;flex-direction:column;gap:3px;padding:14px 18px;text-decoration:none;color:var(--ink);font-weight:600;background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow-sm)}
+.ev-nav a:hover{box-shadow:var(--shadow)}
+.ev-nav .lbl{font-size:13px;font-weight:500;color:var(--ink-3)}
+.ev-nav .next{grid-column:2;text-align:right}
+.results-head{font-size:14.5px;color:var(--ink-3);margin:6px 0 14px}
+.result{display:block;width:100%;max-width:900px;text-align:left;padding:14px 18px;margin-bottom:10px;cursor:pointer}
+.result:hover{box-shadow:var(--shadow)}
+.r-ev{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--ink-3);margin:0 0 6px;font-weight:500}
+.r-text{display:block;font-size:15.5px;line-height:1.55;color:var(--ink-2)}
+mark{background:var(--flash);color:inherit;border-radius:3px;padding:0 1px}
+mark.hl{color:inherit;border-radius:3px;padding:0 1px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+mark.hl[data-c="yellow"]{background:var(--hl-yellow)} mark.hl[data-c="green"]{background:var(--hl-green)}
+mark.hl[data-c="blue"]{background:var(--hl-blue)} mark.hl[data-c="pink"]{background:var(--hl-pink)}
+.prose mark.hl{cursor:pointer}
+mark.hl.flash{animation:flashmark 3s ease-out}
+@keyframes flashmark{0%,45%{box-shadow:0 0 0 3px var(--primary-ink)}100%{box-shadow:0 0 0 3px transparent}}
+.hl-hint{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--ink-3);margin:14px 0 0}
+.hl-hint .ic{width:16px;height:16px;color:var(--primary-ink)}
+.hl-bar{position:absolute;z-index:70;display:flex;align-items:center;gap:2px;padding:5px;border-radius:13px;background:var(--surface);border:1px solid var(--line-2);box-shadow:var(--shadow)}
+.hl-bar button{width:34px;height:34px;border-radius:9px;border:0;background:transparent;display:grid;place-items:center;cursor:pointer;color:var(--ink-2)}
+.hl-bar button:hover{background:var(--hover)}
+.hl-bar .sw2{width:20px;height:20px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(0,0,0,.18)}
+.hl-bar [data-c="yellow"] .sw2{background:#FACC15} .hl-bar [data-c="green"] .sw2{background:#4ADE80}
+.hl-bar [data-c="blue"] .sw2{background:#60A5FA} .hl-bar [data-c="pink"] .sw2{background:#F472B6}
+.hl-bar .sep{width:1px;height:22px;background:var(--line-2);margin:0 3px}
+.hl-bar .hl-remove{color:var(--bad-ink)}
+.hl-bar .hl-remove .ic{width:18px;height:18px}
+.chip.hard{background:var(--t-orange-bg);color:var(--t-orange)}
+.seg.seg3{grid-template-columns:repeat(3,1fr)}
+.opt-note{clear:both;margin:10px 0 0;font-size:13px;color:var(--ink-3);line-height:1.4}
+.deck-btns{position:relative;z-index:1;grid-row:1;grid-column:3;display:flex;gap:2px}
+#v-review .packet{margin-top:28px}
+.wrong-sec{margin-bottom:12px;max-width:900px}
+.wrong-sec>summary{display:flex;align-items:center;gap:8px 14px;flex-wrap:wrap;padding:14px 18px;cursor:pointer;list-style:none}
+.wrong-sec>summary::-webkit-details-marker{display:none}
+.wrong-sec>summary::before{content:"";flex:none;width:8px;height:8px;border-right:2px solid var(--ink-3);border-bottom:2px solid var(--ink-3);transform:rotate(-45deg);transition:transform .2s}
+.wrong-sec[open]>summary::before{transform:rotate(45deg)}
+.ws-title{font-weight:600;font-size:16px;color:var(--ink)}
+.ws-count{font-size:13.5px;font-weight:600;color:var(--bad-ink)}
+.ws-btns{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+.wrong-list{list-style:none;margin:0;padding:0 18px 6px;border-top:1px solid var(--line)}
+.wrong-list>li{padding:14px 0;border-bottom:1px solid var(--line)}
+.wrong-list>li:last-child{border-bottom:0}
+.wq{font-weight:600;font-size:15.5px;line-height:1.45;margin:0 0 8px;color:var(--ink)}
+.wq .chip{margin-left:8px;vertical-align:1px}
+.wrong-list .explain{font-size:14.5px;color:var(--ink-3);margin:8px 0 6px}
+.rev-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px 16px;align-items:center;padding:14px 18px;margin-bottom:10px;max-width:900px}
+.rev-title{font-weight:600;font-size:16px;margin:0;color:var(--ink)}
+.rev-meta{font-size:13.5px;color:var(--ink-3);margin:2px 0 0}
+.rev-btns{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+@media (max-width:560px){.rev-row{grid-template-columns:minmax(0,1fr)}.rev-btns{justify-content:flex-start}}
+.mini-review{position:relative;z-index:1;border:0;background:var(--t-orange-bg);color:var(--t-orange);font-size:12.5px;font-weight:600;padding:1px 9px;border-radius:99px;cursor:pointer;line-height:1.6}
+.mini-review:hover{filter:brightness(.97)}
+.badge.neutral{background:var(--primary-soft);color:var(--primary-ink)}
+.hl-group{margin:26px 0 0}
+.hl-group-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 10px}
+.hl-group-head h2{font-size:17.5px;font-weight:700;letter-spacing:-.01em;margin:0}
+.hl-item{display:flex;align-items:flex-start;gap:12px 20px;flex-wrap:wrap;padding:14px 18px;margin-bottom:10px;max-width:900px}
+.hl-quote{flex:1 1 320px;margin:0;font-size:15.5px;line-height:1.7;color:var(--ink-2)}
+.hl-actions{display:flex;gap:16px;flex:none;padding-top:2px}
+.hl-clear{margin:22px 0 0}
+.empty{display:flex;align-items:center;gap:16px 18px;flex-wrap:wrap;padding:22px 24px;margin-top:24px;max-width:900px}
+.empty-title{font-weight:700;font-size:17px;margin:0 0 2px}
+.empty-sub{margin:0;color:var(--ink-3)}
+.empty .btn{margin-left:auto}
+.back-pill{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(env(safe-area-inset-bottom,0px) + 20px);z-index:45}
+@media (min-width:1024px){.back-pill{left:calc(50% + 142px)}}
+
+/* ---------- quiz ---------- */
+.setup-grid{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:24px;align-items:start;margin-top:24px}
+@media (max-width:1100px){.setup-grid{grid-template-columns:minmax(0,1fr)}}
+.scope-tools{display:flex;gap:18px;margin:0 0 12px}
+.scope fieldset{padding:14px 16px 12px;margin:0 0 14px;min-width:0}
+.scope legend{float:left;width:100%;padding:0;margin:0 0 6px}
+.part-check{display:flex;align-items:center;gap:10px;font-weight:600;font-size:15.5px;cursor:pointer}
+.part-check .folder{width:20px;height:20px}
+.ev-opts{clear:both;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr));gap:2px 14px}
+.ev-opt{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:6px 10px;align-items:center;padding:8px 8px;border-radius:10px;cursor:pointer;font-size:14.5px}
+.ev-opt:hover{background:var(--hover)}
+.ev-opt .meter{grid-column:2/4;height:4px}
+.qn{font-size:12.5px;color:var(--ink-4);white-space:nowrap;font-variant-numeric:tabular-nums}
+input[type=checkbox],input[type=radio]{accent-color:var(--primary);width:18px;height:18px;margin:0;flex:none}
+.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + 92px);display:grid;gap:14px}
+@media (max-width:1100px){.side{position:static}}
+.opt{padding:14px 16px 14px;margin:0;min-width:0}
+.opt legend{float:left;width:100%;padding:0;margin:0 0 6px;font-weight:600;font-size:15.5px}
+.radio{clear:both;display:flex;gap:12px;align-items:flex-start;padding:7px 0;cursor:pointer;font-size:15px}
+.radio input{margin-top:2px}
+.radio small{display:block;color:var(--ink-3);font-size:13px;line-height:1.35;margin-top:1px}
+.seg{clear:both;display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.seg label{position:relative;cursor:pointer}
+.seg input{position:absolute;inset:0;opacity:0;width:100%;height:100%;cursor:pointer}
+.seg span{display:block;text-align:center;padding:9px 0;border:1px solid var(--line-2);border-radius:10px;font-weight:600;font-size:14.5px}
+.seg input:checked+span{background:var(--primary-soft);border-color:var(--primary-ink);color:var(--primary-ink)}
+.seg input:focus-visible+span{outline:2px solid var(--primary-ink);outline-offset:2px}
+.avail{margin:-2px 0 0;font-size:13.5px;color:var(--ink-3);text-align:center}
+.prog-box{font-size:13.5px;color:var(--ink-3);padding:14px 16px}
+.prog-box p{margin:0 0 8px}
+
+.quiz-wrap{max-width:800px;margin:0 auto;scroll-margin-top:90px}
+.run-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:6px 0 12px}
+.run-ev{font-weight:600;font-size:15px}
+.run-count{margin-left:auto;font-size:14px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.progressbar{height:8px;background:var(--track);border-radius:99px;overflow:hidden;margin-bottom:22px}
+.progressbar i{display:block;height:100%;width:var(--w,0%);background:linear-gradient(90deg,var(--logo-a),var(--primary));border-radius:inherit;transition:width .3s ease}
+.qcard{padding:28px;border-radius:20px;box-shadow:var(--shadow)}
+@media (max-width:640px){.qcard{padding:20px 16px}}
+.qtext{font-size:20px;font-weight:600;line-height:1.45;letter-spacing:-.01em;margin:0 0 22px;color:var(--ink);text-wrap:pretty}
+.qtext:focus{outline:none}
+.choices{display:grid;gap:10px}
+.choice{display:flex;align-items:flex-start;gap:14px;width:100%;text-align:left;padding:13px 16px;border:1.5px solid var(--line-2);border-radius:14px;background:var(--surface);cursor:pointer;font-size:15.5px;line-height:1.45;color:var(--ink-2);transition:border-color .15s,background .15s}
+.choice:hover:not(:disabled){border-color:var(--primary-ink);background:var(--primary-softer)}
+.bub{flex:none;width:30px;height:30px;border-radius:50%;border:1.5px solid var(--line-2);display:grid;place-items:center;font-size:13px;font-weight:700;color:var(--ink-3);margin-top:-3px;background:var(--surface)}
+.choice:hover:not(:disabled) .bub{border-color:var(--primary-ink);color:var(--primary-ink)}
+.ctext{padding-top:1px;min-width:0}
+.choice:disabled{cursor:default}
+.choice.correct{border-color:var(--good);background:var(--good-soft);color:var(--ink)}
+.choice.correct .bub{background:var(--good);border-color:var(--good);color:#fff}
+.choice.wrong{border-color:var(--bad);background:var(--bad-soft);color:var(--ink)}
+.choice.wrong .bub{background:var(--bad);border-color:var(--bad);color:#fff}
+.choice.dim{opacity:.55}
+.spell{display:flex;gap:10px;flex-wrap:wrap}
+.spell input{flex:1 1 230px;min-width:0;height:50px;padding:0 16px;border-radius:14px;border:1.5px solid var(--line-2);background:var(--surface);font-size:17px}
+.spell input:focus{outline:none;border-color:var(--primary-ink);box-shadow:0 0 0 4px var(--primary-soft)}
+.spell.correct input{border-color:var(--good);background:var(--good-soft)}
+.spell.wrong input{border-color:var(--bad);background:var(--bad-soft);text-decoration:line-through}
+.spell .btn{height:50px}
+.feedback{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.verdict{display:flex;align-items:center;gap:8px;font-weight:700;margin:0 0 6px;font-size:16px}
+.verdict .ic{width:20px;height:20px}
+.verdict.ok{color:var(--good-ink)}.verdict.no{color:var(--bad-ink)}
+.explain{font-size:15.5px;line-height:1.6;margin:0 0 12px;color:var(--ink-2)}
+.src{margin:0;padding:12px 14px;background:var(--primary-softer);border:1px solid var(--primary-soft);border-radius:12px;font-size:14.5px;color:var(--ink-2);display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.src .k{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--primary-ink)}
+.src q{font-style:italic}
+.run-foot{display:flex;align-items:center;gap:12px;margin-top:18px}
+.run-foot .btn{margin-left:auto}
+.run-score{font-size:14px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.kbd-hint{font-size:13px;color:var(--ink-4);margin:16px 0 0;text-align:center}
+@media (hover:none){.kbd-hint{display:none}}
+.breakdown{padding:6px 20px}
+.breakdown li{display:grid;grid-template-columns:minmax(0,1fr) 150px 44px;gap:14px;align-items:center;padding:11px 0;border-bottom:1px solid var(--line);font-size:15px}
+.breakdown li:last-child{border-bottom:0}
+.breakdown ul{list-style:none;margin:0;padding:0}
+@media (max-width:560px){.breakdown li{grid-template-columns:minmax(0,1fr) 70px 40px}}
+.missed-list{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.missed-item{padding:18px 20px}
+.missed-item .mq{font-size:16.5px;font-weight:600;line-height:1.45;margin:6px 0 12px;color:var(--ink)}
+.ans-row{display:flex;gap:12px;margin:4px 0;font-size:15px}
+.ans-row .k{flex:none;width:92px;font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-4);padding-top:2px}
+.ans-row.yours .v{color:var(--bad-ink);text-decoration:line-through;text-decoration-thickness:1px}
+.ans-row.right .v{color:var(--good-ink);font-weight:600}
+.missed-item .explain{font-size:14.5px;color:var(--ink-3);margin:10px 0 8px}
+
+/* ---------- flashcards ---------- */
+.cards-controls{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:22px 0 18px}
+.cards-controls label{font-weight:600;font-size:15px}
+.cards-controls select{flex:1 1 260px;max-width:440px;height:44px;padding:0 12px;border-radius:12px;border:1px solid var(--line-2);background:var(--surface)}
+.btn[aria-pressed="true"]{background:var(--primary-soft);border-color:var(--primary-ink);color:var(--primary-ink)}
+.fc{perspective:1600px;cursor:pointer;outline:none;display:block}
+.fc-inner{display:grid;transition:transform .5s cubic-bezier(.2,.7,.2,1);transform-style:preserve-3d}
+.fc.instant .fc-inner{transition:none}
+.fc.flipped .fc-inner{transform:rotateY(180deg)}
+.fc-face{grid-area:1/1;-webkit-backface-visibility:hidden;backface-visibility:hidden;background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:24px 28px 22px;min-height:320px;display:flex;flex-direction:column;box-shadow:var(--shadow)}
+.fc-back{transform:rotateY(180deg)}
+.fc:focus-visible .fc-face{outline:2px solid var(--primary-ink);outline-offset:3px}
+.fc-ctx{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:13.5px;color:var(--ink-3);margin:0}
+.fc-term{font-size:clamp(26px,4vw,36px);font-weight:700;letter-spacing:-.025em;line-height:1.15;margin:auto 0;padding:28px 0;text-wrap:balance;color:var(--ink)}
+.fc-hint{font-size:13px;color:var(--ink-4);margin:0}
+.fc-def{font-size:17px;line-height:1.6;margin:18px 0 16px;color:var(--ink-2)}
+.fc-def p{margin:0 0 8px}
+.fc-def ul{padding-left:1.25em;margin:6px 0 0}
+.fc-def li{margin:3px 0}
+.fc-def dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:8px 16px;margin:0;font-size:15.5px}
+.fc-def dt{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--primary-ink);padding-top:3px}
+.fc-def dd{margin:0}
+.fc-def .tbl{font-size:14.5px}
+.fc-back .linkbtn{margin-top:auto;align-self:flex-start}
+.cards-nav{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:18px;flex-wrap:wrap}
+.cards-nav .count{font-size:14.5px;font-weight:600;color:var(--ink-3);min-width:84px;text-align:center;font-variant-numeric:tabular-nums}
+
+/* ---------- my notes ---------- */
+.note-slot{margin-top:12px}
+.note-add{display:inline-flex;align-items:center;gap:6px}
+.note-add .ic{width:16px;height:16px}
+.note{--note:var(--p4);background:var(--p4-bg);border:1px solid var(--p4-line);border-radius:14px;padding:6px 6px 8px 14px}
+.note:focus-within{border-color:var(--note);box-shadow:0 0 0 3px var(--p4-line)}
+.note-head{display:flex;align-items:center;gap:7px;min-height:32px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--note)}
+.note-head>.ic{width:15px;height:15px}
+.note-status{margin-left:auto;font-size:12.5px;font-weight:500;letter-spacing:0;text-transform:none;color:var(--ink-3)}
+.note-del{display:inline-grid;place-items:center;width:32px;height:32px;border:0;border-radius:9px;background:none;color:var(--ink-3);cursor:pointer}
+.note-del:hover{background:var(--surface);color:var(--bad-ink)}
+.note-del .ic{width:17px;height:17px}
+.note textarea{display:block;width:100%;min-height:52px;margin:0;padding:2px 8px 2px 0;border:0;background:transparent;color:var(--ink);font:inherit;font-size:15px;line-height:1.55;resize:vertical;outline:none}
+.note textarea::placeholder{color:var(--ink-4)}
+.qactions{display:flex;flex-wrap:wrap;align-items:center;gap:10px 22px}
+.qactions .note-slot{margin:0}
+.qactions .note-slot.open{flex:1 1 100%}
+.head-tools{margin-top:14px}
+.head-tools .hl-hint{margin:0}
+.ev-note{display:contents}
+#v-mynotes .packet{margin-top:28px}
+.mn-head{display:flex;align-items:center;gap:8px 14px;flex-wrap:wrap;padding:14px 18px}
+.mn-count{font-size:13.5px;font-weight:600;color:var(--ink-3)}
+.mn-kind{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-4);margin:0 0 2px}
+.mn-foot{margin-top:10px}
+
+.prose .anno{margin:8px 0 12px;max-width:680px}
+.prose .anno .note-slot{margin:0}
+mark.hl[data-c="none"]{background:none;padding:0}
+mark.hl[data-noted]{text-decoration-line:underline;text-decoration-style:dotted;text-decoration-color:var(--p4);text-decoration-thickness:2px;text-underline-offset:4px}
+.hl-bar .hl-note{width:auto;display:inline-flex;align-items:center;gap:6px;padding:0 11px 0 9px;font-size:14px;font-weight:600;color:var(--primary-ink);white-space:nowrap}
+.hl-bar .hl-note .ic{width:17px;height:17px}
+.hl-body{flex:1 1 320px;min-width:0}
+.hl-note-txt{display:flex;align-items:flex-start;gap:6px;margin:8px 0 0;font-size:14px;line-height:1.5;color:var(--ink-3);white-space:pre-wrap}
+.hl-note-txt .ic{width:15px;height:15px;margin-top:2px;color:var(--p4)}
+.mn-quote{margin:4px 0 0;padding:1px 0 1px 12px;border-left:3px solid var(--p4-line);font-size:15px;line-height:1.6;color:var(--ink-2)}
+
+@media (prefers-reduced-motion:reduce){
+  .fc-inner,.meter>i,.progressbar i,.sidebar,.sidebar.open,.pkt-btn .chev{transition:none}
+  .flash{animation:none;background:var(--flash);box-shadow:0 0 0 6px var(--flash)}
+  mark.hl.flash{animation:none;box-shadow:0 0 0 3px var(--primary-ink)}
+}
+/* ---------- source lines, page chips, exam guide, mock exam ---------- */
+.prose .srcline{font-size:13.5px;line-height:1.55;color:var(--ink-3);margin:-2px 0 12px}
+.prose .srcline .k{font-size:11.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--primary-ink);margin-right:6px}
+.prose .srcline a{color:var(--primary-ink)}
+.prose h2 .pg{display:inline-block;vertical-align:2px;margin-left:8px;font-size:12px;font-weight:600;letter-spacing:0;padding:2px 9px;border-radius:99px;background:var(--primary-soft);color:var(--primary-ink);white-space:nowrap}
+.exam-card{display:flex;align-items:center;gap:16px 18px;flex-wrap:wrap;padding:20px 22px;margin:-8px 0 34px}
+.exam-text{flex:1 1 280px;min-width:0}
+.exam-title{font-weight:700;font-size:17px;margin:0 0 2px;color:var(--ink)}
+.exam-sub{margin:0;color:var(--ink-3);font-size:14.5px}
+.exam-btns{display:flex;gap:10px;flex-wrap:wrap}
+.guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:18px;margin-bottom:18px}
+.gcard{padding:22px 26px;margin-bottom:18px}
+.guide-grid .gcard{margin-bottom:0}
+.g-title{font-size:18px;font-weight:700;margin:0 0 10px;letter-spacing:-.01em;color:var(--ink)}
+.g-list{margin:0;padding-left:1.2em;line-height:1.6;color:var(--ink-2)}
+.g-list li{margin:6px 0}
+.g-list li::marker{color:var(--primary-ink)}
+.g-note{font-size:14px;color:var(--ink-3);margin:6px 0 8px;line-height:1.5}
+.gcard .tbl td a{color:var(--pc,var(--primary-ink));font-weight:500}
+.nowrap{white-space:nowrap}
+.samples{display:grid;gap:14px;margin:14px 0 22px}
+.sample{padding:22px 24px}
+.sample-q{font-size:16px;font-weight:600;line-height:1.5;margin:0 0 14px;color:var(--ink)}
+.sample-q .chip{margin-right:6px;vertical-align:1px}
+.sample-q .cite{font-weight:400;color:var(--ink-3)}
+.sample .feedback{margin-top:16px;padding-top:14px}
+.sample .feedback .linkbtn{margin-right:18px}
+.seg.seg2{grid-template-columns:repeat(2,1fr)}
+.mock-plan{margin-top:18px}
+.mock-plan li{grid-template-columns:minmax(0,1fr) auto 36px}
+.mock-plan .pct{text-align:right;font-weight:700;color:var(--ink)}
+.mock-opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:14px;margin:16px 0 18px}
+.mock-opts .opt{margin:0}
+.mock-head .timer{display:inline-flex;align-items:center;gap:6px;font-weight:700;font-variant-numeric:tabular-nums;padding:4px 12px;border-radius:99px;background:var(--primary-soft);color:var(--primary-ink)}
+.mock-head .timer .ic{width:16px;height:16px}
+.mock-head .timer.low{background:var(--bad-soft);color:var(--bad-ink)}
+.mock-head .linkbtn{font-size:13.5px}
+.choice.picked{border-color:var(--primary-ink);background:var(--primary-soft);color:var(--ink)}
+.choice.picked .bub{background:var(--primary);border-color:var(--primary);color:#fff}
+.mock-foot{flex-wrap:wrap}
+.mock-foot .btn{margin-left:0}
+.mock-foot .btn:last-child{margin-left:auto}
+.btn.flagged{background:var(--t-orange-bg);border-color:var(--t-orange);color:var(--t-orange)}
+.qnav-card{padding:16px 18px;margin-top:18px}
+.qnav-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:14px;color:var(--ink-3);margin-bottom:12px}
+.qnav-head .linkbtn{margin-left:auto}
+.qnav-flags{display:inline-flex;align-items:center;gap:4px;color:var(--t-orange)}
+.qnav-flags .ic{width:15px;height:15px}
+.qnav{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px}
+.qn-btn{height:36px;border-radius:9px;border:1px solid var(--line-2);background:var(--surface);font-size:13.5px;font-weight:600;color:var(--ink-3);cursor:pointer;position:relative;font-variant-numeric:tabular-nums}
+.qn-btn:hover{border-color:var(--primary-ink)}
+.qn-btn.done{background:var(--primary-soft);border-color:var(--primary-soft);color:var(--primary-ink)}
+.qn-btn.flag::after{content:"";position:absolute;top:3px;right:3px;width:7px;height:7px;border-radius:50%;background:var(--t-orange)}
+.qn-btn.cur{outline:2px solid var(--primary-ink);outline-offset:1px;color:var(--ink)}
+.past-mocks li{grid-template-columns:minmax(0,1fr) 150px 52px}
+
+/* ---------- pastel look: cream page, soft blue sidebar, coral pills, serif headings, doodles ---------- */
+body{font-size:15.5px;letter-spacing:-.003em}
+h1,h2,h3,.page-title,.sec-title,.packet-title,.g-title,.qtext,.fc-term,.empty-title,.exam-title,.hl-group-head h2,.deck-title,.rev-title,.ws-title{font-family:var(--serif)}
+.page-title{font-weight:600;letter-spacing:-.018em;font-size:clamp(30px,3.8vw,40px);line-height:1.12}
+.page-sub{color:var(--ink-3)}
+.sec-title{font-weight:600;font-size:23px;letter-spacing:-.01em}
+.kicker{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin:0 0 12px}
+.mark-y,.mark-g{padding:0 .1em;margin:0 -.04em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.mark-y{background:linear-gradient(transparent 56%,var(--mark) 56%,var(--mark) 94%,transparent 94%)}
+.mark-g{background:linear-gradient(transparent 56%,var(--mark) 56%,var(--mark) 94%,transparent 94%)}
+
+/* buttons, chips, cards */
+.btn{border-radius:999px;border-color:var(--line-2);background:var(--surface);font-weight:600}
+.btn:hover{background:var(--hover)}
+.btn.primary{background:var(--primary);border-color:var(--primary);color:var(--on-primary);box-shadow:none;text-transform:uppercase;letter-spacing:.09em;font-size:13px;font-weight:700}
+.btn.primary:hover{background:var(--primary-hover);border-color:var(--primary-hover);box-shadow:var(--glow)}
+.btn.sm{border-radius:999px}
+.btn.wide{border-radius:999px}
+.btn.ghost{color:var(--primary-ink)}
+.btn.ghost:hover{background:var(--primary-soft)}
+.linkbtn{color:var(--primary-ink)}
+.chip{border-radius:999px;font-weight:600}
+.card{border-radius:24px;border-color:var(--line);box-shadow:var(--shadow-sm)}
+.tile{border-radius:50%}
+.meter>i{background:linear-gradient(90deg,var(--meter-a),var(--good))}
+.pct{color:var(--good-ink)}
+input[type=checkbox],input[type=radio]{accent-color:var(--primary-ink)}
+
+/* sidebar */
+.sidebar{background:var(--side);border-right:0}
+.logo-tile{border-radius:16px 16px 16px 5px;background:var(--logo-bg);color:var(--logo-fg);font-family:var(--serif);font-weight:600;font-size:22px;box-shadow:none}
+.logo-name{font-size:14px;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
+.side-card{background:var(--surface);border:0;border-radius:22px}
+.avatar{background:var(--pink);color:var(--pink-ink)}
+.side-card .name{font-family:var(--serif);font-weight:600;font-size:17px}
+.nav a{border-radius:999px;height:44px;color:var(--ink-2)}
+.nav a:hover{background:var(--side-hover);color:var(--ink)}
+.nav a.active{background:var(--surface);color:var(--primary-ink);box-shadow:var(--shadow-sm)}
+.sec-label{border-top-color:color-mix(in srgb,var(--ink) 10%,transparent);color:var(--ink-2)}
+.pkt-btn:hover,.tree ol a:hover{background:var(--side-hover)}
+.tree ol a{border-radius:999px}
+.tree ol a[aria-current="true"]{background:var(--surface);color:var(--primary-ink);box-shadow:var(--shadow-sm)}
+.theme-seg{background:var(--side-hover);border-radius:999px}
+.theme-seg button{border-radius:999px}
+.theme-seg button[aria-pressed="true"]{color:var(--primary-ink)}
+
+/* top bar */
+.searchbox input{border-radius:999px;background:var(--surface);border:1px solid var(--line-2)}
+.searchbox input:focus{border-color:var(--coral);box-shadow:0 0 0 4px var(--primary-soft)}
+.icon-btn{border-radius:999px;background:var(--surface);border-color:var(--line-2)}
+.topbar .new-quiz{border-radius:999px;height:48px;padding:0 24px;font-size:13px}
+
+/* notes */
+.doc{border-radius:30px;padding:38px 44px}
+@media (max-width:640px){.doc{padding:22px 18px;border-radius:22px}}
+.prose{color:var(--ink-2)}
+.prose h2{font-family:var(--serif);font-weight:600;font-size:23px;line-height:1.25;letter-spacing:-.012em;color:var(--ink);margin:40px 0 10px}
+.prose h3{font-family:var(--serif);font-weight:600;font-size:18px;color:var(--primary-ink)}
+.prose ul>li::marker{color:var(--coral)}
+.prose ol>li::marker{color:var(--primary-ink)}
+.prose h2 .pg{font-family:var(--font);background:var(--pink);color:var(--pink-ink)}
+.prose .srcline .k{color:var(--pink-ink)}
+.prose .tip{background:var(--beige);border-color:var(--line-2)}
+.tbl{border-radius:18px;border-color:var(--line)}
+.tbl thead th{background:var(--beige);color:var(--ink)}
+.crumb .chip{text-transform:none}
+.ev-nav a{border-radius:22px}
+.duo-col{background:var(--beige);border-color:var(--line)}
+
+/* quiz + mock exam */
+.qcard{border-radius:30px}
+.qtext{font-weight:500;font-size:21px;line-height:1.42}
+.choice{border-radius:18px;border-color:var(--line-2)}
+.choice:hover:not(:disabled){border-color:var(--coral);background:var(--primary-softer)}
+.choice:hover:not(:disabled) .bub{border-color:var(--coral);color:var(--primary-ink)}
+.bub{font-family:var(--serif)}
+.choice.picked{border-color:var(--coral);background:var(--primary-soft)}
+.choice.picked .bub{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
+.progressbar i{background:linear-gradient(90deg,var(--meter-a),var(--ring))}
+.src{background:var(--beige);border-color:var(--line-2);border-radius:16px}
+.src .k{color:var(--pink-ink)}
+.seg span{border-radius:999px}
+.seg input:checked+span{background:var(--primary-soft);border-color:var(--coral);color:var(--primary-ink)}
+.mock-head .timer{background:var(--sky);color:var(--ink)}
+.qn-btn{border-radius:999px}
+.qn-btn.done{background:var(--mint);border-color:var(--mint);color:var(--ink)}
+.qn-btn.cur{outline-color:var(--coral)}
+
+/* flashcards */
+.fc-face{border-radius:30px}
+.fc-front{background:var(--beige)}
+.fc-term{font-weight:600}
+.cards-controls select{border-radius:999px;padding:0 16px}
+
+/* guide + other pages */
+.gcard{border-radius:26px}
+.sample{border-radius:26px}
+.hl-bar{border-radius:999px}
+.hl-bar button{border-radius:999px}
+.note{border-radius:18px}
+
+/* ---------- home ---------- */
+.doodle{position:absolute;pointer-events:none;width:40px;height:40px}
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:24px;align-items:center;padding:46px 50px;margin:6px 0 0;background:var(--surface);border-radius:34px;box-shadow:var(--shadow-sm);overflow:hidden}
+.hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(34px,4.4vw,54px);line-height:1.07;letter-spacing:-.022em;margin:0 0 18px;color:var(--ink);text-wrap:balance}
+.hero .lead{font-size:17px;line-height:1.6;color:var(--ink-2);max-width:46ch;margin:0 0 26px}
+.cta{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.hero-last{margin:16px 0 0;font-size:14px;color:var(--ink-3)}
+.hero-last a{color:var(--primary-ink);font-weight:600}
+.hero-art{position:relative;min-height:290px;display:grid;place-items:center}
+.ring{width:clamp(180px,20vw,230px);aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--ring) calc(var(--p,0) * 1%),var(--track) 0);display:grid;place-items:center;box-shadow:var(--shadow-sm)}
+.ring-inner{width:79%;aspect-ratio:1;border-radius:50%;background:var(--beige);display:grid;place-content:center;text-align:center;gap:4px}
+.ring-num{font-family:var(--serif);font-size:clamp(36px,4vw,48px);font-weight:600;line-height:1;color:var(--ink)}
+.ring-lbl{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3)}
+.sticker{position:absolute;display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:999px;font-size:13.5px;color:var(--ink-2);box-shadow:var(--shadow-sm);white-space:nowrap}
+.sticker .ic{width:16px;height:16px}
+.sticker b{font-weight:700;color:var(--ink)}
+.sticker.s1{top:8%;left:0;background:var(--butter);transform:rotate(-4deg)}
+.sticker.s2{bottom:8%;right:0;background:var(--mint);transform:rotate(3deg)}
+.hero-art .d1{top:2%;right:8%;width:44px;height:44px;color:var(--dd1)}
+.hero-art .d2{bottom:24%;left:4%;width:30px;height:30px;color:var(--dd2)}
+.hero-art .d3{top:32%;right:-1%;width:58px;height:58px;color:var(--dd3);transform:rotate(10deg)}
+.hero-art .d4{bottom:-2%;left:28%;width:58px;height:58px;color:var(--dd4)}
+.hero-art .d5{top:16%;left:22%;width:30px;height:30px;color:var(--dd5)}
+.hero .d6{top:16px;left:44%;width:56px;height:26px;color:var(--dd4);opacity:.9}
+.pill-title{display:flex;justify-content:center;margin:54px 0 24px}
+.pill-title span{font-family:var(--serif);font-size:clamp(20px,2.2vw,25px);font-weight:600;padding:5px 24px 7px;border-radius:999px;background:var(--pink);color:var(--ink)}
+.pill-title.blue span{background:var(--sky)}
+.paths{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,188px),1fr));gap:16px}
+.path{position:relative;display:flex;flex-direction:column;align-items:center;gap:8px;padding:26px 22px 22px;border:0;border-radius:26px;background:var(--beige);color:var(--ink);text-align:center;font:inherit;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.path:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.path .kicker{margin:0;font-size:11.5px}
+.path-ic{display:grid;place-items:center;width:62px;height:62px;border-radius:20px 20px 20px 6px;margin:8px 0 4px}
+.path-ic .ic{width:28px;height:28px}
+.path-ic.pink{background:var(--pink);color:var(--pink-ink)}
+.path-ic.sky{background:var(--sky);color:var(--t-blue)}
+.path-ic.butter{background:var(--butter);color:var(--p4)}
+.path-ic.mint{background:var(--mint);color:var(--good-ink)}
+.path-title{font-family:var(--serif);font-size:22px;font-weight:600;line-height:1.2}
+.path-text{font-size:14px;line-height:1.5;color:var(--ink-3);max-width:30ch}
+.path-go{margin-top:auto;padding-top:10px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--primary-ink)}
+.meet{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:44px;align-items:center;margin:64px 0 0}
+.scallop-wrap{position:relative;justify-self:center;width:100%;max-width:400px}
+.scallop{aspect-ratio:5/4;background:var(--peach);-webkit-mask:var(--scallop) center/100% 100% no-repeat;mask:var(--scallop) center/100% 100% no-repeat;display:grid;place-content:center;text-align:center}
+.scallop .big{font-family:var(--serif);font-size:clamp(76px,9vw,116px);font-weight:600;line-height:.9;color:var(--ink)}
+.scallop .cap{font-size:12.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-2);margin-top:10px}
+.scallop-wrap .m1{top:-16px;right:6%;width:50px;height:50px;color:var(--dd5)}
+.scallop-wrap .m2{bottom:-10px;left:10%;width:58px;height:58px;color:var(--dd4)}
+.scallop-wrap .m3{top:8%;left:-8px;width:30px;height:30px;color:var(--dd1)}
+.meet-text h2{font-family:var(--serif);font-size:clamp(30px,3.4vw,40px);font-weight:600;line-height:1.1;margin:0 0 16px;letter-spacing:-.018em}
+.meet-text p{color:var(--ink-2);margin:0 0 12px;max-width:54ch;line-height:1.65}
+.meet-text .meet-status{font-size:14px;color:var(--ink-3);margin-bottom:20px}
+.trusted{text-align:center;margin:62px 0 0}
+.trusted .kicker{color:var(--good-ink)}
+.trusted-row{display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-end;gap:18px 46px;margin-top:8px}
+.src-mark{font-family:var(--serif);font-size:21px;font-weight:600;color:var(--ink);line-height:1.1}
+.src-mark small{display:block;font-family:var(--font);font-size:10.5px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-3);margin-top:5px}
+.wave{height:22px;max-width:760px;margin:50px auto 0;background:var(--wave-line) repeat-x center/48px 22px}
+.band{position:relative;margin:62px -32px 0;padding:44px 32px 50px;background:var(--lime)}
+.band::before,.band::after{content:"";position:absolute;left:0;right:0;height:18px;background:var(--lime);-webkit-mask:var(--wave-mask) repeat-x 0 0/48px 18px;mask:var(--wave-mask) repeat-x 0 0/48px 18px}
+.band::before{top:-17px}
+.band::after{bottom:-17px;transform:scaleY(-1)}
+.band .pill-title{margin-top:0}
+.fact{display:grid;grid-template-columns:46px minmax(0,1fr) 46px;gap:18px;align-items:center;max-width:840px;margin:0 auto;text-align:center}
+.fact-arrow{width:46px;height:46px;border-radius:50%;border:0;background:var(--surface);color:var(--ink);font-size:19px;cursor:pointer;box-shadow:var(--shadow-sm)}
+.fact-arrow:hover{background:var(--primary-soft)}
+.fact-term{font-family:var(--serif);font-size:clamp(22px,2.6vw,29px);font-weight:600;line-height:1.2;margin:0 0 10px;color:var(--ink)}
+.fact-def{font-size:16px;line-height:1.6;color:var(--ink-2)}
+.fact-def p{margin:0 0 6px}
+.fact-def ul{display:inline-block;text-align:left;margin:0;padding-left:1.2em}
+.fact-def dl{display:inline-grid;grid-template-columns:max-content minmax(0,1fr);gap:4px 14px;text-align:left;margin:0}
+.fact-def dt{font-weight:700}
+.fact-def dd{margin:0}
+.fact-from{margin:14px 0 0;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.fact-from a{color:inherit}
+.plan-sub{text-align:center;color:var(--ink-3);margin:-10px auto 28px;max-width:60ch}
+#v-home .packet{background:var(--surface);border-radius:30px;padding:24px 24px 26px;box-shadow:var(--shadow-sm);margin-bottom:22px}
+#v-home .packet-title{font-size:22px;font-weight:600}
+#v-home .deck{background:var(--beige);border:0;box-shadow:none;border-radius:22px}
+#v-home .deck:hover{box-shadow:var(--shadow)}
+#v-home .deck-title::after{border-radius:22px}
+#v-home .deck .tile.pk{background:var(--surface)}
+.pinkblock{margin:50px 0 10px;padding:40px 28px;border-radius:34px;background:var(--pink);text-align:center}
+.pinkblock h2{font-family:var(--serif);font-size:clamp(25px,3vw,32px);font-weight:600;margin:0 0 6px;color:var(--ink)}
+.pinkblock p{margin:0 0 20px;color:var(--ink-2)}
+.pinkblock .cta{justify-content:center}
+@media (max-width:900px){
+  .hero,.meet{grid-template-columns:minmax(0,1fr)}
+  .hero{padding:32px 26px 28px}
+  .hero-art{min-height:260px}
+  .meet{gap:30px}
+}
+@media (max-width:640px){
+  .band{margin-left:-16px;margin-right:-16px;padding-left:16px;padding-right:16px}
+  .fact{grid-template-columns:38px minmax(0,1fr) 38px;gap:8px}
+  .fact-arrow{width:38px;height:38px}
+  #v-home .packet{padding:18px 14px 20px;border-radius:24px}
+  .sticker{font-size:12.5px;padding:7px 11px}
+}
+@media (prefers-reduced-motion:reduce){.path{transition:none}.path:hover{transform:none}}
+</style>
+<script>(function(){var t=null;try{t=localStorage.getItem('hosa-bh-prep/theme')}catch(e){}if(t!=='auto')document.documentElement.setAttribute('data-user-theme',t==='dark'?'dark':'light')})()</script>
+</head>
+<body>
+
+<svg class="sprite" width="0" height="0" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V9.5"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></symbol>
+  <symbol id="i-quiz" viewBox="0 0 24 24"><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="m9 14 2 2 4-4"/></symbol>
+  <symbol id="i-cards" viewBox="0 0 24 24"><rect x="3" y="8" width="13" height="13" rx="2"/><path d="M8 4h11a2 2 0 0 1 2 2v11"/></symbol>
+  <symbol id="i-redo" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></symbol>
+  <symbol id="i-folder" viewBox="0 0 24 24"><path d="M3 6a2 2 0 0 1 2-2h4.2a2 2 0 0 1 1.6.8L12 6.5h7a2 2 0 0 1 2 2V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></symbol>
+  <symbol id="i-folder-o" viewBox="0 0 24 24"><path d="M3 6a2 2 0 0 1 2-2h4.2a2 2 0 0 1 1.6.8L12 6.5h7a2 2 0 0 1 2 2V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h11"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+  <symbol id="i-chev" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="i-flame" viewBox="0 0 24 24"><path d="M12 22c4 0 7-2.8 7-7 0-3.5-2.2-6.3-4-8-.3 2.3-1.3 3.7-2.6 4.4C12.6 8 11.2 4.6 9 2c-.2 3.2-1.6 5-3 6.8C4.8 10.3 5 12.4 5 15c0 4.2 3 7 7 7Z"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8.5 12 2.5 2.5 5-5"/></symbol>
+  <symbol id="i-xc" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m15 9-6 6M9 9l6 6"/></symbol>
+  <symbol id="i-doc" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 17h4"/></symbol>
+  <symbol id="i-cap" viewBox="0 0 24 24"><path d="M22 9 12 4 2 9l10 5 10-5Z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/><path d="M22 9v6"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20.5 13.2A8.5 8.5 0 1 1 10.8 3.5a6.6 6.6 0 0 0 9.7 9.7z"/></symbol>
+  <symbol id="i-auto" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></symbol>
+  <symbol id="i-marker" viewBox="0 0 24 24"><path d="m9 11-6 6v3h9l3-3"/><path d="m22 12-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="m19 6-1 14H6L5 6"/></symbol>
+  <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 22V4"/><path d="M5 4h12l-2.5 4.5L17 13H5"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+  <symbol id="i-pencil" viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></symbol>
+  <symbol id="d-sparkle" viewBox="0 0 24 24"><path fill="currentColor" d="M12 1.5c.9 6 3.6 8.7 10.5 10.5-6.9 1.8-9.6 4.5-10.5 10.5C11.1 16.5 8.4 13.8 1.5 12 8.4 10.2 11.1 7.5 12 1.5Z"/></symbol>
+  <symbol id="d-flower" viewBox="0 0 24 24"><g fill="currentColor"><ellipse cx="12" cy="6" rx="3.4" ry="5"/><ellipse cx="12" cy="6" rx="3.4" ry="5" transform="rotate(60 12 12)"/><ellipse cx="12" cy="6" rx="3.4" ry="5" transform="rotate(120 12 12)"/><ellipse cx="12" cy="6" rx="3.4" ry="5" transform="rotate(180 12 12)"/><ellipse cx="12" cy="6" rx="3.4" ry="5" transform="rotate(240 12 12)"/><ellipse cx="12" cy="6" rx="3.4" ry="5" transform="rotate(300 12 12)"/></g><circle cx="12" cy="12" r="3" fill="#F7FAF1"/></symbol>
+  <symbol id="d-burst" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M12 2.5v6M12 15.5v6M2.5 12h6M15.5 12h6M5.3 5.3l4.2 4.2M14.5 14.5l4.2 4.2M18.7 5.3l-4.2 4.2M9.5 14.5l-4.2 4.2"/></symbol>
+  <symbol id="d-arrow" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 5.5c5-3.5 11-2 10.5 3-.4 3.6-5.2 3.6-4.6.4.6-3 7.2-3.4 9.6 2 1.3 2.9 1.2 6.4.5 9.6"/><path d="M15.6 18.6l2.9 2.4 2.4-3.1"/></g></symbol>
+  <symbol id="d-arc" viewBox="0 0 24 24"><path d="M3.5 18a8.5 8.5 0 0 1 17 0" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></symbol>
+  <symbol id="d-squiggle" viewBox="0 0 48 22"><path d="M2 11Q8 2 14 11T26 11T38 11T46 9" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></symbol>
+</svg>
+
+<div class="app">
+  <aside class="sidebar" id="sidebar" aria-label="Site navigation">
+    <div class="side-top">
+      <a class="logo" href="#home" data-act="home"><span class="logo-tile" aria-hidden="true">H</span><span class="logo-name">HOSA Prep</span></a>
+      <button class="icon-btn side-close" id="side-close" type="button" aria-label="Close menu"><svg class="ic"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="side-card">
+      <span class="avatar" aria-hidden="true"><svg class="ic"><use href="#i-cap"/></svg></span>
+      <span class="name">Behavioral Health</span>
+      <span class="sub">HOSA ILC test · 2026–27</span>
+      <span class="mini"><span class="meter" data-meter="*" role="img"><i></i></span><span class="pct" data-pct="*"></span></span>
+    </div>
+    <nav class="nav" aria-label="Sections">
+      <a href="#home" data-act="home" data-view="home"><svg class="ic"><use href="#i-home"/></svg>Home</a>
+      <a href="#guide" data-act="tab" data-arg="guide" data-view="guide"><svg class="ic"><use href="#i-target"/></svg>Exam guide</a>
+      <a href="#notes" data-act="tab" data-arg="notes" data-view="notes"><svg class="ic"><use href="#i-book"/></svg>Study notes</a>
+      <a href="#quiz" data-act="tab" data-arg="quiz" data-view="quiz"><svg class="ic"><use href="#i-quiz"/></svg>Quiz</a>
+      <a href="#mock" data-act="tab" data-arg="mock" data-view="mock"><svg class="ic"><use href="#i-clock"/></svg>Mock exam<span class="badge neutral" id="mock-badge" hidden>In progress</span></a>
+      <a href="#cards" data-act="tab" data-arg="cards" data-view="cards"><svg class="ic"><use href="#i-cards"/></svg>Flashcards</a>
+      <a href="#highlights" data-act="tab" data-arg="highlights" data-view="highlights"><svg class="ic"><use href="#i-marker"/></svg>Highlights<span class="badge neutral" id="hl-badge" hidden></span></a>
+      <a href="#mynotes" data-act="tab" data-arg="mynotes" data-view="mynotes"><svg class="ic"><use href="#i-pencil"/></svg>My notes<span class="badge neutral" id="notes-badge" hidden></span></a>
+      <a href="#review" data-act="tab" data-arg="review" data-view="review"><svg class="ic"><use href="#i-redo"/></svg>Wrong answers<span class="badge" id="missed-badge" hidden></span></a>
+    </nav>
+    <p class="sec-label" id="theme-label"><svg class="ic"><use href="#i-auto"/></svg>Appearance</p>
+    <div class="theme-seg" id="theme-seg" role="group" aria-labelledby="theme-label">
+      <button type="button" data-mode="light" aria-pressed="true"><svg class="ic" aria-hidden="true"><use href="#i-sun"/></svg>Light</button>
+      <button type="button" data-mode="dark" aria-pressed="false"><svg class="ic" aria-hidden="true"><use href="#i-moon"/></svg>Dark</button>
+      <button type="button" data-mode="auto" aria-pressed="false" title="Match your device"><svg class="ic" aria-hidden="true"><use href="#i-auto"/></svg>Auto</button>
+    </div>
+    <p class="sec-label"><svg class="ic"><use href="#i-folder-o"/></svg>Test plan</p>
+    <nav class="tree" id="tree" aria-label="Test plan parts and topics"></nav>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <div class="main">
+    <header class="topbar">
+      <button class="icon-btn menu-btn" id="menu-btn" type="button" aria-label="Open menu" aria-controls="sidebar" aria-expanded="false"><svg class="ic"><use href="#i-menu"/></svg></button>
+      <div class="searchbox" role="search">
+        <svg class="ic"><use href="#i-search"/></svg>
+        <label class="sr" for="search">Search the notes</label>
+        <input id="search" type="search" placeholder="Search the notes…" autocomplete="off" spellcheck="false">
+      </div>
+      <button class="icon-btn theme-btn" id="theme-btn" type="button" aria-label="Switch to dark mode"><svg class="ic"><use href="#i-moon"/></svg></button>
+      <button class="btn primary new-quiz" type="button" data-act="new-quiz" aria-label="New quiz"><svg class="ic"><use href="#i-plus"/></svg><span class="lbl">New Quiz</span></button>
+    </header>
+
+    <main class="content">
+      <section id="v-home" hidden></section>
+
+      <section id="v-notes" hidden>
+        <div id="results" hidden></div>
+{{ARTICLES}}
+      </section>
+
+      <section id="v-quiz" hidden>
+        <div id="quiz-setup"></div>
+        <div id="quiz-run" class="quiz-wrap" hidden>
+          <div class="run-head" id="run-head">
+            <span class="chip" id="run-tab"></span><span class="run-ev" id="run-ev"></span><span class="chip hard" id="run-hard" hidden>Hard</span>
+            <span class="run-count" id="run-count"></span>
+            <button class="linkbtn" id="end-quiz" type="button">End quiz</button>
+          </div>
+          <div class="progressbar" id="run-bar"><i></i></div>
+          <div class="card qcard">
+            <p class="qtext" id="qtext" tabindex="-1"></p>
+            <div class="choices" id="choices" role="group" aria-labelledby="qtext"></div>
+            <form class="spell" id="spell" autocomplete="off" hidden>
+              <label class="sr" for="spell-in">Type your answer</label>
+              <input id="spell-in" type="text" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="Type the term">
+              <button class="btn primary" id="spell-check" type="submit">Check</button>
+              <button class="btn" id="spell-skip" type="button">Show answer</button>
+            </form>
+            <div class="feedback" id="feedback" hidden>
+              <p class="verdict" id="verdict"></p>
+              <p class="explain" id="explain"></p>
+              <p class="src"><span class="k">From the notes</span> <q id="src-q"></q> <button class="linkbtn" id="src-go" type="button">Show in notes →</button></p>
+              <div id="qnote"></div>
+            </div>
+          </div>
+          <div class="run-foot"><span class="run-score" id="run-score"></span><button class="btn primary" id="next" type="button" disabled>Next question</button></div>
+          <p class="kbd-hint">Keyboard: 1–4 or A–D to answer, Enter for the next question</p>
+        </div>
+        <div id="quiz-done" class="quiz-wrap" hidden></div>
+      </section>
+
+      <section id="v-guide" hidden></section>
+
+      <section id="v-mock" hidden></section>
+
+      <section id="v-review" hidden></section>
+
+      <section id="v-highlights" hidden></section>
+
+      <section id="v-mynotes" hidden></section>
+
+      <section id="v-cards" hidden>
+        <div class="quiz-wrap">
+          <h1 class="page-title">Flashcards</h1>
+          <p class="page-sub">Terms and definitions taken straight from the notes. Tap a card to flip it.</p>
+          <div class="cards-controls">
+            <label for="deck">Deck</label>
+            <select id="deck"></select>
+            <button class="btn" id="shuffle" type="button" aria-pressed="false">Shuffle</button>
+          </div>
+          <div class="fc" id="fc" tabindex="0" role="group" aria-roledescription="flashcard">
+            <div class="fc-inner">
+              <div class="fc-face fc-front">
+                <p class="fc-ctx"></p>
+                <p class="fc-term" id="fc-term"></p>
+                <p class="fc-hint">Tap or press Space to see the definition</p>
+              </div>
+              <div class="fc-face fc-back">
+                <p class="fc-ctx"></p>
+                <div class="fc-def" id="fc-def"></div>
+                <button class="linkbtn" id="fc-src" type="button">Show in notes →</button>
+              </div>
+            </div>
+          </div>
+          <div class="cards-nav">
+            <button class="btn" id="fc-prev" type="button">← Previous</button>
+            <span class="count" id="fc-count"></span>
+            <button class="btn" id="fc-flip" type="button">Flip</button>
+            <button class="btn primary" id="fc-next" type="button">Next →</button>
+          </div>
+          <p class="kbd-hint">Keyboard: Space to flip, ← and → to move between cards</p>
+        </div>
+      </section>
+    </main>
+  </div>
+</div>
+
+<button class="btn primary back-pill" id="back-pill" type="button" data-act="tab" data-arg="quiz" hidden>← Back to the quiz</button>
+<div class="sr" id="live" aria-live="polite"></div>
+<div class="hl-bar" id="hl-bar" role="toolbar" aria-label="Highlight or add a note" hidden>
+  <button type="button" data-c="yellow" aria-label="Highlight yellow" title="Yellow"><span class="sw2"></span></button>
+  <button type="button" data-c="green" aria-label="Highlight green" title="Green"><span class="sw2"></span></button>
+  <button type="button" data-c="blue" aria-label="Highlight blue" title="Blue"><span class="sw2"></span></button>
+  <button type="button" data-c="pink" aria-label="Highlight pink" title="Pink"><span class="sw2"></span></button>
+  <span class="sep" aria-hidden="true"></span>
+  <button type="button" class="hl-note" title="Write your own note about this text"><svg class="ic" aria-hidden="true"><use href="#i-pencil"/></svg><span class="hl-note-lbl">Add note</span></button>
+  <button type="button" class="hl-remove" aria-label="Remove highlight" title="Remove highlight"><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg></button>
+</div>
+
+<script type="application/json" id="data">{{DATA}}</script>
+<script>
+(() => {
+'use strict';
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const $ = (s, r = document) => r.querySelector(s);
+const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
+const SVGNS = 'http://www.w3.org/2000/svg';
+function h(tag, attrs, ...kids) {
+  const el = document.createElement(tag);
+  if (attrs) for (const k in attrs) {
+    const v = attrs[k];
+    if (v == null || v === false) continue;
+    if (k === 'class') el.className = v;
+    else if (k.startsWith('on') && typeof v === 'function') el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v === true ? '' : String(v));
+  }
+  for (const kid of kids.flat(Infinity)) if (kid != null && kid !== false) el.append(kid instanceof Node ? kid : String(kid));
+  return el;
+}
+const fill = (el, ...kids) => el.replaceChildren(...kids.flat(Infinity).filter(k => k != null && k !== false));
+function icon(name, cls) {
+  const s = document.createElementNS(SVGNS, 'svg');
+  s.setAttribute('class', cls || 'ic'); s.setAttribute('aria-hidden', 'true');
+  const u = document.createElementNS(SVGNS, 'use'); u.setAttribute('href', '#i-' + name);
+  s.append(u); return s;
+}
+function doodle(name, cls, box) {
+  const s = document.createElementNS(SVGNS, 'svg');
+  s.setAttribute('class', 'doodle ' + (cls || '')); s.setAttribute('aria-hidden', 'true'); s.setAttribute('viewBox', box || '0 0 24 24');
+  const u = document.createElementNS(SVGNS, 'use'); u.setAttribute('href', '#d-' + name);
+  s.append(u); return s;
+}
+const norm = s => String(s).toLowerCase().normalize('NFKD').replace(/[^a-z0-9]/g, '');
+const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const plural = (n, one, many) => `${n} ${n === 1 ? one : (many || one + 's')}`;
+const reduceMotion = !!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+/* ---------- data ---------- */
+const PARTS = DATA.parts, EV = DATA.events, QS = DATA.questions, CARDS = DATA.cards;
+const ORDER = PARTS.flatMap(p => p.events);
+const byId = {}, byEvent = {}, cardsByEvent = {};
+for (const q of QS) { byId[q.id] = q; (byEvent[q.event] = byEvent[q.event] || []).push(q); }
+for (const q of QS) for (const s of q.also || []) (byEvent[s] = byEvent[s] || []).push(q);   // e.g. word-part spelling also in Medical Spelling
+for (const c of CARDS) (cardsByEvent[c.event] = cardsByEvent[c.event] || []).push(c);
+const partSlugs = n => (PARTS.find(p => p.n === n) || PARTS[0]).events;
+const qCount = s => (byEvent[s] || []).filter(q => q.level !== 'hard').length;
+const hCount = s => (byEvent[s] || []).filter(q => q.level === 'hard').length;
+const cCount = s => (cardsByEvent[s] || []).length;
+const slugsOf = key => key === '*' ? ORDER : key.split(' ');
+
+/* ---------- progress, saved in this browser only ---------- */
+const KEY = 'hosa-bh-prep/v1';
+let st = { q: {}, last: null, days: [], flag: {} };
+try { const o = JSON.parse(localStorage.getItem(KEY) || 'null'); if (o && typeof o === 'object') st = Object.assign(st, o); } catch (e) {}
+if (!st.q || typeof st.q !== 'object') st.q = {};
+if (!Array.isArray(st.days)) st.days = [];
+if (!st.flag || typeof st.flag !== 'object') st.flag = {};
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
+const dayKey = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+function record(id, ok, pick) {
+  const r = Array.isArray(st.q[id]) ? st.q[id] : [0, 0, 0, 0, null];
+  const run = typeof r[3] === 'number' ? r[3] : (r[0] ? 1 : 0);      // right answers in a row
+  r[0] = ok ? 1 : 0; r[1] = (r[1] || 0) + 1; if (ok) r[2] = (r[2] || 0) + 1;
+  r[3] = ok ? run + 1 : 0;
+  r[4] = typeof pick === 'number' ? pick : null;     // which choice was picked last time
+  st.q[id] = r;
+  const today = dayKey(new Date());
+  if (st.days[st.days.length - 1] !== today) { st.days.push(today); st.days = st.days.slice(-400); }
+  save(); refreshMeters();
+}
+function streak() {
+  const have = new Set(st.days), d = new Date();
+  if (!have.has(dayKey(d))) d.setDate(d.getDate() - 1);
+  let n = 0;
+  while (have.has(dayKey(d))) { n++; d.setDate(d.getDate() - 1); }
+  return n;
+}
+const isWrong = id => !!(st.q[id] && st.q[id][0] === 0);      // got it wrong on the last try
+function stats(slugs) {
+  let total = 0, mastered = 0, missed = 0;
+  const counted = new Set();
+  for (const s of slugs) for (const q of byEvent[s] || []) {
+    if (counted.has(q.id)) continue;
+    counted.add(q.id); total++;
+    const r = st.q[q.id];
+    if (r) { if (r[0]) mastered++; else missed++; }
+  }
+  return { total, mastered, missed, seen: mastered + missed, pct: total ? mastered / total : 0 };
+}
+function meter(key) {
+  const el = h('span', { class: 'meter', 'data-meter': key, role: 'img' }, h('i'));
+  paintMeter(el); return el;
+}
+const pctLabel = key => { const el = h('span', { class: 'pct', 'data-pct': key }); paintPct(el); return el; };
+function paintMeter(el) {
+  const s = stats(slugsOf(el.dataset.meter));
+  el.firstElementChild.style.setProperty('--w', (s.pct * 100).toFixed(1) + '%');
+  el.setAttribute('aria-label', `${s.mastered} of ${s.total} questions mastered`);
+}
+function paintPct(el) {
+  const s = stats(slugsOf(el.dataset.pct)), v = Math.round(s.pct * 100);
+  el.textContent = v + '%'; el.classList.toggle('zero', v === 0);
+}
+function refreshMeters() {
+  $$('[data-meter]').forEach(paintMeter);
+  $$('[data-pct]').forEach(paintPct);
+  const wrong = stats(ORDER).missed, badge = $('#missed-badge');
+  badge.hidden = !wrong; badge.textContent = String(wrong);
+  $$('[data-review]').forEach(b => {
+    const n = stats([b.dataset.review]).missed, c = b.querySelector('.count');
+    b.hidden = !n; if (c) c.textContent = '· ' + n;
+  });
+}
+
+/* ---------- navigation ---------- */
+const views = { home: $('#v-home'), guide: $('#v-guide'), notes: $('#v-notes'), quiz: $('#v-quiz'), mock: $('#v-mock'), cards: $('#v-cards'), highlights: $('#v-highlights'), review: $('#v-review'), mynotes: $('#v-mynotes') };
+let current = null, curEvent = null, backFrom = null;
+const sidebar = $('#sidebar'), scrim = $('#scrim'), menuBtn = $('#menu-btn');
+function openMenu() {
+  sidebar.classList.add('open'); scrim.hidden = false; menuBtn.setAttribute('aria-expanded', 'true');
+  setTimeout(() => { const a = sidebar.querySelector('.tree a[aria-current="true"]') || sidebar.querySelector('.nav a.active') || sidebar.querySelector('a'); if (a) a.focus(); }, 40);
+}
+function closeMenu() {
+  if (!sidebar.classList.contains('open')) return;
+  sidebar.classList.remove('open'); scrim.hidden = true; menuBtn.setAttribute('aria-expanded', 'false');
+}
+menuBtn.addEventListener('click', openMenu);
+$('#side-close').addEventListener('click', () => { closeMenu(); menuBtn.focus(); });
+scrim.addEventListener('click', closeMenu);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeMenu(); });
+
+function show(name) {
+  current = name;
+  hideBar();
+  for (const k in views) views[k].hidden = k !== name;
+  $$('.nav a').forEach(a => { const on = a.dataset.view === name; a.classList.toggle('active', on); if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+  $$('.tree a').forEach(a => a.setAttribute('aria-current', name === 'notes' && a.dataset.toc === curEvent ? 'true' : 'false'));
+  if (name !== 'notes') backFrom = null;
+  const pill = $('#back-pill'), from = backFrom || (quiz ? 'quiz' : (mock && !mock.done ? 'mock' : null));
+  pill.hidden = !(name === 'notes' && from);
+  if (from === 'quiz' && quiz) pill.textContent = quiz.done ? '← Back to your results' : '← Back to the quiz';
+  else if (from === 'mock' && mock) pill.textContent = mock.done ? '← Back to your mock exam results' : '← Back to the mock exam';
+  pill.dataset.arg = from || 'quiz';
+  closeMenu();
+}
+function setHash(t) { try { history.replaceState(null, '', '#' + t); } catch (e) {} }
+const toTop = () => window.scrollTo(0, 0);
+function go(view, arg) {
+  if (view === 'notes') {
+    const slug = EV[arg] ? arg : (curEvent || (EV[st.last] ? st.last : ORDER[0]));
+    showEvent(slug); show('notes'); setHash('notes-' + slug); toTop();
+  } else if (view === 'quiz') {
+    show('quiz'); renderQuiz(); setHash('quiz'); toTop();
+  } else if (view === 'guide') {
+    renderGuide(); show('guide'); setHash('guide'); toTop();
+  } else if (view === 'mock') {
+    show('mock'); renderMock(); setHash('mock'); toTop();
+  } else if (view === 'review') {
+    renderReview(); show('review'); setHash('review'); toTop();
+  } else if (view === 'highlights') {
+    renderHighlights(); show('highlights'); setHash('highlights'); toTop();
+  } else if (view === 'mynotes') {
+    renderMyNotes(); show('mynotes'); setHash('mynotes'); toTop();
+  } else if (view === 'cards') {
+    if (arg) setDeck(arg);
+    show('cards'); renderCard(true); setHash('cards'); toTop();
+  } else {
+    renderHome(); show('home'); setHash('home'); toTop();
+  }
+}
+document.addEventListener('click', e => {
+  const t = e.target.closest('[data-act]');
+  if (!t) return;
+  e.preventDefault();
+  const a = t.dataset.act, arg = t.dataset.arg;
+  if (a === 'home') go('home');
+  else if (a === 'tab') go(arg);
+  else if (a === 'notes') go('notes', arg);
+  else if (a === 'cards') go('cards', arg);
+  else if (a === 'new-quiz') { quiz = null; go('quiz'); }
+  else if (a === 'new-mock') { if (!mock || mock.done) { mock = null; saveMock(); } go('mock'); }
+  else if (a === 'quiz-ev') startQuiz({ events: [arg], filter: 'any', count: 'all', level: 'normal' });
+  else if (a === 'quiz-ev-hard') startQuiz({ events: [arg], filter: 'any', count: 'all', level: 'hard' });
+  else if (a === 'quiz-part') { presetSetup(partSlugs(+arg)); go('quiz'); }
+  else if (a === 'quiz-mixed') startQuiz({ events: ORDER, filter: 'fresh', count: 20 });
+  else if (a === 'quiz-missed') startQuiz({ events: ORDER, filter: 'missed', count: 'all', level: 'mixed' });
+  else if (a === 'review-ev') startQuiz({ events: [arg], filter: 'missed', count: 'all', level: 'mixed' });
+  else if (a === 'review-part') startQuiz({ events: partSlugs(+arg), filter: 'missed', count: 'all', level: 'mixed' });
+});
+
+/* ---------- sidebar tree ---------- */
+$('#tree').append(...PARTS.map(p => {
+  const list = h('ol', { id: `tree-${p.n}` }, p.events.map(slug => h('li', null,
+    h('a', { href: '#notes-' + slug, 'data-act': 'notes', 'data-arg': slug, 'data-toc': slug }, EV[slug].title))));
+  const btn = h('button', { class: 'pkt-btn', type: 'button', 'aria-expanded': 'true', 'aria-controls': `tree-${p.n}` },
+    icon('chev', 'ic chev'), icon('folder', 'folder'), h('span', null, p.short));
+  btn.addEventListener('click', () => { const open = btn.getAttribute('aria-expanded') !== 'true'; btn.setAttribute('aria-expanded', String(open)); list.hidden = !open; });
+  return h('div', { class: `pc-${p.n}` }, btn, list);
+}));
+
+/* ---------- home ---------- */
+function statCard(tone, ic, num, label) {
+  return h('div', { class: 'card statcard' }, h('span', { class: `tile ${tone}` }, icon(ic)), h('div', null, h('div', { class: 'stat-num' }, num), h('div', { class: 'stat-label' }, label)));
+}
+let factIdx = null;
+function pathCard(ic, tone, kicker, title, text, go, attrs) {
+  return h('button', Object.assign({ class: 'path', type: 'button' }, attrs),
+    h('span', { class: 'kicker' }, kicker),
+    h('span', { class: 'path-ic ' + tone }, icon(ic)),
+    h('span', { class: 'path-title' }, title),
+    h('span', { class: 'path-text' }, text),
+    h('span', { class: 'path-go' }, go + ' ↗'));
+}
+const srcMark = (name, small) => h('span', { class: 'src-mark' }, name, h('small', null, small));
+function renderHome() {
+  const all = stats(ORDER), last = EV[st.last] ? st.last : null, days = streak();
+  const pct = Math.round(all.pct * 100), nTopics = ORDER.length;
+  const live = mock && !mock.done, past = Array.isArray(st.mocks) ? st.mocks : [], lastMock = past[past.length - 1];
+  const fact = h('div', { class: 'fact', 'aria-live': 'polite' });
+  const drawFact = step => {
+    if (!CARDS.length) return;
+    if (factIdx === null) factIdx = Math.floor(Math.random() * CARDS.length);
+    factIdx = (factIdx + step + CARDS.length) % CARDS.length;
+    const c = CARDS[factIdx], def = h('div', { class: 'fact-def' });
+    def.innerHTML = c.back;
+    fill(fact,
+      h('button', { class: 'fact-arrow', type: 'button', 'aria-label': 'Previous flashcard', onclick: () => drawFact(-1) }, '←'),
+      h('div', { class: 'fact-body' },
+        h('p', { class: 'fact-term' }, c.front), def,
+        h('p', { class: 'fact-from' }, '— ', h('a', { href: '#notes-' + c.event, 'data-act': 'notes', 'data-arg': c.event }, EV[c.event] ? EV[c.event].title : 'Study notes'))),
+      h('button', { class: 'fact-arrow', type: 'button', 'aria-label': 'Next flashcard', onclick: () => drawFact(1) }, '→'));
+  };
+  drawFact(0);
+  fill(views.home,
+    h('section', { class: 'hero', 'aria-labelledby': 'hero-title' },
+      doodle('squiggle', 'd6', '0 0 48 22'),
+      h('div', { class: 'hero-text' },
+        h('p', { class: 'kicker' }, 'HOSA ILC · Behavioral Health · 2026–27'),
+        h('h1', { id: 'hero-title' }, 'Your path to the Behavioral Health test ', h('span', { class: 'mark-y' }, 'just got easier.')),
+        h('p', { class: 'lead' }, `Notes, quizzes, flashcards and timed mock exams for all ${nTopics} topics in the test plan, built only from the official references.`),
+        h('div', { class: 'cta' },
+          h('button', { class: 'btn primary', type: 'button', 'data-act': 'notes', 'data-arg': last || ORDER[0] }, last ? 'Continue studying' : 'Start studying'),
+          h('button', { class: 'btn', type: 'button', 'data-act': 'quiz-mixed' }, icon('quiz'), 'Mixed quiz', h('span', { class: 'count' }, '· 20'))),
+        last ? h('p', { class: 'hero-last' }, 'Last topic: ', h('a', { href: '#notes-' + last, 'data-act': 'notes', 'data-arg': last }, EV[last].title)) : null),
+      h('div', { class: 'hero-art' },
+        doodle('burst', 'd1'), doodle('sparkle', 'd2'), doodle('arrow', 'd3'), doodle('arc', 'd4'), doodle('flower', 'd5'),
+        h('div', { class: 'ring', style: `--p:${pct}`, role: 'img', 'aria-label': `${pct}% of questions mastered` },
+          h('div', { class: 'ring-inner' }, h('span', { class: 'ring-num' }, pct + '%'), h('span', { class: 'ring-lbl' }, 'Mastered'))),
+        h('span', { class: 'sticker s1' }, icon('flame'), h('b', null, String(days)), ' day streak'),
+        h('span', { class: 'sticker s2' }, icon('check'), h('b', null, String(all.seen)), ` of ${QS.length} answered`))),
+    h('div', { class: 'pill-title' }, h('span', null, 'Choose your path')),
+    h('div', { class: 'paths' },
+      pathCard('book', 'pink', `${nTopics} topics`, 'Study notes', 'Clear notes for every part of the test plan, with page numbers and sources.', 'Start reading', { 'data-act': 'notes', 'data-arg': last || ORDER[0] }),
+      pathCard('quiz', 'sky', `${QS.length.toLocaleString()} questions`, 'Practice quizzes', 'Pick topics and a level, and see the exact notes line behind every answer.', 'Build a quiz', { 'data-act': 'tab', 'data-arg': 'quiz' }),
+      pathCard('clock', 'butter', '50 questions · 60 min', 'Mock exam', 'A timed test weighted like the real test plan.', live ? 'Resume' : 'Start a mock', { 'data-act': 'new-mock' }),
+      pathCard('cards', 'mint', `${CARDS.length.toLocaleString()} cards`, 'Flashcards', 'Every key term and table row from the notes, ready to flip.', 'Flip cards', { 'data-act': 'tab', 'data-arg': 'cards' })),
+    h('section', { class: 'meet', 'aria-labelledby': 'meet-title' },
+      h('div', { class: 'scallop-wrap' },
+        h('div', { class: 'scallop' }, h('span', { class: 'big' }, '50'), h('span', { class: 'cap' }, 'questions · 60 minutes')),
+        doodle('flower', 'm1'), doodle('arc', 'm2'), doodle('sparkle', 'm3')),
+      h('div', { class: 'meet-text' },
+        h('p', { class: 'kicker' }, 'HOSA ILC · Round one'),
+        h('h2', { id: 'meet-title' }, 'Meet ', h('span', { class: 'mark-g' }, 'the test')),
+        h('p', null, '50 multiple-choice questions in 60 minutes, plus an essay tiebreaker on the back of the answer sheet. At HOSA Canada’s FLC it is 40 minutes, online and open book; SLC gives warnings at 30 and 5 minutes left, but ILC gives none, so practice your pacing with the timed mock exam.'),
+        h('p', { class: 'meet-status' }, live ? `Mock exam in progress: ${mockAnswered()} of ${mock.items.length} answered.`
+          : lastMock ? `Last mock exam: ${lastMock.pct}% (${lastMock.got} of ${lastMock.n}) on ${lastMock.day}.`
+          : 'You have not taken a mock exam yet.'),
+        h('div', { class: 'cta' },
+          h('button', { class: 'btn primary', type: 'button', 'data-act': 'new-mock' }, live ? 'Resume mock exam' : 'Take a mock exam'),
+          h('button', { class: 'btn', type: 'button', 'data-act': 'tab', 'data-arg': 'guide' }, icon('target'), 'Exam guide')))),
+    h('div', { class: 'trusted' },
+      h('p', { class: 'kicker' }, 'Built only from the official references'),
+      h('div', { class: 'trusted-row' },
+        srcMark('Cacioppo & Freberg', 'Textbook'), srcMark('SAMHSA', 'samhsa.gov'), srcMark('NAMI', 'nami.org'), srcMark('HOSA', 'Event guidelines'), srcMark('HOSA Canada', 'Study decks'))),
+    h('div', { class: 'wave', 'aria-hidden': 'true' }),
+    h('section', { class: 'band', 'aria-label': 'Flashcard of the moment' },
+      h('div', { class: 'pill-title blue' }, h('span', null, 'Flashcard of the moment')),
+      fact),
+    h('div', { class: 'pill-title' }, h('span', null, 'Your test plan')),
+    h('p', { class: 'plan-sub' }, 'Six parts, weighted like the real test. Pick a topic to read it, quiz yourself or flip its flashcards.'),
+    PARTS.map(p => {
+      const s = stats(p.events);
+      return h('section', { class: `packet pc-${p.n}`, 'aria-labelledby': `pk-${p.n}` },
+        h('div', { class: 'packet-head' },
+          icon('folder', 'folder'),
+          h('h2', { class: 'packet-title', id: `pk-${p.n}` }, `Part ${p.n} · ${p.title}`),
+          h('span', { class: 'chip' }, `${p.weight}% of the test`),
+          h('span', { class: 'packet-meta' }, `${plural(p.events.length, 'topic')} • ${plural(s.total, 'question')}`),
+          h('div', { class: 'packet-actions' },
+            s.missed ? h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo wrong answers', h('span', { class: 'count' }, '· ' + s.missed)) : null,
+            h('button', { class: 'btn sm', type: 'button', 'data-act': 'quiz-part', 'data-arg': p.n }, 'Quiz this part'),
+            h('button', { class: 'btn sm', type: 'button', 'data-act': 'cards', 'data-arg': 'part-' + p.n }, 'Flashcards'))),
+        h('div', { class: 'decks' }, p.events.map(slug => h('div', { class: 'card deck' },
+          h('span', { class: 'tile pk' }, icon('doc')),
+          h('a', { class: 'deck-title', href: '#notes-' + slug, 'data-act': 'notes', 'data-arg': slug }, EV[slug].title),
+          h('div', { class: 'deck-btns' },
+            h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev', 'data-arg': slug, 'aria-label': `Quiz: ${EV[slug].title}` }, 'Quiz'),
+            hCount(slug) ? h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev-hard', 'data-arg': slug, 'aria-label': `Hard quiz: ${EV[slug].title}` }, 'Hard') : null),
+          h('span', { class: 'deck-meta' }, `${qCount(slug)} questions`, hCount(slug) ? [h('span', { class: 'dot' }, '•'), `${hCount(slug)} hard`] : null, h('span', { class: 'dot' }, '•'), `${cCount(slug)} flashcards`,
+            stats([slug]).missed ? h('button', { class: 'mini-review', type: 'button', 'data-act': 'review-ev', 'data-arg': slug }, `${stats([slug]).missed} wrong`) : null),
+          h('span', { class: 'deck-prog' }, meter(slug), pctLabel(slug))))));
+    }),
+    all.missed ? h('section', { class: 'pinkblock' },
+      h('h2', null, 'Fix your wrong answers'),
+      h('p', null, `${plural(all.missed, 'question')} you missed last time ${all.missed === 1 ? 'is' : 'are'} waiting for another try.`),
+      h('div', { class: 'cta' }, h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-missed' }, 'Redo wrong answers'))) : null);
+}
+
+/* ---------- exam guide: what the HOSA Behavioral Health guidelines (September 2026) say ---------- */
+const MOCK_PLAN = { 1: 13, 2: 12, 3: 12, 4: 8, 5: 3, 6: 2 };   // 50 questions, close to the test plan weights
+const MOCK_MIN = 60;
+const SAMPLES = [
+  { q: 'Which part of the nervous system manages essential functions, such as heart rate, breathing, and blood pressure?', cite: 'Cacioppo pp 115',
+    choices: ['Parietal', 'Pons', 'Medulla', 'Cerebellum'], answer: 2, link: ['biological', 'manages many functions essential to life'] },
+  { q: 'A student is seeking a counselor to work on individual strategies to develop knowledge, attitudes, and skills needed to change certain behaviors. All of the following elements are considered a component of an effective program, except which one?', cite: 'SAMHSA',
+    choices: ['Focusing on life and social skills.', 'Peer support services.', 'Focusing on physical skills.', 'Social commitment to not using drugs.'], answer: 3,
+    note: 'The guidelines cite SAMHSA for this one, but the page it came from is no longer on the SAMHSA website, so it is not in the notes. The answer shown is the one marked in the guidelines.' },
+  { q: 'Which type of psychology explores regular changes in behavior that occur across the lifespan?', cite: 'Cacioppo pp 24',
+    choices: ['Cognitive', 'Developmental', 'Clinical', 'Behavioral'], answer: 1, link: ['careers', 'Explores the normal changes in behavior that occur across the life span'] },
+];
+function examCard() {
+  const live = mock && !mock.done, past = Array.isArray(st.mocks) ? st.mocks : [], last = past[past.length - 1];
+  return h('div', { class: 'card exam-card' },
+    h('span', { class: 'tile blue' }, icon('target')),
+    h('div', { class: 'exam-text' },
+      h('p', { class: 'exam-title' }, 'Round one: 50 multiple-choice questions in 60 minutes'),
+      h('p', { class: 'exam-sub' }, live ? `Mock exam in progress: ${mockAnswered()} of ${mock.items.length} answered.`
+        : last ? `Last mock exam: ${last.pct}% (${last.got} of ${last.n}) on ${last.day}.`
+        : 'Practice under test conditions with a timed 50-question mock exam weighted like the test plan.')),
+    h('div', { class: 'exam-btns' },
+      h('button', { class: 'btn', type: 'button', 'data-act': 'tab', 'data-arg': 'guide' }, icon('target'), 'Exam guide'),
+      h('button', { class: 'btn primary', type: 'button', 'data-act': 'new-mock' }, icon('clock'), live ? 'Resume mock exam' : 'Take a mock exam')));
+}
+function sampleCard(s, i) {
+  const box = h('div', { class: 'card sample' });
+  let picked = null;
+  const draw = () => fill(box,
+    h('p', { class: 'sample-q' }, h('span', { class: 'chip' }, `Sample ${i + 1}`), s.q, h('span', { class: 'cite' }, ` (${s.cite})`)),
+    h('div', { class: 'choices', role: 'group' }, s.choices.map((c, k) => {
+      const b = h('button', { class: 'choice', type: 'button' }, h('span', { class: 'bub', 'aria-hidden': 'true' }, 'ABCD'[k]), h('span', { class: 'ctext' }, c));
+      if (picked !== null) { b.disabled = true; b.classList.add(k === s.answer ? 'correct' : k === picked ? 'wrong' : 'dim'); }
+      else b.addEventListener('click', () => { picked = k; draw(); });
+      return b;
+    })),
+    picked === null ? null : h('div', { class: 'feedback' },
+      h('p', { class: 'verdict ' + (picked === s.answer ? 'ok' : 'no') }, icon(picked === s.answer ? 'check' : 'xc'),
+        h('span', null, picked === s.answer ? 'Correct!' : `The official answer is ${'ABCD'[s.answer]}: ${s.choices[s.answer]}`)),
+      s.note ? h('p', { class: 'explain' }, s.note) : null,
+      s.link ? h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(s.link[0], s.link[1]) }, 'Show in notes →') : null,
+      h('button', { class: 'linkbtn', type: 'button', onclick: () => { picked = null; draw(); } }, 'Try again')));
+  draw();
+  return box;
+}
+function renderGuide() {
+  const sec = (title, ...kids) => h('section', { class: 'card gcard' }, h('h2', { class: 'g-title' }, title), kids);
+  const li = (...kids) => h('li', null, kids);
+  fill(views.guide,
+    h('h1', { class: 'page-title' }, 'Exam guide'),
+    h('p', { class: 'page-sub' }, 'What the HOSA Behavioral Health guidelines (ILC, September 2026) say about the test, and what this site covers.'),
+    h('div', { class: 'stats' },
+      statCard('blue', 'quiz', '50', 'Multiple-choice questions'),
+      statCard('orange', 'clock', '60 min', 'Time limit, about 72 seconds a question'),
+      statCard('green', 'pencil', 'Essay', 'Tiebreaker on the back of the answer sheet')),
+    h('div', { class: 'guide-grid' },
+      sec('The test',
+        h('ul', { class: 'g-list' },
+          li('Round one is a written test: ', h('b', null, '50 multiple-choice questions in a maximum of 60 minutes'), '.'),
+          li('An ', h('b', null, 'essay tiebreaker'), ' question is given with the test. You write it on the back of the test answer sheet, and it is judged only if there is a tie.'),
+          li('There are ', h('b', null, 'no verbal announcements for time remaining'), ' at ILC. Testing is in the Testing Center, and you are responsible for watching your own time.'),
+          li('Solo event (1 competitor) for the Secondary and Postsecondary/Collegiate divisions. No digital upload.'),
+          li('The event covers psychology, the mind, mental health, and substance use disorders. It aims to inspire members to promote mental health resilience and to support people in recovery, their families, and the health community.'))),
+      sec('What to bring and wear',
+        h('ul', { class: 'g-list' },
+          li(h('b', null, 'Photo ID')),
+          li(h('b', null, 'Two #2 lead pencils'), ' (not mechanical) with an eraser'),
+          li('Neon colored foam earplugs, ', h('b', null, 'not earbuds'), ' (optional)'),
+          li('Proper business attire or the official HOSA uniform. ', h('b', null, 'Bonus points'), ' are awarded for proper dress.'),
+          li('HOSA Conference Staff provide the equipment and supplies listed in Appendix I.')))),
+    sec('At HOSA Canada conferences',
+      h('p', { class: 'g-note' }, 'From HOSA Canada’s version of the guidelines (updated September 29, 2026). Everything else follows the ILC guidelines above.'),
+      h('ul', { class: 'g-list' },
+        li(h('b', null, 'Fall Leadership Conference (FLC): '), 'the written test is shortened to ', h('b', null, '40 minutes'), ' (still 50 questions, with a tiebreaker), is taken ', h('b', null, 'online and open book'), ', and only the written test is evaluated.'),
+        li(h('b', null, 'Spring Leadership Conference (SLC): '), 'in person and run like ILC, except there are ', h('b', null, 'verbal announcements at 30 minutes and 5 minutes'), ' remaining.'),
+        li(h('b', null, 'Post-Secondary Virtual Conference (vSLC): '), h('b', null, '40 minutes'), ', online and open book (still 50 questions, with a tiebreaker).'),
+        li(h('b', null, 'International Leadership Conference (ILC): '), 'no verbal time announcements at all.'),
+        li('A charter number is not needed for FLC or SLC, but it ', h('b', null, 'is required for all submissions at ILC'), '.')),
+      h('p', { class: 'g-note' }, 'HOSA Canada members can also open the Behavioural Health study packages and a practice test with an answer key in the HOSA Canada app (Behavioural Health, Modules 2–8). Those materials are for your own studying only, so keep this site private.')),
+    sec('Test plan',
+      h('p', { class: 'g-note' }, 'How the 50 questions are split. The mock exam on this site uses the same mix.'),
+      h('div', { class: 'tbl' }, h('table', null,
+        h('thead', null, h('tr', null, h('th', null, 'Part'), h('th', null, 'Weight'), h('th', null, 'Mock exam'), h('th', null, 'Topics on this site'))),
+        h('tbody', null, PARTS.map(p => h('tr', { class: `pc-${p.n}` },
+          h('td', null, h('b', null, `${p.n}. ${p.title}`)),
+          h('td', null, h('span', { class: 'chip' }, p.weight + '%')),
+          h('td', { class: 'nowrap' }, `${MOCK_PLAN[p.n]} questions`),
+          h('td', null, p.events.map((s, k) => [k ? ', ' : null, h('a', { href: '#notes-' + s, 'data-act': 'notes', 'data-arg': s }, EV[s].title)]))))))),
+      h('p', { class: 'g-note' }, 'The guidelines list these topics: The Mind (Biological, Sensation, Perception, Consciousness, Motivation, Emotion, Learning, Memory) and the disorders part (Autism, ADHD, Schizophrenia, Bipolar, Depression, Anxiety, OCD, PTSD, Personality Disorders, Dissociative Disorders, Eating Disorders). The other four parts have no topic list.')),
+    sec('Official references',
+      h('ul', { class: 'g-list' },
+        li(h('b', null, 'SAMHSA website'), ' (samhsa.gov)'),
+        li(h('b', null, 'Cacioppo & Freberg, '), h('i', null, 'Discovering Psychology'), ' (Cengage Learning, latest edition)'),
+        li(h('b', null, 'NAMI website'), ' (nami.org)'),
+        li('Also available: the HOSA webinar “SAMHSA - Behavioral Health Pathways.”')),
+      h('p', { class: 'g-note' }, 'What this site covers: textbook Chapters 1, 4–9, and 14–16 (textbook page numbers are next to each heading), SAMHSA pages for every part of the test plan, the NAMI website’s condition, treatment, statistics, crisis and program pages (sections marked NAMI, from saved copies of the pages as of October 2026), and HOSA Canada’s Behavioural Health study decks (sections marked HOSA Canada; they summarize the textbook, so only points not already in the notes were added). Not included: textbook Chapters 2–3 and 10–13 (research methods, genes and evolution, thinking and intelligence, development, personality, and social psychology), which the test plan does not name.')),
+    h('h2', { class: 'sec-title' }, 'Sample test questions'),
+    h('p', { class: 'page-sub' }, 'These three are from the guidelines. Pick an answer to see the official one.'),
+    h('div', { class: 'samples' }, SAMPLES.map(sampleCard)),
+    sec('After the event',
+      h('ul', { class: 'g-list' },
+        li('The HOSA Scholarship application opens ', h('b', null, 'January 1, 2027'), ' (hosa.org/scholarships).'),
+        li('After you graduate, you can stay connected as a free ', h('b', null, 'HOSA Lifetime Alumni Member'), ' (hosa.org/alumni).'))),
+    h('div', { class: 'actions done-actions' },
+      h('button', { class: 'btn primary', type: 'button', 'data-act': 'new-mock' }, icon('clock'), 'Take a mock exam'),
+      h('button', { class: 'btn', type: 'button', 'data-act': 'notes' }, icon('book'), 'Study the notes')));
+}
+
+/* ---------- mock exam: 50 questions in 60 minutes, answers shown at the end ---------- */
+const MOCK_KEY = 'hosa-bh-prep/mock';
+let mock = null, mockTimer = 0, submitTimer = 0;
+try { const o = JSON.parse(localStorage.getItem(MOCK_KEY) || 'null'); if (o && Array.isArray(o.items) && o.items.length && o.items.every(it => byId[it.id])) mock = o; } catch (e) {}
+const mockSetup = { level: 'mixed', mins: 60 };
+function saveMock() { try { if (mock) localStorage.setItem(MOCK_KEY, JSON.stringify(mock)); else localStorage.removeItem(MOCK_KEY); } catch (e) {} refreshMockBadge(); }
+function refreshMockBadge() { const b = $('#mock-badge'); if (b) b.hidden = !(mock && !mock.done); }
+const mockAnswered = () => mock ? mock.items.filter(it => it.pick !== null).length : 0;
+const fmtTime = ms => { const s = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`; };
+function buildMock(level) {
+  const out = [];
+  for (const p of PARTS) {
+    const want = MOCK_PLAN[p.n] || 0, seen = new Set(), picked = [];
+    const pools = shuffle(p.events.map(s => shuffle(poolFor([s], 'any', level).slice()))).filter(x => x.length);
+    let k = 0;
+    while (picked.length < want && pools.some(x => x.length)) {      // one question per topic in turn, so every topic gets a share
+      const pool = pools[k++ % pools.length];
+      while (pool.length) { const q = pool.shift(), g = q.grp || q.id; if (!seen.has(g)) { seen.add(g); picked.push(q); break; } }
+    }
+    out.push(...picked);
+  }
+  return shuffle(out);
+}
+function startMock() {
+  const qs = buildMock(mockSetup.level), now = Date.now();
+  if (!qs.length) return;
+  mock = { items: qs.map(q => ({ id: q.id, order: shuffle([0, 1, 2, 3]), pick: null, flag: false })), i: 0, start: now,
+    end: mockSetup.mins ? now + mockSetup.mins * 60000 : null, level: mockSetup.level, done: false, timeUp: false, finished: null, hideTimer: false };
+  saveMock(); renderMock(); toTop();
+  const q = $('#mock-q'); if (q) q.focus({ preventScroll: true });
+}
+function tickMock() {
+  if (!mock || mock.done) { clearInterval(mockTimer); mockTimer = 0; return; }
+  if (mock.end && Date.now() >= mock.end) { finishMock(true); return; }
+  const el = $('#mock-time');
+  if (el) {
+    el.textContent = mock.end ? fmtTime(mock.end - Date.now()) : fmtTime(Date.now() - mock.start);
+    el.parentElement.classList.toggle('low', !!mock.end && mock.end - Date.now() < 5 * 60000);
+  }
+}
+function ensureTicking() { if (mock && !mock.done && !mockTimer) mockTimer = setInterval(tickMock, 1000); }
+function renderMock() {
+  if (!mock) renderMockSetup();
+  else if (mock.done) renderMockDone();
+  else { ensureTicking(); renderMockRun(); }
+}
+function renderMockSetup() {
+  const past = Array.isArray(st.mocks) ? st.mocks : [];
+  fill(views.mock, h('div', { class: 'quiz-wrap' },
+    h('h1', { class: 'page-title' }, 'Mock exam'),
+    h('p', { class: 'page-sub' }, 'A practice run of round one: 50 multiple-choice questions picked to match the test plan weights, timed at 60 minutes (or 40 minutes, like HOSA Canada’s FLC). Like the real test, you see the answers only after you submit.'),
+    h('div', { class: 'card breakdown mock-plan' }, h('ul', null, PARTS.map(p => h('li', { class: `pc-${p.n}` },
+      h('span', null, `Part ${p.n} · ${p.short}`), h('span', { class: 'chip' }, p.weight + '%'), h('span', { class: 'pct' }, String(MOCK_PLAN[p.n])))))),
+    h('div', { class: 'mock-opts' },
+      h('fieldset', { class: 'card opt' }, h('legend', null, 'Difficulty'),
+        h('div', { class: 'seg seg3' }, [['normal', 'Normal'], ['hard', 'Hard'], ['mixed', 'Mixed']].map(([v, t]) => h('label', null,
+          h('input', { type: 'radio', name: 'mlevel', value: v, checked: mockSetup.level === v, onchange: () => { mockSetup.level = v; } }), h('span', null, t)))),
+        h('p', { class: 'opt-note' }, 'Mixed puts normal and hard questions together.')),
+      h('fieldset', { class: 'card opt' }, h('legend', null, 'Timer'),
+        h('div', { class: 'seg seg3' }, [[60, '60 min'], [40, '40 min'], [0, 'No limit']].map(([v, t]) => h('label', null,
+          h('input', { type: 'radio', name: 'mtimed', value: v, checked: mockSetup.mins === v, onchange: () => { mockSetup.mins = v; } }), h('span', null, t)))),
+        h('p', { class: 'opt-note' }, '60 minutes at ILC and SLC; 40 minutes at HOSA Canada’s FLC and vSLC. Nobody announces the time left at ILC, so practice watching the clock yourself.'))),
+    h('button', { class: 'btn primary wide', type: 'button', onclick: startMock }, icon('clock'), 'Start the mock exam · 50 questions'),
+    past.length ? [h('h2', { class: 'sec-title' }, 'Past mock exams'), h('div', { class: 'card breakdown past-mocks' }, h('ul', null, past.slice().reverse().slice(0, 10).map(m => {
+      const bar = h('span', { class: 'meter' }, h('i'));
+      bar.firstElementChild.style.setProperty('--w', m.pct + '%');
+      return h('li', null, h('span', null, `${m.day} · ${m.got} of ${m.n}`), bar, h('span', { class: 'pct' + (m.pct ? '' : ' zero') }, m.pct + '%'));
+    })))] : null));
+}
+function renderMockRun() {
+  const n = mock.items.length, it = mock.items[mock.i], q = byId[it.id], answered = mockAnswered(), flags = mock.items.filter(x => x.flag).length;
+  const bar = h('div', { class: 'progressbar' }, h('i'));
+  bar.firstElementChild.style.setProperty('--w', (answered / n * 100).toFixed(1) + '%');
+  fill(views.mock, h('div', { class: 'quiz-wrap' },
+    h('div', { class: 'run-head mock-head' },
+      h('span', { class: 'chip' }, 'Mock exam'),
+      mock.hideTimer ? null : h('span', { class: 'timer' }, icon('clock'),
+        h('span', { id: 'mock-time' }, mock.end ? fmtTime(mock.end - Date.now()) : fmtTime(Date.now() - mock.start)),
+        h('span', { class: 'sr' }, mock.end ? ' left' : ' used')),
+      h('button', { class: 'linkbtn', type: 'button', onclick: () => { mock.hideTimer = !mock.hideTimer; saveMock(); renderMockRun(); } }, mock.hideTimer ? 'Show timer' : 'Hide timer'),
+      h('span', { class: 'run-count' }, `Question ${mock.i + 1} of ${n}`)),
+    bar,
+    h('div', { class: 'card qcard' },
+      h('p', { class: 'qtext', id: 'mock-q', tabindex: '-1' }, q.q),
+      h('div', { class: 'choices', role: 'group', 'aria-labelledby': 'mock-q' }, it.order.map((ci, k) => h('button', {
+        class: 'choice' + (it.pick === k ? ' picked' : ''), type: 'button', 'aria-pressed': String(it.pick === k), onclick: () => mockPick(k, true) },
+        h('span', { class: 'bub', 'aria-hidden': 'true' }, 'ABCD'[k]), h('span', { class: 'ctext' }, q.choices[ci]))))),
+    h('div', { class: 'run-foot mock-foot' },
+      h('button', { class: 'btn', type: 'button', disabled: mock.i === 0, onclick: () => mockGo(mock.i - 1) }, '← Previous'),
+      h('button', { class: 'btn' + (it.flag ? ' flagged' : ''), type: 'button', 'aria-pressed': String(it.flag), onclick: mockFlag }, icon('flag'), it.flag ? 'Flagged' : 'Flag for review'),
+      mock.i < n - 1 ? h('button', { class: 'btn primary', type: 'button', onclick: () => mockGo(mock.i + 1) }, 'Next →')
+        : h('button', { class: 'btn primary', type: 'button', onclick: submitClick }, 'Submit exam')),
+    h('div', { class: 'card qnav-card' },
+      h('div', { class: 'qnav-head' },
+        h('span', null, `${answered} of ${n} answered`),
+        flags ? h('span', { class: 'qnav-flags' }, icon('flag'), `${flags} flagged`) : null,
+        h('button', { class: 'linkbtn danger', type: 'button', onclick: submitClick }, 'Submit exam')),
+      h('div', { class: 'qnav', role: 'group', 'aria-label': 'Jump to a question' }, mock.items.map((x, k) => h('button', {
+        type: 'button', class: 'qn-btn' + (k === mock.i ? ' cur' : '') + (x.pick !== null ? ' done' : '') + (x.flag ? ' flag' : ''),
+        'aria-label': `Question ${k + 1}${x.pick !== null ? ', answered' : ''}${x.flag ? ', flagged' : ''}`, 'aria-current': k === mock.i ? 'true' : null,
+        onclick: () => mockGo(k) }, String(k + 1))))),
+    h('p', { class: 'kbd-hint' }, 'Keyboard: 1–4 or A–D to pick, ← and → to move, F to flag')));
+}
+function mockPick(k, toggle) {
+  const it = mock.items[mock.i];
+  it.pick = toggle && it.pick === k ? null : k;
+  saveMock(); renderMockRun();
+}
+function mockGo(i) {
+  if (!mock || i < 0 || i >= mock.items.length) return;
+  mock.i = i; saveMock(); renderMockRun();
+  const q = $('#mock-q'); if (q) q.focus({ preventScroll: true });
+  if (views.mock.getBoundingClientRect().top < 0) views.mock.scrollIntoView({ block: 'start', behavior: reduceMotion ? 'auto' : 'smooth' });
+}
+function mockFlag() { const it = mock.items[mock.i]; it.flag = !it.flag; saveMock(); renderMockRun(); }
+function submitClick(e) {
+  const left = mock.items.length - mockAnswered(), b = e.currentTarget;
+  if (left && !submitTimer) {
+    b.textContent = `${plural(left, 'question')} unanswered. Click again to submit`;
+    submitTimer = setTimeout(() => { submitTimer = 0; if (b.isConnected) b.textContent = 'Submit exam'; }, 4000);
+    return;
+  }
+  clearTimeout(submitTimer); submitTimer = 0;
+  finishMock(false);
+}
+function finishMock(timeUp) {
+  if (!mock || mock.done) return;
+  mock.done = true; mock.timeUp = !!timeUp; mock.finished = timeUp && mock.end ? mock.end : Date.now();
+  clearInterval(mockTimer); mockTimer = 0;
+  let got = 0;
+  for (const it of mock.items) {
+    if (it.pick === null) continue;
+    const ok = it.order[it.pick] === 0;
+    if (ok) got++;
+    record(it.id, ok, it.order[it.pick]);
+  }
+  const n = mock.items.length;
+  st.mocks = (Array.isArray(st.mocks) ? st.mocks : []).concat({ day: dayKey(new Date()), got, n, pct: Math.round(got / n * 100) }).slice(-20);
+  save(); saveMock();
+  if (current === 'mock') { renderMock(); toTop(); }
+  else if (current === 'home') renderHome();
+}
+function renderMockDone() {
+  const n = mock.items.length, res = mock.items.map(it => ({ it, q: byId[it.id], ok: it.pick !== null && it.order[it.pick] === 0 }));
+  const got = res.filter(r => r.ok).length, blank = res.filter(r => r.it.pick === null).length, pct = Math.round(got / n * 100);
+  const per = PARTS.map(p => { const rs = res.filter(r => EV[r.q.event].part === p.n); return { p, a: rs.filter(r => r.ok).length, b: rs.length }; }).filter(x => x.b);
+  const missed = res.filter(r => !r.ok);
+  fill(views.mock, h('div', { class: 'quiz-wrap' },
+    h('h1', { class: 'page-title' }, mock.timeUp ? 'Time’s up' : 'Mock exam results'),
+    h('p', { class: 'page-sub' }, mock.timeUp ? 'Your 60 minutes ran out, so the exam was submitted for you. Questions left blank count as wrong.' : 'Here’s how you did. Every question you answered also counts toward your progress.'),
+    h('div', { class: 'stats' },
+      statCard('green', 'check', pct + '%', 'Score'),
+      statCard('blue', 'quiz', `${got}/${n}`, 'Correct'),
+      statCard('orange', 'clock', fmtTime(mock.finished - mock.start), blank ? `Time used · ${blank} left blank` : 'Time used')),
+    h('div', { class: 'actions done-actions' },
+      missed.length ? h('button', { class: 'btn primary', type: 'button', onclick: () => startQuiz({ ids: missed.map(r => r.it.id) }) }, icon('redo'), 'Practice what I missed', h('span', { class: 'count' }, '· ' + missed.length)) : null,
+      h('button', { class: 'btn' + (missed.length ? '' : ' primary'), type: 'button', onclick: () => { mock = null; saveMock(); renderMock(); toTop(); } }, icon('plus'), 'New mock exam'),
+      h('button', { class: 'btn', type: 'button', 'data-act': 'home' }, icon('home'), 'Home')),
+    h('h2', { class: 'sec-title' }, 'By test plan part'),
+    h('div', { class: 'card breakdown' }, h('ul', null, per.map(({ p, a, b }) => {
+      const bar = h('span', { class: 'meter' }, h('i'));
+      bar.firstElementChild.style.setProperty('--w', (a / b * 100).toFixed(1) + '%');
+      return h('li', null, h('span', null, `Part ${p.n} · ${p.short}`), bar, h('span', { class: 'pct' + (a ? '' : ' zero') }, `${a}/${b}`));
+    }))),
+    missed.length ? [h('h2', { class: 'sec-title' }, blank ? 'What you missed or left blank' : 'What you missed'), h('ol', { class: 'missed-list' }, missed.map(({ it, q }) => {
+      const ev = EV[q.event];
+      return h('li', { class: `card missed-item pc-${ev.part}` },
+        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, `Part ${ev.part}`), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+        h('p', { class: 'mq' }, q.q),
+        h('p', { class: 'ans-row yours' }, h('span', { class: 'k' }, 'You said'), h('span', { class: 'v' }, it.pick === null ? 'No answer' : q.choices[it.order[it.pick]])),
+        h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.choices[0])),
+        h('p', { class: 'explain' }, q.explain || ('From the notes: “' + (q.line || q.src) + '”')),
+        h('div', { class: 'qactions' }, h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(q.event, q.src) }, 'Show in notes →'), noteBox(qStore(q.id))));
+    }))] : null));
+}
+
+/* ---------- wrong answers, by section ---------- */
+function wrongIn(slug) { return (byEvent[slug] || []).filter(q => isWrong(q.id)); }
+function renderReview() {
+  const all = stats(ORDER);
+  fill(views.review,
+    h('h1', { class: 'page-title' }, 'Wrong answers'),
+    h('p', { class: 'page-sub' }, 'The questions you got wrong on your last try, sorted by section. Redo just one section’s questions or all of them. A question leaves this list as soon as you get it right.'),
+    all.missed
+      ? h('div', { class: 'actions done-actions' },
+          h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-missed' }, icon('redo'), 'Redo every wrong answer', h('span', { class: 'count' }, '· ' + all.missed)))
+      : h('div', { class: 'card empty' },
+          h('span', { class: 'tile green' }, icon('check')),
+          h('div', null, h('p', { class: 'empty-title' }, 'No wrong answers right now'), h('p', { class: 'empty-sub' }, 'When you get a question wrong, it shows up here under its section.')),
+          h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-mixed' }, icon('quiz'), 'Take a quiz')),
+    PARTS.map(p => {
+      const evs = p.events.filter(sl => wrongIn(sl).length);
+      if (!evs.length) return null;
+      return h('section', { class: `packet pc-${p.n}` },
+        h('div', { class: 'packet-head' },
+          icon('folder', 'folder'),
+          h('h2', { class: 'packet-title' }, `Part ${p.n} · ${p.title}`),
+          h('span', { class: 'packet-meta' }, plural(stats(p.events).missed, 'wrong answer')),
+          h('div', { class: 'packet-actions' }, h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo this part'))),
+        evs.map(sl => {
+          const list = wrongIn(sl);
+          return h('details', { class: 'card wrong-sec', open: true },
+            h('summary', null,
+              h('span', { class: 'ws-title' }, EV[sl].title),
+              h('span', { class: 'ws-count' }, plural(list.length, 'wrong answer')),
+              h('span', { class: 'ws-btns' },
+                h('button', { class: 'btn ghost sm', type: 'button', 'data-act': 'notes', 'data-arg': sl }, icon('book'), 'Notes'),
+                h('button', { class: 'btn primary sm', type: 'button', 'data-act': 'review-ev', 'data-arg': sl }, icon('redo'), 'Redo these', h('span', { class: 'count' }, '· ' + list.length)))),
+            h('ol', { class: 'wrong-list' }, list.map(q => {
+              const r = st.q[q.id], pick = q.type === 'mc' && typeof r[4] === 'number' && r[4] > 0 ? q.choices[r[4]] : null;
+              return h('li', null,
+                h('p', { class: 'wq' }, q.q, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+                pick ? h('p', { class: 'ans-row yours' }, h('span', { class: 'k' }, 'You said'), h('span', { class: 'v' }, pick)) : null,
+                h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.type === 'mc' ? q.choices[0] : q.answer)),
+                h('p', { class: 'explain' }, q.explain || ('From the notes: “' + (q.line || q.src) + '”')),
+                h('div', { class: 'qactions' }, h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(q.event, q.src) }, 'Show in notes →'), noteBox(qStore(q.id))));
+            })));
+        }));
+    }));
+}
+
+/* ---------- my notes, saved in this browser only ----------
+   Notes on a line of the study notes are stored with the highlights (field "n").
+   Notes on quiz questions (key = question id) and on whole events (key = "ev:" + slug) are stored here. */
+const NOTES_KEY = 'hosa-bh-prep/qnotes';
+let NOTES = {};
+try { const o = JSON.parse(localStorage.getItem(NOTES_KEY) || 'null'); if (o && typeof o === 'object' && !Array.isArray(o)) NOTES = o; } catch (e) {}
+const saveNotes = () => { try { localStorage.setItem(NOTES_KEY, JSON.stringify(NOTES)); return true; } catch (e) { return false; } };
+const noteText = k => typeof NOTES[k] === 'string' && NOTES[k].trim() ? NOTES[k] : '';
+const liveNote = k => !!noteText(k) && (k.startsWith('ev:') ? !!EV[k.slice(3)] : !!byId[k]);
+const qStore = key => ({ get: () => noteText(key), set: v => { if (v.trim()) NOTES[key] = v; else delete NOTES[key]; return saveNotes(); } });
+const lineNotes = slug => (HL[slug] || []).filter(x => typeof x.n === 'string' && x.n.trim());
+function refreshNotesBadge() {
+  const n = Object.keys(NOTES).filter(liveNote).length + ORDER.reduce((k, s) => k + lineNotes(s).length, 0), b = $('#notes-badge');
+  b.hidden = !n; b.textContent = String(n);
+}
+function growNote(ta) { ta.style.setProperty('height', 'auto'); ta.style.setProperty('height', Math.max(ta.scrollHeight, 52) + 'px'); }
+// A note editor that saves as you type. store = { get() → text, set(text) → saved? }; clearing the text deletes the note.
+function noteBox(store, { label = 'My note', add = 'Add a note', onGone, open = false } = {}) {
+  const slot = h('div', { class: 'note-slot' });
+  let timer = 0;
+  const closed = () => { slot.classList.remove('open'); fill(slot, h('button', { class: 'linkbtn note-add', type: 'button', onclick: () => opened(true) }, icon('pencil'), add)); };
+  const drop = () => { clearTimeout(timer); timer = 0; store.set(''); refreshNotesBadge(); if (onGone) onGone(); else closed(); };
+  function opened(focus) {
+    const ta = h('textarea', { rows: '2', maxlength: '4000', placeholder: 'Write anything that helps you remember this…', 'aria-label': label });
+    ta.value = store.get();
+    const status = h('span', { class: 'note-status', 'aria-live': 'polite' });
+    const commit = () => {
+      clearTimeout(timer); timer = 0;
+      status.textContent = store.set(ta.value) ? 'Saved' : 'Couldn’t save in this browser';
+      refreshNotesBadge();
+    };
+    ta.addEventListener('input', () => { growNote(ta); status.textContent = 'Saving…'; clearTimeout(timer); timer = setTimeout(commit, 600); });
+    ta.addEventListener('blur', () => { if (timer) commit(); if (!ta.value.trim()) drop(); });
+    slot.classList.add('open');
+    fill(slot, h('div', { class: 'note' },
+      h('div', { class: 'note-head' }, icon('pencil'), h('span', null, label), status,
+        h('button', { class: 'note-del', type: 'button', 'aria-label': 'Delete this note', title: 'Delete note', onclick: drop }, icon('trash'))),
+      ta));
+    requestAnimationFrame(() => growNote(ta));
+    if (focus) ta.focus();
+  }
+  if (store.get() || open) opened(false); else closed();
+  return slot;
+}
+function renderMyNotes() {
+  const noted = QS.filter(q => liveNote(q.id));
+  const has = s => liveNote('ev:' + s) || lineNotes(s).length > 0 || noted.some(q => q.event === s);
+  const kind = t => h('p', { class: 'mn-kind' }, t);
+  const toNotes = onclick => h('div', { class: 'qactions mn-foot' }, h('button', { class: 'linkbtn', type: 'button', onclick }, 'Show in notes →'));
+  fill(views.mynotes,
+    h('h1', { class: 'page-title' }, 'My notes'),
+    h('p', { class: 'page-sub' }, 'Notes you’ve written on the study notes and on quiz questions, sorted by section. You can edit them here. Changes save as you type, in this browser only.'),
+    !ORDER.some(has)
+      ? h('div', { class: 'card empty' },
+          h('span', { class: 'tile orange' }, icon('pencil')),
+          h('div', null, h('p', { class: 'empty-title' }, 'No notes yet'), h('p', { class: 'empty-sub' }, 'In the study notes, select a sentence and choose “Add note”. You can also add a note to a quiz question after you answer it.')),
+          h('button', { class: 'btn primary', type: 'button', 'data-act': 'notes' }, icon('book'), 'Open study notes'))
+      : noted.length ? h('div', { class: 'actions done-actions' },
+          h('button', { class: 'btn primary', type: 'button', onclick: () => startQuiz({ ids: noted.map(q => q.id) }) }, icon('quiz'), 'Quiz me on my noted questions', h('span', { class: 'count' }, '· ' + noted.length)))
+      : null,
+    PARTS.map(p => {
+      const evs = p.events.filter(has);
+      if (!evs.length) return null;
+      return h('section', { class: `packet pc-${p.n}` },
+        h('div', { class: 'packet-head' }, icon('folder', 'folder'), h('h2', { class: 'packet-title' }, `Part ${p.n} · ${p.title}`)),
+        evs.map(s => {
+          const lines = lineNotes(s), qs = noted.filter(q => q.event === s), evNote = liveNote('ev:' + s);
+          return h('div', { class: 'card wrong-sec' },
+            h('div', { class: 'mn-head' },
+              h('span', { class: 'ws-title' }, EV[s].title),
+              h('span', { class: 'mn-count' }, plural(lines.length + qs.length + (evNote ? 1 : 0), 'note')),
+              h('span', { class: 'ws-btns' },
+                h('button', { class: 'btn ghost sm', type: 'button', 'data-act': 'notes', 'data-arg': s }, icon('book'), 'Notes'),
+                qs.length ? h('button', { class: 'btn primary sm', type: 'button', onclick: () => startQuiz({ ids: qs.map(q => q.id) }) }, icon('quiz'), 'Quiz these', h('span', { class: 'count' }, '· ' + qs.length)) : null)),
+            h('ol', { class: 'wrong-list' },
+              evNote ? h('li', null, kind('Whole topic'), noteBox(qStore('ev:' + s), { label: 'My note on this topic', onGone: renderMyNotes })) : null,
+              lines.map(x => h('li', null,
+                kind('Study notes'),
+                h('p', { class: 'mn-quote' }, x.c && x.c !== 'none' ? h('mark', { class: 'hl', 'data-c': x.c }, x.t) : x.t),
+                noteBox(hlStore(s, x), { onGone: () => { dropAnno(s, x.id); renderMyNotes(); } }),
+                toNotes(() => jumpToHL(s, x.id)))),
+              qs.map(q => h('li', null,
+                kind('Quiz question'),
+                h('p', { class: 'wq' }, q.q, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+                h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.type === 'mc' ? q.choices[0] : q.answer)),
+                noteBox(qStore(q.id), { onGone: renderMyNotes }),
+                toNotes(() => showSource(q.event, q.src))))));
+        }));
+    }));
+}
+
+/* ---------- notes ---------- */
+function showEvent(slug) {
+  curEvent = slug;
+  hideBar();
+  $$('.event').forEach(a => { a.hidden = a.id !== 'ev-' + slug; });
+  $('#results').hidden = true;
+  $$('.tree a').forEach(a => a.setAttribute('aria-current', a.dataset.toc === slug ? 'true' : 'false'));
+  const slot = $(`#ev-${slug} [data-evnote]`);
+  if (slot) fill(slot, liveNote('ev:' + slug) ? noteBox(qStore('ev:' + slug), { label: 'My note on this topic', onGone: () => slot.replaceChildren() }) : null);
+  for (const x of lineNotes(slug)) { const ta = $('.anno[data-anno="' + x.id + '"] textarea'); if (!ta || ta.value !== x.n) mountAnno(slug, x, false); }
+  st.last = slug; save();
+}
+function flash(el) {
+  if (!el) return;
+  const t = el.closest('tr') || el;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+  requestAnimationFrame(() => t.scrollIntoView({ block: 'center', behavior: reduceMotion ? 'auto' : 'smooth' }));
+  setTimeout(() => t.classList.remove('flash'), 3200);
+}
+function findSource(slug, src) {
+  const art = document.getElementById('ev-' + slug), want = norm(src);
+  if (!art || !want) return null;
+  let best = null, bestLen = Infinity;
+  for (const el of $$('.prose li, .prose p, .prose tr, .prose h2, .prose h3, .prose h4', art)) {
+    const t = norm(cleanText(el));
+    if (t.length < bestLen && t.includes(want)) { best = el; bestLen = t.length; }
+  }
+  return best;
+}
+function showSource(slug, src) { const from = current === 'quiz' || current === 'mock' ? current : null; go('notes', slug); backFrom = from; show('notes'); flash(findSource(slug, src)); }
+
+const searchIn = $('#search'), resultsBox = $('#results');
+let sTimer = 0;
+searchIn.addEventListener('input', () => { clearTimeout(sTimer); sTimer = setTimeout(runSearch, 140); });
+searchIn.addEventListener('keydown', e => { if (e.key === 'Escape') { searchIn.value = ''; runSearch(); } });
+function ownText(el) {
+  if (el.tagName !== 'LI') return cleanText(el);
+  let t = '';
+  for (const n of el.childNodes) if (!(n.nodeType === 1 && (n.tagName === 'UL' || n.tagName === 'OL'))) t += n.nodeType === 1 ? cleanText(n) : n.textContent;
+  return t;
+}
+function marked(text, needle) {
+  const out = [], low = text.toLowerCase();
+  let i = 0, j;
+  while ((j = low.indexOf(needle, i)) !== -1) { if (j > i) out.push(text.slice(i, j)); out.push(h('mark', null, text.slice(j, j + needle.length))); i = j + needle.length; }
+  if (i < text.length) out.push(text.slice(i));
+  return out;
+}
+function runSearch() {
+  const q = searchIn.value.trim();
+  if (q.length < 2) {
+    resultsBox.hidden = true; resultsBox.replaceChildren();
+    if (current === 'notes' && curEvent) showEvent(curEvent);
+    return;
+  }
+  if (current !== 'notes') { if (!curEvent) curEvent = EV[st.last] ? st.last : ORDER[0]; show('notes'); setHash('notes-' + curEvent); }
+  const needle = q.toLowerCase(), hits = [];
+  for (const slug of ORDER) {
+    for (const el of $$('.prose li, .prose p, .prose tr, .prose h2, .prose h3, .prose h4', document.getElementById('ev-' + slug))) {
+      if (el.tagName !== 'TR' && el.closest('td, th')) continue;
+      const text = ownText(el).replace(/\s+/g, ' ').trim();
+      if (text.toLowerCase().includes(needle)) hits.push({ slug, el, text });
+    }
+  }
+  $$('.event').forEach(a => { a.hidden = true; });
+  $$('.tree a').forEach(a => a.setAttribute('aria-current', 'false'));
+  resultsBox.hidden = false;
+  fill(resultsBox,
+    h('h1', { class: 'page-title' }, 'Search results'),
+    h('p', { class: 'results-head', role: 'status' }, hits.length ? `${plural(hits.length, 'match', 'matches')} for “${q}” across the notes` : `No matches for “${q}”. Try a shorter word.`),
+    hits.slice(0, 120).map(hit => h('button', { class: 'card result', type: 'button', onclick: () => { showEvent(hit.slug); setHash('notes-' + hit.slug); flash(hit.el); } },
+      h('span', { class: `r-ev pc-${EV[hit.slug].part}` }, h('span', { class: 'chip' }, `Part ${EV[hit.slug].part}`), EV[hit.slug].title),
+      h('span', { class: 'r-text' }, marked(hit.text, needle)))));
+  toTop();
+}
+
+/* ---------- highlights and notes on the study notes (saved in this browser only) ---------- */
+// HL[slug] = [{id, s, e, c, t, n?}]: s/e = character offsets into the event's note text, c = colour ("none" = no colour,
+// just a note), t = the text (used to find it again if offsets drift), n = my note about that text.
+// A note shows as a card (.anno) under the line that holds the text; card text never counts toward the offsets.
+const HL_KEY = 'hosa-bh-prep/highlights';
+let HL = {};
+try { const o = JSON.parse(localStorage.getItem(HL_KEY) || 'null'); if (o && typeof o === 'object' && !Array.isArray(o)) HL = o; } catch (e) {}
+const saveHL = () => { try { localStorage.setItem(HL_KEY, JSON.stringify(HL)); return true; } catch (e) { return false; } };
+const proseOf = slug => { const a = document.getElementById('ev-' + slug); return a ? a.querySelector('.prose') : null; };
+const hlCount = () => Object.values(HL).reduce((n, list) => n + list.filter(x => x.c !== 'none').length, 0);
+function refreshHLBadge() { const n = hlCount(), b = $('#hl-badge'); b.hidden = !n; b.textContent = String(n); }
+function textNodes(root) {         // the note text only: skips my note cards
+  const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement && n.parentElement.closest('.anno') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT }), out = [];
+  let n; while ((n = w.nextNode())) out.push(n);
+  return out;
+}
+function cleanText(el) { return textNodes(el).map(t => t.nodeValue).join(''); }
+function wrapHL(prose, x) {        // x = {id, s, e, c}: character offsets into the event's note text
+  let pos = 0;
+  for (const t of textNodes(prose)) {
+    const len = t.nodeValue.length, a = pos, b = pos + len;
+    pos = b;
+    if (!len || b <= x.s || a >= x.e) continue;
+    const parent = t.parentNode;
+    if (/^(UL|OL|TABLE|THEAD|TBODY|TR)$/.test(parent.nodeName) || parent.closest('.sr, [aria-hidden="true"]')) continue;
+    let node = t;
+    const s = Math.max(x.s, a) - a, e = Math.min(x.e, b) - a;
+    if (e < len) node.splitText(e);
+    if (s > 0) node = node.splitText(s);
+    const m = document.createElement('mark');
+    m.className = 'hl'; m.dataset.hl = x.id; m.dataset.c = x.c;
+    if (x.n) m.dataset.noted = '';
+    parent.insertBefore(m, node); m.appendChild(node);
+  }
+}
+function unwrapHL(id) {
+  $$('mark.hl[data-hl="' + id + '"]').forEach(m => {
+    const p = m.parentNode;
+    while (m.firstChild) p.insertBefore(m.firstChild, m);
+    p.removeChild(m); p.normalize();
+  });
+}
+const itemOf = (slug, id) => (HL[slug] || []).find(y => y.id === id);
+const cardOf = id => $('.anno[data-anno="' + id + '"]');
+function syncNoted(x) { $$('mark.hl[data-hl="' + x.id + '"]').forEach(m => m.toggleAttribute('data-noted', !!x.n)); }
+function hlStore(slug, x) {
+  return { get: () => x.n || '', set: v => { if (v.trim()) x.n = v; else delete x.n; syncNoted(x); return saveHL(); } };
+}
+function placeAnno(card, mark) {   // under the line: inside a list item (before any sub-list) or table cell, else right after the paragraph/heading
+  const prose = mark.closest('.prose'), block = mark.closest('li, td, th, p, h2, h3, h4');
+  if (!block || !prose.contains(block)) { prose.append(card); return; }
+  if (block.tagName === 'LI') block.insertBefore(card, Array.from(block.children).find(c => c.tagName === 'UL' || c.tagName === 'OL') || null);
+  else if (block.tagName === 'TD' || block.tagName === 'TH') block.append(card);
+  else { let at = block; while (at.nextElementSibling && at.nextElementSibling.classList.contains('anno')) at = at.nextElementSibling; at.after(card); }
+}
+function mountAnno(slug, x, open) {
+  const marks = $$('mark.hl[data-hl="' + x.id + '"]');
+  if (!marks.length) return null;
+  const old = cardOf(x.id); if (old) old.remove();
+  const card = h('div', { class: 'anno', 'data-anno': x.id }, noteBox(hlStore(slug, x), { label: 'My note', open, onGone: () => dropAnno(slug, x.id) }));
+  placeAnno(card, marks[marks.length - 1]);
+  return card;
+}
+function dropAnno(slug, id) {      // the note was deleted: remove its card, and the marking too if it had no colour
+  const card = cardOf(id); if (card) card.remove();
+  const x = itemOf(slug, id);
+  if (x) { delete x.n; syncNoted(x); if (x.c === 'none') removeHL(slug, id); else saveHL(); }
+  refreshNotesBadge();
+}
+for (const slug of Object.keys(HL)) {           // put saved highlights and notes back on the page
+  const prose = proseOf(slug);
+  if (!prose || !Array.isArray(HL[slug])) { delete HL[slug]; continue; }
+  const text = cleanText(prose);
+  HL[slug] = HL[slug].filter(x => {
+    if (!x || typeof x.t !== 'string' || !x.t) return false;
+    if (x.c === 'none' && !(typeof x.n === 'string' && x.n.trim())) return false;     // a note that was never written
+    if (text.slice(x.s, x.e) !== x.t) { const i = text.indexOf(x.t); if (i < 0) return false; x.s = i; x.e = i + x.t.length; }
+    return true;
+  }).sort((a, b) => a.s - b.s);
+  HL[slug].forEach(x => wrapHL(prose, x));
+  HL[slug].forEach(x => { if (x.n) mountAnno(slug, x, false); });
+  if (!HL[slug].length) delete HL[slug];
+}
+function charOffset(root, node, offset) {      // characters of note text before (node, offset)
+  const r = document.createRange(); r.selectNodeContents(root); r.setEnd(node, offset);
+  let n = 0;
+  for (const t of textNodes(root)) {
+    if (t === node) return n + offset;
+    if (r.comparePoint(t, 0) > 0) break;
+    n += t.nodeValue.length;
+  }
+  return n;
+}
+function selectionOffsets(prose, range) {
+  if (!range.intersectsNode(prose)) return null;
+  const r = range.cloneRange();
+  if (!prose.contains(r.startContainer)) r.setStart(prose, 0);
+  if (!prose.contains(r.endContainer)) r.setEnd(prose, prose.childNodes.length);
+  const text = cleanText(prose);
+  let s = charOffset(prose, r.startContainer, r.startOffset), e = charOffset(prose, r.endContainer, r.endOffset);
+  while (s < e && /\s/.test(text[s])) s++;
+  while (e > s && /\s/.test(text[e - 1])) e--;
+  return e > s ? { s, e } : null;
+}
+function addHL(p, c) {             // c = a colour, or null when the text only gets a note
+  const prose = proseOf(p.slug);
+  if (!prose) return null;
+  const list = HL[p.slug] || [];
+  let s = p.s, e = p.e;
+  const hit = list.filter(x => x.s < e && x.e > s);    // overlapping highlights merge into the new one, keeping their notes
+  hit.forEach(x => { s = Math.min(s, x.s); e = Math.max(e, x.e); const card = cardOf(x.id); if (card) card.remove(); unwrapHL(x.id); });
+  const x = { id: 'h' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6), s, e,
+    c: c || (hit.find(y => y.c && y.c !== 'none') || {}).c || 'none', t: cleanText(prose).slice(s, e) };
+  const n = hit.map(y => y.n).filter(v => typeof v === 'string' && v.trim()).join('\n\n');
+  if (n) x.n = n;
+  HL[p.slug] = list.filter(y => !hit.includes(y)).concat(x).sort((a, b) => a.s - b.s);
+  wrapHL(prose, x); saveHL(); refreshHLBadge();
+  if (x.n) mountAnno(p.slug, x, false);
+  return x;
+}
+function recolorHL(ed, c) {
+  const x = itemOf(ed.slug, ed.id);
+  if (!x) return;
+  x.c = c; $$('mark.hl[data-hl="' + x.id + '"]').forEach(m => { m.dataset.c = c; }); saveHL(); refreshHLBadge();
+}
+function removeHL(slug, id) {
+  const card = cardOf(id); if (card) card.remove();
+  unwrapHL(id);
+  HL[slug] = (HL[slug] || []).filter(x => x.id !== id);
+  if (!HL[slug].length) delete HL[slug];
+  saveHL(); refreshHLBadge(); refreshNotesBadge();
+}
+function unhighlight(slug, id) {   // removing the colour keeps a note that's attached to the text
+  const x = itemOf(slug, id);
+  if (x && x.n) recolorHL({ slug, id }, 'none'); else removeHL(slug, id);
+}
+function openAnno(pend, ed) {      // "Add note" / "Edit note" in the toolbar
+  let slug, x;
+  if (ed) { slug = ed.slug; x = itemOf(slug, ed.id); }
+  else if (pend) { slug = pend.slug; x = addHL(pend, null); }
+  if (!x) return;
+  const card = cardOf(x.id) || mountAnno(slug, x, true), ta = card && $('textarea', card);
+  if (!ta) return;
+  ta.focus({ preventScroll: true });
+  card.scrollIntoView({ block: 'nearest', behavior: reduceMotion ? 'auto' : 'smooth' });
+}
+const hlBar = $('#hl-bar');
+const coarse = !!(window.matchMedia && matchMedia('(pointer: coarse)').matches);
+let hlPending = null, hlEditing = null, selTimer = 0;
+function hideBar() { hlBar.hidden = true; hlPending = null; hlEditing = null; }
+function showBar(rect, x) {        // x = the highlight being edited, or null for new selected text
+  hlBar.hidden = false;
+  $('.hl-remove', hlBar).hidden = !(x && x.c !== 'none');
+  $('.hl-note-lbl', hlBar).textContent = x && x.n ? 'Edit note' : 'Add note';
+  const bw = hlBar.offsetWidth, bh = hlBar.offsetHeight, vw = document.documentElement.clientWidth;
+  const left = Math.max(8, Math.min(rect.left + rect.width / 2 - bw / 2, vw - bw - 8));
+  const top = (coarse || rect.top < 120) ? rect.bottom + 10 : rect.top - bh - 10;
+  hlBar.style.left = (left + window.scrollX) + 'px';
+  hlBar.style.top = (top + window.scrollY) + 'px';
+}
+function checkSelection() {
+  if (current !== 'notes' || hlEditing) return;
+  const sel = window.getSelection();
+  if (!sel || !sel.rangeCount || sel.isCollapsed) { if (hlPending) hideBar(); return; }
+  const art = $('.event:not([hidden])'), prose = art && $('.prose', art);
+  const offs = prose ? selectionOffsets(prose, sel.getRangeAt(0)) : null;
+  if (!offs) { if (hlPending) hideBar(); return; }
+  hlPending = { slug: art.id.slice(3), s: offs.s, e: offs.e };
+  showBar(sel.getRangeAt(0).getBoundingClientRect(), null);
+}
+document.addEventListener('selectionchange', () => { clearTimeout(selTimer); selTimer = setTimeout(checkSelection, 160); });
+document.addEventListener('click', e => {
+  if (e.target.closest('#hl-bar')) return;
+  const m = e.target.closest('.prose mark.hl'), sel = window.getSelection();
+  if (m && (!sel || sel.isCollapsed)) {
+    const slug = m.closest('.event').id.slice(3);
+    hlPending = null; hlEditing = { slug, id: m.dataset.hl };
+    showBar(m.getBoundingClientRect(), itemOf(slug, m.dataset.hl) || null);
+    return;
+  }
+  if (hlEditing) hideBar();
+});
+hlBar.addEventListener('mousedown', e => e.preventDefault());      // keep the text selected while choosing
+hlBar.addEventListener('click', e => {
+  const b = e.target.closest('button');
+  if (!b) return;
+  const pend = hlPending, ed = hlEditing, sel = window.getSelection();
+  if (sel) sel.removeAllRanges();
+  hideBar();
+  if (b.dataset.c) { if (ed) recolorHL(ed, b.dataset.c); else if (pend) addHL(pend, b.dataset.c); }
+  else if (b.classList.contains('hl-note')) openAnno(pend, ed);
+  else if (b.classList.contains('hl-remove') && ed) unhighlight(ed.slug, ed.id);
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !hlBar.hidden) hideBar(); });
+window.addEventListener('resize', () => { if (!hlBar.hidden) hideBar(); });
+function jumpToHL(slug, id) { go('notes', slug); flash($('mark.hl[data-hl="' + id + '"]')); }
+let hlClearTimer = 0;
+function clearAllHL(e) {
+  const b = e.currentTarget;
+  if (!hlClearTimer) {
+    b.textContent = 'Click again to remove every highlight';
+    hlClearTimer = setTimeout(() => { hlClearTimer = 0; b.textContent = 'Remove all highlights'; }, 4000);
+    return;
+  }
+  clearTimeout(hlClearTimer); hlClearTimer = 0;
+  for (const slug of Object.keys(HL)) {
+    HL[slug] = HL[slug].filter(x => {
+      if (x.n) { x.c = 'none'; $$('mark.hl[data-hl="' + x.id + '"]').forEach(m => { m.dataset.c = 'none'; }); return true; }    // notes stay
+      unwrapHL(x.id); return false;
+    });
+    if (!HL[slug].length) delete HL[slug];
+  }
+  saveHL(); refreshHLBadge(); renderHighlights();
+}
+function renderHighlights() {
+  const colored = slug => (HL[slug] || []).filter(x => x.c !== 'none');
+  const groups = ORDER.filter(s => colored(s).length);
+  fill(views.highlights,
+    h('h1', { class: 'page-title' }, 'Your highlights'),
+    h('p', { class: 'page-sub' }, 'Select any text in the study notes and pick a color to highlight it. Everything you highlight is collected here and saved in this browser.'),
+    groups.length ? null : h('div', { class: 'card empty' },
+      h('span', { class: 'tile green' }, icon('marker')),
+      h('div', null, h('p', { class: 'empty-title' }, 'No highlights yet'), h('p', { class: 'empty-sub' }, 'Open a topic’s notes, select a line, then choose a color.')),
+      h('button', { class: 'btn primary', type: 'button', 'data-act': 'notes' }, icon('book'), 'Open study notes')),
+    groups.map(slug => h('section', { class: `hl-group pc-${EV[slug].part}` },
+      h('div', { class: 'hl-group-head' }, h('span', { class: 'chip' }, `Part ${EV[slug].part}`), h('h2', null, EV[slug].title), h('span', { class: 'qn' }, plural(colored(slug).length, 'highlight'))),
+      colored(slug).map(x => h('div', { class: 'card hl-item' },
+        h('div', { class: 'hl-body' },
+          h('p', { class: 'hl-quote' }, h('mark', { class: 'hl', 'data-c': x.c }, x.t)),
+          x.n ? h('p', { class: 'hl-note-txt' }, icon('pencil'), h('span', null, x.n)) : null),
+        h('div', { class: 'hl-actions' },
+          h('button', { class: 'linkbtn', type: 'button', onclick: () => jumpToHL(slug, x.id) }, 'Show in notes →'),
+          h('button', { class: 'linkbtn danger', type: 'button', onclick: () => { unhighlight(slug, x.id); renderHighlights(); } }, 'Remove')))))),
+    groups.length ? h('p', { class: 'hl-clear' }, h('button', { class: 'linkbtn danger', type: 'button', id: 'hl-clear', onclick: clearAllHL }, 'Remove all highlights')) : null);
+}
+refreshHLBadge();
+
+/* ---------- quiz ---------- */
+let quiz = null;
+const LEVEL_KEY = 'hosa-bh-prep/level';
+let savedLevel = 'normal';
+try { const v = localStorage.getItem(LEVEL_KEY); if (v === 'hard' || v === 'mixed') savedLevel = v; } catch (e) {}
+const setup = { sel: new Set(ORDER), filter: 'fresh', count: 20, level: savedLevel, built: false };
+const saveLevel = () => { try { localStorage.setItem(LEVEL_KEY, setup.level); } catch (e) {} };
+function presetSetup(slugs) { quiz = null; setup.sel = new Set(slugs); syncSetup(); }
+function poolFor(events, filter, level) {
+  const inPool = new Set();
+  let pool = events.flatMap(s => byEvent[s] || []).filter(q => !inPool.has(q.id) && inPool.add(q.id));
+  if (level === 'hard') pool = pool.filter(q => q.level === 'hard');
+  else if (level !== 'mixed') pool = pool.filter(q => q.level !== 'hard');
+  if (filter === 'fresh') pool = pool.filter(q => !(st.q[q.id] && st.q[q.id][0] === 1));
+  else if (filter === 'missed') pool = pool.filter(q => st.q[q.id] && st.q[q.id][0] === 0);
+  return pool;
+}
+// Look-alike questions (the same fact asked another way, like “Which root means bone?” and “Spell the root for bone”)
+// share a group; a quiz takes one question from each group, so nothing is asked twice.
+const oneEach = pool => { const seen = new Set(); return pool.filter(q => { const g = q.grp || q.id; if (seen.has(g)) return false; seen.add(g); return true; }); };
+function startQuiz({ events, filter = 'any', count = 'all', ids, level = setup.level }) {
+  let pool = ids ? ids.map(id => byId[id]).filter(Boolean) : poolFor(events, filter, level);
+  if (!pool.length) { presetSetup(events || ORDER); setup.filter = filter; setup.level = level; go('quiz'); return; }
+  pool = shuffle(pool.slice());
+  if (!ids && filter !== 'missed') pool = oneEach(pool);      // redoing wrong answers keeps every one of them
+  if (count !== 'all') pool = pool.slice(0, count);
+  quiz = { items: pool.map(q => ({ id: q.id, order: q.type === 'mc' ? shuffle([0, 1, 2, 3]) : null, picked: null, typed: null, ok: null })), i: 0, done: false };
+  go('quiz');
+  focusQuestion();
+}
+function renderQuiz() {
+  $('#quiz-setup').hidden = !!quiz;
+  $('#quiz-run').hidden = !(quiz && !quiz.done);
+  $('#quiz-done').hidden = !(quiz && quiz.done);
+  if (!quiz) renderSetup(); else if (!quiz.done) renderRun(); else renderDone();
+}
+function renderSetup() {
+  const box = $('#quiz-setup');
+  if (!setup.built) {
+    setup.built = true;
+    const toggle = (slug, on) => { on ? setup.sel.add(slug) : setup.sel.delete(slug); };
+    box.append(
+      h('h1', { class: 'page-title' }, 'New quiz'),
+      h('p', { class: 'page-sub' }, 'Pick the topics to include and how many questions you want. The questions and their answer choices are shuffled every time.'),
+      h('div', { class: 'setup-grid' },
+        h('div', { class: 'scope' },
+          h('div', { class: 'scope-tools' },
+            h('button', { class: 'linkbtn', type: 'button', onclick: () => { setup.sel = new Set(ORDER); syncSetup(); } }, 'Select every topic'),
+            h('button', { class: 'linkbtn', type: 'button', onclick: () => { setup.sel.clear(); syncSetup(); } }, 'Clear')),
+          PARTS.map(p => h('fieldset', { class: `card pc-${p.n}` },
+            h('legend', null, h('label', { class: 'part-check' },
+              h('input', { type: 'checkbox', id: `pick-part-${p.n}`, 'data-part': p.n, onchange: e => { p.events.forEach(s => toggle(s, e.target.checked)); syncSetup(); } }),
+              icon('folder', 'folder'), h('span', null, `Part ${p.n} · ${p.title}`))),
+            h('div', { class: 'ev-opts' }, p.events.map(slug => h('label', { class: 'ev-opt' },
+              h('input', { type: 'checkbox', id: `pick-${slug}`, 'data-ev': slug, onchange: e => { toggle(slug, e.target.checked); syncSetup(); } }),
+              h('span', null, EV[slug].title),
+              h('span', { class: 'qn', 'data-qn': slug }),
+              meter(slug))))))),
+        h('div', { class: 'side' },
+          h('fieldset', { class: 'card opt' }, h('legend', null, 'Difficulty'),
+            h('div', { class: 'seg seg3' }, [['normal', 'Normal'], ['hard', 'Hard'], ['mixed', 'Mixed']].map(([v, t]) => h('label', null,
+              h('input', { type: 'radio', name: 'level', id: `level-${v}`, value: v, onchange: () => { setup.level = v; saveLevel(); syncSetup(); } }),
+              h('span', null, t)))),
+            h('p', { class: 'opt-note', id: 'level-note' })),
+          h('fieldset', { class: 'card opt' }, h('legend', null, 'Which questions'),
+            [['fresh', 'Not mastered yet', 'Leaves out questions you answered correctly last time'],
+             ['any', 'Any question', 'Everything in the topics you picked'],
+             ['missed', 'Ones I got wrong', 'Only questions you got wrong on your last try']].map(([v, t, sub]) =>
+              h('label', { class: 'radio' }, h('input', { type: 'radio', name: 'filter', id: `filter-${v}`, value: v, onchange: () => { setup.filter = v; syncSetup(); } }), h('span', null, t, h('small', null, sub))))),
+          h('fieldset', { class: 'card opt' }, h('legend', null, 'How many'),
+            h('div', { class: 'seg' }, [10, 20, 40, 'all'].map(v => h('label', null,
+              h('input', { type: 'radio', name: 'count', id: `count-${v}`, value: String(v), onchange: () => { setup.count = v; syncSetup(); } }),
+              h('span', null, v === 'all' ? 'All' : String(v)))))),
+          h('button', { class: 'btn primary wide', id: 'start', type: 'button', onclick: () => startQuiz({ events: ORDER.filter(s => setup.sel.has(s)), filter: setup.filter, count: setup.count, level: setup.level }) }),
+          h('p', { class: 'avail', id: 'avail' }),
+          h('div', { class: 'card prog-box' }, h('p', { id: 'prog-line' }), h('button', { class: 'linkbtn danger', id: 'reset', type: 'button', onclick: resetClick }, 'Reset my progress')))));
+  }
+  syncSetup();
+}
+function syncSetup() {
+  if (!setup.built) return;
+  $$('#quiz-setup input[data-ev]').forEach(i => { i.checked = setup.sel.has(i.dataset.ev); });
+  for (const p of PARTS) {
+    const box = document.getElementById(`pick-part-${p.n}`), n = p.events.filter(s => setup.sel.has(s)).length;
+    box.checked = n === p.events.length; box.indeterminate = n > 0 && n < p.events.length;
+  }
+  $$('#quiz-setup input[name=filter]').forEach(i => { i.checked = i.value === setup.filter; });
+  $$('#quiz-setup input[name=count]').forEach(i => { i.checked = i.value === String(setup.count); });
+  $$('#quiz-setup input[name=level]').forEach(i => { i.checked = i.value === setup.level; });
+  $$('#quiz-setup [data-qn]').forEach(el => { el.textContent = `${poolFor([el.dataset.qn], 'any', setup.level).length} Q`; });
+  $('#level-note').textContent = { normal: 'The standard questions.', hard: 'Tougher questions: wrong answers that differ by one detail, scenarios, and NOT questions.', mixed: 'Normal and hard questions shuffled together.' }[setup.level];
+  const matched = poolFor(ORDER.filter(s => setup.sel.has(s)), setup.filter, setup.level), avail = matched.length;
+  const distinct = setup.filter === 'missed' ? avail : new Set(matched.map(q => q.grp || q.id)).size;
+  const n = setup.count === 'all' ? distinct : Math.min(setup.count, distinct);
+  const start = $('#start');
+  start.disabled = n === 0;
+  start.textContent = n ? `Start quiz · ${plural(n, 'question')}` : 'Nothing to quiz yet';
+  $('#avail').textContent = !setup.sel.size ? 'Pick at least one topic.'
+    : !avail ? (setup.filter === 'missed' ? 'You don’t have any wrong answers in these topics.' : 'You’ve mastered every question here. Choose “Any question” to go again.')
+    : distinct < avail ? `${plural(avail, 'question')} match what you picked. Up to ${distinct} per quiz, so nothing is asked twice.`
+    : `${plural(avail, 'question')} match what you picked.`;
+  const all = stats(ORDER);
+  $('#prog-line').textContent = `Progress: ${all.mastered} of ${all.total} questions mastered, ${all.missed} missed. It’s saved in this browser only.`;
+}
+let resetTimer = 0;
+function resetClick(e) {
+  const b = e.currentTarget;
+  if (!resetTimer) {
+    b.textContent = 'Click again to erase all progress';
+    resetTimer = setTimeout(() => { resetTimer = 0; b.textContent = 'Reset my progress'; }, 4000);
+    return;
+  }
+  clearTimeout(resetTimer); resetTimer = 0;
+  st.q = {}; st.days = []; st.flag = {}; st.mocks = []; save(); refreshMeters(); syncSetup();
+  b.textContent = 'Progress erased';
+  setTimeout(() => { if (!resetTimer) b.textContent = 'Reset my progress'; }, 2500);
+}
+
+const cur = () => quiz.items[quiz.i];
+function renderRun() {
+  const it = cur(), q = byId[it.id], ev = EV[q.event], n = quiz.items.length, answered = it.ok !== null;
+  $('#run-head').className = `run-head pc-${ev.part}`;
+  $('#run-tab').textContent = `Part ${ev.part}`;
+  $('#run-ev').textContent = ev.title;
+  $('#run-hard').hidden = q.level !== 'hard';
+  $('#run-count').textContent = `Question ${quiz.i + 1} of ${n}`;
+  $('#run-bar i').style.setProperty('--w', ((quiz.i + (answered ? 1 : 0)) / n * 100).toFixed(1) + '%');
+  $('#qtext').textContent = q.q;
+  const choices = $('#choices'), spell = $('#spell'), input = $('#spell-in');
+  choices.replaceChildren();
+  if (q.type === 'mc') {
+    spell.hidden = true; choices.hidden = false;
+    it.order.forEach((ci, k) => {
+      const b = h('button', { class: 'choice', type: 'button' }, h('span', { class: 'bub', 'aria-hidden': 'true' }, 'ABCD'[k]), h('span', { class: 'ctext' }, q.choices[ci]));
+      if (answered) { b.disabled = true; b.classList.add(ci === 0 ? 'correct' : k === it.picked ? 'wrong' : 'dim'); }
+      else b.addEventListener('click', () => answer(k));
+      choices.append(b);
+    });
+  } else {
+    choices.hidden = true; spell.hidden = false;
+    spell.className = 'spell' + (answered ? (it.ok ? ' correct' : ' wrong') : '');
+    input.disabled = answered;
+    input.value = answered ? (it.typed || '') : '';
+    $('#spell-check').disabled = answered; $('#spell-skip').disabled = answered;
+  }
+  $('#feedback').hidden = !answered;
+  if (answered) fill($('#qnote'), noteBox(qStore(q.id))); else $('#qnote').replaceChildren();
+  if (answered) {
+    const right = q.type === 'mc' ? q.choices[0] : q.answer;
+    const v = $('#verdict');
+    v.className = 'verdict ' + (it.ok ? 'ok' : 'no');
+    const msg = it.ok ? 'Correct!' : q.type === 'mc' ? `Not quite. The answer is ${'ABCD'[it.order.indexOf(0)]}: ${right}` : `Not quite. It’s spelled: ${right}`;
+    v.replaceChildren(icon(it.ok ? 'check' : 'xc'), h('span', null, msg));
+    $('#explain').textContent = q.explain;
+    $('#explain').hidden = !q.explain;
+    $('#src-q').textContent = q.line || q.src;
+    $('#live').textContent = msg;
+  }
+  const next = $('#next');
+  next.disabled = !answered;
+  next.textContent = quiz.i === n - 1 ? 'See my results' : 'Next question';
+  const done = quiz.items.filter(x => x.ok !== null).length, got = quiz.items.filter(x => x.ok).length;
+  $('#run-score').textContent = done ? `${got} of ${done} correct` : '';
+}
+function focusQuestion() {
+  if (!quiz || quiz.done) return;
+  const q = byId[cur().id];
+  if (q.type === 'spell' && window.matchMedia('(hover: hover)').matches) $('#spell-in').focus({ preventScroll: true });
+  else $('#qtext').focus({ preventScroll: true });
+}
+function settle(ok, extra) {
+  const it = cur();
+  Object.assign(it, extra, { ok });
+  record(it.id, ok, typeof extra.picked === 'number' ? it.order[extra.picked] : null);
+  renderRun();
+  $('#next').focus({ preventScroll: true });
+}
+function answer(k) { const it = cur(); if (it.ok === null) settle(it.order[k] === 0, { picked: k }); }
+$('#spell').addEventListener('submit', e => {
+  e.preventDefault();
+  const it = cur(); if (it.ok !== null) return;
+  const val = $('#spell-in').value;
+  if (!norm(val)) { $('#spell-in').focus(); return; }
+  const q = byId[it.id];
+  settle([q.answer].concat(q.accept || []).some(a => norm(a) === norm(val)), { typed: val });
+});
+$('#spell-skip').addEventListener('click', () => { const it = cur(); if (it.ok === null) settle(false, { typed: '' }); });
+function nextQ() {
+  if (!quiz || quiz.done || cur().ok === null) return;
+  if (quiz.i < quiz.items.length - 1) {
+    quiz.i++; renderRun(); focusQuestion();
+    if ($('#quiz-run').getBoundingClientRect().top < 0) $('#quiz-run').scrollIntoView({ block: 'start', behavior: reduceMotion ? 'auto' : 'smooth' });
+  } else { quiz.done = true; renderQuiz(); toTop(); }
+}
+$('#next').addEventListener('click', nextQ);
+$('#end-quiz').addEventListener('click', () => { quiz.done = true; renderQuiz(); toTop(); });
+$('#src-go').addEventListener('click', () => { const q = byId[cur().id]; showSource(q.event, q.src); });
+
+function renderDone() {
+  const answered = quiz.items.filter(i => i.ok !== null), wrong = answered.filter(i => !i.ok);
+  const n = answered.length, got = n - wrong.length, pct = n ? Math.round(got / n * 100) : 0;
+  const per = {};
+  for (const it of answered) { const s = byId[it.id].event; per[s] = per[s] || [0, 0]; per[s][1]++; if (it.ok) per[s][0]++; }
+  const perKeys = ORDER.filter(s => per[s]);
+  fill($('#quiz-done'),
+    h('h1', { class: 'page-title' }, n < quiz.items.length ? 'Quiz ended' : 'Quiz complete'),
+    h('p', { class: 'page-sub' }, n < quiz.items.length ? `You answered ${n} of ${quiz.items.length} questions. Each answer counts toward your progress.` : 'Each answer counts toward your progress.'),
+    h('div', { class: 'stats' },
+      statCard('green', 'check', `${pct}%`, 'Score'),
+      statCard('blue', 'quiz', `${got}/${n}`, 'Correct'),
+      statCard('orange', 'redo', String(wrong.length), wrong.length === 1 ? 'Question to review' : 'Questions to review')),
+    h('div', { class: 'actions done-actions' },
+      wrong.length ? h('button', { class: 'btn primary', type: 'button', onclick: () => startQuiz({ ids: wrong.map(i => i.id) }) }, icon('redo'), 'Retry what I missed') : null,
+      h('button', { class: 'btn' + (wrong.length ? '' : ' primary'), type: 'button', onclick: () => { quiz = null; renderQuiz(); toTop(); } }, icon('plus'), 'New quiz'),
+      h('button', { class: 'btn', type: 'button', 'data-act': 'notes' }, icon('book'), 'Back to the notes')),
+    perKeys.length > 1 ? [h('h2', { class: 'sec-title' }, 'By topic'), h('div', { class: 'card breakdown' }, h('ul', null, perKeys.map(s => {
+      const [a, b] = per[s], bar = h('span', { class: 'meter' }, h('i'));
+      bar.firstElementChild.style.setProperty('--w', (a / b * 100).toFixed(1) + '%');
+      return h('li', null, h('span', null, EV[s].title), bar, h('span', { class: 'pct' + (a ? '' : ' zero') }, `${a}/${b}`));
+    })))] : null,
+    wrong.length ? [h('h2', { class: 'sec-title' }, 'What you missed'), h('ol', { class: 'missed-list' }, wrong.map(it => {
+      const q = byId[it.id], ev = EV[q.event];
+      const yours = q.type === 'mc' ? q.choices[it.order[it.picked]] : (it.typed || 'No answer (you chose Show answer)');
+      return h('li', { class: `card missed-item pc-${ev.part}` },
+        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, `Part ${ev.part}`), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+        h('p', { class: 'mq' }, q.q),
+        h('p', { class: 'ans-row yours' }, h('span', { class: 'k' }, 'You said'), h('span', { class: 'v' }, yours)),
+        h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.type === 'mc' ? q.choices[0] : q.answer)),
+        h('p', { class: 'explain' }, q.explain || ('From the notes: “' + (q.line || q.src) + '”')),
+        h('div', { class: 'qactions' }, h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(q.event, q.src) }, 'Show in notes →'), noteBox(qStore(q.id))));
+    }))] : null);
+}
+
+document.addEventListener('keydown', e => {
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  const tag = e.target.tagName, typing = tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT';
+  if (current === 'quiz' && quiz && !quiz.done) {
+    if (typing) return;
+    const it = cur(), q = byId[it.id];
+    if (it.ok === null && q.type === 'mc' && e.key.length === 1) {
+      let k = '1234'.indexOf(e.key); if (k < 0) k = 'abcd'.indexOf(e.key.toLowerCase());
+      if (k >= 0) { e.preventDefault(); answer(k); return; }
+    }
+    if (e.key === 'Enter' && it.ok !== null && !e.target.closest('button, a')) { e.preventDefault(); nextQ(); }
+  } else if (current === 'mock' && mock && !mock.done && !typing) {
+    if (e.key.length === 1) {
+      let k = '1234'.indexOf(e.key); if (k < 0) k = 'abcd'.indexOf(e.key.toLowerCase());
+      if (k >= 0) { e.preventDefault(); mockPick(k, false); return; }
+      if (e.key.toLowerCase() === 'f') { e.preventDefault(); mockFlag(); return; }
+    }
+    if (e.key === 'ArrowRight') { e.preventDefault(); mockGo(mock.i + 1); }
+    else if (e.key === 'ArrowLeft') { e.preventDefault(); mockGo(mock.i - 1); }
+  } else if (current === 'cards' && !typing) {
+    if (e.key === 'ArrowRight') { e.preventDefault(); moveCard(1); }
+    else if (e.key === 'ArrowLeft') { e.preventDefault(); moveCard(-1); }
+    else if ((e.key === ' ' || e.key === 'Enter') && (e.target.id === 'fc' || !e.target.closest('button, a, select'))) { e.preventDefault(); flipCard(); }
+  }
+});
+
+/* ---------- flashcards ---------- */
+const deck = { key: 'all', cards: [], i: 0, flipped: false, shuffled: false };
+function deckSlugs(key) { return key.startsWith('part-') ? partSlugs(+key.slice(5)) : EV[key] ? [key] : ORDER; }
+function buildDeck() {
+  const want = new Set(deckSlugs(deck.key));
+  deck.cards = CARDS.filter(c => want.has(c.event));
+  if (deck.shuffled) shuffle(deck.cards);
+  deck.i = 0; deck.flipped = false;
+}
+function setDeck(key) { deck.key = key; $('#deck').value = key; buildDeck(); }
+const deckSel = $('#deck');
+deckSel.append(h('option', { value: 'all' }, `Every topic (${CARDS.length} cards)`),
+  ...PARTS.map(p => h('optgroup', { label: `Part ${p.n} · ${p.title}` },
+    h('option', { value: 'part-' + p.n }, `All of Part ${p.n} (${p.events.reduce((a, s) => a + cCount(s), 0)})`),
+    p.events.map(s => h('option', { value: s }, `${EV[s].title} (${cCount(s)})`)))));
+deckSel.addEventListener('change', () => { deck.key = deckSel.value; buildDeck(); renderCard(true); });
+$('#shuffle').addEventListener('click', e => {
+  deck.shuffled = !deck.shuffled; e.currentTarget.setAttribute('aria-pressed', String(deck.shuffled));
+  buildDeck(); renderCard(true);
+});
+function renderCard(instant) {
+  const fc = $('#fc'), c = deck.cards[deck.i];
+  if (instant) fc.classList.add('instant');
+  fc.classList.toggle('flipped', deck.flipped);
+  $('.fc-front', fc).setAttribute('aria-hidden', String(deck.flipped));
+  $('.fc-back', fc).setAttribute('aria-hidden', String(!deck.flipped));
+  if (c) {
+    const ev = EV[c.event];
+    $$('.fc-ctx', fc).forEach(el => { el.className = `fc-ctx pc-${ev.part}`; el.replaceChildren(h('span', { class: 'chip' }, `Part ${ev.part}`), h('span', null, ev.title + (c.ctx ? ' · ' + c.ctx : ''))); });
+    $('#fc-term').textContent = c.front;
+    $('#fc-def').innerHTML = c.back;
+    fc.setAttribute('aria-label', deck.flipped ? `Definition of ${c.front}` : `${c.front}. Press Space to see the definition.`);
+  }
+  $('#fc-count').textContent = c ? `${deck.i + 1} / ${deck.cards.length}` : '0 / 0';
+  $('#fc-prev').disabled = deck.i <= 0;
+  $('#fc-next').disabled = deck.i >= deck.cards.length - 1;
+  if (instant) { void fc.offsetWidth; fc.classList.remove('instant'); }
+}
+function flipCard() { if (!deck.cards.length) return; deck.flipped = !deck.flipped; renderCard(false); }
+function moveCard(d) {
+  const j = deck.i + d;
+  if (j < 0 || j >= deck.cards.length) return;
+  deck.i = j; deck.flipped = false; renderCard(true);
+}
+$('#fc').addEventListener('click', e => { if (!e.target.closest('button, a')) flipCard(); });
+$('#fc-flip').addEventListener('click', flipCard);
+$('#fc-prev').addEventListener('click', () => moveCard(-1));
+$('#fc-next').addEventListener('click', () => moveCard(1));
+$('#fc-src').addEventListener('click', () => { const c = deck.cards[deck.i]; if (c) showSource(c.event, c.src); });
+
+/* ---------- appearance ---------- */
+const THEME_KEY = 'hosa-bh-prep/theme';
+let themeMode = 'light';   // light unless the viewer chooses Dark or Auto
+try { const t = localStorage.getItem(THEME_KEY); if (t === 'dark' || t === 'auto') themeMode = t; } catch (e) {}
+const darkMQ = window.matchMedia ? matchMedia('(prefers-color-scheme: dark)') : null;
+function effectiveTheme() {
+  if (themeMode !== 'auto') return themeMode;
+  const stamp = document.documentElement.getAttribute('data-theme');
+  if (stamp === 'light' || stamp === 'dark') return stamp;
+  return darkMQ && darkMQ.matches ? 'dark' : 'light';
+}
+function syncTheme() {
+  const dark = effectiveTheme() === 'dark', btn = $('#theme-btn'), label = dark ? 'Switch to light mode' : 'Switch to dark mode';
+  btn.replaceChildren(icon(dark ? 'sun' : 'moon'));
+  btn.setAttribute('aria-label', label); btn.title = label;
+  $$('#theme-seg button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.mode === themeMode)));
+}
+function setTheme(mode) {
+  themeMode = mode;
+  if (mode === 'auto') document.documentElement.removeAttribute('data-user-theme');
+  else document.documentElement.setAttribute('data-user-theme', mode);
+  try { localStorage.setItem(THEME_KEY, mode); } catch (e) {}
+  syncTheme();
+}
+$('#theme-btn').addEventListener('click', () => setTheme(effectiveTheme() === 'dark' ? 'light' : 'dark'));
+$$('#theme-seg button').forEach(b => b.addEventListener('click', () => setTheme(b.dataset.mode)));
+if (darkMQ && darkMQ.addEventListener) darkMQ.addEventListener('change', syncTheme);
+new MutationObserver(syncTheme).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+syncTheme();
+
+/* ---------- start ---------- */
+const HASH_VIEWS = ['home', 'notes', 'quiz', 'cards', 'highlights', 'review', 'mynotes', 'guide', 'mock'];
+window.addEventListener('hashchange', () => {      // back/forward and edited links (setHash uses replaceState, which does not fire this)
+  const v = (location.hash || '').slice(1);
+  if (v.startsWith('notes-') && EV[v.slice(6)]) { if (!(current === 'notes' && curEvent === v.slice(6))) go('notes', v.slice(6)); }
+  else if (HASH_VIEWS.includes(v) && v !== current) go(v);
+});
+if (mock && !mock.done) { if (mock.end && Date.now() >= mock.end) finishMock(true); else ensureTicking(); }
+refreshMockBadge();
+buildDeck();
+refreshMeters();
+refreshNotesBadge();
+const first = (location.hash || '').slice(1);
+if (first.startsWith('notes-') && EV[first.slice(6)]) go('notes', first.slice(6));
+else if (first === 'notes' || first === 'quiz' || first === 'cards' || first === 'highlights' || first === 'review' || first === 'mynotes' || first === 'guide' || first === 'mock') go(first);
+else go('home');
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,281 @@
+? According to DSM-5, major depressive disorder requires depressed mood most of the day, nearly every day, for at least how long?
++ 2 weeks
+- 2 days
+- 6 months
+- 2 years
+@ for a period of at least 2 weeks (DSM-5)
+
+? What is anhedonia?
++ Loss of pleasure in activities that previously provided pleasure
+- An unrealistically elevated mood
+- Repetitive focus on one's depression
+- A belief that one is being watched
+@ Loss of pleasure; disinterest in activities that previously provided pleasure
+
+? Diagnosing MDD requires at least five symptoms, one of which must be what?
++ Depressed mood or anhedonia
+- Suicidal thoughts or attempts
+- Oversleeping or insomnia
+- Weight loss or weight gain
+@ one of which must be depressed mood or anhedonia
+
+? According to Aaron Beck's cognitive explanation, depression results from what?
++ Negative thoughts about the self, the world, and the future
+- Low positive reinforcement only
+- Too little REM sleep
+- Lack of exercise
+@ MDD results from negative thoughts about the self, the world, and the future
+
+? What is learned helplessness?
++ Experiencing random or uncontrolled consequences leads to feelings of helplessness and possibly depression
+- Learning to depend on others for help
+- A treatment that teaches coping skills
+- Forgetting how to perform a learned skill
+@ experiencing random or uncontrolled consequences leads to feelings of helplessness
+
+? What is rumination?
++ Repetitively focusing on the fact that one is depressed and on its symptoms, causes, and consequences
+- Distracting oneself from depressive feelings
+- Restructuring negative thoughts in therapy
+- Mixing up study topics while learning
+@ Repetitively focusing on the fact that one is depressed
+
+? Which class of antidepressants is the most widely prescribed?
++ SSRIs (selective serotonin reuptake inhibitors)
+- MAO inhibitors
+- Benzodiazepines
+- Phenothiazines
+@ are the most widely prescribed antidepressants
+
+? How do SSRIs work?
++ They slow serotonin reuptake, so more serotonin stays in the synapse
+- They block serotonin receptors
+- They destroy serotonin in the synapse
+- They increase dopamine release only
+@ they slow serotonin reuptake so more serotonin stays in the synapse
+
+? Which treatment is comparable to medication and psychotherapy for mild to moderate depression?
++ Aerobic exercise
+- Bed rest
+- Caffeine
+- Hypnosis
+@ **Aerobic exercise** is comparable to medication and psychotherapy
+
+? Which SAMHSA type of depression involves low mood lasting two or more years in adults?
++ Persistent depressive disorder
+- Postpartum depression
+- Psychotic depression
+- Seasonal affective disorder
+@ Persistent depressive disorder | Low mood lasting two or more years in adults
+
+? Which type of depression involves intense, long-lasting anxiety, sadness, and fatigue after having a baby?
++ Postpartum depression
+- Persistent depressive disorder
+- Seasonal affective disorder
+- Psychotic depression
+@ Postpartum depression | Intense, long-lasting anxiety, sadness, and fatigue after having a baby
+
+? Which type of depression includes delusions and/or hallucinations?
++ Psychotic depression
+- Seasonal affective disorder
+- Persistent depressive disorder
+- Postpartum depression
+@ Psychotic depression | Depression with psychosis
+
+? According to SAMHSA, about how many people in the U.S. have depression?
++ More than 20 million
+- About 2 million
+- About 200,000
+- More than 200 million
+@ more than 20 million people in the U.S. have depression
+
+? According to SAMHSA, what happens if a person stops antidepressant medication abruptly?
++ It can cause withdrawal and relapse
+- Symptoms disappear permanently
+- Nothing, if they feel better
+- It improves sleep right away
+@ stopping medication abruptly can cause withdrawal and relapse
+
+? Seasonal affective disorder is usually treated with what, according to the textbook?
++ Bright light therapy
+- Lithium
+- Antipsychotic medication
+- Total sleep deprivation
+@ treated with bright light therapy
+
+? According to NAMI, about what percentage of U.S. adults experience major depressive disorder in a given year?
++ About 15.5%
+- About 1.4%
+- About 2.8%
+- About 50%
+@ About 15.5% of U.S. adults experience major depressive disorder in a given year
+
+? What is another name for major depressive disorder?
++ Clinical depression
+- Cyclothymia
+- Seasonal mania
+- Dysthymic psychosis
+@ Also called clinical depression
+
+? Which screening questionnaire helps detect depression and measure its severity?
++ PHQ-9 (Patient Health Questionnaire)
+- STEP-BD
+- DSM-5-TR
+- MMPI
+@ A short screening questionnaire that helps detect depression and measure how severe it is
+
+? Which antidepressants are the most commonly prescribed, according to NAMI?
++ SSRIs
+- MAOIs
+- Tricyclic antidepressants
+- Tetracyclic antidepressants
+@ The most commonly prescribed antidepressants; they act on serotonin
+
+? According to NAMI, how long do antidepressants often take to start working?
++ 2–4 weeks
+- 2–4 hours
+- 6 months
+- 1 year
+@ Antidepressants often take 2–4 weeks to start working
+
+? Which antidepressants must never be combined with SSRIs and come with dietary restrictions?
++ MAOIs
+- SNRIs
+- NDRIs
+- Tricyclic antidepressants
+@ Older antidepressants with dietary restrictions that must never be combined with SSRIs
+
+? Which treatment involves sitting near a light box that mimics sunlight to help depression with a seasonal pattern?
++ Light therapy
+- rTMS
+- ECT
+- Neurofeedback
+@ Sitting near a light box that mimics sunlight
+
+? What is the national Suicide & Crisis Lifeline number?
++ 988
+- 911
+- 211
+- 1-800-950-6264
+@ 988 (call, text or chat) is the national Suicide & Crisis Lifeline
+
+## hard
+
+? Which attributional style is most linked to depression?
++ Internal, stable, and global ("it's my fault, it never changes, I'm always this way")
+- External, unstable, and specific
+- Internal, unstable, and specific
+- External, stable, and specific
+@ People who make internal, stable, and global attributions
+
+? Which statement about gender and MDD is supported by the textbook?
++ Women are more likely to ruminate, while men more often use distraction or mask depression with alcohol
+- Men experience MDD more than women in every country
+- Women are less likely to admit depression or seek help
+- There is no gender difference in MDD rates
+@ Women are more likely to ruminate, while men more often use distraction
+
+? How did Maier and Seligman (2016) update learned helplessness?
++ Inhibited escape is the default response to long aversive events; the ability to control events (learned hope) must be learned
+- Helplessness must always be learned through repeated failure
+- Animals never become helpless after aversive events
+- Learned helplessness occurs only in humans
+@ it is the ability to control events (learned hope) that must be learned
+
+? What is mindfulness-based cognitive therapy (MBCT), and how well did it work?
++ CBT combined with mindfulness-based stress reduction; it cut recurrence by nearly 50% in people with three or more past episodes
+- A drug therapy that cut recurrence by 90%
+- Psychoanalysis combined with hypnosis; it had no effect
+- ECT combined with medication; it cured depression in one session
+@ cut recurrence by nearly 50% in people with three or more past episodes
+
+? Which sleep pattern is found in untreated MDD?
++ Too much REM sleep and loss of deep (stage 3 and 4) sleep
+- Too little REM sleep and extra deep sleep
+- Normal sleep architecture
+- Only stage 1 sleep
+@ untreated MDD involves too much REM sleep and loss of deep (stage 3 and 4) sleep
+
+? Which SSRI side effect carries warnings for close supervision, especially under age 30?
++ Increased suicidal thinking
+- Hallucinations
+- Tardive dyskinesia
+- Lithium toxicity
+@ increased suicidal thinking (especially under age 30, with warnings for close supervision)
+
+? What is the heritability of MDD reported in the textbook?
++ About 35%
+- About 80%
+- About 5%
+- 100%
+@ Heritability of MDD is about 35%
+
+? In older adults, what was the direction of the loneliness–depression link?
++ Loneliness increased depressive symptoms, but depression did not increase loneliness
+- Depression increased loneliness, but loneliness did not affect depression
+- Neither affected the other
+- Both increased each other equally
+@ loneliness increased depressive symptoms, but depression did not increase loneliness
+
+? According to SAMHSA, which statement about seasonal affective disorder is correct?
++ It is not a separate disorder but a type of depression that usually lifts in spring and summer
+- It is a separate disorder that occurs mainly in summer
+- It causes undersleeping and weight loss
+- It never responds to treatment
+@ SAD is not a separate disorder but a type of depression
+
+? Under DSM-5-TR criteria, which combination is needed for a diagnosis of MDD?
++ At least 5 symptoms nearly every day for at least two weeks, including depressed mood or loss of interest
+- At least 2 symptoms for at least one week
+- At least 5 symptoms for at least two years
+- One manic episode lasting 7 days
+@ at least 5 symptoms most of the day, nearly every day, for at least two weeks
+
+? What does NAMI call depression that has not responded to at least two antidepressants?
++ Treatment-resistant depression
+- Seasonal depression
+- Bipolar II disorder
+- Cyclothymia
+@ Depression that has not responded to at least two antidepressants
+
+? What is esketamine (Spravato)?
++ An FDA-approved nasal spray form of ketamine for adults with treatment-resistant depression
+- An SSRI pill for mild depression
+- A light box for seasonal depression
+- A supplement similar to St. John's wort
+@ An FDA-approved nasal spray form of ketamine for adults with treatment-resistant depression
+
+? Unlike most antidepressants, which brain system do ketamine and esketamine work on?
++ Glutamate
+- Serotonin
+- Dopamine
+- Norepinephrine
+@ Ketamine and esketamine work on the brain's glutamate system
+
+? How does rTMS differ from ECT?
++ rTMS uses a magnet instead of electric current to activate the brain
+- rTMS uses stronger electric current
+- rTMS is a pill
+- rTMS works only as a maintenance treatment
+@ uses a magnet instead of electric current
+
+? Which therapy is time-limited and focuses on improving problems in personal relationships that may contribute to depression?
++ Interpersonal therapy (IPT)
+- Psychodynamic therapy
+- Mentalization-based therapy
+- Exposure response prevention
+@ A time-limited therapy that improves problems in personal relationships that may contribute to depression
+
+? What does brain imaging show about the frontal lobe during depression, according to NAMI?
++ It becomes less active
+- It becomes more active
+- It shrinks permanently
+- It stops working completely
+@ the frontal lobe becomes less active during depression
+
+? How does bupropion (Wellbutrin) work?
++ It increases dopamine and norepinephrine
+- It acts only on serotonin
+- It blocks glutamate
+- It is a monoamine oxidase inhibitor
+@ An NDRI antidepressant that increases dopamine and norepinephrine

@@ -1,0 +1,414 @@
+? According to SAMHSA, it may be time to ask for help if changes to your thoughts, moods, or body last how long?
++ Two or more weeks
+- Two or more hours
+- Two or more days
+- Two or more years
+@ two or more weeks
+
+? What is the 988 Suicide & Crisis Lifeline?
++ A free, confidential, 24/7 national hotline for suicidal, mental health, and substance use crises by call, text, or chat
+- A hotline for medical emergencies and fires
+- A paid counseling service that requires insurance
+- A text line for disaster shelter information only
+@ A national hotline offering free, confidential, 24/7 one-on-one support
+
+? Which organization administers the 988 Lifeline?
++ Vibrant Emotional Health
+- The Federal Communications Commission
+- The American Red Cross
+- The Department of Veterans Affairs
+@ it is funded by SAMHSA and administered by **Vibrant Emotional Health**
+
+? When did the country transition to 988?
++ July 2022
+- July 2005
+- July 2020
+- January 2024
+@ The country transitions to 988 in July 2022
+
+? What was 988's previous name and number?
++ National Suicide Prevention Lifeline, 1-800-273-8255
+- National Helpline, 1-800-662-4357
+- Disaster Distress Helpline, 1-800-985-5990
+- Crisis Text Line, 741741
+@ formerly the **National Suicide Prevention Lifeline** (1-800-273-8255, which still works)
+
+? How do callers reach Spanish-language services on 988?
++ Press 2, or text "ayuda"
+- Press 1, or text 838255
+- Press 3, or text "help"
+- Call 211
+@ Spanish (press 2, or text "ayuda")
+
+? Which number is for medical emergencies, fire, and crimes in progress?
++ 911
+- 988
+- 211
+- 1-800-662-HELP
+@ 911 | Medical emergencies, fire, crimes in progress
+
+? What does 211 provide?
++ Health and social service information and referrals
+- Suicide crisis counseling
+- Emergency medical dispatch
+- Veterans crisis services
+@ 211 | Health and social service information and referrals
+
+? If danger of self-harm seems imminent, what does SAMHSA say to do?
++ Call 911
+- Wait and see if it passes
+- Leave the person alone
+- Send an email to a counselor
+@ Call 911 if danger of self-harm seems imminent
+
+? Does asking someone if they are thinking about killing themselves put the idea in their head?
++ No; it will not put the idea into their head or make an attempt more likely
+- Yes; it makes an attempt more likely
+- Yes, but only for teenagers
+- Only if you ask more than once
+@ this will not put the idea into their head or make an attempt more likely
+
+? Which is an adult warning sign of suicide?
++ Talking about being a burden to others
+- Making plans for a vacation
+- Sleeping a normal amount
+- Spending more time with friends
+@ Talking about being a burden to others
+
+? What is self-harm?
++ When a person hurts their own body on purpose
+- An accidental injury during sports
+- Any risky behavior, such as speeding
+- Thinking about suicide without acting
+@ When a person hurts their own body on purpose
+
+? What are the three foundational elements of SAMHSA's crisis care guidance?
++ Someone to contact, someone to respond, and a safe place for help
+- Screening, brief intervention, and referral
+- Assessment, planning, and evaluation
+- Prevention, treatment, and recovery
+@ Someone to contact
+
+? What are mobile crisis teams?
++ Teams of behavioral health professionals and peers who respond to people in crisis in the community as an alternative to law enforcement
+- Police units that arrest people in crisis
+- Ambulance crews that only transport people to hospitals
+- Online chat counselors
+@ Teams of mental health and substance use professionals, paraprofessionals, and peer support workers
+
+? What does SBIRT stand for?
++ Screening, Brief Intervention, and Referral to Treatment
+- Substance-Based Intensive Rehabilitation Treatment
+- Suicide Behavior Identification and Response Training
+- Screening, Behavioral Intervention, and Recovery Therapy
+@ **SBIRT (Screening, Brief Intervention, and Referral to Treatment):**
+
+? Which SBIRT component increases insight and motivation toward behavioral change?
++ Brief intervention
+- Screening
+- Referral to treatment
+- Detoxification
+@ Brief intervention | Increases insight and awareness about substance use and motivation toward behavioral change
+
+? What is shared decision-making?
++ Participating fully with your provider to make informed treatment decisions together
+- Letting the provider make every decision
+- Letting family members decide treatment
+- Choosing treatment based only on cost
+@ Participating fully with your provider to make informed treatment decisions together
+
+? When helping someone with a mental health or substance issue, which kind of questions does SAMHSA recommend?
++ Open-ended questions starting with how, what, or where
+- Yes-or-no questions only
+- Questions that blame the person
+- No questions at all
+@ use **open-ended questions** (starting with how, what, or where)
+
+? Which is one of NAMI's common warning signs of mental illness in adults and adolescents?
++ Multiple physical ailments without obvious causes, such as headaches or stomach aches
+- Catching a cold once a year
+- Occasionally enjoying time alone
+- Feeling nervous before a big test
+@ Multiple physical ailments without obvious causes (headaches, stomach aches, vague aches and pains)
+
+? According to NAMI, why are young children's mental health symptoms mostly behavioral?
++ They are still learning to identify and talk about thoughts and emotions
+- Children cannot have mental illness
+- Children always hide their symptoms on purpose
+- Doctors can only test behavior
+@ In young children, symptoms are mostly behavioral because they are still learning to identify and talk about thoughts and emotions
+
+? What is anosognosia?
++ Lack of insight; being unaware of one's own mental health condition
+- Denial chosen out of stubbornness
+- An intense fear of illness
+- Memory loss after trauma
+@ Lack of insight or awareness; being unaware of one's own mental health condition
+
+? According to NAMI, what is the most common reason people stop taking their medications?
++ Lack of insight (anosognosia)
+- The cost of medication
+- Forgetting to refill prescriptions
+- Allergic reactions
+@ Lack of insight is the most common reason people stop taking their medications
+
+? Which is a suicide warning sign listed by NAMI?
++ Withdrawal from friends and family
+- Making plans for next summer
+- Starting a new hobby
+- Sleeping eight hours a night
+@ withdrawal from friends and family, dramatic mood swings
+
+? According to NAMI, which statement about gender and suicide is correct?
++ More women attempt suicide, but men are 4 times more likely to die by suicide
+- Women are 4 times more likely to die by suicide
+- Men and women die by suicide at equal rates
+- Men never attempt suicide
+@ More women than men attempt suicide, but men are 4 times more likely to die by suicide
+
+? How does NAMI describe self-harm?
++ A behavior showing a need for better coping skills, not a mental illness itself
+- A type of personality disorder
+- The same thing as a suicide attempt
+- Only a way to get attention
+@ Self-harm is not a mental illness but a behavior showing a need for better coping skills
+
+? Which manual do mental health professionals use to diagnose mental illness, according to NAMI?
++ The Diagnostic and Statistical Manual of Mental Disorders (DSM)
+- The PHQ-9
+- The Clinician-Administered PTSD Scale
+- The PCL-5
+@ professionals use the Diagnostic and Statistical Manual of Mental Disorders (DSM)
+
+? According to NAMI, what should you do if a friend tells you they are thinking about self-harm?
++ Don't agree to keep it a secret; tell a trusted adult and get help, such as 988
+- Promise to keep it a secret
+- Ignore it unless they mention it again
+- Post about it online
+@ If a friend says they are thinking about self-harm, do not agree to keep it a secret
+
+? What are CIT (Crisis Intervention Team) officers?
++ Police officers trained to handle crisis situations involving mental illness
+- Hospital nurses
+- Warmline volunteers
+- School counselors
+@ Police officers trained to handle crisis situations involving mental illness
+
+? What is a warmline?
++ A phone line where trained volunteers, often peers, offer sympathy and support
+- An emergency line staffed by crisis counselors
+- A home heating assistance program
+- The 911 line for mental health
+@ A phone line where trained volunteers (often peers living with a mental health condition, not crisis counselors) offer sympathy and support
+
+? Which law created the nationwide three-digit number 988?
++ The National Suicide Hotline Designation Act (2020)
+- The Americans with Disabilities Act
+- The Mental Health Parity and Addiction Equity Act of 2008
+- The Affordable Care Act
+@ The National Suicide Hotline Designation Act (2020), which NAMI advocated for
+
+? According to NAMI, what share of people who die by suicide in the U.S. are male?
++ 79%
+- 21%
+- 50%
+- 95%
+@ 79% of people who die by suicide in the U.S. are male
+
+## hard
+
+? When does a 988 counselor contact 911?
++ Only when there is imminent risk to life that cannot be reduced during the contact
+- Every time someone calls about suicide
+- Whenever a caller refuses to give their name
+- Whenever a caller is under 18
+@ A 988 counselor contacts 911 only when there is imminent risk to life
+
+? How does 988 georouting work?
++ It routes calls to a nearby crisis center based on general location without sharing the caller's precise location
+- It pinpoints the caller's exact location and sends police
+- It routes all calls to one national center in Washington
+- It requires the caller to give their address
+@ Routes calls to a nearby crisis center based on general location without sharing the caller's precise location
+
+? Which law required the FCC to designate 988 and lets states fund it with telecommunication fees?
++ National Suicide Hotline Designation Act of 2020
+- National Suicide Hotline Improvement Act of 2018
+- 21st Century Cures Act of 2016
+- American Rescue Plan Act of 2021
+@ the National Suicide Hotline Designation Act of 2020 lets states enact telecommunication fees to fund 988
+
+? Which 988 timeline pairing is correct?
++ 2005: Lifeline launches at 1-800-273-TALK; 2007: veterans press 1
+- 2005: country transitions to 988; 2007: chat added
+- 2013: Spanish subnetwork added; 2015: veterans press 1
+- 2001: FCC designates 988; 2022: Lifeline launches
+@ 2005 | The National Suicide Prevention Lifeline launches at 1-800-273-8255 (TALK)
+
+? How do mobile crisis teams differ from co-responder teams?
++ Mobile crisis teams use behavioral health staff and peers; co-responder teams pair law enforcement or EMS with a mental health professional
+- Mobile crisis teams are made of police; co-responder teams are made of peers
+- Both are made only of doctors
+- Co-responder teams only answer phone calls
+@ Two main models: **mobile crisis teams** (behavioral health staff and peers)
+
+? Under the American Rescue Plan Act of 2021, what can states covering mobile crisis services under Medicaid receive?
++ An enhanced 85% federal match
+- A 10% federal match
+- No federal funding
+- 100% federal funding forever
+@ an enhanced 85% federal match
+
+? Which is a youth (not adult) warning sign of suicide in SAMHSA's table?
++ More physical symptoms like headaches and stomachaches linked to emotional distress
+- Talking about seeking revenge
+- Increasing use of alcohol or drugs
+- Talking about being a burden to others
+@ More physical symptoms (fatigue, headaches, stomachaches) linked to emotional distress
+
+? How did SBIRT grants (2021–2023) perform?
++ They served more than 450,000 people, and reports of no alcohol or illegal drug use rose 128.8% by six-month follow-up
+- They served 4,500 people with no change in drug use
+- They served 45 million people, mostly adults over 65
+- Drug use increased by 128.8% after screening
+@ SBIRT grants (2021–2023) served more than 450,000 people
+
+? How is "problem identification and referral" different from SBIRT?
++ It does not determine whether a person needs treatment
+- It always refers people to inpatient treatment
+- It is used only in emergency rooms
+- It replaces screening with medication
+@ Problem identification and referral (a prevention strategy) is different from SBIRT
+
+? Which statement about self-harm is correct, according to SAMHSA?
++ People who self-harm usually do not mean to kill themselves but are at higher risk of suicide without help
+- Self-harm is always a suicide attempt
+- Self-harm is more common among men than women
+- Self-harm usually begins after age 50
+@ A person who self-harms usually does not mean to kill themselves
+
+? About how many contacts did 988 answer in its first year?
++ Nearly 5 million
+- About 46,000
+- About 500,000
+- About 50 million
+@ nearly 5 million contacts answered in the first year
+
+? What did early studies find about severe lack of awareness (anosognosia)?
++ About 30% of people with schizophrenia and 20% of people with bipolar disorder had it
+- About 90% of people with depression had it
+- It never occurs in bipolar disorder
+- It occurs only in dementia
+@ about 30% of people with schizophrenia and 20% of people with bipolar disorder
+
+? Which brain area updates a person's self-image and can be damaged in schizophrenia and bipolar disorder?
++ The frontal lobe
+- The cerebellum
+- The brainstem
+- The occipital lobe
+@ Updating one's self-image depends on the brain's frontal lobe
+
+? Which behaviors does NAMI call a psychiatric emergency that needs immediate help?
++ Collecting pills or buying a weapon, and giving away possessions
+- Feeling sad after a breakup
+- Wanting to spend a weekend alone
+- Arguing with a sibling
+@ Suicidal behaviors are a psychiatric emergency
+
+? What does NAMI recommend during a suicide-related crisis?
++ Talk openly, remove means such as guns or stockpiled pills, and don't debate whether suicide is right or wrong
+- Avoid mentioning suicide so you don't plant the idea
+- Have everyone in the room talk at once
+- Argue that their life isn't that bad
+@ remove means such as guns, knives or stockpiled pills
+
+? According to CDC analysis cited by NAMI, about what share of people who die by suicide had alcohol in their system?
++ About 1 in 5
+- About 1 in 50
+- About 1 in 2
+- Nearly all
+@ about 1 in 5 people who die by suicide had alcohol in their system
+
+? According to NAMI, what percentage of people who die by suicide had a known mental health condition?
++ 46%
+- 4%
+- 90%
+- 15%
+@ 46% of people who die by suicide had a known mental health condition
+
+? Why does NAMI advise against making a person promise to stop self-harming?
++ It takes more than willpower to quit
+- Promises are legally binding
+- Self-harm always stops on its own
+- It is better to joke about it
+@ don't make the person promise to stop, because it takes more than willpower
+
+? Instead of arguing with a loved one's negative statements, which technique does NAMI suggest?
++ Active listening, such as reflecting feelings and summarizing thoughts
+- Raising your voice so they hear you
+- Changing the subject
+- Debating whether their life is really bad
+@ Active listening (reflecting feelings and summarizing thoughts) helps a person feel heard
+
+? According to the CDC and NIMH, about how many lives were lost to suicide in 2020?
++ Nearly 46,000
+- About 4,600
+- About 460,000
+- About 1,000
+@ nearly 46,000 lives were lost to suicide in 2020
+
+? What is a psychological autopsy?
++ Interviews with family, friends and medical professionals after a suicide to understand the person's mental health symptoms
+- A brain scan done after death
+- A blood test for depression
+- A police report
+@ based on a psychological autopsy (interviews with family, friends and medical professionals)
+
+? According to NAMI, about how often did someone die by suicide in the U.S. in 2022?
++ About every 11 minutes
+- About every 11 hours
+- About once a day
+- About every 11 seconds
+@ about 1 death every 11 minutes
+
+? How much more likely are transgender adults to attempt suicide in their lifetime than the general population?
++ Nearly 9 times
+- Nearly 2 times
+- No more likely
+- Nearly 50 times
+@ Transgender adults are nearly 9 times more likely to attempt suicide
+
+? What happened to adolescent suicide attempts in states that passed same-sex marriage laws?
++ They dropped by 7%
+- They rose by 7%
+- They did not change
+- They dropped by 70%
+@ States that passed same-sex marriage laws saw adolescent suicide attempts drop by 7%
+
+? What percentage of U.S. high school students had persistent feelings of sadness or hopelessness in 2023?
++ 40%
+- 4%
+- 65%
+- 90%
+@ 40% of U.S. high school students had persistent feelings of sadness or hopelessness in 2023
+
+? Which is a sign of escalating suicide risk in a young person?
++ Posting "goodbye" messages or giving away possessions
+- Joining a sports team
+- Asking for help with homework
+- Making weekend plans with friends
+@ "goodbye" messages or giving away possessions
+
+? If a person has thought about where, how or when they would take their life, what does NAMI say to do?
++ Treat it as an immediate crisis: go to an emergency room or call 911
+- Wait a week to see if it passes
+- Keep it a secret
+- Tell only one friend
+@ If a person has developed a plan to kill themselves (thought about where, how or when), it is an immediate crisis
+
+? According to NAMI, how can you find a warmline in your area?
++ Dial 211 or visit 211.org
+- Dial 911
+- Dial 411
+- Dial 311
+@ dial 211 or visit 211.org to find one

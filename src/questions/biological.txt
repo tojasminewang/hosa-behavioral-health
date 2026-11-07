@@ -1,0 +1,341 @@
+? Which part of the nervous system manages essential functions, such as heart rate, breathing, and blood pressure?
++ Medulla
+- Pons
+- Cerebellum
+- Parietal lobe
+@ manages many functions essential to life, such as heart rate, breathing, and blood pressure
+! This is HOSA's official sample question 1 (Cacioppo p. 115).
+
+? Which brain structure is called the "gateway to the cortex" because input from most senses travels to it first?
++ Thalamus
+- Hypothalamus
+- Amygdala
+- Hippocampus
+@ gateway to the cortex
+
+? Which structure regulates thirst, temperature, hunger, sexual behavior, aggression, and biological rhythms?
++ Hypothalamus
+- Thalamus
+- Pons
+- Basal ganglia
+@ Regulates thirst, temperature, hunger, sexual behavior, aggression, and biological rhythms
+
+? Damage to which structure causes profound impairment in forming new memories while intelligence, personality, and older memories stay intact?
++ Hippocampus
+- Amygdala
+- Cerebellum
+- Corpus callosum
+@ Damage causes profound impairment in forming new memories
+
+? Which structure is essential for balance and motor coordination and is one of the first brain structures affected by alcohol?
++ Cerebellum
+- Medulla
+- Thalamus
+- Nucleus accumbens
+@ essential for balance and motor coordination
+
+? Which gland is called the body's "master gland"?
++ Pituitary gland
+- Pineal gland
+- Thyroid gland
+- Adrenal glands
+@ master gland
+
+? Which gland releases melatonin, which maintains sleep–wake cycles?
++ Pineal gland
+- Pituitary gland
+- Thyroid gland
+- Adrenal glands
+@ Releases melatonin, which maintains sleep
+
+? What makes up the central nervous system (CNS)?
++ The brain and spinal cord
+- The brain and the cranial nerves
+- The spinal cord and the spinal nerves
+- The somatic and autonomic nervous systems
+@ Central nervous system (CNS): The brain and spinal cord
+
+? Which division of the autonomic nervous system coordinates arousal and prepares the body for fight-or-flight?
++ Sympathetic
+- Parasympathetic
+- Enteric
+- Somatic
+@ coordinates arousal; prepares the body for fight-or-flight
+
+? Which division of the autonomic nervous system is associated with rest, repair, and energy storage?
++ Parasympathetic
+- Sympathetic
+- Somatic
+- Enteric
+@ associated with rest, repair, and energy storage
+
+? According to Table 4.4, which neurotransmitter is mainly linked to pain management?
++ Endorphins
+- Glutamate
+- Acetylcholine
+- Dopamine
+@ Endorphins | Pain management
+
+? According to Table 4.4, which neurotransmitter is responsible for inhibition of brain activity?
++ GABA
+- Glutamate
+- Dopamine
+- Norepinephrine
+@ GABA | Inhibition of brain activity
+
+? Parkinson's disease results when neurons that release which neurotransmitter die?
++ Dopamine
+- Serotonin
+- Acetylcholine
+- GABA
+@ Parkinson's disease results when dopamine-releasing neurons
+
+? Depressed people often have lower-than-normal activity of which neurotransmitter at the synapse?
++ Serotonin
+- Dopamine
+- Glutamate
+- Endorphins
+@ Depressed people often have lower-than-normal serotonin activity
+
+? What does Broca's area participate in?
++ The production of speech
+- Understanding spoken language
+- Processing visual borders and color
+- Balance and motor coordination
+@ participates in the production of speech
+
+? Which lobe contains the primary visual cortex?
++ Occipital lobe
+- Temporal lobe
+- Parietal lobe
+- Frontal lobe
+@ Occipital lobe | Back of the brain | Primary visual cortex
+
+? Which lobe contains the primary auditory cortex and Wernicke's area?
++ Temporal lobe
+- Occipital lobe
+- Frontal lobe
+- Parietal lobe
+@ Temporal lobe | Curves around the side of each hemisphere | Primary auditory cortex
+
+? What is the wide band of nerve fibers that connects the right and left cerebral hemispheres?
++ Corpus callosum
+- Cerebral cortex
+- Reticular formation
+- Cingulate cortex
+@ A wide band of nerve fibers connecting the right and left cerebral hemispheres
+
+? Which part of a neuron usually receives input from other neurons?
++ Dendrite
+- Axon
+- Myelin
+- Synaptic vesicle
+@ A branch from the cell body that usually receives input from other neurons
+
+? What does the "all-or-none" principle say about action potentials?
++ They are always the same size and shape; either one occurs or the cell stays at rest
+- Stronger stimuli produce larger action potentials
+- A neuron fires only when all of its dendrites are stimulated at once
+- Every neuron in a circuit must fire at the same time
+@ Action potentials are always the same size and shape
+
+? What is reuptake?
++ Neurotransmitter molecules are returned to the axon terminal that released them
+- Neurotransmitters bind to receptors on the receiving neuron
+- The electrical signal is duplicated down the length of the axon
+- A time-out after an action potential when the cell cannot fire
+@ Neurotransmitter molecules in the synaptic gap are returned to the axon terminal that released them
+
+? Which glands release hormones including cortisol at times of stress?
++ Adrenal glands
+- Thyroid gland
+- Pineal gland
+- Islets of Langerhans
+@ at times of stress they release hormones including cortisol
+
+? Which research method uses magnetism to track the flow of oxygen to identify active parts of the brain?
++ Functional magnetic resonance imaging (fMRI)
+- Positron emission tomography (PET)
+- Electroencephalogram (EEG)
+- Histology
+@ Uses magnetism to track the flow of oxygen to identify active parts of the brain
+
+? Who used Golgi's own stain to prove that the nervous system is made up of separate cells (the neuron doctrine)?
++ Santiago Ramón y Cajal
+- Camillo Golgi
+- Paul Broca
+- John Hughlings Jackson
+@ used Golgi's own stain to prove the nervous system is made up of separate cells
+
+? Which part of the nervous system is called a "second brain" and is the source of 95% of the body's serotonin?
++ Enteric nervous system
+- Somatic nervous system
+- Parasympathetic nervous system
+- Reticular formation
+@ called a "second brain"
+
+? Which cranial nerve serves the internal organs (parasympathetic)?
++ X. Vagus
+- V. Trigeminal
+- VII. Facial
+- XII. Hypoglossal
+@ X. Vagus | Internal organs (parasympathetic)
+
+? Which approach, embraced by biological psychology, holds that "the mind is what the brain does"?
++ Monism
+- Dualism
+- Phrenology
+- Structuralism
+@ the mind is what the brain does
+
+? Which gland's low hormone levels can mimic the symptoms of depression?
++ Thyroid gland
+- Pineal gland
+- Adrenal glands
+- Islets of Langerhans
+@ low thyroid levels can mimic the symptoms of depression
+
+? What are glia?
++ Nervous system cells that perform support functions, such as forming myelin and the blood–brain barrier
+- Chemical messengers that cross the synapse
+- The gaps between segments of myelin
+- Neurons that carry commands to muscles and glands
+@ Nervous system cells that perform support functions
+
+? According to HOSA Canada's study deck, where on the neuron is an action potential generated once the threshold is reached?
++ The axon hillock
+- The dendrite
+- The myelin sheath
+- The synaptic cleft
+@ An action potential is generated when the membrane potential reaches its threshold at the axon hillock
+
+? Which statement about hemisphere dominance is correct, according to HOSA Canada's study deck?
++ It does not predict a person's choice of occupation or artistic talent
+- Right-brained people choose artistic careers
+- Left-brained people are better at math jobs
+- It determines a person's personality
+@ Hemisphere dominance does not predict a person's choice of occupation or artistic talent
+
+## hard
+
+? After a stroke, a patient speaks fluently, but the speech makes no sense and the patient cannot understand what others say. Which area was most likely damaged?
++ Wernicke's area in the temporal lobe
+- Broca's area in the frontal lobe
+- The primary motor cortex
+- The orbitofrontal cortex
+@ damage causes fluent speech that makes no sense and an inability to comprehend speech
+! Broca's area damage causes difficulty speaking while comprehension stays good; Wernicke's area damage causes fluent but meaningless speech.
+
+? Which neurotransmitter–function pairing matches Table 4.4?
++ Norepinephrine — arousal, vigilance
+- Glutamate — inhibition of brain activity
+- Acetylcholine — mood, appetite, sleep
+- Serotonin — movement, planning, reward
+@ Norepinephrine (noradrenalin) | Arousal, vigilance
+
+? How do curare and Botox each cause paralysis?
++ Curare blocks ACh receptors; Botox prevents the release of ACh
+- Curare prevents the release of ACh; Botox blocks ACh receptors
+- Both block dopamine receptors in movement circuits
+- Both block the movement of sodium into cells
+@ Curare causes paralysis by blocking ACh receptors; Botox causes paralysis by preventing the release of ACh
+
+? Which research method answers the question "Did the person perceive the stimulus?"
++ Event-related potential (ERP)
+- Skin conductance response
+- Single cell recording
+- Lesions
+@ Did the person perceive the stimulus?
+
+? A neurotransmitter makes the difference between the inside and outside charges of a neuron increase, moving it away from threshold. What is this called?
++ Hyperpolarization
+- Depolarization
+- Propagation
+- Summation
+@ The difference between the inside and outside charges increases (moves away from threshold)
+
+? Which visual pathway lets you process the movement of objects?
++ From the occipital lobe to the parietal lobe
+- From the occipital lobe to the temporal lobe
+- From the frontal lobe to the temporal lobe
+- From the parietal lobe to the frontal lobe
+@ a pathway from the occipital lobe to the parietal lobe lets you process the movement of objects
+! The occipital-to-temporal pathway is for recognizing objects; the occipital-to-parietal pathway is for movement.
+
+? Language is lateralized to the left hemisphere for about what share of people?
++ About 96% of right-handed people and about 70% of left-handed people
+- About 70% of right-handed people and about 96% of left-handed people
+- About 90% of right-handed people and about 10% of left-handed people
+- About 65–70% of right-handed people and about 50% of left-handed people
+@ about 96% of right-handed people and about 70% of left-handed people
+
+? Patient S.M. had damage to both amygdalae. What did researchers observe?
++ S.M. could not identify fearful expressions and stood about twice as close to strangers as others do
+- S.M. could not form any new long-term memories
+- S.M. lost the ability to produce speech but understood it well
+- S.M. developed an extreme fear of snakes and spiders
+@ could not identify fearful expressions
+
+? What did Alia Crum's milkshake study show?
++ Ghrelin dropped steeply when people believed the shake was a 620-calorie "indulgent" shake, so cognitions affected biology
+- Ghrelin dropped steeply when people believed the shake was a 140-calorie "sensible" shake
+- Ghrelin was the same no matter what people were told about the shake
+- The "indulgent" shake really contained more calories than the "sensible" shake
+@ The way people thought about the shake (cognitions) affected their biology
+! Everyone drank the same 380-calorie shake; only the label changed.
+
+? Which pairing of autonomic effects is correct?
++ Sympathetic: dilated pupils; parasympathetic: constricted pupils and stimulated digestion
+- Sympathetic: constricted pupils; parasympathetic: dilated pupils
+- Sympathetic: slowed heart; parasympathetic: racing heart
+- Sympathetic: stimulated digestion; parasympathetic: sweaty palms
+@ constricts pupils, slows the heart, stimulates digestion
+
+? What did the tamping rod damage most in Phineas Gage's frontal lobes?
++ More fiber pathways (11%) than cells (4%)
+- More cells (11%) than fiber pathways (4%)
+- Equal amounts of cells and fiber pathways
+- Mainly the occipital lobe, not the frontal lobes
+@ the rod damaged more fiber pathways (11%) than cells (4%)
+
+? Which structure is NOT part of the hindbrain?
++ Thalamus
+- Medulla
+- Pons
+- Cerebellum
+@ The hindbrain consists of the medulla, pons, and cerebellum
+
+? How do the two types of pain signals travel?
++ Sharp "ouch" pain travels on myelinated axons; dull, achy pain travels on unmyelinated axons
+- Sharp pain travels on unmyelinated axons; dull, achy pain travels on myelinated axons
+- Both travel only on myelinated axons
+- Both travel only on unmyelinated axons
+@ Sharp "ouch" pain travels on myelinated axons
+
+? Why is damage to the central nervous system considered permanent?
++ Glia in the CNS form scar tissue, while glia in the PNS help damaged axons regrow
+- CNS neurons lack axons and dendrites
+- The blood–brain barrier blocks all repair cells
+- CNS nerves are not encased in bone
+@ Glia in the CNS form scar tissue, so CNS damage is considered permanent
+
+? When an action potential reaches the axon terminal, what frees the synaptic vesicles to release neurotransmitter?
++ An influx of calcium
+- An influx of glucose
+- Reuptake of serotonin
+- The breakdown of myelin
+@ an influx of calcium frees the synaptic vesicles
+
+? Which hormones do the islets of Langerhans in the pancreas produce?
++ Insulin and glucagon
+- Melatonin and cortisol
+- Oxytocin and vasopressin
+- Testosterone and estrogen
+@ The islets of Langerhans in the pancreas produce insulin and glucagon
+
+? According to the textbook, what might extremely high testosterone from performance-enhancing drugs be contributing to?
++ The early deaths of some professional wrestlers
+- Longer life spans
+- Stronger immune responses
+- Better long-term memory
+@ extremely high testosterone from performance-enhancing drugs might be contributing to the early deaths of some professional wrestlers

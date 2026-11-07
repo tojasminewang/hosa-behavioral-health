@@ -1,0 +1,225 @@
+? What makes PTSD unique among DSM-5 disorders?
++ It is the only disorder with a specified cause: you must have experienced trauma
+- It is the only disorder with a blood test
+- It is the only disorder that affects children
+- It is the only disorder treated with medication
+@ it is the only disorder with a specified cause
+
+? What were earlier names for PTSD?
++ Shell shock or battle fatigue
+- Hysteria or neurasthenia
+- Melancholia or the blues
+- Multiple personality disorder
+@ PTSD was formerly known as shell shock or battle fatigue
+
+? Which is a symptom of PTSD?
++ Hypervigilance
+- Grandiosity
+- Anhedonia only
+- Catatonia
+@ Symptoms: hypervigilance, avoidance of trauma-related stimuli
+
+? According to SAMHSA, how long must PTSD signs and symptoms last to be considered PTSD?
++ More than a month
+- More than a day
+- More than a year
+- More than 10 years
+@ signs and symptoms must last more than a month
+
+? About what share of U.S. adults does PTSD affect each year?
++ 3% to 4%
+- 30% to 40%
+- 0.3%
+- 15%
+@ PTSD affects 3% to 4% of U.S. adults each year
+
+? Which brain finding is consistently correlated with PTSD?
++ Smaller hippocampal volume
+- Larger hippocampal volume
+- Enlarged ventricles
+- A larger cerebellum
+@ PTSD is consistently correlated with smaller hippocampal volume
+
+? What protects against PTSD and speeds recovery?
++ Strong social support
+- Avoiding all reminders forever
+- Living alone
+- Using alcohol to cope
+@ strong social support protects against PTSD and speeds recovery
+
+? Which therapy for PTSD assumes that confronting the trauma rather than avoiding it produces benefits?
++ Prolonged exposure therapy
+- Cognitive processing therapy
+- Psychoanalysis
+- Aversion therapy
+@ Assumes that confronting the trauma rather than avoiding it produces benefits
+
+? According to SAMHSA, when can PTSD start?
++ Soon after the event or months or even years later
+- Only within 24 hours of the event
+- Only in childhood
+- Only after a second trauma
+@ PTSD may start soon after the event or months or even years later
+
+? Who can diagnose PTSD, according to SAMHSA?
++ A psychiatrist or psychologist experienced with mental illness
+- Any family member
+- Only a primary care physician using a blood test
+- A pharmacist
+@ A psychiatrist or psychologist experienced with mental illness can diagnose PTSD
+
+? According to NAMI, about what percentage of U.S. adults experience PTSD?
++ About 4.1%
+- About 1.2%
+- About 19.1%
+- About 15.5%
+@ About 4.1% of U.S. adults (over 8 million people) experience PTSD
+
+? In what year did PTSD become a formal diagnosis in the DSM?
++ 1980
+- 1952
+- 2001
+- 2022
+@ PTSD became a formal diagnosis in the DSM-III in 1980
+
+? Which earlier term described war trauma in World War I?
++ Shell shock
+- Battle fatigue
+- Hypomania
+- Depersonalization
+@ "shell shock" (World War I)
+
+? Which is one of the four PTSD symptom categories?
++ Hyperarousal
+- Mania
+- Compulsions
+- Hallucinations
+@ and hyperarousal (irritability, trouble sleeping, heightened startle)
+
+? According to NAMI, when do PTSD symptoms typically emerge?
++ Within three months of the trauma
+- Within one hour of the trauma
+- Only after 10 years
+- Only in childhood
+@ PTSD symptoms typically emerge within three months of the trauma
+
+? Which type of medication is often the first-line treatment for PTSD in adults?
++ SSRIs
+- Stimulants
+- MDMA
+- Benzodiazepines
+@ Some SSRIs are FDA approved for PTSD in adults and are often the first-line medication
+
+? Which therapy was specifically designed to treat trauma, using alternating stimuli such as eye movements?
++ EMDR
+- Interpersonal therapy
+- Dialectical behavior therapy
+- Light therapy
+@ EMDR was specifically designed to treat trauma
+
+## hard
+
+? Which three psychotherapies do the American Psychological Association and the VA strongly recommend for PTSD?
++ Prolonged exposure, cognitive processing therapy, and trauma-focused CBT
+- Psychoanalysis, hypnosis, and EMDR
+- Aversion therapy, flooding, and ECT
+- Dream analysis, free association, and client-centered therapy
+@ prolonged exposure therapy, cognitive processing therapy, and trauma-focused CBT
+
+? Which therapy addresses inaccurate attributions and self-blame about traumatic events?
++ Cognitive processing therapy
+- Prolonged exposure therapy
+- Virtual reality exposure
+- Systematic desensitization
+@ Addresses inaccurate attributions and self-blame about the traumatic events
+
+? After car accidents, how did PTSD rates compare between injured children and their parents?
++ 25% of injured children developed PTSD compared with 15% of their parents
+- 15% of children and 25% of parents
+- Equal rates in both groups
+- No children developed PTSD
+@ 25% of injured children developed PTSD after car accidents compared with 15% of their parents
+
+? What do current data suggest about the smaller hippocampus in PTSD?
++ It is more likely a risk factor than an outcome
+- It is always caused by the trauma
+- It grows larger after treatment
+- It has no link to PTSD
+@ a smaller hippocampus is more likely a risk factor than an outcome
+
+? What is secondary traumatization?
++ Families of soldiers are also affected by combat experiences
+- A second trauma that triggers PTSD
+- PTSD that begins years after the event
+- Trauma from watching violent movies
+@ Families of soldiers are also affected by combat experiences
+
+? People with low social support before 9/11 were how much more likely to develop PTSD?
++ Twice as likely
+- Half as likely
+- Ten times as likely
+- Equally likely
+@ people with low social support before 9/11 were twice as likely to develop PTSD
+
+? Who popularized combining relaxation with controlled exposure in the 1950s?
++ Joseph Wolpe
+- Francine Shapiro
+- Aaron Beck
+- Albert Ellis
+@ Joseph Wolpe popularized combining relaxation with controlled exposure in the 1950s
+
+? For a PTSD diagnosis, how long must all four types of symptoms last?
++ At least one month
+- At least one week
+- At least six months
+- At least two years
+@ PTSD is diagnosed only when all four types of symptoms last at least one month
+
+? Why did the newest DSM move PTSD out of the anxiety disorders?
++ Anger, depression and dissociation are also trauma responses, making it more complex than anxiety
+- PTSD was found to be a psychotic disorder
+- PTSD was found to affect only veterans
+- PTSD was removed from the DSM completely
+@ because anger, depression and dissociation are also trauma responses
+
+? Which PTSD tool is a self-report questionnaire that screens for symptoms and tracks their severity?
++ PTSD Checklist for DSM-5 (PCL-5)
+- Clinician-Administered PTSD Scale (CAPS)
+- PHQ-9
+- STEP-BD
+@ the PTSD Checklist for DSM-5 (PCL-5, a self-report questionnaire)
+
+? Which type of CBT targets the negative thinking and self-blame that can come with PTSD?
++ Cognitive processing therapy
+- Mentalization-based therapy
+- Exposure response prevention
+- Family-based treatment
+@ A type of CBT that targets the negative thinking and self-blame that can come with PTSD
+
+? According to NAMI, which statement about marijuana and MDMA for PTSD is correct?
++ No randomized controlled trial has tested marijuana for PTSD, and MDMA is not FDA approved
+- Both are FDA-approved first-line PTSD treatments
+- MDMA is legal and widely prescribed in the U.S.
+- Marijuana has been proven to cure PTSD
+@ No randomized controlled trial has tested marijuana for PTSD
+
+? How might young children show PTSD differently from adults?
++ Through behavior, such as clinging to parents or slipping back to earlier behaviors
+- By describing their flashbacks in detail
+- By developing mania
+- Young children cannot develop PTSD
+@ Young children's behavior (such as clinging to parents) shows how they are doing better than their words
+
+? What is NAMI Homefront?
++ NAMI's resources and program for active-duty service members, veterans and military families
+- A crisis line for teenagers
+- A trauma course for teachers
+- A support group for eating disorders
+@ NAMI's resources and program for active-duty service members, veterans and military families
+
+? According to HOSA Canada's study deck, PTSD is linked to lower levels of which brain activity?
++ Naturally occurring benzodiazepine-like activity in the frontal cortex
+- Dopamine activity in the basal ganglia
+- Melatonin activity in the pineal gland
+- Insulin activity in the pancreas
+@ PTSD is linked to lower levels of the brain's naturally occurring benzodiazepine-like activity in the frontal cortex

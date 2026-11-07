@@ -1,0 +1,211 @@
+? What is motivation?
++ A process that arouses, maintains, and guides behavior toward a goal
+- A steady internal balance or equilibrium
+- A reward that pulls behavior in a particular direction
+- A state of relief produced by removing tension
+@ A process that arouses, maintains, and guides behavior toward a goal
+
+? What is homeostasis?
++ A steady internal balance or equilibrium
+- A state of tension triggered by survival cues
+- A reward that arises internally
+- A height-to-weight ratio
+@ A steady internal balance or equilibrium
+
+? Who introduced the term homeostasis?
++ Walter Cannon
+- Clark Hull
+- Abraham Maslow
+- Neal Miller
+@ term introduced by Walter Cannon (1932)
+
+? What is a drive, according to Hull?
++ A state of tension and arousal triggered by cues important for survival
+- A reward that pulls an organism toward a goal
+- A value defended to maintain homeostasis
+- A desire to outperform others
+@ A state of tension and arousal triggered by cues important for survival
+
+? Feelings of accomplishment after finishing a project are what kind of reward?
++ Intrinsic reward
+- Extrinsic reward
+- Incentive
+- Drive reduction
+@ A reward that arises internally, such as feelings of accomplishment
+
+? Grades, money, and praise are examples of what?
++ Extrinsic rewards
+- Intrinsic rewards
+- Set points
+- Drives
+@ A reward from an outside source, such as grades, money, or praise
+
+? Which hormone, released by the pancreas, moves circulating glucose from the blood into cells?
++ Insulin
+- Leptin
+- Ghrelin
+- Cholecystokinin
+@ A hormone released by the pancreas that moves circulating glucose from the blood into cells
+
+? Which hormone is secreted by fat cells and helps the body maintain an appropriate level of stored fat?
++ Leptin
+- Insulin
+- Ghrelin
+- Orexin
+@ A hormone secreted by fat cells
+
+? Which part of the hypothalamus initiates feeding when glucose, fat stores, and leptin are low?
++ Lateral hypothalamus
+- Ventromedial hypothalamus
+- Anterior hypothalamus
+- Posterior pituitary
+@ Initiates feeding when glucose, fat stores, and leptin are low
+
+? Lesions of which area cause large weight gains because it participates in sensing satiety?
++ Ventromedial hypothalamus (VMH)
+- Lateral hypothalamus (LH)
+- Amygdala
+- Thalamus
+@ Participates in sensing satiety; VMH lesions cause large weight gains
+
+? Which gut hormone is released in response to food (especially fatty food) and limits meals?
++ Cholecystokinin (CCK)
+- Ghrelin
+- Orexin
+- Insulin
+@ A gut hormone released in response to food
+
+? What is the formula for body mass index (BMI)?
++ Weight in kilograms divided by the square of height in meters
+- Height in meters divided by weight in kilograms
+- Weight in pounds divided by height in inches
+- Body fat percentage times height
+@ weight in kilograms divided by the square of height in meters
+
+? A BMI above 30 is classified as what?
++ Obese
+- Overweight
+- Healthy
+- Underweight
+@ BMI under 18.5 = underweight
+
+? According to Maslow, which needs are at the bottom of the hierarchy?
++ Physiological needs, such as food, water, and shelter
+- Safety needs
+- Belongingness needs
+- Esteem needs
+@ from bottom to top: physiological needs
+
+? What is self-actualization?
++ A state of having fulfilled your potential
+- The need for love and affection
+- The need for food, water, and shelter
+- A desire to outperform others
+@ A state of having fulfilled your potential
+
+? What does Carol Dweck's research show?
++ A growth mindset (abilities can be developed) outperforms a fixed mindset
+- A fixed mindset outperforms a growth mindset
+- Mindset has no effect on performance
+- Extrinsic rewards always increase intrinsic motivation
+@ a **growth mindset** (belief that abilities can be developed) outperforms
+
+? What is sexual orientation?
++ A stable pattern of attraction to members of a particular sex
+- A period of sexual receptivity in female mammals
+- A hormone linked to sexual interest
+- A temporary preference that changes daily
+@ A stable pattern of attraction to members of a particular sex
+
+? What is affiliation?
++ Being associated with other people
+- A desire to excel or outperform others
+- A state of having fulfilled your potential
+- The relief that comes from drive reduction
+@ Being associated with other people
+
+? According to HOSA Canada's study deck, what may keep competent people from attempting a task?
++ Fear of failure
+- Intrinsic reward
+- Drive reduction
+- Homeostasis
+@ Fear of failure is another factor that may keep competent people from attempting a task
+
+## hard
+
+? Under what condition do extrinsic rewards undermine intrinsic motivation?
++ Only when the behavior was intrinsically motivated in the first place
+- Whenever any reward is given for any task
+- Only when the reward is money
+- Never; extrinsic rewards always increase motivation
+@ but only when the behavior was intrinsically motivated in the first place
+
+? In Roland Fryer's school incentive experiments, what happened?
++ Paying children to read boosted reading comprehension, while paying for test scores produced no measurable change
+- Paying for test scores boosted scores, but paying for reading did nothing
+- Both incentives lowered performance
+- Neither incentive changed anything
+@ paying children to read dramatically boosted reading comprehension
+
+? Which statement about leptin and obesity is correct?
++ Obese people have very high leptin levels but become resistant to its satiety message
+- Obese people have very low leptin levels, so leptin pills cause weight loss
+- Dieting raises leptin, which makes weight loss easier to keep
+- Leptin is released by the stomach when it is empty
+@ Obese humans have very high leptin levels but become resistant to its satiety message
+
+? Which pairing about hunger hormones is correct?
++ Ghrelin stimulates feeding and rises with time since the last meal; CCK limits meals
+- Ghrelin limits meals; CCK stimulates feeding
+- Both ghrelin and CCK are released by fat cells
+- Orexins are released by the stomach and only regulate sleep
+@ A feeding-stimulating hormone released by the pancreas and stomach lining
+
+? What happens to the autonomic nervous system when nutrients are low?
++ The parasympathetic system is activated and metabolism slows so nutrients are stored
+- The sympathetic system is activated and metabolism speeds up
+- The parasympathetic system is activated and metabolism speeds up
+- Neither system changes
+@ When nutrients are low, the parasympathetic nervous system is activated
+
+? A student must choose between two unpleasant chores. What type of conflict is this?
++ Avoidance–avoidance
+- Approach–approach
+- Approach–avoidance
+- Drive–incentive
+@ avoidance–avoidance (two unpleasant choices)
+
+? How much does having obese friends raise your risk of obesity, compared with an obese spouse?
++ Obese friends: 57%; obese spouse: 37%
+- Obese friends: 37%; obese spouse: 57%
+- Both raise it by about 12%
+- Neither changes the risk
+@ Having an obese spouse raises your risk of obesity by 37%
+
+? In Schachter's 1959 study, who preferred to wait alone?
++ People expecting embarrassment
+- People expecting a painful shock
+- Surgery patients
+- People told they would end up alone
+@ people expecting embarrassment preferred to be alone
+
+? Which is the correct order of Maslow's hierarchy from bottom to top?
++ Physiological, safety, belongingness, esteem, self-actualization
+- Safety, physiological, esteem, belongingness, self-actualization
+- Physiological, belongingness, safety, esteem, self-actualization
+- Self-actualization, esteem, belongingness, safety, physiological
+@ physiological needs (food, water, shelter), safety, belongingness (love, affection), esteem, and self-actualization
+
+? What did Kenrick et al. (2010) change in Maslow's pyramid?
++ They replaced self-actualization with mate acquisition, mate retention, and parenting
+- They moved safety to the top of the pyramid
+- They removed physiological needs
+- They added achievement motivation to the bottom
+@ replacing self-actualization with mate acquisition, mate retention, and parenting
+
+? According to HOSA Canada's study deck, how does menopause affect sexual interest?
++ It changes hormone levels a lot but has little impact on sexual interest
+- It ends sexual interest completely
+- It greatly increases sexual interest
+- It has no effect on hormone levels
+@ Menopause causes big changes in female hormone levels but has little impact on sexual activity and interest

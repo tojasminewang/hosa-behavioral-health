@@ -1,0 +1,295 @@
+? What is a psychoactive drug?
++ Any drug capable of altering a person's state of consciousness
+- Any drug prescribed by a psychiatrist
+- A drug that cannot cross the blood–brain barrier
+- A drug that only affects the body, not the brain
+@ Any drug with the capability of altering a person's state of consciousness
+
+? What is tolerance?
++ Needing greater quantities of a drug to get the same subjective effect
+- Physical responses when a drug is removed
+- A compulsive dependence despite negative consequences
+- The ability to quit without help
+@ The need to administer greater quantities of a drug to achieve the same subjective effect
+
+? What is withdrawal?
++ Physical responses to the removal of a habitually used drug, opposite to the drug's effects
+- Needing more of a drug for the same effect
+- Avoiding friends and family while using
+- The first high from a drug
+@ Physical responses to the removal of some habitually administered drugs
+
+? Withdrawal from which drug can cause life-threatening seizures?
++ Alcohol
+- Caffeine
+- Cocaine
+- Marijuana
+@ Withdrawal from alcohol (which slows the nervous system) can cause life-threatening seizures
+
+? According to Summary 6.3, caffeine acts on which system?
++ Adenosine
+- Dopamine
+- Serotonin
+- GABA
+@ Caffeine | Adenosine
+
+? Nicotine mimics which neurotransmitter?
++ Acetylcholine
+- Dopamine
+- Serotonin
+- GABA
+@ mimics acetylcholine
+
+? LSD is chemically similar to and acts on receptors for which neurotransmitter?
++ Serotonin
+- Dopamine
+- GABA
+- Acetylcholine
+@ chemically similar to serotonin and acts on serotonin receptors
+
+? What is the most important psychoactive cannabinoid in cannabis?
++ THC (tetrahydrocannabinol)
+- CBD (cannabidiol)
+- Anandamide
+- DMT
+@ the most important is tetrahydrocannabinol (THC)
+
+? What is a stimulant?
++ Any drug that increases the activity of the nervous system
+- Any drug that slows the nervous system
+- A drug that causes false perceptions
+- A drug that acts on endorphin receptors
+@ Any drug that increases the activity of the nervous system
+
+? Opioids interact with which receptors?
++ Endorphin receptors
+- Adenosine receptors
+- Cannabinoid receptors
+- Serotonin receptors
+@ Natural or synthetic substances that interact with endorphin receptors
+
+? According to SAMHSA, what is addiction?
++ A complex disease that alters the brain
+- A lack of willpower
+- A moral failing
+- A habit that anyone can stop at will
+@ **addiction is a complex disease that alters the brain**
+
+? Why is addiction called a "relapsing" disease?
++ People may return to drug use even after long periods of sobriety
+- It only affects people who relapse in school
+- Treatment always fails
+- It cannot be treated
+@ people may return to drug use even after long periods of sobriety
+
+? According to SAMHSA, about what fraction of people who use marijuana will become addicted?
++ About 1 in 10
+- About 1 in 2
+- About 1 in 100
+- About 1 in 1,000
+@ About **1 in 10** people who use marijuana will become addicted
+
+? What can reverse an opioid overdose?
++ Naloxone
+- Naltrexone
+- Methadone
+- Caffeine
+@ **naloxone can reverse an opioid overdose**
+
+? What does a lethal dose of fentanyl (2 milligrams) compare to?
++ About 10–15 grains of table salt
+- About one teaspoon of sugar
+- About one standard pill
+- About one cup of coffee
+@ a lethal dose of fentanyl (2 milligrams) is about the size of 10–15 grains of table salt
+
+? According to SAMHSA, what is the leading cause of preventable death in the U.S.?
++ Smoking
+- Alcohol
+- Opioids
+- Car crashes
+@ Smoking is the leading cause of preventable death in the U.S.
+
+? What is the national quitline number for tobacco?
++ 800-QUIT-NOW (800-784-8669)
+- 1-800-662-HELP (4357)
+- 988
+- 1-800-222-1222
+@ call 800-QUIT-NOW (800-784-8669)
+
+? Which is an example of prescription drug misuse, according to SAMHSA?
++ Taking someone else's medication
+- Taking your own medicine exactly as prescribed
+- Asking your doctor about non-opioid options
+- Getting medicine from a licensed pharmacist
+@ taking someone else's medication
+
+? People with mental illness or a substance use disorder are 25% of U.S. adults. What share of cigarettes sold do they consume?
++ 40%
+- 10%
+- 25%
+- 90%
+@ consume 40% of cigarettes sold
+
+? Which two medications are FDA approved to help people quit smoking?
++ Varenicline (Chantix) and bupropion (Zyban, Wellbutrin)
+- Lithium and clozapine
+- Methylphenidate and atomoxetine
+- Atomoxetine and guanfacine
+@ Two FDA-approved quit-smoking medications
+
+? What is nicotine replacement therapy (NRT)?
++ Gum, patches, lozenges, sprays or inhalers that deliver measured nicotine to ease withdrawal
+- An FDA-approved vaping device
+- A 12-step group for smokers
+- A medication that blocks dopamine
+@ Gum, patches, lozenges, nasal sprays or inhalers that deliver measured nicotine to ease withdrawal
+
+? According to NAMI, are e-cigarettes FDA-approved devices for quitting smoking?
++ No, e-cigarettes are not FDA-approved quitting devices
+- Yes, they are the first-line treatment
+- Yes, but only for adults
+- Yes, but only for people with schizophrenia
+@ e-cigarettes are not FDA-approved quitting devices
+
+## hard
+
+? How do cocaine and methamphetamine differ in how they act on dopamine?
++ Cocaine blocks dopamine transporters; methamphetamine makes the transporters work in reverse
+- Methamphetamine blocks transporters; cocaine makes them work in reverse
+- Both block dopamine receptors
+- Neither affects dopamine
+@ Cocaine blocks dopamine transporters (reuptake); methamphetamine makes the transporters work in reverse
+
+? How does alcohol act in the brain?
++ It boosts GABA, blocks glutamate receptors, and stimulates dopamine reward pathways
+- It blocks GABA and boosts glutamate
+- It acts only on adenosine
+- It mimics acetylcholine
+@ Alcohol boosts GABA (the main inhibitory neurochemical)
+
+? For people who start using marijuana before age 18, the addiction rate rises to what?
++ About 1 in 6
+- About 1 in 2
+- About 1 in 20
+- It does not change
+@ for those who start before age 18, the rate rises to **1 in 6**
+
+? What are SAMHSA's three key addiction risk factors?
++ Biology, environment, and development
+- Income, education, and religion
+- Age, height, and weight
+- Personality, intelligence, and memory
+@ Three key addiction risk factors: **biology**
+
+? Which policy is among those with the strongest evidence for reducing alcohol misuse?
++ Dram shop (commercial host) liability laws
+- Lowering alcohol taxes
+- Increasing the number of alcohol outlets
+- Allowing more hours of sales
+@ **dram shop (commercial host) liability laws**
+
+? In SAMHSA's hallucinogen types, PCP and ketamine are classified as what?
++ Dissociative drugs
+- Classic psychedelics
+- Stimulants
+- Opioids
+@ Dissociative drugs | PCP (phencyclidine), ketamine
+
+? What did DEA tests find about fentanyl pills?
++ 6 out of every 10 contain a potentially lethal dose
+- 1 out of every 100 contains a lethal dose
+- None contain enough to be lethal
+- All of them are pure oxycodone
+@ DEA tests found 6 out of every 10 fentanyl pills contain a potentially lethal dose
+
+? Which treatments are effective for meth addiction?
++ Behavioral therapies such as CBT and motivational incentives; there are no FDA-approved medications
+- Methadone and buprenorphine
+- Naltrexone only
+- Lithium and antipsychotics
+@ There are no FDA-approved medications for meth addiction
+
+? What were the three waves of the U.S. opioid epidemic, in order?
++ Prescription opioids, then heroin, then synthetic opioids such as fentanyl
+- Heroin, then prescription opioids, then fentanyl
+- Fentanyl, then heroin, then prescription opioids
+- Morphine, then codeine, then methadone
+@ in three waves: prescription opioids, then heroin, then synthetic opioids such as fentanyl
+
+? Which neural system of addiction involves the insula?
++ The craving system
+- The impulsive system
+- The reflective system
+- The reward-learning system in the cerebellum
+@ a craving system involving the insula
+
+? How much permanent IQ loss can starting marijuana use young cause, according to SAMHSA?
++ As much as 8 points
+- As much as 30 points
+- Less than 1 point
+- None; IQ returns after quitting
+@ Starting young can cause permanent IQ loss of as much as 8 points
+
+? What is serotonin syndrome?
++ Excess serotonin activity causing dehydration, hyperthermia, convulsions, and possibly death
+- Low serotonin causing depression
+- Withdrawal from caffeine
+- A craving for MDMA
+@ Excess serotonin activity (from MDMA, antidepressant overdose, or drug combinations)
+
+? Which statement about nicotine use in adolescence is correct?
++ Adolescents become dependent faster than adults, and adolescent use is correlated with doubled schizophrenia risk
+- Adolescents become dependent more slowly than adults
+- E-cigarettes are proven safe for adolescents
+- Adolescent nicotine use lowers schizophrenia risk
+@ adolescents become dependent faster than adults
+
+? According to NAMI, how much earlier do people with mental illness who smoke die than people without mental illness who do not smoke?
++ Up to 15 years earlier
+- Up to 1 year earlier
+- Up to 40 years earlier
+- There is no difference
+@ die up to 15 years earlier
+
+? According to NAMI, what share of people with schizophrenia smoke?
++ As many as 70–85%
+- About 5%
+- About 20%
+- 100%
+@ As many as 70–85% of people with schizophrenia
+
+? According to NAMI, how much does nicotine replacement therapy raise the chance of quitting successfully?
++ By about 50%
+- By about 5%
+- By about 300%
+- Not at all
+@ it raises the chance of quitting by about 50%
+
+? According to NAMI, how much more likely are people who use varenicline to quit smoking than those who use no cessation medication?
++ 3 times more likely
+- 2 times more likely
+- 10 times more likely
+- No more likely
+@ varenicline (Chantix), which makes people 3 times more likely to quit
+
+? After someone quits smoking, when does the risk of heart attack drop, according to NAMI?
++ After one year
+- After one day
+- After 10 years
+- It never drops
+@ heart attack risk drops after one year
+
+? Why might a person who smokes need a higher dose of some psychiatric medications?
++ Smoking can decrease the effectiveness of some psychiatric medications
+- Smoking makes all medications stronger
+- Nicotine is an antidepressant
+- Smoking removes side effects
+@ Smoking can decrease the effectiveness of some psychiatric medications
+
+? According to NAMI, what share of psychiatrists ask about tobacco use or advise patients to stop smoking?
++ Only 62%
+- 100%
+- 10%
+- 95%
+@ Only 62% of psychiatrists ask about tobacco use

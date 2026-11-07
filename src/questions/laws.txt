@@ -1,0 +1,197 @@
+? What does the Mental Health Parity and Addiction Equity Act of 2008 require?
++ Mental health and substance use benefits must be comparable to general medical coverage
+- All employers must offer free therapy
+- States must ban tobacco sales to minors
+- All patient records must be destroyed after treatment
+@ Requires insurance groups offering coverage for mental health or substance use disorders to make these benefits comparable
+
+? What does the Americans with Disabilities Act (ADA) do?
++ Establishes equal opportunities for people with disabilities, including people with mental illnesses and addictions
+- Funds opioid treatment programs
+- Creates the 988 Lifeline
+- Requires drug testing for all workers
+@ including people with mental illnesses and addictions
+
+? What does the Family and Medical Leave Act (FMLA) provide?
++ Protections when you need time off for your serious health condition or that of a spouse, child, or parent
+- Free health insurance for all workers
+- Paid vacation for all employees
+- Disability payments for people with SMI
+@ Protections when you need time off to manage your serious health condition
+
+? What is a block grant?
++ A noncompetitive, formula grant mandated by Congress
+- A competitive grant awarded to individuals
+- A loan that must be repaid
+- A grant only for hospitals
+@ A noncompetitive, formula grant mandated by the U.S. Congress
+
+? The Community Mental Health Services Block Grant (MHBG) must serve which groups?
++ Children with SED and adults with SMI
+- Only veterans
+- Only people with substance use disorders
+- Only people over 65
+@ MHBG funding must be used to serve children with SED and adults with SMI
+
+? Which population is a SUBG targeted population?
++ Pregnant women and women with dependent children
+- Professional athletes
+- College professors
+- People without any risk factors
+@ pregnant women and women with dependent children, injection drug users
+
+? What does the Synar Amendment require states to do?
++ Enact and enforce laws prohibiting the sale or distribution of tobacco products to anyone under 18
+- Ban alcohol sales on Sundays
+- Fund 988 call centers
+- Provide free naloxone at schools
+@ requires states to enact and enforce laws prohibiting the sale or distribution of tobacco products to anyone under the age of 18
+
+? Which federal regulation protects the confidentiality of substance use disorder patient records?
++ 42 CFR Part 2
+- 42 CFR Part 8
+- 45 CFR Part 96
+- 42 CFR Part 54
+@ 42 CFR Part 2 | Confidentiality of substance use disorder (SUD) patient records
+
+? Which federal regulation governs opioid treatment programs?
++ 42 CFR Part 8
+- 42 CFR Part 2
+- 45 CFR Parts 160 and 164
+- 42 CFR Part 51
+@ 42 CFR Part 8 | Certification of opioid treatment programs (OTPs)
+
+? What did the Supreme Court hold in Olmstead v. L.C. (1999)?
++ Unjustified institutional isolation of people with disabilities can be discrimination under Title II of the ADA
+- States must build more psychiatric hospitals
+- People with mental illness cannot vote
+- Insurance must cover all mental health care
+@ The Supreme Court held that unjustified institutional isolation of people with disabilities
+
+? What does the PAIMI Act of 1986 authorize?
++ Grants to protect and advocate for the rights of adults with SMI and children with SED
+- Funding for 988 crisis centers
+- Drug testing of federal employees
+- Tobacco sales restrictions
+@ authorizes grants to protect and advocate for the rights of adults with SMI and children with SED
+
+? Which act reauthorized SAMHSA in December 2016 and created the Assistant Secretary for Mental Health and Substance Use?
++ 21st Century Cures Act
+- Affordable Care Act
+- SUPPORT Act
+- STOP Act
+@ Reauthorized SAMHSA and established the Assistant Secretary for Mental Health and Substance Use
+
+? The MAT Act (Section 1262 of the Consolidated Appropriations Act, 2023) removed which requirement?
++ The federal requirement to have a waiver to prescribe buprenorphine for OUD
+- The requirement for DEA registration
+- The requirement for OTPs to be certified
+- The requirement for state licenses
+@ removed the federal requirement to submit a Notice of Intent (have a waiver)
+
+? What does the MATE Act (Section 1263) require of new or renewing DEA registrants starting June 27, 2023?
++ One of: eight hours of SUD training, addiction board certification, or recent graduation with an SUD curriculum
+- A medical degree in psychiatry
+- A waiver from SAMHSA
+- No new requirements
+@ starting June 27, 2023, to have one of: a total of eight hours of training
+
+? What is parity, according to SAMHSA's workplace page?
++ The legal requirement that job-based health plans provide mental health benefits similar to medical and surgical benefits
+- Equal pay for all employees
+- Paid leave for mental health days
+- Equal numbers of doctors and nurses
+@ the legal requirement that job-based health plans and health insurance issuers provide mental health benefits
+
+? What did the STOP Act of 2006 authorize?
++ A grant program to prevent and reduce alcohol use among youth ages 12–20
+- A ban on all alcohol advertising
+- Free treatment for adults with AUD
+- The 988 Lifeline
+@ Authorized a grant program to prevent and reduce alcohol use among youth ages 12–20
+
+## hard
+
+? Which law, enacted July 10, 1992, established the MHBG and SUBG block grants and includes the Synar Amendment?
++ ADAMHA Reorganization Act (PL 102-321)
+- Children's Health Act of 2000
+- Comprehensive Addiction and Recovery Act of 2016
+- Mental Health Parity and Addiction Equity Act of 2008
+@ The Alcohol, Drug Abuse and Mental Health Administration Reorganization Act (PL 102-321)
+
+? Which is NOT a Synar Amendment requirement?
++ Requiring all adults to show ID for alcohol purchases
+- Conducting random, unannounced inspections of tobacco outlets
+- Reporting annual findings to the HHS Secretary by December 31
+- Enforcing laws to reduce youth access to tobacco
+@ conduct random, unannounced inspections of tobacco outlets
+
+? At least what share of a state mental health planning council's members should be people who are not state employees or mental health providers?
++ Not less than 50 percent
+- Not less than 10 percent
+- Exactly 25 percent
+- 100 percent
+@ not less than 50 percent of council members
+
+? Each year, CMHS conducts site visits of at least how many MHBG grantees?
++ Ten
+- Two
+- Fifty
+- All of them
+@ conducts site visits of at least ten MHBG grantees
+
+? Which statement about the 2024 revised 42 CFR Part 8 rule is correct?
++ It was published February 2, 2024, and made COVID-19 flexibilities permanent while removing DATA Waiver language
+- It was published in 2001 and banned methadone
+- It created the DATA Waiver
+- It applied only to alcohol use disorder
+@ The Part 8 regulations went into effect in 2001
+
+? Which statement about buprenorphine prescribing after 2023 is correct?
++ There are no patient caps, and any practitioner with DEA Schedule III authority may prescribe it if state law permits
+- Patient caps were raised to 1,000
+- Only psychiatrists may prescribe it
+- It can be prescribed only inside opioid treatment programs
+@ there are no longer any patient caps
+
+? Does 42 CFR Part 2 apply to every doctor who prescribes buprenorphine?
++ No; many practitioners in general medical facilities are not Part 2 programs, though HIPAA still applies
+- Yes; every prescriber is a Part 2 program
+- No; Part 2 applies only to alcohol treatment
+- Yes, but only in hospitals
+@ Many practitioners in general medical facilities do not meet the definition
+
+? What did the June 2026 DOJ Office of Legal Counsel opinion conclude about Olmstead?
++ Neither ADA Title II nor Section 504 requires states to provide treatment in the most integrated setting, and Olmstead did not establish a broad integration mandate
+- Olmstead requires states to close all institutions
+- Olmstead was overturned by the Supreme Court
+- Section 504 requires states to build institutions
+@ June 2026: the Department of Justice Office of Legal Counsel concluded
+
+? Which SAMHSA center oversees the Synar Amendment and can withhold SUBG funds from states that do not comply?
++ Center for Substance Abuse Prevention (CSAP)
+- Center for Mental Health Services (CMHS)
+- Center for Behavioral Health Statistics and Quality (CBHSQ)
+- Office of Recovery
+@ SAMHSA's CSAP oversees Synar through the Tobacco/Synar Program
+
+? The Federal Drug-Free Workplace Program was mandated by which two authorities?
++ Executive Order 12564 and Public Law 100-71
+- The ADA and HIPAA
+- The SUPPORT Act and CARA
+- 42 CFR Part 2 and Part 8
+@ Mandated by Executive Order 12564 and Public Law 100-71
+
+? How much did CARA (2016) authorize each year to respond to the opioid epidemic?
++ Over $181 million
+- Over $1.81 billion
+- About $18 million
+- About $81,000
+@ Authorized over $181 million each year (it must be appropriated each year)
+
+? Which law requires interagency coordination among DOJ, DOI, and HHS on issues in Indian country?
++ Tribal Law and Order Act of 2010
+- Bipartisan Safer Communities Act
+- STOP Act
+- Children's Health Act of 2000
+@ Requires interagency coordination among the Department of Justice (DOJ), the Department of the Interior (DOI), and HHS

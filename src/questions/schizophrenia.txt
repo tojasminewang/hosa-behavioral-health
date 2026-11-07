@@ -1,0 +1,309 @@
+? About what share of the human population has schizophrenia?
++ About 1%
+- About 10%
+- About 26%
+- About 0.01%
+@ Schizophrenia affects approximately 1% of the human population worldwide
+
+? What is a delusion?
++ A false, illogical belief
+- A false perception
+- A lack of goal-oriented behavior
+- Holding an awkward body position for hours
+@ A false, illogical (unrealistic) belief
+
+? What is a hallucination?
++ A false perception
+- A false, illogical belief
+- A rapid shift between topics
+- A loss of emotional expression
+@ A false perception; 64% to 80% of hallucinations
+
+? Which type of hallucination is most common in schizophrenia?
++ Auditory (hearing voices)
+- Visual
+- Tactile
+- Olfactory
+@ 64% to 80% of hallucinations in schizophrenia are auditory
+
+? What is avolition?
++ A lack of goal-oriented behavior
+- An unrealistically elevated mood
+- A belief that others control your behavior
+- An inability to recognize faces
+@ A lack of volition, or goal-oriented behavior
+
+? Diminished emotional expression and avolition are examples of what kind of symptoms?
++ Negative symptoms
+- Positive symptoms
+- Manic symptoms
+- Dissociative symptoms
+@ Behaviors seen in healthy people but missing in patients
+
+? What is catatonia?
++ Maintaining awkward or unusual body positions for hours at a time
+- Jumping from topic to topic while speaking
+- Hearing accusatory voices
+- Believing you are unusually important
+@ Maintaining awkward or unusual body positions for hours at a time
+
+? If one identical twin has schizophrenia, what is the other twin's lifetime risk?
++ Nearly 50%
+- About 1%
+- About 10%
+- 100%
+@ the other has nearly a 50% lifetime risk
+
+? Which structural brain finding is a reliable correlate of schizophrenia?
++ Enlarged ventricles
+- An enlarged frontal lobe
+- A larger hippocampus
+- Extra gray matter in teens
+@ **Enlarged ventricles** are a reliable correlate
+
+? What does the dopamine hypothesis propose?
++ Abnormal dopamine activity may be the major biochemical culprit in schizophrenia
+- Low serotonin is the only cause of schizophrenia
+- Too much GABA causes hallucinations
+- Schizophrenia is caused by low acetylcholine
+@ Abnormal dopamine activity may be the major biochemical culprit
+
+? Which drug, introduced after Henri Laborit's work, began a new era in treating schizophrenia?
++ Chlorpromazine (Thorazine)
+- Lithium carbonate
+- Fluoxetine (Prozac)
+- Methylphenidate (Ritalin)
+@ chlorpromazine (Thorazine) began a new era of treatment
+
+? What is tardive dyskinesia?
++ A movement syndrome from antipsychotic medication, often permanent
+- A type of auditory hallucination
+- A negative symptom of schizophrenia
+- A withdrawal syndrome from stimulants
+@ A movement syndrome from antipsychotic medication
+
+? According to SAMHSA, schizophrenia usually starts between which ages?
++ 16 and 30
+- 5 and 10
+- 40 and 60
+- After 65
+@ Schizophrenia usually starts between ages 16 and 30
+
+? According to SAMHSA, how long do people with schizophrenia require treatment?
++ Lifelong treatment
+- Only until the first episode ends
+- About 6 months
+- Treatment is not needed if symptoms are mild
+@ People with schizophrenia require lifelong treatment
+
+? According to NAMI, what is the typical age of onset of schizophrenia for men?
++ Late teens to early 20s
+- Late 20s to early 30s
+- Before age 12
+- After age 40
+@ late teens to early 20s for men
+
+? Which are positive symptoms of schizophrenia?
++ Hallucinations and delusions
+- Being emotionally flat and speaking in a dull way
+- Trouble remembering and organizing thoughts
+- Fatigue and low appetite
+@ Experiences added that are generally absent, such as hallucinations and delusions
+
+? According to NAMI, negative symptoms of schizophrenia are sometimes confused with what?
++ Clinical depression
+- ADHD
+- Mania
+- OCD
+@ they can be confused with clinical depression
+
+? Which is the only FDA-approved medication for treatment-resistant schizophrenia?
++ Clozapine (Clozaril)
+- Haloperidol (Haldol)
+- Paliperidone (Invega)
+- Lithium
+@ The only FDA-approved medication for treatment-resistant schizophrenia
+
+? What are long-acting injectables (LAIs)?
++ Antipsychotic shots given every few weeks or months that keep medication levels steady
+- Daily pills for depression
+- A type of brain stimulation
+- Vitamin injections for ADHD
+@ Antipsychotic shots given every few weeks or months that keep medication levels steady
+
+? According to NAMI, what is psychosis?
++ A symptom, not a specific illness
+- A type of personality disorder
+- A condition that occurs only in schizophrenia
+- An illness that always lasts a lifetime
+@ Psychosis is a symptom, not a specific illness
+
+? What is first-episode psychosis (FEP)?
++ When a person first shows signs of losing contact with reality
+- A psychotic episode caused only by drugs
+- The last episode before recovery
+- A diagnosis that guarantees future episodes
+@ When a person first shows signs of losing contact with reality
+
+? Schizoaffective disorder combines symptoms of schizophrenia with symptoms of what?
++ A mood disorder (mania or depression)
+- An eating disorder
+- ADHD
+- A dissociative disorder
+@ Symptoms of schizophrenia (such as hallucinations or delusions) plus symptoms of a mood disorder
+
+## hard
+
+? How do symptom onset ages differ by sex, according to SAMHSA?
++ Men: late teens and early 20s; women: mid-20s to early 30s
+- Men: mid-20s to early 30s; women: late teens and early 20s
+- Both begin after age 40
+- Both begin in early childhood
+@ in men symptoms usually start in the late teens and early 20s
+
+? Which is a limit of the dopamine hypothesis?
++ About one-fourth of patients do not respond to dopamine-reducing drugs, and negative symptoms are not improved
+- Amphetamine reduces hallucinations
+- Dopamine-blocking drugs make hallucinations worse
+- PCP acts only on dopamine
+@ about one-fourth of patients do not respond to dopamine-reducing drugs
+
+? How do "atypical" (second-generation) antipsychotics like clozapine differ from phenothiazines?
++ They affect dopamine and other neurotransmitters such as serotonin and work better on negative symptoms
+- They work only on dopamine and have no side effects
+- They cause Parkinson-like tremors at low doses only
+- They are less effective on negative symptoms
+@ work better on negative symptoms
+
+? What did a 25-year study and later research find about cannabis and psychosis?
++ Cannabis use nearly doubled the risk; daily use tripled it; daily high-potency use raised it about five times
+- Cannabis use lowered the risk of psychosis
+- Only daily high-potency use had any effect
+- Cannabis tripled the risk with any amount of use
+@ cannabis use nearly doubled the risk
+
+? Why is schizophrenia nearly five times more frequent in lower socioeconomic groups?
++ Possibly the stress of poverty or a "drift" into lower-paying jobs
+- Poverty directly damages dopamine genes
+- Lower-income groups are diagnosed by different manuals
+- Wealth protects against all genetic risk
+@ schizophrenia is nearly five times more frequent in lower socioeconomic groups
+
+? PCP ("angel dust") causes a schizophrenia-like syndrome by acting on which neurotransmitter?
++ Glutamate
+- Dopamine
+- Serotonin
+- Acetylcholine
+@ PCP ("angel dust") causes a schizophrenia-like syndrome by acting on glutamate
+
+? Which finding from the WHO supports psychosocial rehabilitation?
++ Patients recovered better when they stayed home and did meaningful work
+- Patients recovered better in long-term institutions
+- Medication alone produced the best recovery everywhere
+- Social skills training made recovery slower
+@ WHO found better recovery when patients stayed home and did meaningful work
+
+? According to NAMI, how much more likely is schizophrenia if a parent or sibling has it?
++ More than 6 times more likely
+- About 25% more likely
+- 100 times more likely
+- No more likely
+@ makes it more than 6 times more likely
+
+? What is required for a diagnosis of schizophrenia?
++ 2 or more core symptoms during a 1-month period, with reduced functioning lasting at least 6 months
+- 1 symptom lasting 2 weeks
+- 5 symptoms nearly every day for 2 weeks
+- Hallucinations for 2 years with no mood symptoms
+@ 2 or more core symptoms (hallucinations, delusions, disorganized speech, disorganized or catatonic behavior, negative symptoms) for a significant part of a 1-month period
+
+? What is the prodromal period of schizophrenia?
++ An early stage with nonspecific signs such as a drop in grades, sleep problems, irritability and isolation
+- The period after recovery
+- A side effect of antipsychotics
+- The time between two manic episodes
+@ The early stage of schizophrenia in young people, with nonspecific signs
+
+? Which side effects can first-generation (typical) antipsychotics cause?
++ Movement problems such as muscle stiffness or tardive dyskinesia
+- Weight loss and insomnia only
+- Mania
+- Hair pulling
+@ can cause movement side effects like muscle stiffness or tardive dyskinesia
+
+? What is a common risk of second-generation (atypical) antipsychotics?
++ Weight gain, metabolic changes and diabetes
+- Tardive dyskinesia in nearly everyone
+- Hypothyroidism
+- Hallucinations
+@ may increase weight gain, metabolic changes and diabetes
+
+? What did the FDA do in 2025 after NAMI advocacy?
++ Removed the REMS paperwork process that had been a barrier to clozapine
+- Approved marijuana for PTSD
+- Banned long-acting injectables
+- Approved ketamine for major depressive disorder
+@ the FDA removed the REMS paperwork process that had been a barrier to clozapine
+
+? Which model provides highly individualized services directly to people with serious mental illness, prevents crises and ensures medications are taken?
++ Assertive Community Treatment (ACT)
+- Individual Placement and Support (IPS)
+- Cognitive enhancement therapy
+- Psychoeducation
+@ A model that provides highly individualized, comprehensive services directly to people with serious mental illness
+
+? What is Individual Placement and Support (IPS)?
++ An evidence-based supported employment approach that helps people with mental illness find and keep jobs
+- A housing program for veterans
+- A school accommodation for ADHD
+- A crisis hotline
+@ An evidence-based supported employment approach that helps people with mental illness find jobs
+
+? Which team-based treatment for early psychosis includes case management, family support, psychotherapy, medication management, supported education and employment, and peer support?
++ Coordinated Specialty Care (CSC)
+- Assertive Community Treatment (ACT)
+- Individual Placement and Support (IPS)
+- Family-based treatment
+@ A team-based treatment for early psychosis
+
+? What is the only FDA-approved medication specifically for schizoaffective disorder?
++ Paliperidone (Invega)
+- Clozapine (Clozaril)
+- Lithium
+- Quetiapine (Seroquel)
+@ The only FDA-approved medication specifically for schizoaffective disorder
+
+? According to research cited by NAMI, which groups are more likely to be misdiagnosed with schizoaffective or other psychotic disorders?
++ Black and Latino individuals
+- People over 65
+- Children under 12
+- Veterans
+@ Black and Latino individuals are more likely to be misdiagnosed with schizoaffective or other psychotic disorders
+
+? According to NAMI, about how many people out of 100,000 develop psychosis each year?
++ 15–100
+- 1–2
+- 1,000–5,000
+- 10,000
+@ about 15–100 people out of 100,000 develop psychosis each year
+
+? Which approach, first developed for substance use disorder, helps someone who is struggling to accept help?
++ Motivational interviewing
+- Exposure therapy
+- Light therapy
+- Cognitive enhancement therapy
+@ A research-backed approach, first developed for substance use disorder, that helps someone who is struggling to accept help
+
+? According to NAMI, what is the lifetime prevalence of schizoaffective disorder?
++ 0.3%
+- 4.1%
+- 19.1%
+- 2.8%
+@ Schizoaffective disorder has a lifetime prevalence of 0.3%
+
+? What does NAMI call the process by which environmental stressors activate genetic risks?
++ Epigenetics
+- Anosognosia
+- Catatonia
+- Psychoeducation
+@ The process by which environmental stressors activate genetic risks

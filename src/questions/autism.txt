@@ -1,0 +1,211 @@
+? How does the textbook define autism spectrum disorder (ASD)?
++ Deficits in social relatedness and communication skills, often with repetitive, ritualistic behavior
+- Unusual inattentiveness, hyperactivity, or both
+- Episodes of mania alternating with depression
+- A loss of contact with reality with hallucinations and delusions
+@ A disorder characterized by deficits in social relatedness and communication skills
+
+? Which psychiatrist described autism in 1943?
++ Leo Kanner
+- Charles Bradley
+- O. Ivar Lovaas
+- John Cade
+@ psychiatrist Leo Kanner described the condition in 1943
+
+? The DSM-5 category of ASD combines which previous categories?
++ Autism and Asperger's syndrome
+- Autism and ADHD
+- Autism and schizophrenia
+- Asperger's syndrome and intellectual disability
+@ combines the previous categories of autism and Asperger's syndrome
+
+? Why is ASD called a "spectrum"?
++ Severity varies widely, from relatively normal independent living to needing care
+- It always includes intellectual disability
+- It affects only one area of functioning
+- It appears in exactly three types
+@ It is a "spectrum" because severity varies widely
+
+? About how many children have ASD, according to the textbook?
++ About 1 in 54
+- About 1 in 5
+- About 1 in 500
+- About 1 in 10,000
+@ About 1 child out of every 54 has ASD
+
+? Boys are diagnosed with ASD about how many times more often than girls?
++ 4.3 times
+- 2 times
+- 10 times
+- Equally often
+@ boys are diagnosed 4.3 times more often than girls
+
+? A failure to develop a normal what might explain many social deficits in ASD?
++ Theory of mind
+- Sense of balance
+- Long-term memory
+- Color vision
+@ A failure to develop a normal **theory of mind**
+
+? What does research say about vaccines and ASD?
++ Vaccines do not cause ASD; a meta-analysis of over 1 million children found no link
+- The MMR vaccine causes a small number of ASD cases
+- Thimerosal is a proven cause of ASD
+- The question has never been studied
+@ Vaccines do not cause ASD
+
+? What is the most commonly used and most effective psychological treatment for ASD?
++ Applied behavior analysis (ABA)
+- Psychoanalysis
+- Electroconvulsive therapy
+- Gluten-free and casein-free diets
+@ The most commonly used and most effective psychological treatment is **applied behavior analysis (ABA)**
+
+? What is neurodiversity?
++ The view that ASD is a difference rather than a disorder to be fixed
+- A brain scan used to diagnose ASD
+- A medication for ASD irritability
+- The idea that ASD is caused by vaccines
+@ The view that ASD is a difference rather than a disorder to be fixed
+
+? What does "off-label" prescribing mean?
++ Using a drug for a purpose it is not officially approved for
+- Using a drug without a prescription
+- Using a drug that has no label
+- Using a drug approved only for adults
+@ prescribed **off-label** (not officially approved for this use)
+
+? In autism spectrum disorder, what does "spectrum" refer to?
++ How much symptoms, behaviors and severity vary
+- The range of ages at diagnosis
+- The colors a child prefers
+- The number of medications used
+@ "Spectrum" refers to how much symptoms, behaviors and severity vary
+
+? According to NAMI, how much more likely are boys than girls to develop ASD symptoms?
++ Four times as likely
+- Twice as likely
+- Ten times as likely
+- Equally likely
+@ boys are four times more likely than girls to develop symptoms
+
+? What does strong evidence show about vaccines and autism?
++ Vaccines do not cause autism
+- Vaccines cause most cases of autism
+- Vaccines cause autism only in girls
+- The link has never been studied
+@ strong evidence shows vaccines do not cause autism
+
+? Which is one of the most researched behavioral therapies for autism?
++ Applied behavior analysis (ABA)
+- Light therapy
+- EMDR
+- Electroconvulsive therapy
+@ One of the most researched autism therapies
+
+? By what age can children with ASD typically be reliably diagnosed, according to NAMI?
++ Age two
+- Six months
+- Age ten
+- Age eighteen
+@ children can be reliably diagnosed by age two
+
+## hard
+
+? Which statement about medications for ASD is correct?
++ No medications have proved effective for the core symptoms; two antipsychotics are approved only for severe irritability
+- Stimulants cure the core social symptoms of ASD
+- Antidepressants are FDA-approved for ASD's core symptoms
+- Antipsychotics for ASD have no side effects
+@ No medications have proved effective for the core symptoms of ASD
+
+? What concordance rate between identical twins does the textbook give for ASD?
++ 76% to 88% or more
+- 10% to 20%
+- About 48%
+- 100% in every study
+@ concordance between identical twins may be 76% to 88% or more
+
+? How are minicolumns different in people with ASD?
++ They are narrower and spaced farther apart, favoring detailed focus over global processing
+- They are wider and closer together, favoring global processing
+- They are missing entirely
+- They are identical to those in typical brains
+@ people with ASD have narrower minicolumns spaced farther apart
+
+? Which is NOT listed as an environmental risk factor for ASD?
++ The MMR vaccine
+- Older parental age
+- Maternal cannabis use
+- Prenatal infection
+@ Environmental risks: older parental age
+
+? Which supposed ASD "cure" led to a child's death?
++ Chelation
+- Applied behavior analysis
+- Hyperbaric oxygen
+- A gluten-free diet
+@ chelation (one child died)
+
+? Which sensory pattern is typical of many people with ASD?
++ Unusually increased or decreased sensitivity, such as insensitivity to pain but distress at normal sounds
+- Completely normal sensitivity to all stimuli
+- Loss of hearing in both ears
+- Increased desire for hugs and cuddling
+@ Most show unusually increased or decreased sensitivity to stimuli
+
+? Which two antipsychotics are approved for irritability associated with autism?
++ Aripiprazole and risperidone
+- Clozapine and haloperidol
+- Lithium and lamotrigine
+- Methylphenidate and atomoxetine
+@ two antipsychotics, aripiprazole and risperidone, are approved for autism-related irritability
+
+? What is the M-CHAT?
++ A checklist of questions that shows whether a toddler should be evaluated further for autism
+- A brain scan for autism
+- A medication for ASD
+- A play-based therapy
+@ Questions whose answers show whether a child should be evaluated further by a specialist
+
+? According to NAMI, about how many children with autism have seizures?
++ 1 in 4
+- 1 in 100
+- 1 in 2
+- Nearly all
+@ seizures (1 in 4 children with autism; confirmed with an EEG)
+
+? What is Fragile X syndrome?
++ The most common inherited form of intellectual impairment, often with ASD-like symptoms
+- A disorder that mostly affects girls after 6–18 months of normal development
+- A type of seizure
+- A rare disorder that causes noncancerous tumors
+@ The most common inherited form of intellectual impairment
+
+? Which developmental disorder mostly affects girls, with normal development for 6–18 months followed by regression?
++ Rett syndrome
+- Fragile X syndrome
+- Tuberous sclerosis
+- ADHD
+@ A developmental disorder that mostly affects girls
+
+? Which autism therapy builds skills through emotional development in interactive play between parents and children?
++ Floor time
+- Applied behavior analysis
+- Exposure therapy
+- Neurofeedback
+@ A therapy that builds speech, motor and cognitive skills through emotional development in interactive play
+
+? Which autism screening tool is a set of questions parents answer for a child aged 4 or older?
++ Social Communication Questionnaire (SCQ)
+- M-CHAT
+- STAT
+- PHQ-9
+@ Questions parents answer to decide if a child aged 4 or older needs more testing
+
+? According to HOSA Canada's study deck, which neurotransmitters show abnormalities in ASD?
++ Serotonin, GABA and glutamate
+- Dopamine only
+- Acetylcholine only
+- Endorphins and oxytocin
+@ ASD involves abnormalities in serotonin, GABA and glutamate

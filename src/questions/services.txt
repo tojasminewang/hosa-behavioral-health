@@ -1,0 +1,295 @@
+? According to SAMHSA, what are the three main types of treatment settings?
++ Outpatient, inpatient, and residential
+- Primary, secondary, and tertiary
+- Universal, selective, and indicated
+- Coordinated, co-located, and fully integrated
+@ The three main types of treatment: outpatient, inpatient, and residential
+
+? In which type of treatment do you have an appointment and leave the same day?
++ Outpatient
+- Inpatient
+- Residential
+- Interim care
+@ You have an appointment and leave the same day
+
+? In which type of treatment do you live at a treatment program, usually for a few weeks to a few months?
++ Residential
+- Outpatient
+- Telehealth
+- Partial hospitalization
+@ You live at a treatment program, usually for a few weeks to a few months
+
+? What is interim care?
++ Daily medicine and emergency counseling to keep you safe while waiting for a treatment opening
+- Care delivered online or over the phone
+- A support group run by peers
+- Living at a hospital for 24-hour care
+@ Daily medicine and emergency counseling to keep you safe while waiting
+
+? What are the 3 approved medications for opioid use disorder in the U.S.?
++ Methadone, buprenorphine, and naltrexone
+- Methadone, naloxone, and lithium
+- Buprenorphine, disulfiram, and Prozac
+- Naltrexone, acamprosate, and Xanax
+@ the 3 approved medications for opioid use disorder in the U.S. are methadone, buprenorphine, and naltrexone
+
+? Which providers can prescribe medication, according to SAMHSA's provider table?
++ Psychiatrists (M.D. or D.O.)
+- Clinical social workers (LCSW)
+- Counselors (LPC)
+- Peer support specialists
+@ Psychiatrists (M.D. or D.O.) | Clinical social workers
+
+? According to SAMHSA, what is a good place to start when seeking help for anxiety or depression?
++ Your primary care provider (PCP)
+- An emergency room
+- A pharmacist
+- A support group website
+@ A good place to start is your **primary care provider (PCP)**
+
+? What is SAMHSA's National Helpline number?
++ 1-800-662-HELP (4357)
+- 1-800-985-5990
+- 988
+- 1-877-424-3838
+@ SAMHSA's National Helpline | 1-800-662-HELP (4357)
+
+? Which number reaches the Disaster Distress Helpline by call or text?
++ 1-800-985-5990
+- 1-800-662-4357
+- 211
+- 1-800-487-4889
+@ Call or text 1-800-985-5990
+
+? How does a veteran reach the Veterans Crisis Line?
++ Dial 988, then press 1
+- Dial 911, then press 2
+- Text 435748
+- Call 211
+@ dial 988 then press 1
+
+? Which call number gives disaster-related information on evacuations, shelters, food, and clothing?
++ 211
+- 988
+- 911
+- 411
+@ Call 211 for disaster-related information
+
+? Does SAMHSA's National Helpline provide counseling?
++ No; information specialists refer callers to services, facilities, and support groups
+- Yes; licensed therapists provide counseling sessions
+- Yes, but only for veterans
+- No; it only provides emergency medical help
+@ The National Helpline does not provide counseling
+
+? Which of these is a national support group listed by SAMHSA?
++ SMART Recovery
+- FindTreatment.gov
+- Screen4Success
+- The Opioid Treatment Program Directory
+@ National support groups include Alcoholics Anonymous
+
+? Which SAMHSA resource is a confidential and anonymous way to find treatment for mental and substance use disorders?
++ FindTreatment.gov
+- Screen4Success
+- The Drug-Free Workplace Helpline
+- The 211 line
+@ FindTreatment.gov | Confidential and anonymous resource
+
+? What does Mental Health Awareness Training (MHAT) do?
++ Prepares individuals and communities to respond appropriately and safely to people with mental health challenges
+- Licenses new psychiatrists
+- Funds hospitals to build psychiatric units
+- Provides medication to people with SMI
+@ Prepares individuals and communities to respond appropriately and safely
+
+? What is the legal standard for involuntary hospitalization?
++ The person is considered a "danger to self or others"
+- The person's family requests it
+- The person has any mental illness
+- The person missed an appointment
+@ Involuntary hospitalization requires that a person be a "danger to self or others"
+
+? When calling 911 for a mental health emergency, what does NAMI suggest asking for?
++ Responders with Crisis Intervention Team (CIT) training
+- A fire truck
+- A lawyer
+- A psychologist to come to the house
+@ ask for responders with Crisis Intervention Team (CIT) training
+
+? What are mobile crisis teams?
++ Teams that go wherever the crisis is happening, working with police, hotlines and emergency staff
+- Hospitals with more than 100 beds
+- Online therapy apps
+- Ambulances for physical injuries only
+@ Teams that go wherever the crisis is happening
+
+? What is partial (day) hospitalization?
++ Daytime care and monitoring for someone with acute symptoms, who returns home at night
+- A 23-hour emergency bed
+- Involuntary treatment ordered by a judge
+- Living with a trained professional family
+@ Care and monitoring during the day for someone with acute symptoms who is not a danger to self or others, returning home at night
+
+? Which type of program lets people keep working or going to school while getting services such as a 12-step program?
++ Intensive Outpatient Program (IOP)
+- Acute Residential Treatment (ART)
+- Crisis stabilization unit
+- Detoxification facility
+@ Lets people keep working or going to school
+
+? According to NAMI, how does teletherapy compare with in-person sessions?
++ It is as effective for most people with most conditions
+- It is never effective
+- It works only for older adults
+- It is more effective for everyone
+@ are as effective as in-person sessions for most people with most conditions
+
+? According to NAMI, most people treating a mental health condition have at least how many professionals?
++ Two: one for medication and one for therapy
+- One who does everything
+- Five specialists
+- None
+@ Most people treating a mental health condition have at least two professionals
+
+? According to NAMI, where should someone without health insurance go first to find mental health care?
++ A community mental health center
+- A private psychiatrist
+- An emergency room for routine care
+- A pharmacy
+@ or a community mental health center if uninsured
+
+## hard
+
+? Which statement about the National Helpline is correct?
++ It is confidential, asks for no personal information, and offers service in English and Spanish 24/7
+- It requires callers to give their full name and insurance
+- It is open only during business hours
+- It provides prescriptions over the phone
+@ it is confidential and asks for no personal information
+
+? Who may prescribe medicines for mental health conditions, according to SAMHSA?
++ A doctor, nurse practitioner, or physician assistant
+- Any licensed counselor
+- Peer support specialists
+- Crisis counselors
+@ Medicines must be prescribed by a doctor, nurse practitioner, or physician assistant
+
+? Which statement about medications for stimulant use is correct?
++ There are currently no FDA-approved medications to help prevent returning to use of methamphetamines or cocaine
+- Methadone is approved for cocaine use disorder
+- Naltrexone is approved for methamphetamine use disorder
+- Buprenorphine prevents return to cocaine use
+@ there are currently no FDA-approved medications to help prevent returning to use of methamphetamines or cocaine
+
+? Which is a sign of quality treatment, according to SAMHSA?
++ Only FDA-approved medications are used for alcohol, tobacco, or opioid use
+- The program refuses to involve family
+- The program uses only unlicensed staff
+- The program does not help with housing or employment
+@ only FDA-approved medications for alcohol, tobacco, or opioid use
+
+? What did the National Helpline's call volume look like in 2020?
++ 833,598 calls, a 27% increase from 2019
+- 83,598 calls, a 2.7% decrease from 2019
+- 8 million calls, double the 2019 total
+- 33,598 calls, the same as 2019
+@ it received 833,598 calls in 2020, a 27% increase from 2019
+
+? Which statement about the Disaster Distress Helpline is correct?
++ It was the first national hotline for year-round disaster crisis counseling, with counselors in over 100 languages
+- It operates only during hurricane season
+- It serves only first responders
+- It replaces 911 during disasters
+@ the first national hotline for year-round disaster crisis counseling
+
+? People with no insurance who call the National Helpline are referred where?
++ To their state office for state-funded treatment, or to facilities with sliding fee scales or that accept Medicare or Medicaid
+- Only to private hospitals
+- Nowhere; uninsured callers cannot be helped
+- Only to the Veterans Crisis Line
+@ People with no insurance are referred to their state office for state-funded treatment
+
+? What is intensive outpatient care (partial hospitalization)?
++ A more intensive type of outpatient care with one-on-one appointments, group sessions, and coping-skills learning
+- Staying at a hospital overnight for weeks
+- Living at a program for a year or more
+- Care given only by phone
+@ A more intensive type of outpatient care
+
+? How many beds do crisis stabilization units (CSUs) have?
++ Fewer than 16
+- More than 100
+- Exactly 1
+- About 50
+@ Small inpatient facilities with fewer than 16 beds
+
+? What is required to extend an involuntary hospitalization?
++ A court hearing where a judge and two doctors agree it is still needed
+- A phone call from a family member
+- The patient's signature
+- Approval from the NAMI HelpLine
+@ extending it requires a court hearing where a judge and two doctors agree
+
+? How long does an involuntary hospitalization usually last at first?
++ Up to 3 days
+- Up to 3 months
+- Exactly 1 year
+- Up to 30 days
+@ it usually lasts up to 3 days
+
+? When are extended observation units (23-hour beds) appropriate?
++ When the crisis can be resolved in less than 24 hours
+- When a person needs years of care
+- Only for physical injuries
+- Only for children
+@ For crises that can be resolved in less than 24 hours
+
+? According to NAMI, what do most people served by community or county mental health centers rely on to fund treatment?
++ Medicaid, and many receive Social Security disability benefits
+- Private savings
+- Employer insurance only
+- NAMI donations
+@ Most people served receive Social Security disability benefits and rely on Medicaid to fund treatment
+
+? For which groups may teletherapy be less effective than in-person treatment, according to NAMI?
++ Older (geriatric) patients and people with autism
+- Teenagers and young adults
+- People with anxiety
+- Veterans
+@ possibly less effective for older (geriatric) patients and people with autism
+
+? Which withdrawal does NAMI say can be life-threatening and requires medical supervision?
++ Alcohol withdrawal
+- Opiate withdrawal
+- Caffeine withdrawal
+- Nicotine withdrawal
+@ alcohol withdrawal can be life-threatening and needs medical supervision
+
+? What is family-based crisis home support?
++ A person in crisis lives with a screened and trained "professional family," with daily visits from mental health professionals
+- A family therapy session in a hospital
+- A support group for parents
+- An app for families
+@ living with a screened and trained "professional family," with daily visits from mental health professionals
+
+? Why does NAMI recommend a physical exam with a physician before mental health treatment?
++ Many illnesses can cause symptoms similar to mental illness
+- It is required by law for all therapy
+- It replaces the need for therapy
+- It directly diagnoses mental illness
+@ See a physician for a physical exam first, because many illnesses can cause symptoms similar to mental illness
+
+? According to NAMI, what is the most important question when choosing a mental health professional?
++ Whether you feel comfortable and can work well with the person
+- Whether they have the nicest office
+- Whether they are closest to your home
+- Whether they agree with everything you say
+@ The most important question is whether you feel comfortable and can work well with the person
+
+? If the wait for a new-patient appointment is long, what does NAMI suggest?
++ Book it anyway, call other providers, and join a cancellation waiting list
+- Give up on treatment
+- Use only the emergency room
+- Wait without doing anything
+@ if the wait is long, book anyway, call others, and join a cancellation waiting list

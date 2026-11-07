@@ -1,0 +1,351 @@
+? What is psychotherapy?
++ A treatment that improves symptoms through conversation between the therapist and the patient or client
+- A treatment that uses only medication
+- Electrical stimulation of the brain
+- A self-help group without a leader
+@ A treatment designed to improve symptoms of psychological disorder through conversation
+
+? Evidence-based practice combines which three things?
++ The best research evidence, clinical expertise, and patient values and expectations
+- Medication, surgery, and hospitalization
+- Dreams, free association, and transference
+- Cost, convenience, and insurance rules
+@ Combines the best research evidence, clinical expertise, and patient values and expectations
+
+? In psychoanalysis, encouraging a patient to say whatever comes to mind without censoring is called what?
++ Free association
+- Transference
+- Resistance
+- Reflection
+@ encouraging a patient to say whatever comes to mind
+
+? A patient treats the therapist like a strict parent from their past. What is this called in psychoanalysis?
++ Transference
+- Resistance
+- Congruence
+- Counterconditioning
+@ The patient uses an earlier relationship (usually with a parent or authority figure) as a model
+
+? Who developed person-centered therapy?
++ Carl Rogers
+- Sigmund Freud
+- Aaron Beck
+- Albert Ellis
+@ Carl Rogers's humanistic approach to help clients achieve congruence
+
+? Nonjudgmental acceptance of the client in person-centered therapy is called what?
++ Unconditional positive regard
+- Cognitive restructuring
+- Transference
+- Free association
+@ unconditional positive regard (nonjudgmental acceptance)
+
+? Replacing irrational beliefs with new, rational ones is called what?
++ Cognitive restructuring
+- Free association
+- Systematic desensitization
+- Neurofeedback
+@ A technique in which new, rational beliefs replace earlier, irrational beliefs
+
+? Who developed rational emotive behavioral therapy (REBT)?
++ Albert Ellis
+- Aaron Beck
+- Carl Rogers
+- Joseph Wolpe
+@ Albert Ellis's version of cognitive therapy
+
+? What is cognitive behavioral therapy (CBT)?
++ A combination of cognitive restructuring with behavioral treatments
+- Freud's talk therapy based on dreams
+- A humanistic therapy focused on congruence
+- A biological treatment using magnetic pulses
+@ A combination of cognitive restructuring with behavioral treatments
+
+? What is electroconvulsive therapy (ECT)?
++ Seizures are induced in an anesthetized patient, mainly for mood disorders that have not responded to other treatments
+- Magnetic pulses from a handheld device on the scalp
+- Surgery that removes part of the frontal lobes
+- Training people to control their brain waves
+@ A biological treatment in which seizures are induced in an anesthetized patient
+
+? Which approach combines treatments addressing biological, personal, and social underpinnings of disorders?
++ Biopsychosocial approach
+- Psychoanalysis
+- Brief therapy
+- Managed care
+@ An integrated approach combining treatments that address the biological, personal, and social underpinnings
+
+? Group therapy is usually conducted with about how many people?
++ 6 to 12
+- 2
+- 20 to 30
+- 50 or more
+@ Psychotherapy conducted with a group (usually 6 to 12 people)
+
+? What is family therapy?
++ Therapy in which family members participate individually and together
+- Therapy only for married couples without children
+- A self-help group like Alcoholics Anonymous
+- Therapy delivered by a family member
+@ A type of therapy in which family members participate individually and in combination
+
+? Which medication type is used for bipolar disorder and uniquely prevents suicidal behavior?
++ Mood stabilizer (lithium carbonate)
+- Benzodiazepines
+- Stimulants
+- First-generation antipsychotics
+@ Mood stabilizer | Lithium carbonate
+
+? Mixing which substances is frequently fatal because they all act at the GABA receptor?
++ Alcohol, barbiturates, and benzodiazepines
+- Caffeine, nicotine, and SSRIs
+- Lithium, stimulants, and antipsychotics
+- Aspirin, ibuprofen, and acetaminophen
+@ Mixing alcohol, barbiturates, and benzodiazepines
+
+? What is biofeedback?
++ Gaining conscious control over normally automatic functions
+- Feedback from family members during therapy
+- Electrical stimulation through implanted electrodes
+- Reviewing research evidence before treatment
+@ Gaining conscious control over normally automatic functions
+
+? According to NAMI, what are the core principles of CBT?
++ Identifying negative or false beliefs and testing or restructuring them
+- Uncovering unconscious patterns through free association
+- Presenting a large amount of a trigger all at once
+- Practicing mentalizing about the therapist
+@ its core principles are identifying negative or false beliefs and testing or restructuring them
+
+? DBT was originally developed to treat whom?
++ Chronically suicidal people with borderline personality disorder
+- Children with autism
+- Veterans with PTSD
+- People with insomnia
+@ DBT was originally developed for chronically suicidal people with BPD
+
+? Which exposure therapy method presents a large amount of the triggering stimulus all at once?
++ Flooding
+- Desensitization
+- Mentalizing
+- Validation
+@ Presenting a large amount of the triggering stimulus all at once
+
+? Which psychotherapy uses open-ended questions and free association to uncover unconscious patterns rooted in past experiences?
++ Psychodynamic therapy
+- Cognitive behavioral therapy
+- Interpersonal therapy
+- Exposure therapy
+@ Psychodynamic therapy uses open-ended questions and free association
+
+? How do service animals differ from therapy pets, according to NAMI?
++ Service animals are working animals with higher training that do specific tasks for one person long-term
+- Service animals are untrained family pets
+- Therapy pets must live with one person forever
+- There is no difference
+@ they are working animals with higher training that do specific tasks for one person long-term
+
+? What does ECT involve?
++ Using small electric currents under anesthesia to trigger a brief, controlled seizure
+- Magnetic pulses while the person stays awake
+- Electrodes surgically placed in the brain
+- A light box that mimics sunlight
+@ A treatment done under anesthesia that uses small electric currents to trigger a brief, controlled seizure
+
+? Which statement about TMS is correct?
++ It uses magnetic pulses, needs no anesthesia, and the person stays awake
+- It requires general anesthesia
+- It triggers a controlled seizure
+- It requires brain surgery
+@ there is no anesthesia, the person stays awake
+
+? Which is the main government agency studying non-traditional (complementary) treatments?
++ The National Center for Complementary and Integrative Health (NCCIH)
+- SAMHSA
+- The FDA
+- The CDC
+@ The main government agency studying non-traditional treatments
+
+? According to NAMI, what are psychosocial treatments?
++ Psychotherapy plus social and vocational training that support people with mental illness and their families
+- Medications that change brain chemistry
+- Brain stimulation therapies
+- Treatments given only in hospitals
+@ Psychotherapy plus social and vocational training that give support, education and guidance
+
+? In HOSA Canada's treatment summary, what is the main biological treatment for bipolar disorder?
++ Lithium carbonate (and ECT for depression)
+- Stimulant medications
+- Antipsychotics for self-injury
+- There are no effective biological treatments
+@ Bipolar disorder | Supportive CBT | Lithium carbonate, and ECT for depression
+
+? In HOSA Canada's treatment summary, which disorders have no effective biological treatments?
++ Personality disorders
+- ADHD
+- Major depressive disorder
+- Bipolar disorder
+@ Personality disorders | Learning models for antisocial PD, DBT for borderline PD, CBT for narcissistic PD | No effective biological treatments
+
+## hard
+
+? What does brief therapy focus on?
++ "Solution-building rather than problem-solving," in three to five sessions (never more than eight)
+- Searching for the historical basis of problems over several years
+- Medication management only
+- Dream analysis in four to five weekly sessions
+@ focuses on "solution-building rather than problem-solving"
+
+? What is the main memory side effect of ECT?
++ About one-third of patients have persistent memory loss, especially autobiographical memory
+- Nearly all patients lose all memory permanently
+- ECT improves memory in most patients
+- ECT has no effect on memory
+@ about one-third of patients have persistent memory loss
+
+? How did ECT come to be used for depression?
++ Meduna recommended it for schizophrenia in the 1930s with poor results, but improved mood led to its use for mood disorders
+- It was invented specifically for depression in 1990
+- Freud recommended it for hysteria
+- It was first used to treat ADHD
+@ Ladislas Meduna recommended it for schizophrenia in the 1930s (poor results)
+
+? Which statement about rTMS is correct?
++ It uses magnetic pulses without surgery and is promising for MDD, mixed for schizophrenia, and negative for OCD
+- It requires implanted electrodes in the nucleus accumbens
+- It is the same as ECT under anesthesia
+- It works best for OCD
+@ promising for MDD, mixed for schizophrenia, negative results for OCD
+
+? What did deep brain stimulation of the nucleus accumbens do for severe, treatment-resistant depression?
++ Improved mood in 50% of patients
+- Cured all patients
+- Had no effect on any patient
+- Caused memory loss in all patients
+@ stimulating the nucleus accumbens improved mood in 50% of patients
+
+? Which is NOT one of the five steps of evidence-based practice?
++ Prescribe the newest medication available
+- Ask an answerable question
+- Critically evaluate the scientific literature
+- Evaluate outcomes and adjust
+@ EBP's five steps: ask an answerable question
+
+? How do Beck's cognitive therapy and Ellis's REBT differ?
++ REBT is more confrontational, openly criticizing irrational thinking
+- Beck's therapy is more confrontational than REBT
+- REBT ignores irrational thoughts
+- Beck's therapy uses free association
+@ more confrontational, openly criticizing irrational thinking
+
+? Why is CBT a favorite of insurance providers?
++ It typically takes fewer than 16 sessions
+- It requires daily sessions for years
+- It replaces all medication
+- It is used only for schizophrenia
+@ typically fewer than 16 sessions, so it is a favorite of insurance providers
+
+? According to Rogers, where does unhappiness come from?
++ Conditional regard, learning you have value only when pleasing authority figures
+- Unconscious wishes expressed in dreams
+- Low dopamine levels
+- Irrational beliefs taught in school
+@ Rogers believed unhappiness comes from conditional regard
+
+? Which statement about online therapy is supported by the textbook?
++ Online CBT has been shown to be as effective as face-to-face CBT
+- Online therapy is always less effective than face-to-face therapy
+- Online therapy is illegal in most states
+- Psychoanalysts liked online therapy more than CBT therapists did
+@ online CBT has been shown to be as effective as face-to-face CBT
+
+? What is "dual stimulation" in EMDR?
++ Making back-and-forth eye movements (or tapping or tones) while recalling a traumatic event
+- Taking two medications at once
+- Combining ECT and TMS
+- Seeing two therapists at once
+@ a protocol called dual stimulation
+
+? What does DBT emphasize that makes it different from CBT?
++ Validation: accepting uncomfortable thoughts, feelings and behaviors instead of struggling with them
+- Free association about childhood
+- Facing all triggers at once
+- Medication management
+@ emphasizes validation (accepting uncomfortable thoughts, feelings and behaviors instead of struggling with them)
+
+? According to NAMI, what percentage of people who receive ECT report improvement in their depression?
++ 70–90%
+- 5–10%
+- 30–64%
+- 100%
+@ 70–90% of people who receive ECT report improvement in their depression
+
+? What is the most serious, but very rare, risk of TMS?
++ Seizures (about 0.03%)
+- Permanent memory loss
+- Heart attack
+- Infection from surgery
+@ seizures are the most serious risk but are very rare (about 0.03%)
+
+? Where is the vagus nerve stimulation (VNS) pulse generator placed?
++ In the upper left side of the chest
+- Inside the brain
+- On the forehead
+- In the arm
+@ A stopwatch-sized pulse generator placed in the upper left chest
+
+? Which brain stimulation therapy uses surgically placed electrodes and treats severe OCD and Parkinson's tremors?
++ Deep brain stimulation (DBS)
+- TMS
+- ECT
+- VNS
+@ Electrodes surgically placed in the brain connected to a pulse generator in the chest
+
+? What is the only FDA-approved form of folate for depression and schizophrenia?
++ L-methylfolate (Deplin), used as an add-on treatment
+- Folic acid in any multivitamin
+- St. John's wort
+- Omega-3 fish oil
+@ the only FDA-approved form for depression and schizophrenia is L-methylfolate (Deplin)
+
+? In NCCIH's terms, what is a non-traditional treatment used instead of established treatment called?
++ Alternative
+- Complementary
+- Integrative
+- Psychosocial
+@ alternative (used instead of established treatment)
+
+? What is psychosocial rehabilitation?
++ Helping people build social, emotional and intellectual skills to live happily with the least professional help possible
+- A type of brain surgery
+- A 23-hour hospital bed
+- A medication for psychosis
+@ Helps people develop the social, emotional and intellectual skills to live happily with the least professional help possible
+
+? What are clubhouses?
++ Community-based centers where people with mental illness gain skills, find jobs and housing, and work side by side with staff
+- Inpatient psychiatric units
+- Sports teams for teens
+- Private therapy offices
+@ Community-based centers where members with mental illness gain skills
+
+? According to NAMI, how should a person stop taking a psychiatric medication?
++ Taper off with a doctor, because stopping suddenly can cause uncomfortable effects
+- Stop all at once to reset the brain
+- Double the dose before stopping
+- Switch to an herbal remedy
+@ when stopping, taper off with a doctor
+
+? What are patients given before ECT?
++ Anesthesia and a muscle relaxant
+- A stimulant
+- Lithium
+- Nothing at all
+@ Before ECT, patients are anesthetized and given a muscle relaxant
+
+? Which psychological treatment does HOSA Canada's summary list for schizophrenia?
++ Psychosocial rehabilitation and evaluating expressed emotion in the family
+- Applied behavior analysis
+- Supportive CBT only
+- Learning models for anger control
+@ Schizophrenia | Psychosocial rehabilitation and evaluating expressed emotion in the family | Antipsychotic medications

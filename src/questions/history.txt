@@ -1,0 +1,260 @@
+? How does the textbook define psychology?
++ The scientific study of behavior, mental processes, and brain functions
+- The study of mental illness only
+- The philosophical study of the soul
+- The study of the nervous system's anatomy
+@ The scientific study of behavior, mental processes, and brain functions
+
+? Who is considered the first psychologist and opened the first psychology laboratory in 1879?
++ Wilhelm Wundt
+- William James
+- Sigmund Freud
+- G. Stanley Hall
+@ Considered the first psychologist
+
+? Where did Wundt open the first psychology laboratory?
++ The University of Leipzig, Germany
+- Harvard University
+- Johns Hopkins University
+- The University of Vienna
+@ opened the first psychology laboratory at the University of Leipzig, Germany
+
+? Which approach broke the mind into the smallest elements of mental experience?
++ Structuralism
+- Functionalism
+- Gestalt psychology
+- Behaviorism
+@ An approach in which the mind is broken into the smallest elements of mental experience
+
+? Which approach saw behavior as purposeful and contributing to survival, influenced by Darwin?
++ Functionalism
+- Structuralism
+- Psychoanalysis
+- Humanistic psychology
+@ An approach that saw behavior as purposeful and contributing to survival
+
+? Who was the chief proponent of functionalism and wrote Principles of Psychology (1890)?
++ William James
+- Wilhelm Wundt
+- Edward Titchener
+- John B. Watson
+@ Chief proponent of functionalism
+
+? Who became the first female president of the American Psychological Association in 1905?
++ Mary Whiton Calkins
+- Mary Cover Jones
+- Mamie Clark
+- Gail Wyatt
+@ became the first female president of the American Psychological Association in 1905
+
+? Which approach concentrated on observable, measurable behavior?
++ Behaviorism
+- Psychoanalysis
+- Humanistic psychology
+- Cognitive psychology
+@ An approach that concentrated on observable, measurable behavior
+
+? Which approach saw people as inherently good and motivated to learn and improve, a "third force"?
++ Humanistic psychology
+- Behaviorism
+- Psychoanalysis
+- Structuralism
+@ An approach that saw people as inherently good and motivated to learn and improve
+
+? Who, in 1920, became the first African American to receive a doctorate in psychology?
++ Francis Cecil Sumner
+- Kenneth Clark
+- G. Stanley Hall
+- Joseph Jastrow
+@ In 1920 became the first African American to receive a doctorate in psychology
+
+? When was the American Psychological Association founded?
++ 1892
+- 1879
+- 1905
+- 1952
+@ 1892 | Founding of the American Psychological Association
+
+? Whose 1908 book A Mind That Found Itself led to improved treatment of people with psychological disorders?
++ Clifford Beers
+- Benjamin Rush
+- Philippe Pinel
+- Franz Anton Mesmer
+@ Clifford Beers's A Mind That Found Itself
+
+? Who is called "the father of American psychiatry"?
++ Benjamin Rush
+- Philippe Pinel
+- Sigmund Freud
+- William James
+@ "The father of American psychiatry"
+
+? In what year was SAMHSA established by Congress?
++ 1992
+- 1949
+- 1970
+- 2016
+@ established by Congress in 1992
+
+? What does SAMHSA stand for?
++ Substance Abuse and Mental Health Services Administration
+- Social and Medical Health Services Agency
+- Substance Addiction and Mental Hospital Safety Association
+- State Alcohol and Mental Health Support Authority
+@ The Substance Abuse and Mental Health Services Administration
+
+? SAMHSA is an agency within which federal department?
++ Health and Human Services (HHS)
+- Department of Justice
+- Department of Education
+- Department of Veterans Affairs
+@ the agency within the U.S. Department of Health and Human Services (HHS)
+
+? Which SAMHSA center is the lead federal agency for behavioral health data and research?
++ Center for Behavioral Health Statistics and Quality (CBHSQ)
+- Center for Mental Health Services (CMHS)
+- Center for Substance Abuse Prevention (CSAP)
+- Center for Substance Abuse Treatment (CSAT)
+@ Center for Behavioral Health Statistics and Quality (CBHSQ) | Lead federal agency for behavioral health data and research
+
+? Which SAMHSA center leads federal efforts to prevent and treat mental disorders?
++ Center for Mental Health Services (CMHS)
+- Center for Substance Abuse Treatment (CSAT)
+- Office of Recovery
+- National Policy Laboratory
+@ Center for Mental Health Services (CMHS) | Leads federal efforts to prevent and treat mental disorders
+
+? Which CBHSQ system monitors emergency department visits related to recent substance use?
++ Drug Abuse Warning Network (DAWN)
+- National Survey on Drug Use and Health
+- Behavioral Health Treatment Services Locator
+- National Helpline
+@ **Drug Abuse Warning Network (DAWN)**
+
+? In what year did NAMI begin?
++ 1979
+- 1949
+- 1992
+- 2020
+@ NAMI started in 1979 as a small group of families gathered around a kitchen table
+
+? How did NAMI start?
++ As a small group of families gathered around a kitchen table
+- As a government agency
+- As a hospital program
+- As a university research lab
+@ NAMI started in 1979 as a small group of families gathered around a kitchen table
+
+? What does NAMI stand for?
++ National Alliance on Mental Illness
+- National Association of Mental Institutions
+- National Agency for Mental Illness
+- North American Mental Institute
+@ NAMI (National Alliance on Mental Illness)
+
+## hard
+
+? Which pairing from Figure 1.7's milestones is correct?
++ 1883: G. Stanley Hall establishes the first American psychology lab at Johns Hopkins
+- 1883: William James publishes Principles of Psychology
+- 1913: Wundt opens the first psychology laboratory
+- 1938: Hans Berger invents the EEG
+@ 1883 | G. Stanley Hall (a student of Wundt) establishes the first American psychology laboratory
+
+? Who received the first doctorate in psychology in 1886?
++ Joseph Jastrow
+- James McKeen Cattell
+- Francis Cecil Sumner
+- G. Stanley Hall
+@ First doctorate in psychology: Joseph Jastrow
+
+? In what year did Lightner Witmer open the first psychology clinic?
++ 1896
+- 1879
+- 1908
+- 1942
+@ Lightner Witmer opens the first psychology clinic
+
+? Which statement about the 1840 U.S. census is correct?
++ It was the first official U.S. effort to gather data on psychological disorders, with a single category, "idiocy/insanity"
+- It counted every DSM disorder
+- It was conducted by the APA
+- It found no mental illness
+@ The first official U.S. effort to gather data on psychological disorders
+
+? Which event in the history of treatment came from John Cade in 1949?
++ Discovery of lithium for bipolar disorder
+- Discovery of chlorpromazine for schizophrenia
+- The first stimulant for ADHD
+- The first ECT for depression
+@ 1949: John Cade discovered lithium for bipolar disorder
+
+? What happened to U.S. institutionalized populations between 1955 and 2000?
++ They dropped by about 50% as patients on medication returned to their communities
+- They doubled because of new hospitals
+- They stayed the same
+- They dropped by 99%
+@ U.S. institutionalized populations dropped by about 50% between 1955 and 2000
+
+? Which law, signed in December 2016, codified CBHSQ and reauthorized SAMHSA?
++ 21st Century Cures Act
+- Affordable Care Act
+- ADAMHA Reorganization Act
+- Tribal Law and Order Act
+@ codified by the 21st Century Cures Act (December 2016)
+
+? Which is one of SAMHSA's five priority areas on its FAQ page?
++ Integrating Behavioral and Physical Health Care
+- Building more psychiatric hospitals
+- Eliminating all medications
+- Reducing the number of counselors
+@ Integrating Behavioral and Physical Health Care
+
+? What are SAMHSA's three cross-cutting principles?
++ Data-driven, innovative, and based on gold-standard science
+- Fast, cheap, and simple
+- Federal, state, and local
+- Prevention, treatment, and recovery
+@ its work is data-driven, innovative, and based on gold-standard science
+
+? According to the 2024 NSDUH, how many adults had a past-year mental illness, and how many had SMI?
++ 61.5 million (23.4%) with any mental illness, including 14.6 million (5.6%) with SMI
+- 14.6 million with any mental illness, including 61.5 million with SMI
+- 48.4 million with any mental illness and 7.7 million with SMI
+- 6.1 million with any mental illness and 1.4 million with SMI
+@ 61.5 million adults (23.4%) had a past-year mental illness
+
+? What does SAMHSA's Office of Tribal Affairs and Policy (OTAP) do?
++ Serves as SAMHSA's primary point of contact for tribal governments on behavioral health issues
+- Runs the 988 Lifeline
+- Licenses tribal doctors
+- Oversees opioid treatment programs
+@ SAMHSA's primary point of contact for tribal governments
+
+? Which researchers' doll studies were used as evidence in Supreme Court hearings on segregated schools?
++ Kenneth and Mamie Clark
+- Watson and Rayner
+- Holmes and Rahe
+- Dutton and Aron
+@ Kenneth and Mamie Clark's doll studies
+
+? How many local Affiliates and State Organizations make up NAMI today?
++ More than 650 local Affiliates and 49 State Organizations
+- 50 Affiliates and 5 State Organizations
+- 10,000 Affiliates and 100 State Organizations
+- One national office only
+@ more than 650 local Affiliates and 49 State Organizations
+
+? Where does most of NAMI's funding come from?
++ Individual donors and contributors
+- The federal government
+- Pharmaceutical companies
+- Membership dues alone
+@ Most of NAMI's funding comes from individual donors and contributors
+
+? How does NAMI describe itself?
++ The nation's largest grassroots mental health organization
+- A federal agency within HHS
+- A for-profit hospital chain
+- A medical licensing board
+@ The nation's largest grassroots mental health organization

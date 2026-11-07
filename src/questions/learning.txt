@@ -1,0 +1,260 @@
+? How does the textbook define learning?
++ A relatively permanent change in behavior or the capacity for behavior due to experience
+- An inborn pattern of behavior elicited by environmental stimuli
+- An inevitable, involuntary response to a stimulus
+- Any change in behavior, including changes from illness or maturation
+@ A relatively permanent change in behavior or the capacity for behavior due to experience
+
+? What is an instinct?
++ An inborn pattern of behavior elicited by environmental stimuli, also called a fixed action pattern
+- An involuntary response controlled by the spinal cord
+- A learned response made fast through practice
+- A response to a conditioned stimulus
+@ An inborn pattern of behavior elicited by environmental stimuli
+
+? In classical conditioning, associations are formed between what?
++ Two stimuli that occur sequentially in time
+- Behaviors and their outcomes
+- A model's behavior and the observer
+- Repeated harmless stimuli
+@ associations are formed between two stimuli that occur sequentially in time
+
+? In operant conditioning, associations are formed between what?
++ Behaviors and their outcomes
+- Two stimuli that occur together
+- A stimulus and a reflex
+- Instincts and environmental cues
+@ associations are formed between behaviors and their outcomes
+
+? You sleep better on your second night in a noisy hotel. What simple form of learning is this?
++ Habituation
+- Sensitization
+- Generalization
+- Latent learning
+@ sleeping better the second night in a noisy hotel
+
+? In Pavlov's experiments, salivating to food was the what?
++ Unconditioned response (UCR)
+- Conditioned response (CR)
+- Conditioned stimulus (CS)
+- Unconditioned stimulus (UCS)
+@ A response to an unconditioned stimulus that requires no previous experience
+
+? What did Pavlov actually use as the signal for food?
++ A ticking metronome
+- A bell
+- A flashing light
+- A buzzer
+@ Pavlov used a ticking metronome, not a bell
+
+? In classical conditioning, when does extinction occur?
++ When the UCS no longer follows the CS
+- When the CS and UCS are presented together more often
+- When a similar stimulus produces the response
+- After a period of rest
+@ in classical conditioning it occurs when the UCS no longer follows the CS
+
+? A conditioned response reappears after a rest period during extinction training. What is this called?
++ Spontaneous recovery
+- Generalization
+- Higher-order conditioning
+- Acquisition
+@ the reappearance of conditioned responses after periods of rest
+
+? A child stung by a bee becomes afraid of wasps too. What is this?
++ Generalization
+- Discrimination
+- Inhibition
+- Latent inhibition
+@ The tendency to respond to stimuli that are similar to an original CS
+
+? What is taste aversion?
++ A classically conditioned dislike of a food that was paired with illness
+- An instinctive dislike of bitter foods
+- A punishment used to stop overeating
+- Reduced response to a food eaten every day
+@ A classically conditioned dislike of a food (CS) that was paired with illness (UCS)
+
+? In the Little Albert study, what was the conditioned stimulus?
++ A white rat
+- A loud noise
+- A rabbit
+- A Santa Claus mask
+@ conditioned to fear a white rat (CS)
+
+? Who is called the "Mother of Behavior Therapy"?
++ Mary Cover Jones
+- Mary Whiton Calkins
+- Marian Breland
+- Rosalie Rayner
+@ called the "Mother of Behavior Therapy"
+
+? A therapist has a client relax while being gradually exposed to things they fear. What technique is this?
++ Systematic desensitization
+- Aversion therapy
+- Flooding
+- Shaping
+@ people relax (often with progressive muscle relaxation) while being gradually exposed
+
+? Who proposed the law of effect, using cats in puzzle boxes?
++ Edward Thorndike
+- B. F. Skinner
+- Ivan Pavlov
+- John B. Watson
+@ Law of effect (Edward Thorndike)
+
+? You buckle your seatbelt to stop the car's beeping. Which kind of consequence increases this behavior?
++ Negative reinforcement
+- Positive reinforcement
+- Positive punishment
+- Negative punishment
+@ buckling up to stop the beeping
+
+? A teen loses phone privileges for breaking curfew. What is this?
++ Negative punishment
+- Positive punishment
+- Negative reinforcement
+- Extinction
+@ Negative punishment (e.g., losing food or privileges)
+
+? Money, grades, and trophies are examples of which kind of reinforcer?
++ Conditioned (secondary) reinforcers
+- Primary reinforcers
+- Unconditioned stimuli
+- Negative reinforcers
+@ A reinforcer that gains value from being associated with other things that are valued
+
+? Which reinforcement schedule do slot machines use?
++ Variable ratio
+- Fixed ratio
+- Fixed interval
+- Variable interval
+@ Variable ratio (VR) | Reinforcement after a varying number of behaviors
+
+? Cramming right before finals reflects which reinforcement schedule?
++ Fixed interval
+- Variable interval
+- Fixed ratio
+- Variable ratio
+@ Fixed interval (FI) | First response after a set time interval is reinforced
+
+? What is shaping (the method of successive approximations)?
++ Reinforcing closer and closer approximations of a target behavior
+- Breaking a complex behavior into steps taught backward
+- Reinforcing a behavior every time it occurs
+- Watching someone else being reinforced
+@ reinforcing closer and closer approximations of the target behavior
+
+? Tolman's rats explored a maze without food and later performed as well as rewarded rats. What is this?
++ Latent learning
+- Instinctive drift
+- Latent inhibition
+- Spontaneous recovery
+@ Learning that occurs in the absence of reinforcement
+
+? What are Bandura's four processes of modeling?
++ Attention, retention, reproduction, and motivation
+- Acquisition, extinction, recovery, and generalization
+- Observation, imitation, reward, and punishment
+- Attention, rehearsal, storage, and retrieval
+@ Attention, retention, reproduction, and motivation
+
+? What is a token economy?
++ Using tokens that can be exchanged for other reinforcers to increase desirable behaviors
+- Paying people to stop a behavior
+- Removing privileges when a behavior occurs
+- Rewarding a behavior only after a set time
+@ tokens that can be exchanged for other reinforcers are used to increase desirable behaviors
+
+? Which example of an instinct (fixed action pattern) does HOSA Canada's study deck give?
++ Contagious yawning
+- The knee-jerk reflex
+- Buckling a seatbelt
+- Saving money
+@ HOSA Canada's example of an instinct (fixed action pattern) is contagious yawning
+
+## hard
+
+? A heroin user feels euphoria and also relief from withdrawal. Which consequences are operating?
++ Positive reinforcement (euphoria) and negative reinforcement (relief from withdrawal) at the same time
+- Positive punishment and negative punishment
+- Only positive reinforcement
+- Negative punishment (euphoria) and positive punishment (withdrawal)
+@ A heroin user is positively reinforced (euphoria) and negatively reinforced (relief from withdrawal)
+
+? Why is using an opioid in an unfamiliar place a significant overdose risk?
++ In familiar settings the body learns to compensate for the drug, and that conditioned compensation is missing in a new place
+- Unfamiliar places make drugs chemically stronger
+- New places cause habituation to the drug
+- The drug is absorbed faster when a person is nervous
+@ using a drug in an unfamiliar place is a significant overdose risk
+
+? What did Garcia and Koelling (1966) show?
++ Rats linked tasty water with nausea and bright-noisy water with shock, so some combinations are learned faster than others
+- Rats linked bright-noisy water with nausea and tasty water with shock
+- Any two stimuli can be associated equally well
+- Rats could not learn taste aversions after one pairing
+@ some stimulus combinations are learned faster than others
+
+? A parent finally gives in to begging "just this once." Why does this make begging harder to extinguish?
++ Extinction occurs more rapidly after continuous reinforcement than after partial reinforcement
+- Partial reinforcement speeds up extinction
+- Giving in is negative punishment
+- Begging is an instinct that cannot be extinguished
+@ Extinction occurs more rapidly following continuous reinforcement than following partial reinforcement
+
+? You are less likely to blame familiar pizza than an unfamiliar food for getting sick. What explains this?
++ Latent inhibition
+- Latent learning
+- Higher-order conditioning
+- Instinctive drift
+@ you are less likely to blame familiar pizza than unfamiliar food for getting sick
+
+? After a dog bite, a person also fears the dog's doghouse and bark. What is this?
++ Higher-order conditioning
+- Discrimination
+- Spontaneous recovery
+- Habituation
+@ Learning in which stimuli associated with a CS also elicit CRs
+
+? Which statement about reinforcers and punishers is correct?
++ They are defined by their effect on behavior, not by any quality of the consequence
+- A spanking is always a punisher for every child
+- Food is always a reinforcer, no matter the situation
+- Punishment is stronger than reinforcement, according to Skinner
+@ A reinforcer or punisher is defined by its effect on behavior
+
+? Which pairing of schedule and response pattern is correct?
++ Fixed ratio: steady responding with a pause after each reward
+- Variable ratio: long pause, then a sharp increase
+- Fixed interval: high, steady rate with no pauses
+- Variable interval: pause after each reward
+@ Fixed ratio (FR) | Reinforcement after a set number of behaviors
+
+? Pigs trained to deposit coins kept rooting them instead. What did the Brelands call this?
++ Instinctive drift
+- Latent learning
+- Imprinting
+- Shaping
+@ trained animals drifted back to instinctive food behaviors
+
+? According to the Rescorla–Wagner model, when does learning occur?
++ As a function of how surprising the CS–UCS association is
+- Only when the CS comes after the UCS
+- Whenever two stimuli occur at the same time, regardless of surprise
+- Only after a period of rest
+@ Learning occurs as a function of how surprising the CS–UCS association is
+
+? According to research on social facilitation, how does the presence of others affect performance?
++ Simple tasks get faster, while complex tasks get slower and worse
+- All tasks get faster and better
+- Complex tasks get faster, while simple tasks get worse
+- Others have no effect except in cockroaches
+@ The presence of others makes us perform simple tasks faster but complex tasks slower and worse
+
+? According to HOSA Canada's study deck, latent inhibition is linked to which two things?
++ Creativity and schizophrenia
+- Memory and sleep
+- Hunger and thirst
+- Stress and immunity
+@ which links it to creativity and schizophrenia

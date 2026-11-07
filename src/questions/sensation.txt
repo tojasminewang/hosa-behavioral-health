@@ -1,0 +1,253 @@
+? What is sensation?
++ The process of detecting environmental stimuli or stimuli arising from the body
+- The process of interpreting sensory information
+- Translating a stimulus into a neural signal
+- A reduced response to an unchanging stimulus
+@ The process of detecting environmental stimuli or stimuli arising from the body
+
+? What is transduction?
++ Translating a stimulus into a neural signal the nervous system can understand
+- Detecting stimuli from the environment or the body
+- A reduced response to an unchanging stimulus
+- The smallest amount of stimulus that can be detected
+@ The process of translating a stimulus into a neural signal
+
+? You stop noticing the steady running noise of a heater. What is this called?
++ Sensory adaptation
+- Transduction
+- Signal detection
+- Difference threshold
+@ A reduced response to an unchanging stimulus
+
+? What is the absolute threshold?
++ The smallest amount of stimulus that can be detected at least 50% of the time
+- The smallest detectable difference between two stimuli
+- The loudest sound a person can hear without pain
+- The point at which a neuron fires an action potential
+@ The smallest amount of stimulus that can be detected (at least 50% of the time)
+
+? Who developed psychophysics, the study of how physical qualities of stimuli relate to the subjective responses they produce?
++ Gustav Fechner
+- Wilhelm Wundt
+- Hermann von Helmholtz
+- William James
+@ developed by Gustav Fechner
+
+? In signal detection, a participant says "yes" when no stimulus was present. What is this outcome called?
++ False alarm
+- Hit
+- Miss
+- Correct rejection
+@ "Yes" | Hit | False alarm
+
+? What part of the eye begins the process of bending light toward the retina?
++ Cornea
+- Iris
+- Pupil
+- Optic disk
+@ The clear surface at the front of the eye that begins the process of bending
+
+? Which area of the retina is specialized for highly detailed, central vision?
++ Fovea
+- Optic disk
+- Optic chiasm
+- Periphery of the retina
+@ An area of the retina specialized for highly detailed (central) vision
+
+? Why does each eye have a blind spot?
++ The optic disk, where the optic nerve exits, has no rods or cones
+- The fovea has no cones
+- The lens cannot focus light on the periphery
+- The iris blocks light from part of the retina
+@ it has no rods or cones, so each eye has a blind spot
+
+? Which photoreceptor is specialized to detect dim light but gives no color?
++ Rod
+- Cone
+- Ganglion cell
+- Hair cell
+@ A photoreceptor specialized to detect dim light
+
+? Which photoreceptor processes color and fine detail and works best in bright light?
++ Cone
+- Rod
+- Special ganglion cell
+- Bipolar cell
+@ A photoreceptor in the retina that processes color and fine detail
+
+? Light wave amplitude is decoded as what?
++ Brightness
+- Color
+- Pitch
+- Loudness
+@ The height of a light wave; decoded as brightness
+
+? Sound wave frequency is perceived as what?
++ Pitch, measured in hertz (Hz)
+- Loudness, measured in decibels (dB)
+- Brightness, measured in hertz (Hz)
+- Timbre, measured in decibels (dB)
+@ frequency is perceived as pitch (measured in hertz, Hz)
+
+? Which structure of the inner ear is fluid-filled, snail-shaped, and contains the auditory receptor cells?
++ Cochlea
+- Pinna
+- Tympanic membrane
+- Oval window
+@ The fluid-filled, snail-shaped
+
+? What is the tympanic membrane?
++ The eardrum, at the boundary between the outer and middle ear
+- The membrane between the middle and inner ear
+- The visible outer structure of the ear
+- The membrane on which the organ of Corti sits
+@ The eardrum, at the end of the auditory canal
+
+? Which system in the inner ear provides information about body position and movement?
++ Vestibular system
+- Organ of Corti
+- Olfactory bulb
+- Somatosensory cortex
+@ Structures in the inner ear that provide information about body position and movement
+
+? What is the sensory homunculus?
++ A map of how body areas are represented in the somatosensory cortex according to their sensitivity rather than their size
+- A map of the tongue showing where each taste is detected
+- A drawing of the visual field processed by each hemisphere
+- The layer of hair cells on the basilar membrane
+@ A map ("little man") of how body areas are represented in the somatosensory cortex
+
+? What are the five tastes?
++ Sweet, sour, salty, bitter, and umami
+- Sweet, sour, salty, bitter, and spicy
+- Sweet, sour, salty, savory, and metallic
+- Sweet, salty, bitter, fatty, and umami
+@ The five tastes: sweet, sour, salty, bitter, and umami
+
+? What does the textbook say about the "taste map" of the tongue?
++ It is a myth; receptors for all tastes are spread equally across the tongue
+- It is accurate; sweet is tasted only at the tip of the tongue
+- It is accurate for bitter tastes only
+- It applies to children but not adults
+@ the "taste map" of the tongue is a myth
+
+? About what percentage of people are supertasters?
++ About 25%
+- About 5%
+- About 50%
+- About 75%
+@ About 25% of people are extrasensitive to taste
+
+? Which sense is processed by about 50% of the cerebral cortex?
++ Vision
+- Hearing
+- Touch and pain
+- Smell
+@ About 50% of the cerebral cortex processes visual information
+
+? Nearsightedness is caused by what?
++ Elongated eyeballs that interfere with seeing distant objects
+- Shortened eyeballs that interfere with seeing close objects
+- An uneven surface of the cornea
+- A yellowing lens
+@ Elongated eyeballs interfere with seeing distant objects
+
+? According to HOSA Canada's study deck, about how many rods does each eye contain?
++ About 90 million
+- About 4–5 million
+- About 1 million
+- About 500 million
+@ Each eye has about 90 million rods and 4–5 million cones
+
+? Humans hear sounds most sensitively in which range?
++ About 80 Hz to 10,000 Hz
+- About 1 Hz to 20 Hz
+- About 20,000 Hz to 40,000 Hz
+- Above 100,000 Hz
+@ Humans hear sounds with the most sensitivity between about 80 Hz and 10,000 Hz
+
+## hard
+
+? A radiologist is so afraid of missing a tumor that they flag almost every unclear shadow. What pattern of results should you expect?
++ A high hit rate but also a high false alarm rate
+- A high hit rate and a low false alarm rate
+- A low hit rate and a high miss rate
+- Few false alarms but a higher miss rate
+@ A radiologist afraid of missing a tumor will have a high hit rate but a high false alarm rate
+
+? In the jury example of signal detection, convicting an innocent person is which outcome?
++ False alarm
+- Miss
+- Hit
+- Correct rejection
+@ convicting an innocent person is a false alarm
+
+? Which statement about smell is correct?
++ Unlike most senses, smell does not go to the thalamus before reaching the cortex
+- Smell, like vision, is relayed through the thalamus first
+- Olfactory receptors are never replaced once they die
+- The olfactory bulbs sit below the occipital lobes
+@ smell does not go to the thalamus before reaching the cortex
+
+? Which is the correct order of the auditory pathway?
++ Hair cells → auditory nerve → medulla → midbrain → thalamus → primary auditory cortex
+- Hair cells → thalamus → medulla → midbrain → primary auditory cortex
+- Auditory nerve → hair cells → midbrain → medulla → primary auditory cortex
+- Hair cells → auditory nerve → thalamus → medulla → occipital cortex
+@ Auditory pathway: hair cells → auditory nerve → medulla → midbrain
+
+? Which pair of sounds is listed at the same intensity level?
++ Threshold of pain and machine gun fire (130 dB)
+- Normal conversation and a vacuum cleaner (80 dB)
+- A whisper and rustling leaves (20 dB)
+- A rock concert and a military jet takeoff (140 dB)
+@ Threshold of pain/machine gun fire | 130 dB
+
+? Age-related hearing loss begins at which frequencies, and after age 50 most people cannot hear above about what?
++ It begins at higher frequencies; after 50, most cannot hear above 12,000 Hz
+- It begins at lower frequencies; after 50, most cannot hear below 12,000 Hz
+- It begins at higher frequencies; after 50, most cannot hear above 6,000 Hz
+- It affects all frequencies equally; after 50, most cannot hear above 20,000 Hz
+@ after 50 above 12,000 Hz
+
+? Soldiers on night patrol were trained to look to the side of a target. Why?
++ Rods, which detect dim light, are more common toward the periphery of the retina
+- Cones, which detect dim light, are packed into the fovea
+- The blind spot is at the center of each retina
+- Peripheral vision gives sharper images than central vision
+@ soldiers on night patrol were trained to look to the side of a target
+
+? Which statement about infrasound is correct?
++ It is below the range of human hearing (less than 20 Hz) and is used by elephants to communicate
+- It is above 20,000 Hz and is used to clean jewelry and teeth
+- It is the range of sound heard best by newborns
+- It is measured in decibels rather than hertz
+@ Frequencies below the range of human hearing (less than 20 Hz)
+
+? Where does pain information go to give pain its emotional qualities?
++ Anterior cingulate cortex, insula, and amygdala
+- Primary visual cortex and superior colliculi
+- Olfactory bulbs and hypothalamus
+- Cerebellum and pons
+@ anterior cingulate cortex, insula, and amygdala (emotional qualities of pain)
+
+? With aging, hearing loss happens first for which sounds?
++ High frequencies
+- Low frequencies
+- Loud sounds
+- Only spoken words
+@ With aging, hearing loss happens first at high frequencies
+
+? What is perfect pitch?
++ Being able to name a musical tone that is heard
+- Hearing sounds above 20,000 Hz
+- Always singing in tune
+- Locating sounds perfectly in space
+@ Being able to name a musical tone that is heard
+
+? In the middle ear, what does the vibrating eardrum move?
++ The ossicles, which pass the vibration to the oval window
+- The cochlea directly
+- The pinna
+- The auditory nerve
+@ the vibrating eardrum moves the ossicles, which pass the vibration to the oval window

@@ -1,0 +1,162 @@
+? How does SAMHSA describe individual trauma?
++ An event or circumstance resulting in physical harm, emotional harm, and/or life-threatening harm
+- Any stressful day at school or work
+- A mental disorder diagnosed after one month
+- A disagreement with a friend
+@ an event or circumstance resulting in physical harm, emotional harm, and/or life-threatening harm
+
+? What is trauma-informed care?
++ A way to create safer environments for people who have experienced trauma
+- A medication for PTSD
+- A crisis line for disaster survivors
+- A type of physical therapy
+@ A way to create safer environments for people who have experienced trauma
+
+? Which is one of the four R's of a trauma-informed approach?
++ Resists retraumatization
+- Restrains clients
+- Reports all trauma to police
+- Refers everyone to inpatient care
+@ Resists retraumatization | Actively avoids re-traumatizing people
+
+? Which of the four R's means fully integrating knowledge about trauma into policies, procedures, and practices?
++ Responds
+- Realizes
+- Recognizes
+- Resists retraumatization
+@ Responds | By fully integrating knowledge about trauma into policies, procedures, and practices
+
+? Which trauma-informed principle means participants and staff feel physically and psychologically safe?
++ Safety
+- Trustworthiness and transparency
+- Collaboration and mutuality
+- Empowerment, voice, and choice
+@ Safety | Participants and staff feel physically and psychologically safe
+
+? What is seclusion?
++ The involuntary, solitary confinement of an individual
+- Any device that limits movement
+- A support group for trauma survivors
+- Voluntary time alone to relax
+@ The involuntary, solitary confinement of an individual
+
+? What is restraint?
++ Any method, device, material, or drug that immobilizes or reduces a person's ability to move freely
+- Keeping a person alone in a locked room
+- Refusing to give a person medication
+- Talking a person through a crisis
+@ Any method, device, material, or drug that immobilizes
+
+? What is child traumatic stress?
++ When a child (0–18) feels intensely threatened by an event they experience or witness
+- A normal bad day for a child
+- A learning disability
+- Stress felt only by parents
+@ Occurs when a child (0–18 years) feels intensely threatened
+
+? Which is a proven treatment for child trauma?
++ Trauma-focused cognitive behavioral therapy
+- Seclusion
+- Psychoanalysis
+- Ignoring the event
+@ Trauma-focused cognitive behavioral therapy is a proven treatment for child trauma
+
+? What is disaster behavioral health (DBH)?
++ Mental, emotional, and substance use services for people and communities impacted by disasters
+- Emergency medical care after disasters
+- Rebuilding homes after a disaster
+- A disaster weather warning system
+@ The understanding and provision of mental, emotional, and substance use services
+
+? Which is a SAMHSA coping tip after a disaster?
++ Limit news consumption
+- Make major life decisions right away
+- Stay up late watching coverage
+- Avoid family and friends
+@ **limit news consumption**
+
+? What is grief?
++ A person's emotional, mental, and/or physical response to a loss
+- The overarching experience of coping with loss and change
+- A disorder that always lasts more than a year
+- Fear of a future disaster
+@ A person's emotional, mental, and/or physical response to a loss
+
+? When is National Grief Awareness Week observed?
++ The first week of December
+- The first week of May
+- The last week of September
+- The second week of January
+@ **National Grief Awareness Week** is observed in the first week of December
+
+? What can the memorial date of a disaster do?
++ Renew feelings of fear, anxiety, and sadness in survivors
+- Erase all memories of the disaster
+- Cure PTSD
+- Have no effect on survivors
+@ The memorial date of a disaster can renew feelings of fear, anxiety, and sadness
+
+## hard
+
+? When was prolonged grief disorder added to the DSM, and how long must symptoms last in adults?
++ DSM-5-TR in 2022; more than one year in adults (six months in children and youth)
+- DSM-5 in 2013; more than two weeks
+- DSM-IV in 1994; more than one month
+- ICD-11 in 2018; more than five years
+@ Added to the DSM-5-TR in 2022
+
+? What is the Crisis Counseling Assistance and Training Program (CCP)?
++ A short-term disaster relief grant after a presidential disaster declaration, funded and implemented by FEMA
+- A permanent hotline for veterans
+- A school-based trauma program
+- A training program for police officers only
+@ A short-term disaster relief grant awarded after a presidential disaster declaration
+
+? Which SAMHSA grants are called "funds of last resort"?
++ SAMHSA Emergency Response Grants (SERG)
+- Crisis Counseling Program grants
+- Block grants
+- ReCAST grants
+@ "funds of last resort"
+
+? When was the Interagency Task Force on Trauma-Informed Care established, and under which law?
++ October 13, 2018, under the SUPPORT for Patients and Communities Act
+- July 16, 2020, under the 988 Designation Act
+- 1986, under the PAIMI Act
+- 2022, under the Bipartisan Safer Communities Act
+@ was established on October 13, 2018
+
+? How does SAMHSA now view seclusion and restraint?
++ As traumatizing, to be used only as a last resort when less-restrictive measures fail and safety is at severe risk
+- As therapeutic tools to use often
+- As required in every psychiatric hospital
+- As the first step in crisis care
+@ now viewed as traumatizing, to be used only as a last resort
+
+? Which trauma-informed principle involves partnering and leveling power differences between staff and service participants?
++ Collaboration and mutuality
+- Safety
+- Peer support
+- Trustworthiness and transparency
+@ Collaboration and mutuality | Partnering and leveling power differences
+
+? Which high-risk group is described as often the last to seek help after a disaster?
++ First responders and recovery workers
+- Children and youth
+- Retired adults
+- Tourists
+@ first responders and recovery workers (often the last to seek help)
+
+? About what share of children report at least one traumatic event by age 16?
++ Over two-thirds
+- About 1 in 10
+- About half
+- Nearly none
+@ Over two-thirds of children report experiencing at least one traumatic event by age 16
+
+? How does bereavement differ from grief?
++ Bereavement is the overarching experience of coping with loss; grief is the person's response to the loss
+- Grief is the overarching experience; bereavement is a single emotion
+- They mean exactly the same thing
+- Bereavement applies only to the loss of a pet
+@ The overarching experience of coping with loss and change

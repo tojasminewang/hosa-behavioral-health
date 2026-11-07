@@ -1,0 +1,295 @@
+? How does the textbook define consciousness?
++ Knowing or being aware of ongoing experiences occurring both internally and in the world around us
+- A normal state characterized by reduced awareness of external stimuli
+- The special understanding of the self as distinct from other stimuli
+- Parts of the mind that stay hidden from awareness
+@ Knowing or being aware of ongoing experiences occurring both internally and in the world around us
+
+? Who coined the term "stream of consciousness"?
++ William James
+- Sigmund Freud
+- Benjamin Libet
+- Alan Turing
+@ William James coined the term "stream of consciousness"
+
+? What is a circadian rhythm?
++ A daily biological rhythm
+- A rhythm of arousal that peaks every 90 to 120 minutes
+- A yearly rhythm of mood changes
+- The cycle of REM and N-REM sleep within one night
+@ A daily biological rhythm
+
+? Which brain structure controls the biological clock?
++ Hypothalamus
+- Thalamus
+- Pineal gland
+- Reticular formation
+@ An internal mechanism, controlled by the hypothalamus
+
+? What are zeitgebers?
++ External "time givers," such as light, that reset biological clocks
+- Brain waves seen during deep sleep
+- Hormones released in the early evening
+- People who sleep late and stay up late
+@ External "time givers" that reset biological clocks
+
+? Which EEG wave indicates relaxed waking and is linked to daydreaming and meditation?
++ Alpha wave
+- Beta wave
+- Theta wave
+- Delta wave
+@ Alpha wave | 9 to 12 cycles per second | Relaxed waking
+
+? Which EEG wave is the largest and slowest, seen in deep N-REM sleep?
++ Delta wave
+- Theta wave
+- Alpha wave
+- Gamma wave
+@ Delta wave | 1 to 4 cycles per second | Deep N-REM sleep
+
+? Which sleep stage includes rapid eye movements, muscle paralysis, and EEG waves resembling waking?
++ REM sleep
+- Stage 1 N-REM sleep
+- Stage 2 N-REM sleep
+- Stage 4 N-REM sleep
+@ Sleep with EEG waves resembling waking, rapid eye movements, muscle paralysis
+
+? K complexes and sleep spindles first appear in which stage of sleep?
++ Stage 2
+- Stage 1
+- Stages 3 and 4
+- REM sleep
+@ K complexes and sleep spindles appear
+
+? About how long after sleep onset does the first REM episode occur?
++ 90 to 120 minutes
+- 10 to 15 minutes
+- 30 to 45 minutes
+- 4 hours
+@ The first REM episode occurs 90 to 120 minutes after sleep onset
+
+? In which sleep stages does sleepwalking occur?
++ Stages 3 and 4 of N-REM sleep
+- REM sleep
+- Stage 1 of N-REM sleep
+- The transition from REM to waking
+@ Sleepwalking occurs in stages 3 and 4 of N-REM sleep
+
+? After being deprived of REM sleep, people spend an unusually large amount of time in REM. What is this called?
++ REM rebound
+- REM sleep behavior disorder
+- Cataplexy
+- Sleep paralysis
+@ After REM deprivation, people spend an unusually large amount of sleep time in REM sleep
+
+? Which theory says dream content reflects the mind's effort to make sense of ongoing neural activity?
++ Activation–synthesis theory
+- Freud's theory of dream symbols
+- Restorative theory
+- Opponent process theory
+@ Dream content reflects the mind's effort to make sense of ongoing neural activity
+
+? Which sleep disorder is characterized by an inability to either initiate or maintain normal sleep?
++ Insomnia
+- Narcolepsy
+- Sleep apnea
+- Sleep terror
+@ characterized by an inability to either initiate or maintain normal sleep
+
+? Which sleep disorder involves the intrusion of REM sleep phenomena ("sleep attacks") into waking?
++ Narcolepsy
+- Insomnia
+- Restless legs syndrome
+- Sleep apnea
+@ characterized by the intrusion of REM sleep phenomena
+
+? A person stops breathing while asleep, then wakes gasping for air. Which disorder is this?
++ Sleep apnea
+- Sleep terror
+- Cataplexy
+- Narcolepsy
+@ the person stops breathing while asleep, then wakes gasping for air
+
+? About how many hours of sleep do most people need per night?
++ About 7 to 9 hours
+- About 5 to 6 hours
+- About 10 to 12 hours
+- About 6 hours and 55 minutes
+@ Most people need about 7 to 9 hours of sleep per night
+
+? What is prosopagnosia?
++ Inability to recognize faces
+- Belief that imposters have replaced familiar people
+- Wakefulness without consciousness
+- A feeling of "already seen"
+@ Inability to recognize faces
+
+? What is hypnosis?
++ An altered state of consciousness characterized by relaxation and increased suggestibility
+- A voluntary alteration of consciousness with positive emotion and absence of thought
+- Nonjudgmental awareness of the present moment
+- A state of wakefulness without consciousness
+@ An altered state of consciousness characterized by relaxation and increased suggestibility
+
+? What is mindfulness?
++ Nonjudgmental awareness of experiences in the present moment
+- Relaxation with increased suggestibility
+- Spontaneous mind wandering in a no-task situation
+- Conscious control of a dream's content
+@ Nonjudgmental awareness of experiences in the present moment
+
+? Depression that occurs regularly at the same time each year, usually in winter, is now called what?
++ Major depressive disorder with seasonal pattern
+- Shift maladaptation syndrome
+- Social jet lag
+- Persistent depressive disorder
+@ Depression that occurs regularly at the same time each year
+
+? According to NAMI, about what share of people in the U.S. report difficulty sleeping at least one night per week?
++ About 1 in 3
+- About 1 in 50
+- About 1 in 10
+- Nearly everyone
+@ About 1 in 3 people in the U.S. report difficulty sleeping at least one night per week
+
+? According to NAMI, what is the first-line treatment for insomnia?
++ Good sleep habits, such as a regular sleep schedule
+- Sleeping pills taken for years
+- Melatonin
+- Alcohol before bed
+@ Good sleep habits (a regular schedule, avoiding stimulating activity before bed, a comfortable sleep environment) are the first-line treatment for insomnia
+
+? Which sleep pattern can be a sign of depression, according to NAMI?
++ Early morning wakefulness
+- A sudden drop in sleep with more energy
+- Sleeping exactly eight hours
+- Dreaming every night
+@ Early morning wakefulness can be a sign of depression
+
+? According to HOSA Canada's study deck, what can very high doses of alcohol cause?
++ Coma and death from suppressed breathing or choking on vomit
+- Better coordination
+- Better sleep quality
+- Less risk-taking
+@ very high doses can cause coma and death from suppressed breathing or choking on vomit
+
+## hard
+
+? Which statement about the brain's role in consciousness is correct?
++ The thalamus and reticular formation enable consciousness but do not produce its content
+- The thalamus produces the content of consciousness by itself
+- Lesions of the thalamus have little effect on consciousness
+- Consciousness depends only on the cerebral cortex, not the thalamus
+@ The thalamus and reticular formation "enable" consciousness
+
+? Which pairing of sleep timing is correct?
++ First 4 hours: mostly N-REM (most stage 3 and 4); second 4 hours: large amounts of REM
+- First 4 hours: mostly REM; second 4 hours: mostly stage 3 and 4
+- REM and N-REM are spread evenly across the night
+- Stage 3 and 4 sleep increases toward morning
+@ The first 4 hours of the night are dominated by N-REM sleep
+
+? Nearly all human growth hormone is released during which sleep stages?
++ Stages 3 and 4 of N-REM sleep
+- REM sleep
+- Stage 1 of N-REM sleep
+- Stage 2 of N-REM sleep
+@ nearly all human growth hormone is released during stages 3 and 4
+
+? How do sleep terrors differ from nightmares?
++ Sleep terrors happen in N-REM sleep without nightmare imagery and are usually not remembered; nightmares happen in REM sleep
+- Sleep terrors happen in REM sleep; nightmares happen in N-REM sleep
+- Both happen in REM sleep, but sleep terrors are remembered more clearly
+- Sleep terrors occur only in the last 3 hours of sleep
+@ A sleep disorder in N-REM sleep (usually the first 3 hours)
+
+? How does Capgras syndrome differ from prosopagnosia?
++ In Capgras, face recognition is intact but the feeling of familiarity is distorted, the opposite of prosopagnosia
+- In Capgras, faces cannot be recognized, but familiarity feelings remain
+- Capgras is caused by fusiform face area damage, just like prosopagnosia
+- There is no difference; they are two names for the same disorder
+@ face recognition is intact but the feeling of familiarity is distorted
+
+? Which statement about a vegetative state is correct?
++ It features wakefulness without consciousness, and about 20% of patients diagnosed as VS are actually conscious
+- It is an irreversible loss of all brain functions, including the brainstem
+- It features no sleep–wake cycles and closed eyes
+- It is the same as a coma lasting more than one day
+@ about 20% of patients diagnosed as VS are actually conscious but unable to respond
+
+? Which of these is NOT true of hypnosis, according to the textbook?
++ It sharpens memory, so it is useful for recovering accurate memories
+- It increases suggestibility
+- It can help people quit smoking
+- Hypnotized people do not comply with dangerous requests more than others
+@ Hypnosis does not sharpen memory and is likely to make it worse
+
+? Narcolepsy is linked to missing or damaged cells that secrete which substance?
++ Orexin, in the hypothalamus
+- Melatonin, in the pineal gland
+- Dopamine, in the basal ganglia
+- Serotonin, in the brainstem
+@ missing or damaged orexin-secreting cells in the hypothalamus
+
+? Which comparison of REM sleep across the lifespan is correct?
++ Infants spend about half their sleep in REM, compared with about 20% in adolescents and adults
+- Adults spend about half their sleep in REM, compared with 20% in infants
+- Premature infants spend less time in REM than full-term infants
+- REM sleep percentage stays the same from birth to adulthood
+@ Human infants spend about half their sleep in REM
+
+? Which traveling direction is harder for jet lag, and why?
++ Traveling east, because you must set the clock forward
+- Traveling west, because you must set the clock forward
+- Traveling east, because you must set the clock back
+- Both are equally hard because internal clocks run exactly 24 hours
+@ traveling east (setting the clock forward) is harder than traveling west
+
+? According to NAMI, about what percentage of insomnia cases are related to depression, anxiety or psychological stress?
++ About 50%
+- About 5%
+- About 90%
+- About 25%
+@ About 50% of insomnia cases are related to depression, anxiety or psychological stress
+
+? According to NAMI, how long does long-term insomnia last?
++ More than three weeks
+- More than one night
+- More than one year
+- More than three days
+@ long-term insomnia lasts more than three weeks
+
+? What is sleep restriction therapy?
++ Strictly limiting time spent awake in bed, then gradually increasing time in bed
+- Staying awake for 48 hours
+- Sleeping only during the day
+- Taking melatonin every night
+@ Therapy that improves sleep efficiency by strictly limiting time awake in bed
+
+? According to NAMI, a sudden dramatic drop in sleep with an increase in energy may be a sign of what?
++ Mania
+- Depression
+- Sleep apnea
+- PTSD
+@ a sudden big drop in sleep with more energy may be a sign of mania
+
+? What does NAMI say about melatonin and valerian root for insomnia?
++ Their effectiveness has not been proven for most people, and neither is FDA approved
+- Both are FDA-approved prescription drugs
+- They cure insomnia in everyone
+- They are banned in the U.S.
+@ Melatonin and valerian root are herbal remedies whose effectiveness has not been proven for most people
+
+? Which evidence shows brain death?
++ Two flatline EEG recordings taken 24 hours apart, or no blood circulation to the brain
+- One night of slow-wave sleep
+- Sleep spindles and K complexes
+- Alpha waves while awake
+@ Brain death is shown by two flatline EEG recordings taken 24 hours apart
+
+? According to HOSA Canada's study deck, which system does marijuana act on?
++ The brain's own (endogenous) cannabinoid system
+- The adenosine system
+- The insulin system
+- The melatonin system
+@ Marijuana acts on the brain's own (endogenous) cannabinoid system
