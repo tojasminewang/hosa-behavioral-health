@@ -19,6 +19,8 @@
 | Somatovisceral afference model of emotion (SAME) | Physical response (specific to general) → more or less cognitive processing → feeling | Specific physical responses (fear) are recognized quickly; general arousal (pride) needs more appraisal |
 | Appraisal theory | Detection and assessment of a stimulus → feelings and physical responses | Emotions begin with the detection and assessment of stimuli relevant to well-being |
 
+![Three classic theories of emotion as sequences](emotion-theories)
+
 - **James–Lange theory:** A theory of emotion proposing that physical sensations lead to subjective feelings; developed independently by William James and Danish physiologist Carl Lange
 - **Catharsis:** A theory viewing emotion as a reservoir that fills up and spills over; it predicts that expressing an emotion will reduce arousal (contradicts the James–Lange theory)
 - "Psyching up" (like the Maori haka performed by the New Zealand All Blacks rugby team) challenges catharsis and supports James–Lange: changing physical sensations changes feelings

@@ -52,6 +52,8 @@
 - Naloxone should be replaced when expired or exposed to temperatures below 39°F or above 104°F
 - SAMHSA updated its **Overdose Prevention and Response Toolkit** in 2024 (first released in 2018)
 
+![Responding to an opioid overdose](overdose)
+
 ## Co-occurring disorders and other health conditions (SAMHSA)
 - **Co-occurring disorders:** The coexistence of both a mental health disorder and a substance use disorder; any combination of two or more SUDs and mental disorders in the DSM-5-TR
 - 2024 NSDUH: about 21.2 million adults had a co-occurring mental illness and substance use disorder

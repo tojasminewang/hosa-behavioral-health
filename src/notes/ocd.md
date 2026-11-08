@@ -17,6 +17,8 @@
 - COVID-19 hand-washing messages may worsen OCD symptoms, and stocking up on supplies could feed hoarding disorder
 - Both medication and behavioral treatments reduce abnormal basal ganglia activity in OCD
 
+![How obsessions and compulsions feed each other](ocd-cycle)
+
 ## Body dysmorphic disorder (textbook) {p. 582}
 - **Body dysmorphic disorder (BDD):** A disorder characterized by the unrealistic perception of physical flaws; affects as many as 2% of people, slightly more females
 - Suicide rates for BDD are higher than for OCD and anorexia nervosa; many people undergo numerous cosmetic surgeries or excessive bodybuilding

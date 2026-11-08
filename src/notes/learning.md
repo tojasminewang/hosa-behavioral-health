@@ -30,6 +30,10 @@
 - **Conditioned response (CR):** A response learned through classical conditioning (e.g., salivating to the metronome); its appearance tells us learning has occurred
 - Classical conditioning explains many learned emotional responses and is used in prepared childbirth methods and the treatment of addiction and unrealistic fears
 
+![Pavlov's setup. He used a ticking metronome, not a bell.](pavlov)
+
+![Classical conditioning in three stages](classical)
+
 ## Classical conditioning phenomena {pp. 283–288}
 - **Acquisition:** The development of a learned response
 - **Contiguity:** Closeness in time between the CS and UCS; a CS that comes at the same time as or after the UCS is not a useful signal
@@ -69,6 +73,8 @@
 - B. F. Skinner extended Thorndike's work using the Skinner box, a cage with levers or buttons that animals press or peck
 - Classical conditioning pairs two stimuli and works best with involuntary behaviors; operant conditioning pairs a behavior with its consequence and involves voluntary behaviors
 
+![A Skinner box](skinner-box)
+
 | | Add a stimulus | Remove a stimulus |
 |---|---|---|
 | Behavior increases | Positive reinforcement (e.g., food for pressing a bar) | Negative reinforcement (e.g., pressing a bar turns off a shock) |
@@ -100,6 +106,8 @@
 | Fixed interval (FI) | First response after a set time interval is reinforced | Long pause, then sharp increase as the interval ends | Congress passing bills at the end of a session; cramming before finals |
 | Variable interval (VI) | First response after a varying time interval is reinforced | High, steady rate | Pop quizzes; fishing |
 
+![Schedules of reinforcement: total responses over time. Each tick mark is a reward.](schedules)
+
 - Variable schedules produce higher rates of responding than fixed schedules
 - **Partial reinforcement effect in extinction:** Extinction occurs more rapidly following continuous reinforcement than following partial reinforcement ("OK, just this once" makes begging harder to extinguish)
 - **Matching law:** The relative frequency of responding to one alternative matches the relative reinforcement for that alternative (e.g., time spent gaming vs. socializing)
@@ -128,6 +136,8 @@
 - A society is a group of people living together; culture is all the socially transmitted information used by the group
 - **Meme:** Richard Dawkins' (1976) term for the basic unit of cultural transmission (ideas, symbols, practices), passed on by observational learning
 - Talking briefly with strangers (e.g., a barista) made people feel more cheerful and connected (Gillian Sandstrom)
+
+![Bandura's Bobo doll study: children who watched an adult attack the doll were more aggressive with it.](bobo-doll)
 
 ## HOSA Canada study deck: learning
 @ HOSA Canada Behavioural Health study deck "The Mind (Learning)" (HOSA Canada app, Module 2)

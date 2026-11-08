@@ -22,6 +22,8 @@
 | Purpose | Conducting meaningful daily activities (a job, school, volunteerism, family caretaking, or creative endeavors) and having the independence, income, and resources to participate in society |
 | Community | Having relationships and social networks that provide support, friendship, love, and hope |
 
+![SAMHSA's four major dimensions of recovery](recovery-dims)
+
 ## Peer support workers (SAMHSA)
 - **Peer support workers:** People who have been successful in the recovery process who help others experiencing similar situations; also called people with lived experience
 - Through shared understanding, respect, and mutual empowerment, peer support workers help people become and stay engaged in recovery and reduce the likelihood of relapse
@@ -30,6 +32,8 @@
 - Peer roles can also include providing training, supervising other peers, developing resources, administering programs, and educating the public and policymakers
 - The shared experience of recovery (or of being a family member) is the foundation of the peer recovery support relationship
 - **Core competencies:** The capacity to easily perform a role; clusters of knowledge, skills, and attitudes; SAMHSA's Core Competencies for Peer Workers in Behavioral Health Services guide training, certification standards, and job descriptions (not barriers to entering the workforce)
+
+![Peer support: people with lived experience of recovery helping others](peer-support)
 
 | Principle of peer core competencies | Meaning |
 |---|---|

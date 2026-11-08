@@ -38,6 +38,8 @@
 | Bipolar II disorder | Highs are less extreme (hypomanic states); depressive episodes may be as severe as in MDD or bipolar I |
 | Cyclothymic disorder | More chronic mood instability (highs and lows) that is not as long, severe, or frequent as in bipolar I or II |
 
+![Mood patterns in three bipolar disorders (a sketch, not to scale)](bipolar-types)
+
 - **Hypomanic state:** A high that is less extreme than full mania
 - Bipolar disorder is a lifelong condition that doesn't go away on its own; it is treatable with a combination of medication (mood stabilizers, antipsychotics, antidepressants) and talk therapy, plus long-term continuous treatment
 - Healthy habits: keep a consistent sleep schedule (sleep deprivation can trigger episodes), limit caffeine, eat well and exercise, take medicine even when mood is stable, keep a mood journal, avoid alcohol and drugs, minimize stress, and maintain a support network

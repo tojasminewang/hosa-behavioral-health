@@ -83,6 +83,8 @@
 - Kenrick et al. (2010) updated Maslow's pyramid, replacing self-actualization with mate acquisition, mate retention, and parenting
 - During the COVID-19 pandemic many people placed affiliation above safety, which the priority models do not predict well
 
+![Maslow's hierarchy of needs](maslow)
+
 ## HOSA Canada study deck: motivation
 @ HOSA Canada Behavioural Health study deck "The Mind (Motivation and Emotion)" (HOSA Canada app, Module 2)
 - Fear of failure is another factor that may keep competent people from attempting a task

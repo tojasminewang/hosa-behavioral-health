@@ -39,6 +39,8 @@
 - Kenneth and Mamie Clark's doll studies (1939–1940) were used as evidence in U.S. Supreme Court hearings on the harm of segregated schools
 - Gail Wyatt became the first African American woman licensed as a psychologist in California in 1975
 
+![When the major schools of psychology appeared](schools-timeline)
+
 ## Milestones in the history of psychology (Figure 1.7) {pp. 20–21}
 | Year | Milestone |
 |---|---|

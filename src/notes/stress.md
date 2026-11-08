@@ -18,6 +18,8 @@
 - **Exhaustion:** The third and last stage of the GAS, characterized by depletion of physical and psychological resources; resembles MDD and can even lead to death
 - Caged lower-status baboons in Kenya, unable to escape higher-status baboons, died from stress-related conditions such as cardiovascular disease
 
+![Selye's general adaptation syndrome (a sketch)](gas)
+
 ## Sources of stress {pp. 643–645}
 - **Cognitive appraisal (Richard Lazarus):** We make rapid initial assessments of potential stressors (irrelevant, harmless, positive, or negative), so the same event stresses people differently
 - Disasters: 90% of Americans felt unusually stressed in the 3 to 5 days after 9/11; one-quarter to one-third of the population reported higher stress during COVID-19
@@ -41,6 +43,8 @@
 - The first 1,000 days after conception (until about age 2) strongly influence vulnerability to chronic disease and life expectancy
 - **Tend-and-befriend:** An alternative to fight-or-flight, characterized by soothing and building social connections, possibly more typical of females; linked to oxytocin (Shelley Taylor)
 - Socioeconomic status: lower SES is linked to worse health (more noise, toxins, violence, less health care, less control, and less trust, all of which raise stress); subjective social status also predicts disease
+
+![Two stress pathways: the fast SAM system and the slower HPA axis](sam-hpa)
 
 ## How stress affects health {pp. 650–655}
 - Chronic stress keeps us in Selye's resistance phase and accelerates aging, including shortening of telomeres (the "caps" on chromosomes)

@@ -10,6 +10,8 @@
 - Relationships between lifestyle and health come from large populations, not individuals, so we should not "blame the victims" of poor health
 - Following four simple habits (never smoking, exercising 30 minutes a day, a non-obese BMI, and a healthy diet with fruits and vegetables) cut the risk of chronic disease by 78%, but only 9.1% of adults followed all four
 
+![The biopsychosocial model](biopsychosocial)
+
 ## Tobacco {pp. 663–665}
 - Cigarette smoking is the leading preventable cause of death in the United States, responsible for one in five deaths each year
 - Over 8 million people worldwide die from tobacco each year; smokers die 13–14 years earlier than nonsmokers on average

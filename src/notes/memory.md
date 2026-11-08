@@ -27,6 +27,8 @@
 - Working memory components: the phonological loop (verbal and auditory information), the visuospatial sketch pad (visual and spatial information), the central executive (directs attention to tasks), and the episodic buffer (combines long-term memory with working memory)
 - **Long-term memory:** The final stage, with few limitations in capacity or duration; information can last a lifetime
 
+![The Atkinson–Shiffrin model](memory-model)
+
 ## Moving information into long-term memory {pp. 325–328}
 - **Maintenance rehearsal:** Simple repetition of material
 - **Elaborative rehearsal:** Linking new material to things you already know; more effective for moving information into long-term storage
@@ -35,6 +37,8 @@
 - **Primacy effect:** Superior recall of the first items on a list, because they were rehearsed into long-term memory
 - **Recency effect:** Superior recall of the last items on a list, because they are still in working memory; a 30-second delay erases the recency effect but not the primacy effect
 - Patient K.F. had the opposite problem from H.M.: normal long-term memory but severely impaired working memory (only one or two digits)
+
+![The serial position effect](serial-position)
 
 ## Types of long-term memory {pp. 328–332}
 - **Declarative memory:** A consciously retrieved memory that is easy to verbalize, including semantic, episodic, and autobiographical information; also known as explicit memory
@@ -46,6 +50,8 @@
 - **Procedural memory:** A nondeclarative (implicit) memory for how to carry out skilled movement; also called skill memory; it automates performance (you "just drive")
 - **Priming:** A change in a response to a stimulus as a result of exposure to a previous stimulus; studied with the lexical decision task (related words like doctor–nurse are recognized faster)
 - People rate ads they have seen before more positively, even if they cannot remember seeing them
+
+![Types of long-term memory](ltm-types)
 
 ## How long-term memory is organized {pp. 333–335}
 - **Connectionism:** Views the mind as a network of simpler units or concepts; thinking about one concept leads to related concepts
@@ -82,6 +88,8 @@
 - Head injuries, general anesthesia, and electroconvulsive therapy (ECT) can interrupt consolidation, causing memory loss around the event
 - **Motivated forgetting:** Failure to retrieve negative memories (e.g., more people who owe taxes "forget" to sign their returns); ranges from suppression (conscious) to repression (no conscious memory)
 - Loftus implanted a false memory of a childhood hot air balloon ride in 50% of participants using a doctored photo; a cautious approach to recovered memories is recommended
+
+![Two kinds of interference](interference)
 
 ## The biology of memory {pp. 345–350}
 - Eric Kandel (Nobel Laureate) showed lasting changes in synaptic strength during learning in the sea slug; axon terminals increase after sensitization and decrease after habituation

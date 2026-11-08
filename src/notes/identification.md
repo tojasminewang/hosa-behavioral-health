@@ -81,6 +81,8 @@
 | 911 | Medical emergencies, fire, crimes in progress, and situations needing immediate physical intervention; not specialized for behavioral health crises |
 | 211 | Health and social service information and referrals (also disaster information such as shelters and food) |
 
+![Which number does what](numbers-988)
+
 - A 988 counselor contacts 911 only when there is imminent risk to life that cannot be reduced during the contact (e.g., a suicide attempt in progress, a specific plan with means at hand, a suspected overdose, or chest pain or shortness of breath that could be a medical emergency)
 - The 988 response promotes stabilization and care in the **least restrictive** manner; every crisis center follows the 988 Lifeline's Suicide Safety Policy
 - Federal funding for 988 is separate from 911 funding
@@ -97,6 +99,8 @@
 - Usually a two-person team responds; responders are trained in trauma-informed care, de-escalation, cultural sensitivity, screening, crisis intervention, and safety planning
 - Under the American Rescue Plan Act of 2021, states covering mobile crisis services under Medicaid can receive an enhanced 85% federal match; SAMHSA recommends no one be denied crisis services based on ability to pay
 - Most people with suicidal thoughts will not require involuntary transport or hospitalization; involuntary hospitalization may be needed with imminent risk when other efforts fail
+
+![The three foundational elements of crisis care](crisis-care)
 
 ## Talking about mental health (SAMHSA)
 - Hesitation to talk about mental health adds to the notion that it is taboo; normalizing these conversations empowers people to seek help
@@ -123,6 +127,8 @@
 | Screening | Quickly assesses the severity of substance use and identifies the appropriate level of treatment |
 | Brief intervention | Increases insight and awareness about substance use and motivation toward behavioral change |
 | Referral to treatment | Gives those needing more extensive treatment access to specialty care |
+
+![SBIRT in three steps](sbirt)
 
 - SBIRT grants (2021–2023) served more than 450,000 people; clients reporting no alcohol or illegal drug use in the past 30 days increased 128.8% from screening to six-month follow-up
 - The Drug Abuse Screening Test (DAST-10) is one screening tool; screening and brief intervention can be reimbursed through CPT codes, Medicare G codes, and Medicaid HCPCS codes

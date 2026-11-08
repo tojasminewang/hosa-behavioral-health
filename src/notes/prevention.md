@@ -20,6 +20,8 @@
 | 4. Implementation | Deliver evidence-based programs and practices as intended | How can you put your plan into action? |
 | 5. Evaluation | Examine the process and outcomes of programs and practices | Is your plan succeeding? |
 
+![The Strategic Prevention Framework is a cycle, not a straight line](spf-cycle)
+
 - Research shows prevention must begin with an understanding of behavioral health problems within their environmental contexts before communities implement solutions
 - SPF defining characteristics: **dynamic and iterative** (a circular rather than linear model; assessment is the starting point but practitioners return to it repeatedly), **data-informed** (data guide all prevention decisions), and reliant on a **team approach** (community partners in every step)
 - Communities receiving SAMHSA prevention funding are expected to use the SPF to guide prevention planning
@@ -44,6 +46,8 @@
 | Universal | The general public or a whole population group not identified on the basis of individual risk |
 | Selective | Individuals or a subgroup whose risk of developing a disorder is significantly higher than average |
 | Indicated | Individuals in high-risk environments with minimal but detectable signs or symptoms foreshadowing a disorder, or biological markers of predisposition, who do not yet meet diagnostic levels |
+
+![The IOM model: universal, selective and indicated prevention](iom-model)
 
 - The **Institute of Medicine (IOM) Model** classifies preventive interventions by targeted population: universal, selective, and indicated
 - Block grants fund primary prevention through universal, selective, and indicated prevention activities for persons not identified as needing treatment

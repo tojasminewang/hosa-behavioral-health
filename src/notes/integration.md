@@ -67,6 +67,8 @@
 | 4 | Reentry | Supported reentry after jail or prison through reentry coordinators, peer support staff, or community in-reach |
 | 5 | Community corrections | Community-based supervision with added supports to prevent violations that lead to another jail or prison stay |
 
+![The Sequential Intercept Model: six points where people can be diverted into treatment](sim)
+
 ## Communities with access challenges (SAMHSA)
 @ [SAMHSA: Communities](https://www.samhsa.gov/communities) · [Homelessness Programs](https://www.samhsa.gov/communities/homelessness-programs-resources) · [Rural Behavioral Health](https://www.samhsa.gov/communities/rural-behavioral-health)
 - For many populations with access challenges, coordinated behavioral health care plus social services, housing, education, and employment opportunities is needed to support wellness and recovery

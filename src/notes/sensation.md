@@ -41,6 +41,8 @@
 - **Fovea:** An area of the retina specialized for highly detailed (central) vision
 - The image projected on the retina is upside down and reversed; the brain interprets it in the correct orientation
 
+![Structures of the eye. The cornea and lens bend light onto the retina, where the image lands upside down and reversed.](eye)
+
 ## Photoreceptors {pp. 158–159}
 - The retina has three types of photoreceptors: rods, cones, and a small group of special ganglion cells that respond to brightness
 - Each eye contains over 110 million rods, about 6 million cones, and only about 50,000 of the special ganglion cells
@@ -96,6 +98,8 @@
 - Auditory pathway: hair cells → auditory nerve → medulla → midbrain (reflexive turning toward sounds, sound localization) → thalamus → primary auditory cortex in the temporal lobe
 - Secondary auditory cortex surrounds the primary auditory cortex and responds to complex sounds (clicks, noise, patterned sounds)
 - The fetus can hear outside sounds, such as the mother's voice, during the final trimester; fetal hearing is functional at 24 weeks of gestation
+
+![The outer, middle and inner ear](ear)
 
 ## Body senses (somatosensation) {pp. 178–182}
 - **Somatosensation:** The senses of body position and movement, touch, skin temperature, and pain ("soma" = body)

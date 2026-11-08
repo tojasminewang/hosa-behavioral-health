@@ -46,6 +46,8 @@
 | Theta wave | 4 to 7 cycles per second | Lighter stages of N-REM sleep |
 | Delta wave | 1 to 4 cycles per second | Deep N-REM sleep (largest, slowest wave) |
 
+![EEG waves from fastest to slowest](eeg-waves)
+
 - **Daydreaming (mind wandering):** Spontaneous experiences in a no-task, no-stimulus, no-response situation; correlated with DMN activity and alpha waves; we often think about the past and plan the future, so it is not a "waste of time"
 - We spend one-third of our lives sleeping
 - **Non–rapid eye movement (N-REM) sleep:** Sleep characterized by theta and delta wave activity and deep physical relaxation; divided into four stages
@@ -58,6 +60,8 @@
 - Sleepwalking occurs in stages 3 and 4 of N-REM sleep (not REM, because the body is paralyzed); sleep talking is most common in lighter N-REM stages
 - The first 4 hours of the night are dominated by N-REM sleep (most stage 3 and 4 sleep); the second 4 hours feature large amounts of REM sleep
 - **Epworth Sleepiness Scale:** A score greater than 10 indicates excessive daytime sleepiness
+
+![A night of sleep, sketched from the notes: stage 3 and 4 sleep fills the first half, the first REM comes 90 to 120 minutes after falling asleep, and REM grows in the second half.](sleep-night)
 
 ## Why we sleep {pp. 206–208}
 - Sleepiness contributed to disasters including the Three Mile Island meltdown, the Challenger explosion, and the Exxon Valdez grounding

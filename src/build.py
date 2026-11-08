@@ -6,6 +6,8 @@
 
 Inputs (all in this folder):
   notes/<topic>.md        study notes (custom markdown, see parse_notes)
+  figures/<name>.html     diagrams and labelled pictures, placed in the notes with a line '![Caption](name)'
+  ../img/<name>.webp      the pictures the figures show
   questions/<topic>.txt   practice questions (see parse_questions)
   template.html           page shell with {{ARTICLES}} and {{DATA}} slots
 """
@@ -18,6 +20,7 @@ import unicodedata
 
 HERE = pathlib.Path(__file__).resolve().parent
 NOTES, QDIR, TEMPLATE, OUT = HERE / 'notes', HERE / 'questions', HERE / 'template.html', HERE.parent / 'index.html'
+FIGS, IMGS = HERE / 'figures', HERE.parent / 'img'
 
 PARTS = [
     dict(n=1, weight=25, short='The Mind', title='The Mind',
@@ -71,6 +74,8 @@ def norm_keep(s):
 LINK = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
 BOLD = re.compile(r'\*\*(.+?)\*\*')
 PAGES = re.compile(r'\s*\{(pp?\.[^}]*)\}\s*$')
+FIGLINE = re.compile(r'^!\[(.+)\]\(([a-z0-9-]+)\)\s*$')
+FIG_PROBLEMS, FIG_USED = [], []
 
 
 def inline(s):
@@ -91,6 +96,25 @@ def fmt(s):
 
 def strip(s):
     return BOLD.sub(lambda m: m.group(1), s)
+
+
+def render_fig(slug, name, caption):
+    """A figure: the snippet in figures/<name>.html plus a caption. Its text is not a searchable block."""
+    path = FIGS / f'{name}.html'
+    if not path.exists():
+        FIG_PROBLEMS.append(f'notes/{slug}.md: figure "{name}" not found in figures/')
+        return ''
+    body = path.read_text(encoding='utf-8').strip()
+    for src in re.findall(r'src="(img/[^"]+)"', body):
+        if not (HERE.parent / src).exists():
+            FIG_PROBLEMS.append(f'figures/{name}.html: picture {src} not found')
+    FIG_USED.append((slug, name))
+    picture = 'class="pic"' in body
+    kind = 'Picture' if picture else 'Diagram'
+    ai = '<span class="fig-ai">Illustration made with AI (gpt-image); the labels and facts come from the notes.</span>' if picture else ''
+    return (f'<figure class="fig" id="fig-{name}"><button class="fig-zoom" type="button" aria-label="Enlarge this {kind.lower()}" '
+            f'title="Enlarge"><svg class="ic" aria-hidden="true"><use href="#i-expand"/></svg></button>'
+            f'<div class="fig-body">{body}</div><figcaption><span class="fig-k">{kind}</span>{inline(caption)[0]}{ai}</figcaption></figure>')
 
 
 class Block:
@@ -125,7 +149,16 @@ def parse_notes(slug, text):
         if not ln.strip():
             i += 1
             continue
-        if ln.startswith('@ '):
+        if FIGLINE.match(ln):
+            m = FIGLINE.match(ln)
+            fig = render_fig(slug, m.group(2), m.group(1))
+            # glued to the previous block (no extra newline), so the note text and saved highlight offsets don't change
+            if out:
+                out[-1] += fig
+            else:
+                out.append(fig)
+            i += 1
+        elif ln.startswith('@ '):
             h_, p_ = inline(ln[2:].strip())
             out.append(f'<p class="srcline"><span class="k">Source</span> {h_}</p>')
             blocks.append(Block('p', 'Source ' + p_, heading=heading))
@@ -321,6 +354,7 @@ def build_data(check_only=False):
                 problems.append(f'card source not found in {slug}: {c["src"]}')
         all_cards += cards
         articles.append((slug, body))
+    problems += FIG_PROBLEMS
     return problems, articles, all_q, all_cards, counts
 
 
@@ -328,6 +362,7 @@ def article_html(slug, body, counts):
     p = next(x for x in PARTS if slug in x['events'])
     i = ORDER.index(slug)
     n, nh, nc = counts[slug]
+    nf = sum(1 for s_, _ in FIG_USED if s_ == slug)
     prev = ORDER[i - 1] if i else None
     nxt = ORDER[i + 1] if i + 1 < len(ORDER) else None
     esc = html.escape
@@ -335,6 +370,8 @@ def article_html(slug, body, counts):
     if nh:
         meta += f'<span class="dot">•</span><span>{nh} hard</span>'
     meta += f'<span class="dot">•</span><span>{nc} flashcards</span>'
+    if nf:
+        meta += f'<span class="dot">•</span><span>{nf} figure{"s" if nf > 1 else ""}</span>'
     nav = ''
     if prev:
         nav += (f'<a class="prev" href="#notes-{prev}" data-act="notes" data-arg="{prev}"><span class="lbl">← Previous</span>'
@@ -372,7 +409,10 @@ def main():
     for slug in ORDER:
         n, nh, nc = counts[slug]
         print(f'  {slug:18} {n:3} normal {nh:3} hard {nc:4} cards')
-    print(f'TOTAL {tot_n} normal + {tot_h} hard = {tot_n + tot_h} questions, {len(cards)} flashcards')
+    print(f'TOTAL {tot_n} normal + {tot_h} hard = {tot_n + tot_h} questions, {len(cards)} flashcards, {len(FIG_USED)} figures')
+    unused = sorted({p.stem for p in FIGS.glob('*.html')} - {n for _, n in FIG_USED}) if FIGS.exists() else []
+    if unused:
+        print('figures not placed in any notes:', ', '.join(unused))
     if problems:
         print(f'\n{len(problems)} problem(s):')
         for p in problems:

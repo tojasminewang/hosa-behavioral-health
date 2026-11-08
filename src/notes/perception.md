@@ -41,6 +41,8 @@
 | Closure | We see a complete, unbroken image even when there are gaps in the lines (e.g., the World Wildlife Fund logo) |
 | Simplicity | We use the simplest solution to a perceptual problem |
 
+![The Gestalt principles. Figure–ground: a vase, or two faces? Proximity: three pairs of columns. Similarity: rows of alike dots. Continuity: two smooth lines crossing. Closure: a circle despite the gaps. Simplicity: a square and a circle, not one odd shape.](gestalt)
+
 ## Depth perception {pp. 164–167}
 - **Depth perception:** The ability to use the two-dimensional image projected on the retina to perceive three dimensions
 - **Monocular cue:** A depth cue that requires the use of only one eye
@@ -59,6 +61,10 @@
 - **Ponzo illusion:** Parallel lines signal depth (linear perspective), so the upper bar looks farther away and longer
 - Roger Shepard's "Turning the Tables" illusion: two identical tabletops look different because a visual system built for a 3D world is applied to a 2D picture
 - Infant development: binocular disparity and adult-like color responses by 4 months; occlusion understood at 2 months; relative size used between 5 and 7 months; 2-day-old newborns gaze longer at their mothers' faces
+
+![Five monocular depth cues in one picture](depth-cues)
+
+![Two illusions from the notes. In each, the pair is exactly the same length.](illusions)
 
 ## Auditory perception {pp. 175–178}
 - **Place theory:** The frequency of a sound is correlated with the part of the basilar membrane showing a peak response; high tones peak near the narrow, stiff base and low tones near the wide, floppy apex; works well above 4,000 Hz

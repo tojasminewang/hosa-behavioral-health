@@ -47,6 +47,8 @@
 - **Hydrocephalus:** "Water on the head"; fluid buildup caused by blockages in the circulation of CSF
 - A spinal tap removes a sample of CSF to diagnose some medical conditions
 
+![How the nervous system is organized](nervous-system)
+
 ## The spinal cord and reflexes {pp. 111–114}
 - **Spinal cord:** A long cylinder of neural tissue extending from the medulla of the brain down to the middle of the back; part of the CNS
 - The spinal cord is only 2% of the weight of the CNS; 31 pairs of spinal nerves exit it to serve the body
@@ -88,6 +90,8 @@
   - Patient S.M. (damage to both amygdalae) could not identify fearful expressions, showed no fear of snakes, spiders, or scary movies, and stood about twice as close to strangers as others do
 - **Nucleus accumbens:** Part of the brain's reward and pleasure circuitry; participates in reward and addiction (eating, sex, addictive drugs, gambling); its activity is related to a person's sense of social inclusion
 
+![Inside the brain, cut down the middle. The hippocampus and amygdala lie deeper (the amygdala is in the temporal lobe), so they are drawn see-through. Point at a number or a label to match them up.](brain-inside)
+
 ## The cerebral cortex {pp. 118–123}
 - **Corpus callosum:** A wide band of nerve fibers connecting the right and left cerebral hemispheres
 - **Cerebral cortex:** The thin layer of neurons covering the outer surface of the cerebral hemispheres; "cortex" means "bark" in Latin
@@ -103,6 +107,8 @@
 | Parietal lobe | Top of the brain, between the frontal and occipital lobes | Primary somatosensory cortex (touch, pain, skin temperature, body position); coordinating vision and movement; taste |
 | Occipital lobe | Back of the brain | Primary visual cortex (borders, shading, color, movement) |
 | Temporal lobe | Curves around the side of each hemisphere | Primary auditory cortex; recognizing objects and familiar faces; Wernicke's area (understanding language) |
+
+![The four lobes of the cerebral cortex and some key areas](brain-lobes)
 
 - **Broca's area:** Frontal lobe area (named for Paul Broca, 1860s) that participates in the production of speech; damage causes difficulty speaking while comprehension stays good
 - **Wernicke's area:** Temporal lobe language area; damage causes fluent speech that makes no sense and an inability to comprehend speech
@@ -144,6 +150,8 @@
   - Communicates with the vagus nerve, forming a gut-brain axis that also carries information about the gut's microbiome
   - Source of 95% of the body's serotonin; disturbances might contribute to autism spectrum disorder
 
+![The two main divisions of the autonomic nervous system](symp-para)
+
 | Cranial nerve | Function |
 |---|---|
 | I. Olfactory | Smell |
@@ -181,6 +189,8 @@
   - Sharp "ouch" pain travels on myelinated axons; dull, achy pain travels on unmyelinated axons
 - Glia in the CNS form scar tissue, so CNS damage is considered permanent; glia in the PNS help damaged axons regrow
 
+![Parts of a neuron](neuron)
+
 ## Neural signaling {pp. 137–141}
 - Neural communication is a two-step process: an electrical signal within a neuron, then a chemical messenger between neurons
 - Squid axons (Hodgkin & Huxley, 1952) can be as much as 1 millimeter in diameter, large enough to record from easily
@@ -195,6 +205,8 @@
 - **Nodes of Ranvier:** Gaps between segments of myelin where action potentials form; signals "skip" myelinated sections and travel about 20 times faster
 - Puffer fish (fugu) toxin blocks the movement of sodium into cells, causing paralysis
 
+![An action potential, step by step (a sketch, not to scale)](action-potential)
+
 ## Chemical signaling at the synapse {pp. 141–143}
 - **Synapse:** A point of communication between two neurons; the neurons do not touch but are separated by tiny gaps of fluid
 - **Neurotransmitter:** A chemical messenger that communicates across a synapse; more than 50 have been identified
@@ -204,6 +216,8 @@
 - **Inhibition:** A neurotransmitter slightly hyperpolarizes the receiving neuron, making an action potential less likely
 - Tetanus ("lockjaw") toxin damages inhibitory neurons in the motor system, leaving only excitation and extreme muscle contraction
 - **Summation:** The neuron adds up all incoming excitatory and inhibitory messages to "decide" whether to fire an action potential
+
+![Chemical signaling at the synapse](synapse)
 
 ## Important neurotransmitters (Table 4.4) {pp. 141–145}
 | Neurotransmitter | Behaviors influenced |

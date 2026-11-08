@@ -19,6 +19,8 @@
 | Responds | By fully integrating knowledge about trauma into policies, procedures, and practices |
 | Resists retraumatization | Actively avoids re-traumatizing people |
 
+![The four R's of a trauma-informed approach](four-rs)
+
 | Trauma-informed principle | Meaning |
 |---|---|
 | Safety | Participants and staff feel physically and psychologically safe |

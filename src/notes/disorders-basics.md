@@ -31,6 +31,8 @@
 - **Neurodevelopmental disorders:** DSM-5 term for disorders typically diagnosed in childhood that often continue across the life span (e.g., autism spectrum disorder and ADHD)
 - We say "a person with autism spectrum disorder" rather than "an autistic person" because people are not their disorders
 
+![The diathesis–stress model](diathesis-stress)
+
 ## Mental health and mental illness (SAMHSA)
 @ [SAMHSA: Mental Health](https://www.samhsa.gov/mental-health) · [What Is Mental Health?](https://www.samhsa.gov/mental-health/what-is-mental-health) · [Mental Health Conditions](https://www.samhsa.gov/mental-health/what-is-mental-health/conditions)
 - **Mental health (SAMHSA):** Includes our emotional, psychological, and social well-being; it affects how we think, feel, and act, and helps determine how we handle stress, relate to others, and make choices
