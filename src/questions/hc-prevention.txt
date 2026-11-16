@@ -1,0 +1,351 @@
+? According to the HOSA Canada slides, how much of the written test does this topic make up?
++ 25%
+- 5%
+- 15%
+- 50%
+@ This topic is 25% of the written test
+
+? Which campaign aims to reduce underage drinking and substance use and gives parents resources for talking with children?
++ Talk. They Hear You.
+- National Prevention Week
+- STOP Underage Drinking
+- Federal Commission on School Safety
+@ Talk. They Hear You.
+
+? How many federal agencies does ICCPUD coordinate?
++ 15
+- 5
+- 25
+- 50
+@ Coordinates 15 federal agencies
+
+? In which month is National Prevention Week held?
++ May
+- January
+- September
+- December
+@ In May
+
+? Which group recommends policies and best practices for preventing school violence?
++ Federal Commission on School Safety
+- National Child Traumatic Stress Initiative
+- ICCPUD
+- Talk. They Hear You.
+@ Federal Commission on School Safety
+
+? Which initiative raises awareness of trauma's impact on children and teens?
++ National Child Traumatic Stress Initiative (NCTSI)
+- National Prevention Week
+- STOP Underage Drinking
+- Communities Talk to Prevent Alcohol and Other Drug Misuse
+@ National Child Traumatic Stress Initiative (NCTSI)
+
+? What is the most commonly used medical therapy?
++ Medication
+- Electroconvulsive therapy
+- Psychosurgery
+- Neurofeedback
+@ the most commonly used medical therapy
+
+? What is psychosurgery?
++ Trying to improve psychological disorders with brain surgery
+- Using electricity to bring on a seizure
+- Teaching a client to control brain activity
+- Using medication to block dopamine
+@ Psychosurgery: brain surgery for psychological disorders
+
+? What is the most common psychological treatment for autism spectrum disorder?
++ Applied behaviour analysis (ABA)
+- Psychoanalysis
+- Dialectical behaviour therapy
+- Exposure therapy
+@ Applied behaviour analysis (ABA): most common ASD treatment
+
+? Which learning principles does applied behaviour analysis use?
++ Operant conditioning
+- Classical conditioning only
+- Free association
+- Hypnosis
+@ operant conditioning on observable, socially important behaviours like language
+
+? Which type of drug is most prescribed for ADHD?
++ Stimulants
+- Antipsychotics
+- Lithium
+- Anti-anxiety drugs
+@ top drugs are stimulants: methylphenidate (Ritalin), dextroamphetamine, amphetamine salts (Adderall)
+
+? Methylphenidate is sold under which brand name?
++ Ritalin
+- Adderall
+- Prozac
+- Zoloft
+@ methylphenidate (Ritalin)
+
+? Which drugs reduce psychosis by blocking dopamine at its receptors?
++ Phenothiazines
+- SSRIs
+- Lithium carbonate
+- Stimulants
+@ Phenothiazines: antipsychotics that block dopamine receptors (dopamine antagonists), reducing psychosis
+
+? Tremors and involuntary movements of the face and tongue from phenothiazine use are called what?
++ Tardive dyskinesia
+- Cataplexy
+- Restless legs syndrome
+- Narcolepsy
+@ Tardive dyskinesia: tremors and involuntary movements, especially face and tongue, from phenothiazines
+
+? What is the most prescribed medication for bipolar disorder?
++ Lithium carbonate
+- Phenothiazines
+- Methylphenidate
+- SSRIs
+@ most prescribed is lithium carbonate, a simple salt
+
+? What is the most popular treatment for major depressive disorder today?
++ Medication
+- Electroconvulsive therapy
+- Psychosurgery
+- Hypnosis
+@ Medication is the most popular MDD treatment today
+
+? Which class of antidepressants includes Prozac and Zoloft?
++ Selective serotonin reuptake inhibitors (SSRIs)
+- Phenothiazines
+- Stimulants
+- Mood stabilizers
+@ Selective serotonin reuptake inhibitors (SSRIs): most prescribed antidepressants (e.g., Prozac, Zoloft)
+
+? How are anxiety disorders usually treated?
++ With medication, CBT, or both
+- With psychosurgery only
+- With lithium only
+- With hypnosis only
+@ Anxiety disorders (GAD, phobias, panic disorder): medication, CBT, or both
+
+? What is the brain's major inhibitory neurotransmitter?
++ GABA
+- Dopamine
+- Serotonin
+- Glutamate
+@ GABA is the brain's major inhibitory neurotransmitter, so boosting it slows brain activity
+
+? How is PTSD usually treated?
++ Exposure therapy, with or without SSRI medication
+- Lithium carbonate alone
+- Psychosurgery
+- Hypnosis to recover memories
+@ PTSD: exposure therapy, with or without SSRIs
+
+? Which therapy was designed especially for borderline personality disorder?
++ Dialectical behaviour therapy (DBT)
+- Applied behaviour analysis (ABA)
+- Psychoanalysis
+- Exposure therapy
+@ Dialectical behaviour therapy (DBT): designed for BPD
+
+? What are the four major dimensions of recovery?
++ Health, home, purpose, and community
+- Health, wealth, fame, and family
+- Diagnosis, treatment, medication, and therapy
+- Prevention, identification, recovery, and management
+@ Recovery has four major dimensions: health, home, purpose, and community
+
+? Which dimension of recovery means having a stable, safe place to live?
++ Home
+- Health
+- Purpose
+- Community
+@ Home — A stable, safe place to live
+
+? Which dimension of recovery means meaningful daily activities such as a job or volunteering?
++ Purpose
+- Home
+- Health
+- Community
+@ Purpose — Meaningful daily activities for independence, income, and taking part in society (job, volunteering, caregiving, creative work)
+
+? Which dimension of recovery means relationships that give support, friendship, love, and hope?
++ Community
+- Purpose
+- Home
+- Health
+@ Community — Relationships giving support, friendship, love, and hope
+
+## hard
+
+? What does ICCPUD's STOP Underage Drinking website offer?
++ Research, federal and state resources, and funding opportunities
+- Free medication for teens
+- Online therapy sessions
+- School violence policies
+@ ICCPUD website: research, federal and state resources, funding opportunities
+
+? Communities Talk to Prevent Alcohol and Other Drug Misuse focuses on which age group?
++ People aged 12 to 25
+- Children under 12
+- Adults over 25
+- People over 65
+@ Communities Talk to Prevent Alcohol and Other Drug Misuse — National initiative giving resources and stipends to community groups, colleges, and state organizations; awareness of misuse among ages 12 to 25
+
+? National Children's Mental Health Awareness Day raises awareness of the needs of which children?
++ Children with serious mental illness and severe emotional disturbance
+- Children with physical disabilities only
+- Children with high IQ scores
+- Children of military families only
+@ needs of children with serious mental illness and severe emotional disturbance
+
+? Before ECT, what is the patient given?
++ Anesthesia and a muscle relaxant
+- A stimulant and an SSRI
+- Lithium and a mood stabilizer
+- Nothing; the patient stays fully awake
+@ anesthesia and a muscle relaxant, then electrodes on the head induce a generalized seizure
+
+? ASD comes with abnormal levels of which neurotransmitters?
++ Serotonin, GABA, and glutamate
+- Dopamine and norepinephrine only
+- Acetylcholine and endorphins
+- Adenosine and orexins
+@ ASD: abnormal serotonin, GABA, glutamate, but no medication proven to ease symptoms
+
+? What do the slides say about medication for autism spectrum disorder symptoms?
++ No medication has been proven to ease its symptoms
+- Stimulants cure it
+- Lithium is the main treatment
+- SSRIs remove all symptoms
+@ ASD: abnormal serotonin, GABA, glutamate, but no medication proven to ease symptoms
+
+? Which neurotransmitters do the main ADHD drugs boost?
++ Dopamine and norepinephrine
+- Serotonin and GABA
+- Acetylcholine and glutamate
+- Endorphins and adenosine
+@ they boost dopamine and norepinephrine
+
+? What is the reasoning behind giving stimulants for ADHD?
++ Brain areas for planned, thoughtful behaviour, such as the basal ganglia and frontal lobes, are not active enough
+- The brain is already too active and needs calming
+- Stimulants block dopamine receptors
+- Stimulants raise serotonin to reduce anxiety
+@ Stimulant rationale: impulsive hyperactivity arises when areas for planned behaviour (basal ganglia, frontal lobes) are underactive
+
+? About what share of patients with schizophrenia do not respond to phenothiazines?
++ Nearly a quarter
+- Nearly all
+- About half
+- Fewer than 1%
+@ Nearly a quarter of patients with schizophrenia don't respond
+
+? Which symptoms do antipsychotic drugs often treat less well?
++ Negative symptoms such as social withdrawal and emotional disturbance
+- Hallucinations
+- Delusions
+- All psychotic symptoms
+@ hallucinations and delusions improve more than negative symptoms (social withdrawal, emotional disturbance)
+
+? What happens when people without bipolar symptoms take lithium?
++ They show no change in behaviour
+- They become manic
+- They become deeply depressed
+- They develop tardive dyskinesia
+@ Lithium acts only on bipolar disorder: no behaviour change in people without bipolar symptoms
+
+? Why do patients taking lithium need regular blood tests?
++ Toxic levels can cause nausea, vomiting, tremors, seizures, and even coma
+- Lithium stops working after one month
+- Lithium causes tardive dyskinesia
+- Lithium lowers serotonin in the blood
+@ Toxic lithium → nausea, vomiting, tremors, seizures, even coma, so regular blood tests are needed
+
+? According to the slides, is psychotherapy alone usually an option for bipolar disorder?
++ No; most people seem to need medication
+- Yes; it is the preferred treatment
+- Yes, but only hypnosis
+- No; surgery is the only option
+@ Most people with bipolar disorder need medication
+
+? How do SSRIs work?
++ They block serotonin reuptake, so more serotonin stays in the synapse
+- They block dopamine receptors
+- They boost GABA's effects
+- They destroy serotonin neurons
+@ block serotonin reuptake, leaving more in the synapse
+
+? What advantage do psychotherapies for depression have, according to the slides?
++ They have no adverse side effects
+- They work faster than any drug
+- They cure depression permanently
+- They raise serotonin more than SSRIs
+@ Psychotherapies (notably CBT) relieve depression without adverse side effects
+
+? Why do antidepressants often work better for anxiety than GABA-boosting drugs?
++ This might point to a shared underlying cause for depression and anxiety
+- Anxiety is caused only by low serotonin
+- GABA drugs make anxiety worse
+- Antidepressants are tranquilizers
+@ antidepressants usually work better, hinting at a shared cause of depression and anxiety
+
+? What does CBT for OCD train the person to do?
++ Anticipate a compulsive behaviour and then do a competing behaviour instead
+- Recall childhood memories under hypnosis
+- Avoid all anxiety-causing situations
+- Take medication before each compulsion
+@ CBT trains anticipating a compulsion and doing a competing behaviour instead
+
+? What do many people with body dysmorphic disorder tend to do instead of psychotherapy?
++ Keep seeking cosmetic surgery
+- Take lithium
+- Join group therapy
+- Ask for ECT
+@ many keep seeking cosmetic surgery and resist psychotherapy
+
+? Why does full recovery from PTSD often need more than PTSD treatment?
++ Many people with PTSD also develop substance use disorders
+- PTSD always comes with schizophrenia
+- Exposure therapy causes new phobias
+- SSRIs cause PTSD to return
+@ PTSD: exposure therapy, with or without SSRIs; co-occurring substance use disorders also need treatment
+
+? Why is using hypnosis to recover traumatic memories in dissociative identity disorder not well advised?
++ Suggestible people may create false memories under hypnosis
+- Hypnosis always erases real memories
+- Hypnosis causes seizures
+- Hypnosis only works on children
+@ Hypnosis for recovering memories is not well advised: suggestible people may create false memories, and people with this diagnosis are far more suggestible than average
+
+? Which are among the best biological treatments for somatic symptom disorders?
++ Antidepressant medication and more physical activity
+- Lithium and ECT
+- Psychosurgery and deep brain stimulation
+- Stimulants and antipsychotics
+@ best biological ones are antidepressants and more physical activity
+
+? Why are people in prison with antisocial personality disorder sometimes given antipsychotics and anticonvulsants?
++ To make aggressive, violent behaviour more manageable
+- To cure the disorder
+- To treat their depression
+- To improve their moral reasoning
+@ ASPD: high priority given the harm caused, but effective treatment is elusive; no medication targets antisocial behaviour, though inmates may get antipsychotics and anticonvulsants to manage aggression
+
+? Psychological treatment for antisocial personality disorder uses learning models that focus on what?
++ Anger control, social skills, and moral reasoning
+- Recovering childhood memories
+- Exposure to feared objects
+- Reducing suicidal thoughts first
+@ ASPD psychological treatment: learning models for anger control, social skills, moral reasoning
+
+? In what order does dialectical behaviour therapy tackle symptoms?
++ Suicidal thoughts, then behaviours that interfere with therapy, then behaviours that hurt quality of life
+- Quality of life first, then therapy behaviours, then suicidal thoughts
+- Behaviours that interfere with therapy first, then suicidal thoughts
+- All symptoms at the same time
+@ treats in order: suicidal thoughts, then therapy-interfering behaviours, then quality-of-life behaviours
+
+? Abstaining from alcohol and non-prescribed medication is part of which dimension of recovery?
++ Health
+- Home
+- Purpose
+- Community
+@ Health — Overcoming or managing disease through informed, healthy choices (e.g., abstaining from alcohol, illicit drugs, non-prescribed medication)

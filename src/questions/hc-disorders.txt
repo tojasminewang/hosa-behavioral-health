@@ -1,0 +1,554 @@
+? What is abnormal psychology?
++ The study of psychological disorders
+- The study of typical behaviour
+- The study of brain anatomy
+- The study of how memories form
+@ the study of psychological disorders
+
+? How are psychological disorders diagnosed, according to the slides?
++ Only from observable behaviour
+- Only from blood tests
+- Only from brain scans
+- Only from family history
+@ Diagnosis rests only on observable behaviour
+
+? What manual do mental health professionals use so that diagnoses are consistent?
++ The Diagnostic and Statistical Manual of Mental Disorders (DSM)
+- The Yerkes-Dodson law
+- The Atkinson-Shiffrin model
+- The Premack principle
+@ Diagnostic and Statistical Manual of Mental Disorders (DSM): manual for consistent diagnosis
+
+? What IQ score is the cutoff for diagnosing an intellectual disability?
++ 70 or below
+- 85 or below
+- 100 or below
+- 50 or below
+@ Intellectual disability uses statistics: IQ of 70 or below is the cutoff
+
+? What are comorbid disorders?
++ More than one disorder happening at the same time
+- Disorders that start in childhood
+- Disorders with no known cause
+- Disorders that only affect memory
+@ Comorbid disorders: more than one disorder at once, so adding up each disorder's rate doesn't work
+
+? Which two neurodevelopmental disorders are among the most common?
++ Autism spectrum disorder and ADHD
+- Schizophrenia and bipolar disorder
+- OCD and PTSD
+- Panic disorder and agoraphobia
+@ ASD and ADHD are two of the most common
+
+? Which disorder involves problems with social relatedness and communication, often with repetitive, ritualistic behaviour?
++ Autism spectrum disorder (ASD)
+- ADHD
+- Schizophrenia
+- Social anxiety disorder
+@ Autism spectrum disorder (ASD): deficits in social relatedness and communication, often with repetitive, ritualistic behaviour
+
+? What does the weight of scientific evidence show about vaccines and autism spectrum disorder?
++ Vaccines play no part in causing ASD
+- Vaccines are the main cause of ASD
+- Vaccines cause ASD only in some families
+- The evidence is evenly split
+@ ASD: genetic influence plus interacting environmental factors; vaccines play no part
+
+? Which disorder involves unusual inattention, hyperactivity with impulsivity, or both?
++ ADHD
+- Autism spectrum disorder
+- Bipolar disorder
+- Generalized anxiety disorder
+@ Attention deficit hyperactivity disorder (ADHD): unusual inattention, hyperactivity-impulsivity, or both
+
+? What are delusions?
++ False, illogical beliefs
+- False perceptions
+- Intrusive, upsetting thoughts
+- Unrealistically elevated moods
+@ false, illogical beliefs
+
+? What are hallucinations?
++ False perceptions
+- False, illogical beliefs
+- Repetitive, ritualistic behaviours
+- Feelings that the self is unreal
+@ false perceptions
+
+? About what share of people worldwide does schizophrenia affect?
++ About 1%
+- About 7%
+- About 30%
+- About 50%
+@ Schizophrenia: ~1% of people worldwide
+
+? Which disorder involves alternating periods of mania and depression?
++ Bipolar disorder
+- Major depressive disorder
+- Schizophrenia
+- Borderline personality disorder
+@ Bipolar disorder: mood disorder alternating mania and depression
+
+? What is mania?
++ A period of unrealistically elevated mood
+- A period of deep depression
+- A false perception
+- An intrusive thought
+@ Mania: unrealistically elevated mood
+
+? Which nutrients, usually found in fish, help protect against bipolar disorder?
++ Omega-3 fatty acids
+- Sugars and fats
+- Caffeine and adenosine
+- Benzodiazepines
+@ diet may interact (omega-3 fatty acids, usually in fish, protect)
+
+? About what share of adults does major depressive disorder affect each year?
++ 7%
+- 1%
+- 2.6%
+- 30%
+@ MDD: 7% of adults yearly
+
+? Who experiences depression more often, according to the slides?
++ Women
+- Men
+- People over 60
+- Children
+@ more common in women
+
+? Feeling helpless, and possibly depressed, after experiencing uncontrollable consequences is called what?
++ Learned helplessness
+- Learned behaviour
+- Latent learning
+- Motivated forgetting
+@ Learned helplessness: helplessness, possibly depression, after random or uncontrollable consequences
+
+? About what share of Americans experience an anxiety disorder?
++ About 30%
+- About 1%
+- About 7%
+- About 70%
+@ ~30% of Americans experience one
+
+? An unrealistic fear of being watched and criticized by others is called what?
++ Social anxiety disorder
+- Agoraphobia
+- Panic disorder
+- Generalized anxiety disorder
+@ Social anxiety disorder: unrealistic fear of being scrutinized and criticized
+
+? Repeated panic attacks plus a fear of having more are signs of what?
++ Panic disorder
+- Generalized anxiety disorder
+- Specific phobia
+- OCD
+@ Panic disorder: repeated panic attacks plus fear of more
+
+? Agoraphobia is named after the Greek word agora. What does agora mean?
++ Marketplace
+- Fear
+- Open sky
+- Crowd
+@ Agoraphobia: fear of open spaces, from Greek agora, "marketplace"
+
+? What is an obsession?
++ An intrusive, upsetting thought
+- A repetitive, ritualistic behaviour
+- A false perception
+- A period of elevated mood
+@ Obsession: intrusive, upsetting thought, unlike everyday worries about real-life problems
+
+? What is a compulsion?
++ A repetitive, ritualistic behaviour tied to high anxiety
+- An intrusive, upsetting thought
+- An unrealistic fear of being criticized
+- A false, illogical belief
+@ Compulsion: repetitive, ritualistic behaviour tied to high anxiety
+
+? An unrealistic perception of physical flaws is called what?
++ Body dysmorphic disorder
+- Somatic symptom disorder
+- Narcissistic personality disorder
+- Depersonalization disorder
+@ Body dysmorphic disorder: unrealistic perception of physical flaws
+
+? Which disorder is the only one with a specific cause, a trauma the person experienced?
++ PTSD
+- OCD
+- Schizophrenia
+- Bipolar disorder
+@ Posttraumatic stress disorder (PTSD): the only disorder with a specific cause: an experienced trauma
+
+? Forgetting important information about specific events is called what?
++ Dissociative amnesia
+- Anterograde amnesia
+- Motivated forgetting
+- Decay
+@ forgetting important information about specific events
+
+? Which disorder involves physical symptoms with no underlying medical cause?
++ Somatic symptom disorder
+- Body dysmorphic disorder
+- Dissociative amnesia
+- Panic disorder
+@ Somatic symptom disorder: physical symptoms with no medical cause that seem serious and disabling to the patient, with excessive worry and often high anxiety
+
+? Which personality disorder is a pervasive pattern of disregarding and violating other people's rights?
++ Antisocial personality disorder (ASPD)
+- Borderline personality disorder (BPD)
+- Narcissistic personality disorder (NPD)
+- Obsessive-compulsive disorder
+@ Antisocial personality disorder (ASPD): pervasive disregard for and violation of others' rights
+
+? Which personality disorder involves instability in relationships, self-image, and emotion?
++ Borderline personality disorder (BPD)
+- Antisocial personality disorder (ASPD)
+- Narcissistic personality disorder (NPD)
+- Bipolar disorder
+@ Borderline personality disorder (BPD): unstable relationships, self-image, emotion
+
+? Which personality disorder involves grandiosity, a need for admiration, and a lack of empathy?
++ Narcissistic personality disorder (NPD)
+- Antisocial personality disorder (ASPD)
+- Borderline personality disorder (BPD)
+- Social anxiety disorder
+@ Narcissistic personality disorder (NPD): grandiosity, need for admiration, lack of empathy
+
+? What is psychotherapy?
++ Treatment that improves symptoms through conversation between therapist and client
+- Treatment that uses medication to change brain chemistry
+- Treatment that uses electricity to bring on a seizure
+- Treatment that uses surgery on the brain
+@ Psychotherapy: treating symptoms through therapist–client conversation
+
+? Which professional is a medical doctor who can prescribe medication for psychological disorders?
++ Psychiatrist
+- Psychologist
+- Counselor
+- Psychotherapist
+@ Psychiatrist — Medical doctor in psychiatry; can prescribe medication
+
+? About how many people take part in group therapy?
++ 6 to 12
+- 2 to 3
+- 20 to 30
+- 50 or more
+@ Group therapy
+
+? Who developed psychoanalysis?
++ Freud
+- Carl Rogers
+- Bandura
+- Skinner
+@ Psychoanalysis: Freud's insight therapy, used by followers of psychodynamic theories
+
+? Which psychoanalytic technique has the patient say whatever comes to mind without censoring it?
++ Free association
+- Transference
+- Resistance
+- Cognitive restructuring
+@ Free association: saying whatever comes to mind without censoring
+
+? Who developed person-centered therapy?
++ Carl Rogers
+- Freud
+- Pavlov
+- Thorndike
+@ Carl Rogers's humanistic therapy
+
+? Which therapy combines cognitive restructuring with behavioural treatments?
++ Cognitive behavioural therapy (CBT)
+- Psychoanalysis
+- Person-centered therapy
+- Neurofeedback
+@ Cognitive behavioural therapy (CBT): cognitive restructuring + behavioural treatment
+
+? Which biological treatment is used for severe depression that has not responded to other treatments?
++ Electroconvulsive therapy (ECT)
+- Neurofeedback
+- Psychosurgery
+- Stimulant medication
+@ Electroconvulsive therapy (ECT): for severe depression unresponsive to other treatment
+
+? Which medication is listed as a biological treatment for bipolar disorder?
++ Lithium carbonate
+- Stimulant medication
+- Antipsychotics for self-injury
+- Anti-anxiety medication
+@ Lithium carbonate
+
+## hard
+
+? What two problems do the slides name with a purely statistical approach to defining disorders?
++ It implies a cultural specificity we want to avoid, and it misses the distress of a disorder
+- It is too expensive and too slow
+- It counts comorbid disorders twice and ignores IQ
+- It relies only on brain scans and ignores behaviour
+@ A purely statistical approach implies an unwanted cultural specificity and misses a disorder's distress
+
+? Why can't the rates of each disorder simply be added up to find how many people have a disorder?
++ Because of comorbidity: one person can have more than one disorder at once
+- Because disorders are diagnosed only by blood tests
+- Because the DSM does not list rates
+- Because most disorders disappear by adulthood
+@ Comorbid disorders: more than one disorder at once, so adding up each disorder's rate doesn't work
+
+? Which environmental factors do the slides list as interacting with the genetic risk for ADHD?
++ Low birth weight and exposure to tobacco, alcohol, and other drugs
+- Vaccines and too much sugar
+- Poverty and living in a city
+- A diet low in omega-3 fatty acids
+@ ADHD: possibly genetic, with environmental factors such as low birth weight and exposure to tobacco, alcohol, other drugs
+
+? Which brain area may be underactive in ADHD?
++ The frontal lobes
+- The occipital lobes
+- The cerebellum
+- The amygdala
+@ frontal lobes may be underactive
+
+? In schizophrenia, what do "avolition" and "asociality" mean?
++ A lack of motivation and a lack of social interest
+- False beliefs and false perceptions
+- Elevated mood and racing thoughts
+- Repetitive behaviour and intrusive thoughts
+@ Schizophrenia: hallucinations, delusions, disorganized thinking and speech, movement problems, restricted affect, avolition (no motivation) or asociality (no social interest)
+
+? The genes involved in schizophrenia overlap with the genes for which disorder?
++ Bipolar disorder
+- ADHD
+- OCD
+- Antisocial personality disorder
+@ many genes, overlapping with bipolar disorder
+
+? How much more often is schizophrenia found in lower than in higher socioeconomic groups?
++ 5 times more often
+- Twice as often
+- 10 times more often
+- About equally often
+@ 5 times more common in lower than higher socioeconomic groups (poverty stress may trigger it)
+
+? About what share of American adults does bipolar disorder affect each year?
++ 2.6%
+- 1%
+- 7%
+- 30%
+@ 2.6% of American adults yearly
+
+? Bipolar disorder may be overrepresented among which group?
++ People with artistic and creative talent
+- People over 60
+- People in collectivistic cultures
+- Professional athletes
+@ may be overrepresented among artistic, creative people
+
+? How do depression rates for people aged 18 to 29 compare with those for people over 60?
++ About three times higher
+- About the same
+- About half as high
+- About ten times higher
+@ 5 times more common in lower than higher socioeconomic groups (poverty stress may trigger it)
+
+? According to one cognitive view, depression comes from negative thoughts about which three things?
++ The self, the world, and the future
+- Food, sleep, and exercise
+- Parents, friends, and teachers
+- Money, school, and health
+@ Cognitive view: negative thoughts about the self, the world, the future
+
+? According to a learning view, what leads to depression?
++ A drop in positive reinforcement or a rise in negative outcomes
+- Too much positive reinforcement
+- Spontaneous recovery of old fears
+- A rise in latent learning
+@ Learning view: less positive reinforcement or more negative outcomes
+
+? What often comes right before a depressive episode begins?
++ Severe stress
+- A manic episode
+- A head injury
+- A panic attack
+@ severe stress often comes right before an episode
+
+? What are the two parts of anxiety?
++ Strong negative emotions and physical tension from expecting danger
+- False beliefs and false perceptions
+- Elevated mood and low mood
+- Obsessions and compulsions
+@ Anxiety = strong negative emotions + physical tension from expecting danger
+
+? What do the slides say about anxiety and realistic thinking?
++ Anxiety does not stop a person from thinking realistically
+- Anxiety always causes delusions
+- Anxiety causes hallucinations
+- Anxiety makes realistic thinking impossible
+@ anxiety does not stop realistic thinking
+
+? In which kind of culture is social anxiety more common?
++ Collectivistic cultures
+- Individualistic cultures
+- Cultures near the equator
+- Cultures with high omega-3 diets
+@ more common in collectivistic cultures
+
+? How long must excessive, general worry last for a diagnosis of generalized anxiety disorder?
++ 6 months
+- 2 weeks
+- 1 month
+- 2 years
+@ Generalized anxiety disorder (GAD): excessive anxiety and worry for 6 months, not tied to specific objects or situations
+
+? In the United States, how does socioeconomic class relate to anxiety diagnoses?
++ People in lower classes are twice as likely to be diagnosed
+- People in upper classes are twice as likely to be diagnosed
+- There is no difference
+- People in lower classes are five times as likely to be diagnosed
+@ US: lower socioeconomic classes are twice as likely to be diagnosed as upper and middle classes
+
+? Putting the perspectives together, who is most likely to develop anxiety?
++ People with a genetically based high-reactive temperament
+- People who eat a lot of fish
+- People with underactive frontal lobes
+- People with orbitofrontal cortex damage
+@ Overall, anxiety is likeliest with a high-reactive temperament from one's genes
+
+? How do obsessions differ from everyday worries?
++ Everyday worries usually focus on real-life problems; obsessions are intrusive and upsetting
+- Obsessions always focus on real-life problems
+- Everyday worries are always repetitive behaviours
+- There is no difference
+@ Obsession: intrusive, upsetting thought, unlike everyday worries about real-life problems
+
+? What do learning explanations of OCD focus on?
++ What is rewarding about compulsions
+- Low benzodiazepine activity
+- Orbitofrontal cortex damage
+- The prenatal environment
+@ learning views focus on rewarding compulsions
+
+? Which brain chemistry finding is linked to PTSD?
++ Lower levels of the brain's own benzodiazepine activity in the frontal cortex
+- Too much dopamine in the basal ganglia
+- Missing orexins in the hypothalamus
+- Extra serotonin in the medulla
+@ lower natural benzodiazepine activity in the frontal cortex
+
+? About what share of US adults have PTSD?
++ About 3% to 4%
+- About 1%
+- About 7%
+- About 30%
+@ PTSD: ~3%–4% of US adults
+
+? Strong feelings that the self or the surroundings are unreal describe which disorder?
++ Depersonalization/derealization disorder
+- Dissociative amnesia
+- Somatic symptom disorder
+- Schizophrenia
+@ Depersonalization/derealization disorder: strong feeling that the self or surroundings are unreal
+
+? Antisocial personality disorder is linked to abnormalities in which brain area?
++ Orbitofrontal cortex
+- Hippocampus
+- Occipital lobe
+- Cerebellum
+@ orbitofrontal cortex abnormalities
+
+? How does a vulnerable narcissist differ from a grandiose narcissist?
++ The vulnerable narcissist pairs inflated self-worth with insecurity, defensiveness, and negative emotions
+- The vulnerable narcissist has low self-worth and no need for admiration
+- The vulnerable narcissist is more aggressive and dominant
+- There is no difference
+@ Vulnerable narcissist: inflated self-worth with insecurity, defensiveness, negative emotions
+
+? What three things does evidence-based practice combine?
++ The clinician's experience, the best scientific evidence, and the patient's values and expectations
+- Medication, surgery, and exercise
+- Free association, transference, and resistance
+- Diagnosis, insurance approval, and group therapy
+@ Evidence-based practice (EBP): clinician's experience + best scientific evidence + patient's values and expectations
+
+? What does the term "counseling" usually refer to now?
++ Treatment for adjustment problems rather than severe disorders
+- Treatment for severe psychological disorders only
+- Treatment with medication
+- Treatment through brain surgery
+@ now treatment for adjustment problems rather than severe disorders
+
+? Besides an advanced degree, what must clinical psychologists complete?
++ A supervised internship giving treatment
+- Medical school
+- A residency in surgery
+- A degree in education
+@ clinical psychologists also complete a supervised treatment internship
+
+? About how many sessions does brief therapy usually take?
++ About 3 to 5
+- About 6 to 12
+- About 20 to 30
+- Just 1
+@ Brief therapy
+
+? In psychoanalysis, what is transference?
++ Using the patient's reactions to the therapist to understand how they approach authority figures
+- The patient saying whatever comes to mind
+- The patient refusing to accept interpretations
+- Replacing irrational beliefs with rational ones
+@ Transference: using the patient's reactions to the therapist to understand their approach to authority figures
+
+? In psychoanalysis, what does a patient's resistance suggest about the therapist's interpretations?
++ That the interpretations are correct
+- That the interpretations are wrong
+- That therapy should end
+- That medication is needed
+@ Resistance: reluctance to accept interpretations, taken as a sign they are correct
+
+? What does person-centered therapy try to help clients reach?
++ Congruence between their real and ideal selves
+- Insight into childhood conflicts
+- A lower IQ score
+- Fewer conditioned responses
+@ Person-centered therapy: Carl Rogers's humanistic therapy aiming for congruence of the real and ideal selves
+
+? Which group shows a stronger preference for medication, according to the slides?
++ Younger patients and women
+- Older patients and men
+- People in group therapy
+- People with personality disorders
+@ Medication: preferred more by younger patients and women
+
+? Which treatment uses surgically implanted electrodes to treat anxiety and mood disorders?
++ Deep brain stimulation
+- Electroconvulsive therapy
+- Neurofeedback
+- Psychosurgery
+@ Deep brain stimulation: surgically implanted electrodes
+
+? Neurofeedback is used to treat which conditions?
++ ADHD and seizures
+- Schizophrenia and bipolar disorder
+- Personality disorders
+- Specific phobias
+@ ADHD and seizures
+
+? Which psychological treatment is listed for autism spectrum disorder?
++ Applied behaviour analysis
+- Psychoanalysis
+- DBT
+- Supportive CBT
+@ Applied behaviour analysis
+
+? Which treatment is listed for borderline personality disorder?
++ DBT
+- Lithium carbonate
+- ECT
+- Stimulant medication
+@ Learning models (ASPD), DBT (borderline), CBT (NPD)
+
+? What do the slides list as the biological treatment for personality disorders?
++ No effective biological treatments
+- Antipsychotic drugs
+- Lithium carbonate
+- Stimulant medication
+@ No effective biological treatments

@@ -90,7 +90,7 @@
   - Patient S.M. (damage to both amygdalae) could not identify fearful expressions, showed no fear of snakes, spiders, or scary movies, and stood about twice as close to strangers as others do
 - **Nucleus accumbens:** Part of the brain's reward and pleasure circuitry; participates in reward and addiction (eating, sex, addictive drugs, gambling); its activity is related to a person's sense of social inclusion
 
-![Inside the brain, cut down the middle. The hippocampus and amygdala lie deeper (the amygdala is in the temporal lobe), so they are drawn see-through. Point at a number or a label to match them up.](brain-inside)
+![Inside the brain, cut down the middle. The hippocampus and amygdala lie deeper (the amygdala is in the temporal lobe), so they are drawn see-through.](brain-inside)
 
 ## The cerebral cortex {pp. 118–123}
 - **Corpus callosum:** A wide band of nerve fibers connecting the right and left cerebral hemispheres

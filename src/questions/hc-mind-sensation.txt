@@ -1,0 +1,449 @@
+? What is the difference between sensation and perception?
++ Sensation detects stimuli; perception interprets the sensory information
+- Sensation interprets stimuli; perception detects them
+- Sensation happens only while awake; perception happens only while asleep
+- Sensation is subjective; perception is the same for everyone
+@ Sensation: detecting stimuli from the environment or the body; shaped by natural selection for survival; differences between people are subtle (e.g., needing glasses)
+
+? What is transduction?
++ Turning incoming sensory information into neural signals sent to the brain
+- Paying less attention to a stimulus that does not change
+- Splitting a scene into figure and background
+- Bending light toward the retina
+@ Transduction: turning sensory information into neural signals sent to the brain
+
+? The pain of a sprained ankle is an example of what kind of stimulus?
++ An internal stimulus
+- An external stimulus
+- A monocular cue
+- A difference threshold
+@ Stimulus: anything that triggers a sensory reaction; external (scent of a flower) or internal (pain of a sprained ankle)
+
+? You stop noticing the hum of a fan that has been running all day. What is this called?
++ Sensory adaptation
+- Selective attention
+- Top-down processing
+- Transduction
+@ Sensory adaptation: paying less attention to an unchanging stimulus
+
+? Processing several sources of sensory information at the same time is called what?
++ Divided attention
+- Selective attention
+- Sensory adaptation
+- Signal detection
+@ Divided attention: processing several sources at once
+
+? Focusing on a few stimuli while ignoring everything else, which can lead to errors, is called what?
++ Selective attention
+- Divided attention
+- Sensory adaptation
+- Bottom-up processing
+@ Selective attention: focusing on a few stimuli and ignoring the rest
+
+? When the brain uses prior knowledge, memories, and expectations to shape a perception, it is using what?
++ Top-down processing
+- Bottom-up processing
+- Transduction
+- Sensory adaptation
+@ Top-down processing: perception shaped by knowledge, memories, expectations
+
+? Building a perception from new incoming signals is called what?
++ Bottom-up processing
+- Top-down processing
+- Divided attention
+- Accommodation
+@ Bottom-up processing: perception built from new incoming signals
+
+? Who developed psychophysics?
++ Gustav Fechner
+- Giacomo Rizzolatti
+- A group of German Gestalt psychologists
+- The designers of the trichromatic theory
+@ Psychophysics: Gustav Fechner's method relating stimuli's physical qualities to subjective responses
+
+? The weakest stimulus that can be detected at least 50% of the time is called what?
++ The absolute threshold
+- The difference threshold
+- The resting potential
+- Retinal disparity
+@ Absolute threshold: weakest stimulus detected at least 50% of the time
+
+? About how much of the cerebral cortex processes visual information?
++ About 50%
+- About 3%
+- About 11%
+- About 90%
+@ ~50% of the cortex processes vision (vs ~3% hearing, ~11% touch and pain)
+
+? Which photoreceptors detect dim light?
++ Rods
+- Cones
+- Hair cells
+- Free nerve endings
+@ Rods — Dim light
+
+? Which photoreceptors process colour and fine detail?
++ Cones
+- Rods
+- Papillae
+- Hair cells
+@ Cones — Colour and fine detail; best in bright light; 4–5 million per eye; concentrated in the fovea
+
+? What is the coloured ring of muscle around the pupil called?
++ Iris
+- Cornea
+- Lens
+- Retina
+@ Iris: coloured muscle ring
+
+? What is accommodation?
++ Muscles changing the lens's shape to focus on near or far objects
+- The pupil widening in dim light
+- The brain filling in the blind spot
+- The optic nerves crossing at the optic chiasm
+@ Accommodation: changing the lens's shape to focus near or far
+
+? Which part of the retina is specialized for highly detailed central vision?
++ Fovea
+- Optic disk
+- Cornea
+- Optic chiasm
+@ Fovea — Detailed central vision; mostly cones
+
+? Why does the optic disk create a blind spot?
++ It has no rods or cones
+- It has only rods
+- It is covered by the iris
+- It contains the lens
+@ no rods or cones, so a blind spot the brain fills in
+
+? Where do the optic nerves meet and partly cross?
++ At the optic chiasm
+- At the fovea
+- At the superior colliculi
+- At the optic disk
+@ Optic nerves partly cross at the optic chiasm (axons nearest the nose cross)
+
+? Which theory of colour vision explains colour afterimages?
++ Opponent process theory
+- Trichromatic theory
+- Gate theory
+- Signal detection theory
+@ Opponent process theory: red-green and blue-yellow channels, each colour inhibiting its partner
+
+? Which Gestalt principle says we "fill in the blanks" when an image has gaps?
++ Closure principle
+- Proximity principle
+- Continuity principle
+- Simplicity principle
+@ Closure principle: we "fill in the blanks" in gapped images
+
+? Which Gestalt principle says objects close together tend to be grouped?
++ Proximity principle
+- Closure principle
+- Organization principle
+- Continuity principle
+@ Proximity principle: close objects are grouped
+
+? What is depth perception?
++ Using the flat image on the retina to perceive objects in 3D
+- Judging how loud a sound is
+- Detecting the smallest difference between two stimuli
+- Focusing on near or far objects by changing the lens's shape
+@ Depth perception: seeing 3D from the 2D retinal image
+
+? Which depth cue needs both eyes?
++ Retinal disparity
+- Occlusion
+- Relative size
+- Motion parallax
+@ Retinal disparity: difference between the two eyes' images
+
+? Pitch is linked to which property of a sound wave?
++ Frequency
+- Amplitude
+- Timing between the two ears
+- The number of hair cells
+@ Frequency: pitch in hertz (Hz)
+
+? Loudness (sound intensity) is linked to which property of a sound wave, and in what units is it measured?
++ Amplitude, measured in decibels (dB)
+- Frequency, measured in hertz (Hz)
+- Amplitude, measured in hertz (Hz)
+- Frequency, measured in decibels (dB)
+@ Amplitude: sound intensity in decibels (dB)
+
+? Which structure is the boundary between the outer and middle ear?
++ Tympanic membrane (eardrum)
+- Oval window
+- Basilar membrane
+- Cochlear duct
+@ Tympanic membrane (eardrum): boundary of outer and middle ear
+
+? Which inner-ear structure holds the auditory receptors?
++ Cochlea
+- Pinna
+- Tympanic membrane
+- Vestibular system
+@ Cochlea: inner-ear structure with the auditory receptors
+
+? In the organ of Corti, which cells are the auditory receptors?
++ Hair cells
+- Rods
+- Free nerve endings
+- Taste buds
+@ holds the organ of Corti, whose hair cells transduce sound
+
+? Which system in the inner ear reports the head's position and movement?
++ Vestibular system
+- Cochlea
+- Olfactory bulb
+- Basilar membrane
+@ Vestibular system: three inner-ear channels for head position and movement
+
+? Where is touch sensitivity greatest?
++ In the hands and mouth
+- In the back and legs
+- In the brain
+- In the internal organs
+@ Greatest touch sensitivity: hands and mouth
+
+? Which receptors respond to pain?
++ Free nerve endings
+- Hair cells
+- Cones
+- Papillae
+@ Free nerve endings: pain receptors triggered by tissue damage (mechanical, temperature, chemical)
+
+? Feeling less pain after receiving a treatment that has no real effect is called what?
++ The placebo effect
+- The gate theory of pain
+- Sensory adaptation
+- Accommodation
+@ Placebo effect: less pain after an ineffective substance or treatment
+
+? What is olfaction?
++ The sense of smell
+- The sense of taste
+- The sense of balance
+- The sense of touch
+@ Olfaction: smell
+
+? Bumps on the tongue that contain taste buds are called what?
++ Papillae
+- Olfactory bulbs
+- Ossicles
+- Cones
+@ Papillae: tongue bumps holding taste buds
+
+? What is the main purpose of gustation, according to the slides?
++ To protect us from eating spoiled or poisonous food
+- To help us find mates
+- To keep our balance
+- To help us localize sounds
+@ Taste protects us from spoiled or poisonous food
+
+? Which type of hearing loss happens first with age?
++ Loss of high frequencies
+- Loss of low frequencies
+- Loss of all frequencies at once
+- Loss of the ability to recognize voices
+@ Age-related hearing loss starts at high frequencies
+
+? Who is generally more sensitive to smell?
++ Females
+- Males
+- Older adults
+- Athletes in contact sports
+@ females are more sensitive to smell
+
+## hard
+
+? Why do unfamiliar, changing, or very intense stimuli get high priority for attention?
++ They can matter for safety
+- They are processed only by top-down processing
+- They never cause sensory adaptation
+- They are always below the absolute threshold
+@ unfamiliar, changing, or intense stimuli get priority because they can matter for safety
+
+? As a situation becomes more familiar, how does processing change?
++ Top-down processing is used more, but always together with bottom-up processing
+- Bottom-up processing replaces top-down processing
+- Top-down processing replaces bottom-up processing completely
+- Both kinds of processing stop
+@ Familiar situations use more top-down processing, always alongside bottom-up
+
+? In signal detection, why might two observers give different answers about the same faint stimulus?
++ They set different criteria, depending on whether they want to maximize hits or minimize misses
+- One of them has more cones in the fovea
+- Faint stimuli are always above the absolute threshold
+- Only one of them is using bottom-up processing
+@ depends on the stimulus's intensity and the observer's criteria (maximize hits or minimize misses)
+
+? What is the difference threshold?
++ The smallest difference between two stimuli that can be detected at least 50% of the time
+- The weakest stimulus that can be detected at least 50% of the time
+- The point where sensory adaptation begins
+- The loudest sound a person can hear without pain
+@ Difference threshold: smallest difference between two stimuli detected at least 50% of the time
+
+? Compared with vision's share of the cortex, about how much of the cortex processes hearing and touch and pain?
++ About 3% for hearing and 11% for touch and pain
+- About 11% for hearing and 3% for touch and pain
+- About 25% each
+- About 50% each
+@ ~50% of the cortex processes vision (vs ~3% hearing, ~11% touch and pain)
+
+? About how many rods and cones does each eye contain?
++ About 90 million rods and 4 to 5 million cones
+- About 4 to 5 million rods and 90 million cones
+- About 90 million of each
+- About 50 million rods and 50 million cones
+@ Rods — Dim light; no colour; blurry image; ~90 million per eye; mostly in the periphery
+
+? Besides the amount of light, what else signals the iris to adjust the pupil?
++ The autonomic nervous system
+- The olfactory bulb
+- The vestibular system
+- The basilar membrane
+@ Iris: coloured muscle ring; adjusts the pupil to light and to autonomic signals
+
+? Because of the partial crossing at the optic chiasm, which hemisphere processes the left visual field?
++ The right hemisphere
+- The left hemisphere
+- Both hemispheres equally
+- Neither; the thalamus processes it
+@ right hemisphere sees the left visual field, left hemisphere the right
+
+? Most optic tract axons synapse in the thalamus. Where do the other 10% go?
++ To the hypothalamus for sleep–wake cycles or to the superior colliculi for visual reflexes
+- To the amygdala for quick judgements
+- To the primary visual cortex directly
+- To the medulla for heart rate
+@ ~10% → hypothalamus (sleep–wake) or superior colliculi (visual reflexes)
+
+? The thalamus relays visual information to the amygdala. What does the amygdala use it for?
++ Quick judgements
+- Visual reflexes
+- Sleep–wake cycles
+- Colour afterimages
+@ ~90% of axons → thalamus → amygdala (quick judgements) and primary visual cortex (occipital lobe)
+
+? What can the trichromatic theory NOT explain?
++ Colour afterimages
+- Colour deficiencies
+- The three primary colours of light
+- Why there are three types of cones
+@ explains colour deficiencies but not afterimages
+
+? According to the slides, which theory fits the cones in the retina, and which best explains perception?
++ Trichromatic theory fits the cones; opponent process theory best explains perception
+- Opponent process theory fits the cones; trichromatic theory best explains perception
+- Both theories fit only the cones
+- Gestalt theory fits the cones; trichromatic theory best explains perception
+@ Opponent process theory: red-green and blue-yellow channels, each colour inhibiting its partner; explains afterimages; best fits perception
+
+? Which Gestalt principle is also called Prägnanz?
++ Simplicity principle
+- Closure principle
+- Continuity principle
+- Organization principle
+@ Simplicity principle (Prägnanz)
+
+? While riding in a car, nearby fence posts seem to rush past faster than distant hills. Which depth cue is this?
++ Motion parallax
+- Occlusion
+- Relative size
+- Retinal disparity
+@ Monocular cues: one eye: occlusion (near blocks far), relative size (closer = bigger), motion parallax (closer moves past faster)
+
+? Where on the basilar membrane do high-frequency tones produce the most movement?
++ Near its base
+- Near its apex
+- Evenly along its whole length
+- In the oval window instead
+@ High frequencies move the basilar membrane most near its base
+
+? Which order shows the hearing route after the auditory nerve?
++ Medulla → midbrain → thalamus → primary auditory cortex → secondary auditory cortex
+- Thalamus → medulla → midbrain → primary auditory cortex → secondary auditory cortex
+- Midbrain → medulla → primary auditory cortex → thalamus → secondary auditory cortex
+- Medulla → thalamus → secondary auditory cortex → primary auditory cortex → midbrain
+@ Route: auditory nerve → medulla → midbrain (sound reflexes) → thalamus → primary auditory cortex → secondary auditory cortex (complex sounds)
+
+? In what range of frequencies is human hearing most sensitive?
++ Between 80 Hz and 10 000 Hz
+- Between 10 Hz and 80 Hz
+- Between 10 000 Hz and 50 000 Hz
+- Between 1 Hz and 100 Hz
+@ hearing is most sensitive at 80–10 000 Hz
+
+? How do we place a sound horizontally (left or right)?
++ By comparing how loud and how early it reaches each ear
+- By using the pinna alone
+- By the movement of hair cells in the vestibular system
+- By retinal disparity
+@ horizontally by comparing loudness and timing at each ear
+
+? Which brain area handles the emotional side of pain?
++ Anterior cingulate cortex
+- Orbitofrontal cortex
+- Primary motor cortex
+- Superior colliculi
+@ Pain: spinal cord → thalamus (fast, direct) → anterior cingulate cortex (pain's emotional side)
+
+? According to the gate theory of pain, how can actions and higher-level thinking affect pain?
++ By competing with pain signals
+- By destroying free nerve endings
+- By blocking the thalamus completely
+- By adding new pain receptors in the brain
+@ Gate theory of pain: actions and higher thinking affect pain by competing with pain signals
+
+? How does the smell pathway differ from the other senses' pathways described in the slides?
++ It does not go directly to the thalamus
+- It goes only to the thalamus
+- It starts in the medulla
+- It ends in the occipital lobe
+@ Smell skips direct contact with the thalamus: bulb → olfactory cortex → amygdala (emotion)
+
+? Where is the emotion of taste processed?
++ Orbitofrontal cortex
+- Anterior cingulate cortex
+- Superior colliculi
+- Olfactory bulb
+@ Taste route: mouth → medulla → thalamus → somatosensory cortex → orbitofrontal cortex (emotion of taste)
+
+? What do the slides say about tastes belonging to specific areas of the tongue?
++ It is a myth; each receptor is sensitive to all tastes
+- It is true; sweet is tasted only at the tip
+- It is true for bitter tastes only
+- It is true only in older adults
+@ Taste receptors are all over the tongue and mouth, each sensitive to all tastes; the "tongue map" is a myth
+
+? Why do older adults respond more slowly to changes in brightness?
++ The lens accommodates more slowly with age
+- They have more cones in the fovea
+- Their pupils grow larger with age
+- Their optic nerves stop crossing
+@ With age, the lens accommodates more slowly (slower brightness adjustment), iris muscles stiffen, pupils stay smaller, the lens yellows (changes colour perception)
+
+? Which sense do the slides say is shaped more strongly than any other by culture, context, and experience?
++ Pain
+- Vision
+- Hearing
+- Taste
+@ Pain is shaped more than any other sense by culture, context, experience
+
+? Patients allowed to give themselves morphine, compared with patients injected by hospital staff, tend to do what?
++ Need less medication
+- Need more medication
+- Feel more pain
+- Lose their sense of touch
+@ self-administered morphine → less medication needed
+
+? What is true of perfect pitch, according to the slides?
++ People can be trained to have it, and musicians with it have larger left-hemisphere areas
+- It cannot be learned and depends only on the right hemisphere
+- It appears only in people with hearing loss
+- It depends on the number of taste buds
+@ Perfect pitch: naming a heard musical tone; larger left-hemisphere areas in musicians who have it; can be trained

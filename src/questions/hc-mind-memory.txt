@@ -1,0 +1,337 @@
+? What are the three steps of memory, in order?
++ Encoding, storage, and retrieval
+- Storage, encoding, and retrieval
+- Retrieval, storage, and encoding
+- Rehearsal, chunking, and recall
+@ Memory works in three steps: encoding, storage, retrieval
+
+? Getting stored information back out of memory is called what?
++ Retrieval
+- Encoding
+- Storage
+- Rehearsal
+@ getting stored information back
+
+? Which memory stage holds a large amount of incoming information for a very short time?
++ Sensory memory
+- Short-term memory
+- Long-term memory
+- Working memory
+@ Sensory memory: lots of incoming information for a very short time
+
+? According to the Atkinson-Shiffrin model, what happens to information that is not passed on to the next stage?
++ It is lost for good
+- It goes straight to long-term memory
+- It is stored in sensory memory forever
+- It is turned into a flashbulb memory
+@ anything not passed on is lost for good
+
+? Remembering a phone number as 555-0123 instead of ten single digits is an example of what?
++ Chunking
+- Rehearsal
+- Priming
+- Decay
+@ Chunking: grouping similar or meaningful pieces
+
+? Repeating information to keep it in mind is called what?
++ Rehearsal
+- Chunking
+- Encoding specificity
+- Reconstruction
+@ repeating information
+
+? Which part of working memory handles verbal and auditory information?
++ Phonological loop
+- Visuospatial sketch pad
+- Central executive
+- Episodic buffer
+@ Phonological loop
+
+? Which part of working memory holds visual and spatial information?
++ Visuospatial sketch pad
+- Phonological loop
+- Episodic buffer
+- Central executive
+@ Visuospatial sketch pad
+
+? Better recall of the first items on a list is called what?
++ The primacy effect
+- The recency effect
+- Proactive interference
+- The tip-of-the-tongue phenomenon
+@ Primacy effect: better recall of the first list items, thought to be in long-term memory
+
+? Better recall of the last items on a list is called what?
++ The recency effect
+- The primacy effect
+- Retroactive interference
+- Chunking
+@ Recency effect: better recall of the last list items, thought to still be in working memory at recall
+
+? Knowing what a churro is, is an example of which kind of memory?
++ Semantic memory
+- Episodic memory
+- Procedural memory
+- Priming
+@ Semantic memory: general knowledge (what a churro is)
+
+? Remembering a beach vacation is an example of which kind of memory?
++ Episodic memory
+- Semantic memory
+- Procedural memory
+- Sensory memory
+@ Episodic memory: personal experiences (a beach vacation)
+
+? Which kind of memory is retrieved consciously and is easy to put into words?
++ Declarative (explicit) memory
+- Nondeclarative (implicit) memory
+- Procedural memory
+- Sensory memory
+@ Declarative (explicit) memory: conscious, easy to put into words
+
+? Implicit memory for how to perform skilled movements is called what?
++ Procedural memory
+- Semantic memory
+- Episodic memory
+- Autobiographical memory
+@ Procedural memory: implicit memory for skilled movements
+
+? Which brain structure takes part in consolidating information into long-term memory?
++ Hippocampus
+- Basal ganglia
+- Amygdala
+- Cerebellum
+@ The hippocampus consolidates information into long-term memory
+
+? Being unable to form new memories is called what?
++ Anterograde amnesia
+- Motivated forgetting
+- Decay
+- Proactive interference
+@ Anterograde amnesia: inability to form new memories, as in H.M.
+
+? A set of expectations about objects and situations is called what?
++ A schema
+- A cue
+- A chunk
+- A trace
+@ Schema: expectations about objects and situations
+
+? What is a retrieval cue?
++ A stimulus that helps retrieval
+- A memory of an emotional event
+- A type of glutamate receptor
+- A list of items to rehearse
+@ Cue: stimulus that aids retrieval
+
+? Why are recall tasks usually harder than recognition tasks?
++ Recall tasks give fewer cues
+- Recall tasks give more cues
+- Recognition tasks use only sensory memory
+- Recognition tasks need more rehearsal
+@ Recall gives fewer cues than recognition, so recall is harder
+
+? An especially vivid, detailed memory of an emotional event is called what?
++ A flashbulb memory
+- A schema
+- An episodic buffer
+- A primacy effect
+@ Flashbulb memory: vivid, detailed memory of an emotional event
+
+? Losing the ability to retrieve rarely used information over time is called what?
++ Decay
+- Interference
+- Motivated forgetting
+- Reconstruction
+@ Decay: rarely used information becomes harder to retrieve over time
+
+? Failing to retrieve negative memories is called what?
++ Motivated forgetting
+- Decay
+- Retroactive interference
+- Anterograde amnesia
+@ failing to retrieve negative memories
+
+? Which study method spreads study out over time instead of cramming?
++ Distributed practice
+- Massed practice
+- Interleaving
+- Chunking
+@ Distributed practice: studying spread over time instead of massed practice (cramming)
+
+? Memory aids that link new information to information you already know well are called what?
++ Mnemonics
+- Schemas
+- Cues
+- Chunks
+@ Mnemonics: aids linking new information to well-known information
+
+## hard
+
+? What does levels of processing theory say predicts how easily information can be retrieved?
++ How deeply the information was processed
+- How many times it was repeated
+- Whether it was learned first or last on a list
+- Whether it was learned while asleep
+@ Levels of processing theory: deeper processing (shallow to deep) predicts easier retrieval
+
+? How is working memory different from the older idea of short-term memory?
++ It includes actively working with several kinds of information at once
+- It holds information permanently
+- It holds only visual information
+- It works without attention
+@ Working memory: extension of STM: actively handling several kinds of information at once
+
+? Which part of working memory manages the other parts by directing attention to particular tasks?
++ Central executive
+- Episodic buffer
+- Phonological loop
+- Visuospatial sketch pad
+@ Central executive
+
+? Which part of working memory combines information stored in long-term memory?
++ Episodic buffer
+- Central executive
+- Phonological loop
+- Visuospatial sketch pad
+@ Combines information stored in long-term memory
+
+? Why are the first items on a list remembered well, according to the slides?
++ They are thought to have reached long-term memory
+- They are still in working memory at recall
+- They were stored in sensory memory
+- They create proactive interference
+@ Primacy effect: better recall of the first list items, thought to be in long-term memory
+
+? Why are the last items on a list remembered well, according to the slides?
++ They are thought to still be in working memory when recall begins
+- They have reached long-term memory
+- They were rehearsed the most
+- They were chunked with earlier items
+@ Recency effect: better recall of the last list items, thought to still be in working memory at recall
+
+? What are autobiographical memories?
++ Semantic or episodic memories that are about yourself
+- Memories of how to perform skilled movements
+- Memories retrieved without awareness
+- Memories that are lost after a few seconds
+@ Autobiographical memory: semantic or episodic memories about yourself
+
+? Which of these is a form of nondeclarative (implicit) memory?
++ Priming
+- Semantic memory
+- Episodic memory
+- Autobiographical memory
+@ Nondeclarative (implicit) memory: unconscious, effortless, hard to put into words: classical conditioning, procedural learning, priming
+
+? After his hippocampus was damaged, which kind of memory did patient H.M. keep?
++ Procedural memory
+- Declarative memory for new things he learned
+- The ability to form new episodic memories
+- The ability to form new semantic memories
+@ procedural memory intact, but no new declarative memories
+
+? Procedural memories are linked to activity in which brain structure?
++ Basal ganglia
+- Hippocampus
+- Cerebral cortex
+- Thalamus
+@ procedural memories, the basal ganglia
+
+? Semantic, episodic, and autobiographical memories involve which part of the brain?
++ The cerebral cortex
+- The basal ganglia
+- The cerebellum
+- The medulla
+@ Semantic, episodic, autobiographical memories involve the cerebral cortex
+
+? Which model says people organize general knowledge based on their own experiences, with concepts linked more or less strongly?
++ Spreading activation model
+- Atkinson-Shiffrin model
+- Fuzzy trace theory
+- Levels of processing theory
+@ Spreading activation model: connectionist theory: people organize general knowledge from their own experiences
+
+? What did Sternberg's results suggest about searching short-term memory?
++ We search it one item at a time
+- We retrieve everything in it at once
+- We search it only when given cues
+- We cannot search it at all
+@ Sternberg: we search STM one item at a time, not all at once
+
+? What does the tip-of-the-tongue phenomenon show about retrieval?
++ Retrieval is not all-or-none
+- Retrieval always fails without cues
+- Retrieval happens one list item at a time
+- Retrieval only works for semantic memory
+@ Retrieval isn't all-or-none (tip-of-the-tongue phenomenon)
+
+? According to fuzzy trace theory, what range of memories do we form?
++ From verbatim (exact) records to gist (the general idea)
+- From sensory to long-term memory only
+- From primacy to recency
+- From proactive to retroactive
+@ Fuzzy trace theory: limited resources go to different memories by need: verbatim (exact) to gist (general idea)
+
+? When might a flashbulb memory form?
++ When stress and learning happen at the same time
+- When information is rehearsed many times
+- When a person is asleep
+- When the hippocampus is damaged
+@ Flashbulb memory: vivid, detailed memory of an emotional event; may form when stress and learning coincide
+
+? After learning a new locker combination, you struggle to remember your old one. What is this?
++ Retroactive interference
+- Proactive interference
+- Decay
+- Motivated forgetting
+@ Retroactive interference: later learning blocks the target memory
+
+? Your old phone number keeps getting in the way when you try to remember your new one. What is this?
++ Proactive interference
+- Retroactive interference
+- Decay
+- Reconstruction
+@ Proactive interference: earlier learning blocks the target memory
+
+? What is long-term potentiation (LTP)?
++ Stronger communication between two neurons that results from activating them at the same time
+- The loss of axon terminals after habituation
+- A memory aid that links new and old information
+- A type of amnesia after hippocampal damage
+@ Long-term potentiation (LTP): stronger communication between two neurons from activating them together
+
+? What happens to the number of axon terminals after sensitization and after habituation?
++ It rises after sensitization and falls after habituation
+- It falls after sensitization and rises after habituation
+- It rises after both
+- It does not change
+@ Axon terminals increase after sensitization, decrease after habituation
+
+? Which neurotransmitter seems to affect memory, especially encoding new information?
++ Acetylcholine (ACh)
+- Dopamine
+- Serotonin
+- Endorphins
+@ Acetylcholine (ACh) affects memory, especially encoding new information
+
+? Which type of glutamate receptor is a prime candidate for learning-related changes like those in LTP?
++ NMDA (N-methyl-D-aspartate)
+- GABA
+- Adenosine
+- Orexin
+@ NMDA receptor: a glutamate receptor (N-methyl-D-aspartate), prime candidate for learning changes like LTP
+
+? What is interleaving?
++ Mixing topics and skills within a study session
+- Studying one topic at a time
+- Cramming right before a test
+- Saying material in your own words
+@ Interleaving: mixing topics and skills within a session instead of one topic at a time
+
+? How does sleep help memory, according to the slides?
++ It helps form memories and fights interference
+- It erases interfering memories permanently
+- It only helps procedural memory
+- It replaces the need for rehearsal
+@ helps form memories and fights interference

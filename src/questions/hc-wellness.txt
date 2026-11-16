@@ -1,0 +1,267 @@
+? According to the HOSA Canada slides, how much of the written test do wellness, stress, and coping make up?
++ 15%
+- 5%
+- 25%
+- 40%
+@ Wellness, stress, and coping are 15% of the written test
+
+? How do the slides define stress?
++ An unpleasant emotional state that comes from perceiving danger
+- The source of a stressful event
+- A white blood cell that fights infection
+- A hormone that helps us sleep
+@ Stress: unpleasant emotional state from perceiving danger
+
+? What is the source of stress called?
++ A stressor
+- A hassle
+- An appraisal
+- A lymphocyte
+@ Stressor: the source of stress
+
+? During fight or flight, what happens to heart rate, blood pressure, and breathing?
++ They all rise
+- They all fall
+- Heart rate rises while breathing falls
+- They do not change
+@ Cold, lack of oxygen, and emotional experiences can trigger fight or flight: heart rate, blood pressure, breathing rise
+
+? Which animals did Hans Selye mainly study?
++ Rats
+- Monkeys
+- Dogs
+- Cats
+@ Hans Selye studied stronger, longer stressors in rats by timing how long they swam before giving up
+
+? Selye's name for the consistent response pattern to any stressor is what?
++ General adaptation syndrome (GAS)
+- Tend and befriend
+- Type A personality
+- Cognitive appraisal
+@ General adaptation syndrome (GAS): Selye's consistent response pattern to any stressor
+
+? What are the three stages of the general adaptation syndrome, in order?
++ Alarm, resistance, exhaustion
+- Resistance, alarm, exhaustion
+- Alarm, exhaustion, resistance
+- Appraisal, coping, recovery
+@ GAS has three stages, in order: alarm, resistance, exhaustion
+
+? In which GAS stage do resources finally run out?
++ Exhaustion
+- Alarm
+- Resistance
+- Appraisal
+@ Exhaustion — Resources run out
+
+? In which GAS stage are all resources mobilized for fight or flight?
++ Alarm
+- Resistance
+- Exhaustion
+- Recovery
+@ Alarm — Resources mobilized for fight or flight
+
+? Relatively minor everyday sources of stress are called what?
++ Hassles
+- Disasters
+- Stressors of exhaustion
+- Lymphocytes
+@ Hassles: relatively minor everyday stressors
+
+? Which structure is part of a "fear circuit" that quickly judges whether something might be dangerous?
++ Amygdala
+- Hippocampus
+- Cerebellum
+- Pituitary gland
+@ The amygdala's "fear circuit" quickly flags danger and signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
+
+? Which response to stress is more common in women and tied to oxytocin?
++ Tend and befriend
+- Fight or flight
+- General adaptation syndrome
+- Problem-focused coping
+@ Tend and befriend: stress response more common in women, tied to oxytocin, a social-bonding hormone
+
+? Which hormone is linked to social bonding?
++ Oxytocin
+- Cortisol
+- Melatonin
+- Insulin
+@ Tend and befriend: stress response more common in women, tied to oxytocin, a social-bonding hormone
+
+? What does the immune system defend against?
++ Infection and cancer
+- Stressors and hassles
+- Sleep loss
+- Hostility
+@ Immune system: defends against infection and cancer
+
+? What are lymphocytes?
++ White blood cells that protect us from invading organisms
+- Stress hormones from the adrenal glands
+- Fat cells that grow under stress
+- Neurons in the fear circuit
+@ Lymphocytes: white blood cells protecting against invaders
+
+? Who proposed the Type A personality?
++ Meyer Friedman and Ray Rosenman
+- Hans Selye
+- Adler
+- Rescorla and Wagner
+@ Type A personality: Meyer Friedman and Ray Rosenman's (1974) competitive workaholics, proposed to be more prone to heart disease than laid-back Type B people
+
+? When is cortisol released in large amounts?
++ Early in the morning
+- Late at night
+- Only during exercise
+- Only after meals
+@ high early in the morning (wakefulness), falling through the day
+
+? Which type of coping deals with the problem itself?
++ Problem-focused coping
+- Emotion-focused coping
+- Relationship-focused coping
+- Tend and befriend
+@ Problem-focused coping
+
+? Which type of coping helps you handle the negative emotions that come with a stressor?
++ Emotion-focused coping
+- Problem-focused coping
+- Relationship-focused coping
+- Cognitive appraisal
+@ Emotion-focused coping
+
+? Which model sees health as the result of biological, psychological, and social factors?
++ Biopsychosocial model
+- General adaptation syndrome
+- Cognitive appraisal model
+- Type A model
+@ Biopsychosocial model: health results from biological, psychological, and social factors
+
+## hard
+
+? What positive outcome of stress do the slides describe (Selye, 1975)?
++ Stress can push us to perform well and make us healthier in the long run
+- Stress always improves the immune system
+- Stress prevents heart disease
+- Stress removes the need for sleep
+@ Selye (1975): stress can push good performance and long-term health, but can also hurt performance and well-being, and in extremes contribute to depression, schizophrenia, PTSD
+
+? Which serious conditions can extreme stress contribute to, according to the slides?
++ Depression, schizophrenia, and PTSD
+- Narcolepsy, cataplexy, and sleep apnea
+- ADHD and autism spectrum disorder
+- Tardive dyskinesia and Parkinson's disease
+@ Selye (1975): stress can push good performance and long-term health, but can also hurt performance and well-being, and in extremes contribute to depression, schizophrenia, PTSD
+
+? Besides emotional experiences, what else can set off a fight-or-flight response?
++ Extreme cold and lack of oxygen
+- Only physical injuries
+- Only loud noises
+- Only social rejection
+@ Cold, lack of oxygen, and emotional experiences can trigger fight or flight: heart rate, blood pressure, breathing rise
+
+? How did Selye measure the effects of stressors on rats?
++ By how long they would swim before giving up
+- By how fast they ran a maze
+- By how much food they ate
+- By how long they slept
+@ Hans Selye studied stronger, longer stressors in rats by timing how long they swam before giving up
+
+? In which GAS stage do we adapt and cope as well as we can while stress goes on?
++ Resistance
+- Alarm
+- Exhaustion
+- Appraisal
+@ Adapting and coping while stress continues
+
+? What do cognitive appraisal models predict?
++ When an event is likely to stress a particular person
+- How long the alarm stage lasts
+- Which hormones fat cells release
+- How many lymphocytes a person has
+@ Cognitive appraisal models: predict what stresses a person from quick judgements of a stressor as irrelevant or harmless, positive or negative; because people judge from their own point of view, the same event can stress people differently
+
+? Why can the same event stress two people differently?
++ People judge situations from their own point of view
+- Only one of them has an amygdala
+- Stress is caused only by genes
+- Stressors affect only women
+@ because people judge from their own point of view, the same event can stress people differently
+
+? Once the amygdala flags something as dangerous, which structure does it signal?
++ The hypothalamus
+- The cerebellum
+- The hippocampus
+- The occipital lobe
+@ The amygdala's "fear circuit" quickly flags danger and signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
+
+? When does oxytocin relieve stress in animals?
++ Only when they are in a social group
+- Only when they are isolated
+- Only when they are asleep
+- Always, in any situation
+@ Oxytocin relieves stress in animals only when in a social group, not isolated
+
+? What do the factors faced by people of lower socioeconomic status have in common, according to Adler (2013)?
++ They are all linked to high stress
+- They all raise oxytocin
+- They all improve immune function
+- They are all genetic
+@ less health care, exercise, control, trust (Adler, 2013): all linked to high stress
+
+? What happened to the immune response during a short, stressful memory task?
++ It improved, as measured by markers in saliva
+- It shut down completely
+- It did not change
+- It caused an infection
+@ A stressful memory task improved immune response (saliva markers), but chronic stress weakens it, raising vulnerability to infections like colds
+
+? How do stress hormones affect lymphocytes?
++ They directly suppress them
+- They multiply them
+- They turn them into fat cells
+- They have no effect
+@ stress hormones directly suppress them
+
+? Which trait, not competitiveness, was found in Type A people who did develop heart problems?
++ Interpersonal hostility
+- Perfectionism
+- Shyness
+- Laziness
+@ Type A people who developed heart problems showed interpersonal hostility
+
+? How does stress put the cardiovascular system at risk?
++ By affecting the blood vessels' ability to expand when needed
+- By destroying lymphocytes in the heart
+- By lowering blood pressure permanently
+- By raising melatonin levels
+@ Stress harms the cardiovascular system by impairing blood vessels' ability to expand
+
+? Besides responding to stressors, what other role does cortisol play?
++ It helps maintain the natural sleep–wake cycle
+- It digests food
+- It forms long-term memories
+- It controls muscle movement
+@ Cortisol: stress hormone that also maintains the sleep–wake cycle
+
+? What kind of sleep problem do high stress and depression often cause?
++ Frequent waking during the night
+- Sleepwalking
+- Narcolepsy
+- Too much deep sleep
+@ Stress and depression both disturb sleep, especially with frequent night waking
+
+? How do fat cells respond to stress hormones?
++ They grow in both size and number
+- They shrink
+- They stop storing fat
+- They turn into muscle
+@ Stress hormones make fat cells grow in size and number
+
+? Which type of coping helps you keep and protect social relationships under stress?
++ Relationship-focused coping
+- Problem-focused coping
+- Emotion-focused coping
+- Cognitive appraisal
+@ Relationship-focused coping

@@ -1,0 +1,351 @@
+? What are reflexes?
++ Automatic, involuntary responses to stimuli
+- Inborn behaviour patterns that run to completion once started
+- Relatively permanent changes in behaviour from experience
+- Behaviours copied from watching others
+@ Reflexes: automatic, involuntary, fast, reliable responses that protect us (goosebumps from stress or cold, left over from hairy ancestors)
+
+? Contagious yawning is given as an example of what?
++ An instinct (fixed action pattern)
+- A reflex
+- Operant conditioning
+- Habituation
+@ Instincts (fixed action patterns): inborn patterns set off by the environment
+
+? Relatively permanent changes in behaviour that come from experience are called what?
++ Learned behaviours
+- Reflexes
+- Instincts
+- Fixed action patterns
+@ Learned behaviours: relatively permanent changes in behaviour (or capacity for it) from experience
+
+? In which type of learning are associations formed between two stimuli that happen one after the other?
++ Classical conditioning
+- Operant conditioning
+- Habituation
+- Observational learning
+@ links two stimuli that occur one after the other
+
+? In which type of learning are associations formed between behaviours and their outcomes?
++ Operant conditioning
+- Classical conditioning
+- Sensitization
+- Latent inhibition
+@ Operant conditioning: links behaviours and their outcomes
+
+? You stop noticing a ticking clock that is unchanging and harmless. What is this?
++ Habituation
+- Sensitization
+- Generalization
+- Spontaneous recovery
+@ Habituation: weaker responses to a repeated, unchanging, harmless stimulus
+
+? After an earthquake, a person jumps at every movement or noise. What is this?
++ Sensitization
+- Habituation
+- Extinction
+- Discrimination
+@ Sensitization: stronger reactions to many stimuli after one strong stimulus (jumpy after an earthquake)
+
+? Learning by watching what another organism does is called what?
++ Observational learning
+- Classical conditioning
+- Habituation
+- Latent learning
+@ Observational learning: learning by watching another organism
+
+? In Pavlov's study, what was the unconditioned stimulus?
++ Food
+- The metronome
+- Salivation
+- The sound of a bell
+@ during, metronome then food
+
+? In Pavlov's study, after conditioning, what was the metronome sound?
++ A conditioned stimulus (CS)
+- An unconditioned stimulus (UCS)
+- A conditioned response (CR)
+- An unconditioned response (UCR)
+@ Pavlov: before, food (UCS) → salivation (UCR) and a metronome → nothing; during, metronome then food; after, metronome alone (CS) → salivation (CR)
+
+? What does "unconditioned" mean in classical conditioning?
++ It happens without learning
+- It must be learned
+- It happens only after punishment
+- It happens only once
+@ "Conditioned" = learned; "unconditioned" = no learning needed
+
+? A learned response weakening once the UCS stops following the CS is called what?
++ Extinction
+- Acquisition
+- Generalization
+- Higher-order conditioning
+@ Extinction: a CR weakening once the UCS stops following the CS
+
+? A conditioned response coming back after a rest during extinction training is called what?
++ Spontaneous recovery
+- Acquisition
+- Latent inhibition
+- Sensitization
+@ Spontaneous recovery: a CR returning after rest during extinction training
+
+? A dog conditioned to one tone also salivates to a similar tone. What is this?
++ Generalization
+- Discrimination
+- Extinction
+- Habituation
+@ Generalization: responding to stimuli similar to the CS
+
+? The learned ability to tell stimuli apart is called what?
++ Discrimination
+- Generalization
+- Inhibition
+- Acquisition
+@ Discrimination: learned ability to tell stimuli apart
+
+? Which therapy pairs a CS once linked to something pleasant with something unpleasant instead?
++ Aversion therapy
+- Systematic desensitization
+- Exposure therapy
+- Token economy
+@ Aversion therapy: counterconditioning that re-pairs a CS from a pleasant UCS with an unpleasant UCS
+
+? In which therapy do people relax while being exposed to things they fear?
++ Systematic desensitization
+- Aversion therapy
+- Token economy
+- Shaping
+@ Systematic desensitization: counterconditioning: relaxing while exposed to feared things
+
+? Who described the law of effect after watching cats escape puzzle boxes?
++ Edward Thorndike
+- B. F. Skinner
+- Pavlov
+- Bandura
+@ Law of effect: Edward Thorndike (cats in "puzzle boxes"): behaviour is "stamped in" depending on its consequences
+
+? Who extended Thorndike's work using a special box named after him?
++ B. F. Skinner
+- Robert Koelling
+- Rescorla and Wagner
+- Bandura
+@ B. F. Skinner extended this with the Skinner box
+
+? A child gets a sticker for cleaning their room, so they clean more often. What is this?
++ Positive reinforcement
+- Negative reinforcement
+- Positive punishment
+- Negative punishment
+@ A desired outcome is given
+
+? Taking away a teen's phone whenever they break curfew, to reduce the behaviour, is an example of what?
++ Negative punishment
+- Positive punishment
+- Negative reinforcement
+- Positive reinforcement
+@ Something desirable is removed
+
+? Money and grades are examples of what?
++ Conditioned (secondary) reinforcers
+- Unconditioned stimuli
+- Positive punishments
+- Fixed action patterns
+@ Conditioned reinforcer (secondary reinforcer): gains value from links to valued things (money, grades)
+
+? On which schedule does reinforcement come after a set number of behaviours?
++ Fixed ratio (FR)
+- Variable ratio (VR)
+- Fixed interval (FI)
+- Variable interval (VI)
+@ After a set number of behaviours
+
+? Building a behaviour by reinforcing closer and closer versions of it is called what?
++ Shaping
+- Chaining
+- Latent learning
+- Instinctive drift
+@ Shaping (method of successive approximations): reinforce behaviours close to a rare target, then gradually raise the standard
+
+? Learning that happens without reinforcement is called what?
++ Latent learning
+- Latent inhibition
+- Shaping
+- Chaining
+@ Latent learning: learning without reinforcement
+
+? Using tokens that can be traded for other reinforcers to increase desirable behaviours is called what?
++ A token economy
+- Aversion therapy
+- Systematic desensitization
+- Higher-order conditioning
+@ Token economy: tokens traded for reinforcers to increase desirable behaviour (like money)
+
+? Whose classic studies showed children copying an adult who attacked a Bobo doll?
++ Bandura
+- Skinner
+- Thorndike
+- Pavlov
+@ Bobo doll studies: Bandura: children who watched an adult attack a Bobo doll copied the adult's movements and words
+
+## hard
+
+? How do instincts differ from reflexes, according to the slides?
++ Instincts run to completion once started and need more neurons
+- Instincts are learned from experience
+- Instincts are faster and simpler than reflexes
+- Instincts happen only in response to pain
+@ Instincts (fixed action patterns): inborn patterns set off by the environment; run to completion once started; need more neurons than reflexes (e.g., contagious yawning, possibly linked to empathy)
+
+? Why do humans get goosebumps, according to the slides?
++ It is a reflex left over from our hairy ancestors
+- It is a learned response to cold
+- It is an instinct linked to empathy
+- It is a form of sensitization
+@ Reflexes: automatic, involuntary, fast, reliable responses that protect us (goosebumps from stress or cold, left over from hairy ancestors)
+
+? What two conditions does acquisition require?
++ Contiguity and contingency
+- Extinction and spontaneous recovery
+- Generalization and discrimination
+- Attention and retention
+@ needs contiguity (CS and UCS close in time) and contingency (CS and UCS correlated)
+
+? What do the slides say extinction really is?
++ New learning, not forgetting
+- Forgetting the original learning
+- A return of the conditioned response
+- The same as habituation
+@ new learning, not forgetting
+
+? In conditioning, what is inhibition?
++ A CS coming to predict that the UCS will not happen
+- A CS coming to predict that the UCS will happen
+- Responding to stimuli similar to the CS
+- A conditioned response coming back after rest
+@ Inhibition: a CS predicting that the UCS won't happen
+
+? How might inhibition help people recovering from drug addiction?
++ By building inhibitory CSs linked to the absence of an expected drug effect
+- By making drug cues more exciting
+- By pairing drugs with pleasant music
+- By removing all memories of drug use
+@ inhibitory CSs tied to an absent drug effect might aid addiction recovery
+
+? A light has been paired with food until it causes salivation. Then a tone is paired with the light, and the tone alone starts causing salivation. What is this?
++ Higher-order conditioning
+- Latent inhibition
+- Spontaneous recovery
+- Discrimination
+@ Higher-order conditioning: stimuli paired with a CS also trigger the CR
+
+? Learning is slower when the CS is already familiar. What is this called?
++ Latent inhibition
+- Latent learning
+- Habituation
+- Extinction
+@ Latent inhibition: slower learning when the CS is already familiar
+
+? According to the Rescorla-Wagner model (1972), what does learning depend on?
++ How surprising the link between the CS and UCS seems
+- How many times the UCS is presented alone
+- How hungry the learner is
+- How many neurons the learner has
+@ Rescorla-Wagner model (1972): learning depends on how surprising the CS–UCS link is
+
+? What did Garcia and Koelling's 1966 taste aversion work show?
++ The kinds of stimuli used as CS and UCS matter, and some pairings are learned faster
+- All pairings of stimuli are learned equally fast
+- Taste cannot be classically conditioned
+- Learning depends only on how surprising a stimulus is
+@ Taste aversion: Garcia and Robert Koelling (1966): the kinds of stimuli matter; some pairings are learned faster
+
+? How did findings like taste aversion change psychology?
++ They helped move it away from rigid behaviourism toward cognitive, biological, and evolutionary approaches
+- They proved that behaviourism explains all learning
+- They ended the study of classical conditioning
+- They showed that only operant conditioning matters
+@ These findings moved psychology from rigid behaviourism toward cognitive, biological, and evolutionary approaches
+
+? In classical-conditioning terms, what is the craving that drug-related cues trigger in addiction?
++ A conditioned response (CR)
+- An unconditioned stimulus (UCS)
+- A conditioned stimulus (CS)
+- An unconditioned response (UCR)
+@ Addiction: drug cues (CSs) linked to drug effects (UCSs) keep triggering craving (CR)
+
+? The slides link latent inhibition to which two things?
++ Creativity and schizophrenia
+- Addiction and aversion therapy
+- Habituation and sensitization
+- Prejudice and empathy
+@ linked to creativity and schizophrenia
+
+? Taking an umbrella so that you avoid getting wet, which makes you take it more often, is an example of what?
++ Negative reinforcement
+- Positive punishment
+- Negative punishment
+- Positive reinforcement
+@ Negative reinforcement
+
+? What does the Premack principle say?
++ Whatever an organism spends the most time and energy doing is likely important to it
+- A behaviour is stamped in depending on its consequences
+- Learning depends on surprise
+- Behaviours learned with partial reinforcement die out faster
+@ Premack principle: what an organism spends the most time and energy on is likely important to it
+
+? A slot machine pays out after an unpredictable number of plays. Which schedule is this?
++ Variable ratio (VR)
+- Fixed ratio (FR)
+- Fixed interval (FI)
+- Variable interval (VI)
+@ After a changing number of behaviours
+
+? On which schedule is the first response after a changing amount of time reinforced?
++ Variable interval (VI)
+- Fixed interval (FI)
+- Variable ratio (VR)
+- Fixed ratio (FR)
+@ Variable interval (VI)
+
+? What is the partial reinforcement effect in extinction?
++ Behaviour learned with continuous reinforcement dies out faster than behaviour learned with partial reinforcement
+- Behaviour learned with partial reinforcement dies out faster than behaviour learned with continuous reinforcement
+- Partial reinforcement prevents learning entirely
+- Extinction never happens after partial reinforcement
+@ Partial reinforcement effect in extinction: behaviour learned with continuous reinforcement dies out faster than with partial reinforcement
+
+? Teaching a complex behaviour by breaking it into manageable steps is called what?
++ Chaining
+- Shaping
+- Generalization
+- Instinctive drift
+@ Chaining: breaking a complex behaviour into manageable steps
+
+? Animals' instinctive behaviours getting in the way of their training is called what?
++ Instinctive drift
+- Latent inhibition
+- Spontaneous recovery
+- Sensitization
+@ Instinctive drift: instinctive behaviours interfering with training
+
+? Which four mental processes does modeling someone's behaviour need?
++ Attention, retention, reproduction, and motivation
+- Acquisition, extinction, recovery, and generalization
+- Contiguity, contingency, surprise, and reward
+- Sensation, perception, arousal, and drive
+@ Modeling needs attention, retention, reproduction, motivation
+
+? Which neurons are involved in imitation in monkeys and humans and might be the basis of empathy?
++ Mirror neurons
+- Motor neurons
+- Interneurons
+- Sensory neurons
+@ Imitation in monkeys and humans involves mirror neurons, possibly the basis of empathy
+
+? How do the slides define imitation?
++ Copying a behaviour that would be unlikely to happen naturally on its own
+- Repeating a reflex many times
+- Learning without reinforcement
+- Responding less to a repeated stimulus
+@ Imitation: copying behaviour unlikely to occur on its own

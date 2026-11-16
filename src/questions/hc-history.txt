@@ -1,0 +1,281 @@
+? How do the slides define psychology?
++ The scientific study of behaviour and mental processes
+- The study of the nervous system only
+- The treatment of mental illness with medication
+- The study of social groups and cultures
+@ Psychology: scientific study of behaviour and mental processes (of mind)
+
+? In psychology, what is behaviour?
++ Action that we can observe
+- Thoughts and feelings studied through introspection
+- A biological process inside neurons
+- A theory of motivation
+@ Behaviour: observable action
+
+? Psychology is one of how many major hub sciences?
++ 7
+- 3
+- 12
+- 20
+@ Hub science: psychology is one of 7 major hub sciences, linked to the medical sciences, social sciences, and education
+
+? To about when does psychology as a discipline date back?
++ The 1870s
+- The 1570s
+- The 1950s
+- The 1990s
+@ The discipline dates to the 1870s, with 2 major roots: philosophy and the natural sciences
+
+? What are the two major roots of psychology's family tree?
++ Philosophy and the natural sciences
+- Medicine and law
+- Religion and art
+- Mathematics and engineering
+@ The discipline dates to the 1870s, with 2 major roots: philosophy and the natural sciences
+
+? Who argued that ideas and emotions are innate (inborn)?
++ René Descartes
+- Aristotle
+- John B. Watson
+- William James
+@ René Descartes (1596–1650): ideas and emotions are innate
+
+? Who believed that all knowledge comes through sensory experience?
++ Aristotle
+- René Descartes
+- Sigmund Freud
+- Wilhelm Wundt
+@ Aristotle (384–322 BCE): all knowledge comes from sensory experience
+
+? Who gets credit as the first psychologist?
++ Wilhelm Wundt
+- Sigmund Freud
+- William James
+- Edward Titchener
+@ Wilhelm Wundt (1832–1920): credited as the first psychologist
+
+? Which theory says the mind can be broken down into the smallest elements of mental experience?
++ Structuralism
+- Functionalism
+- Behaviourism
+- Humanistic psychology
+@ Structuralism: Edward Titchener (1867–1923), Wundt's student: the mind breaks down into the smallest elements of mental experience
+
+? Which group challenged structuralism?
++ Gestalt psychologists
+- Behaviourists
+- Humanistic psychologists
+- Functionalists
+@ Gestalt psychologists (early 20th-century Germans) challenged structuralism
+
+? Who adopted functionalism?
++ William James
+- Edward Titchener
+- Wilhelm Wundt
+- B. F. Skinner
+@ Functionalism: William James (1842–1910): behaviour is purposeful because it led to survival
+
+? Whose psychodynamic theory dominated psychology for the first half of the 20th century?
++ Sigmund Freud
+- Carl Rogers
+- Abraham Maslow
+- John B. Watson
+@ Sigmund Freud (1856–1939): psychodynamic theory dominated the first half of the 20th century
+
+? Who founded the study of personality, according to the slides?
++ Sigmund Freud
+- Wilhelm Wundt
+- Ivan Pavlov
+- Edward Thorndike
+@ Sigmund Freud (1856–1939): psychodynamic theory dominated the first half of the 20th century
+
+? Who introduced a major theory of motivation and asked what makes a person "good"?
++ Abraham Maslow
+- Carl Rogers
+- Sigmund Freud
+- B. F. Skinner
+@ Abraham Maslow (1908–1970): asked what makes a person "good"
+
+? Who developed client-centered therapy?
++ Carl Rogers
+- Abraham Maslow
+- Sigmund Freud
+- William James
+@ Client-centered therapy: Carl Rogers (1902–1987): clients have equal standing with the therapist and take an active part
+
+? Who studied digestion in dogs and pioneered classical conditioning?
++ Ivan Petrovich Pavlov
+- John B. Watson
+- Edward Thorndike
+- B. F. Skinner
+@ Ivan Petrovich Pavlov (1849–1936): digestion in dogs
+
+? Who proposed the law of effect?
++ Edward Thorndike
+- B. F. Skinner
+- Ivan Pavlov
+- John B. Watson
+@ proposed the law of effect
+
+? Which perspective is also called behavioural neuroscience?
++ Biological psychology
+- Cognitive psychology
+- Evolutionary psychology
+- Clinical psychology
+@ also called behavioural neuroscience
+
+? Which perspective studies information processing, thinking, reasoning, and problem solving?
++ Cognitive psychology
+- Social psychology
+- Developmental psychology
+- Biological psychology
+@ Cognitive psychology
+
+? Which perspective studies the normal changes in behaviour across the lifespan?
++ Developmental psychology
+- Clinical psychology
+- Evolutionary psychology
+- Social psychology
+@ Developmental psychology
+
+? Which perspective seeks to explain, define, and treat abnormal behaviour?
++ Clinical psychology
+- Social psychology
+- Cognitive psychology
+- Evolutionary psychology
+@ Clinical psychology
+
+? Which perspective studies how the social environment affects an individual's behaviour?
++ Social psychology
+- Developmental psychology
+- Biological psychology
+- Cognitive psychology
+@ Social psychology
+
+## hard
+
+? How are mental processes studied, according to the slides?
++ Through introspection
+- Only through brain scans
+- Only by observing behaviour in animals
+- Through classical conditioning
+@ thoughts and feelings, studied through introspection
+
+? Psychology as a hub science has strong links to which fields?
++ The medical sciences, the social sciences, and education
+- Law, art, and religion
+- Engineering, mathematics, and physics only
+- Business and economics only
+@ Hub science: psychology is one of 7 major hub sciences, linked to the medical sciences, social sciences, and education
+
+? Which questions do philosophers and psychologists share?
++ The nature of the self, biology versus environment, the mind–body connection, and how humans relate to other species
+- Only how to treat mental illness with medication
+- Only how the stars affect behaviour
+- Only how to measure IQ
+@ Shared questions: the self, biology versus environment, mind–body connection, humans and other species
+
+? What did empiricism say about the mind at birth?
++ It is a blank slate that fills with ideas gained through observation
+- It is full of inborn ideas and emotions
+- It is made of the smallest elements of experience
+- It is shaped mainly by evolution
+@ Empiricism: 17th-century view of the mind as a blank slate at birth, filled by observation
+
+? What did Hermann von Helmholtz's work on the speed of nerve signalling show?
++ That the mind has a physical basis
+- That the mind is a blank slate
+- That behaviour is purposeful
+- That ideas are innate
+@ Hermann von Helmholtz (1821–1894): speed of nerve signalling showed the mind has a physical basis
+
+? Whom did Wilhelm Wundt work for as a research assistant?
++ Von Helmholtz
+- Sigmund Freud
+- William James
+- Edward Titchener
+@ former research assistant to von Helmholtz
+
+? How did Wundt see mental experience?
++ As a hierarchy
+- As a blank slate
+- As purely physical reflexes
+- As unconscious conflict
+@ saw mental experience as a hierarchy
+
+? Who was Wundt's student who developed structuralism?
++ Edward Titchener
+- William James
+- John B. Watson
+- Abraham Maslow
+@ Structuralism: Edward Titchener (1867–1923), Wundt's student: the mind breaks down into the smallest elements of mental experience
+
+? According to functionalism, why is behaviour purposeful?
++ Because it led to survival
+- Because it is learned from rewards
+- Because ideas are innate
+- Because of unconscious conflicts
+@ behaviour is purposeful because it led to survival
+
+? What did supernatural explanations of psychological disorders give way to between the 17th and 19th centuries?
++ A medical model and a psychological model
+- Behaviourism and humanism
+- Structuralism and functionalism
+- Psychoanalysis and hypnosis
+@ 17th–19th centuries: supernatural explanations of disorders gave way to two scientific approaches
+
+? Which model holds that abnormal behaviour can come from life experiences leading to fear and anxiety?
++ Psychological model
+- Medical model
+- Evolutionary model
+- Structural model
+@ Psychological model: abnormal behaviour from life experiences causing fear, anxiety, other emotions
+
+? What criticism do the slides make of Freud's methods?
++ They relied mainly on introspection rather than science
+- They relied only on animal experiments
+- They ignored everyday behaviour
+- They were based only on brain surgery
+@ relied on introspection rather than science
+
+? What did humanistic psychology believe about people?
++ They are innately good, motivated to improve, and behave badly only when corrupted by society
+- They are blank slates shaped only by rewards
+- They are driven mainly by unconscious conflicts
+- They are made of the smallest elements of mental experience
+@ Humanistic psychology: by 1960, people seen as innately good, self-improving, bad only when corrupted by society
+
+? In client-centered therapy, how do clients relate to the therapist?
++ They have equal standing and take an active part in therapy
+- They follow the therapist's orders without question
+- They only listen while the therapist interprets
+- They never speak about their feelings
+@ Client-centered therapy: Carl Rogers (1902–1987): clients have equal standing with the therapist and take an active part
+
+? What did early behaviourists restrict their research to?
++ Observable, measurable behaviour, mostly in animals
+- Introspection about thoughts and feelings
+- Unconscious conflicts in patients
+- The smallest elements of mental experience
+@ only observable, measurable behaviour, mostly in animals, generalized to humans
+
+? Which behaviourist experimented with rats and echoed the empiricists' blank-slate view?
++ John B. Watson
+- Ivan Pavlov
+- B. F. Skinner
+- William James
+@ John B. Watson (1878–1958): rat experiments
+
+? Which perspective asks how physical structure and behaviour were shaped by survival and reproduction?
++ Evolutionary psychology
+- Developmental psychology
+- Social psychology
+- Clinical psychology
+@ Evolutionary psychology
+
+? Why do the slides recommend combining psychology's perspectives?
++ No single perspective can fully explain a phenomenon, so combining them gives a more holistic explanation
+- Each perspective alone fully explains every phenomenon
+- Combining them makes research faster
+- Only clinical psychology matters
+@ No single perspective fully explains a phenomenon; combining them is more holistic

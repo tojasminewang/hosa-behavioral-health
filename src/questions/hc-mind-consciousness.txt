@@ -1,0 +1,491 @@
+? How do the slides define consciousness?
++ A state of awareness of what we experience inside ourselves and in the world around us
+- A special understanding of the self as separate from other stimuli
+- The activity of the thalamus alone
+- A state of reduced awareness of outside stimuli
+@ Consciousness: awareness of experiences inside us and around us
+
+? A special understanding of the self as separate from other stimuli is called what?
++ Self-awareness
+- Consciousness
+- Lucid dreaming
+- Meditation
+@ Self-awareness: understanding the self as separate from other stimuli
+
+? Which network keeps up unconscious background activity and helps the brain get ready for conscious thought?
++ Default mode network (DMN)
+- Reticular formation
+- Reflective system
+- Craving system
+@ Default mode network (DMN): keeps up unconscious background activity
+
+? Which structure controls the circadian rhythm?
++ Hypothalamus
+- Thalamus
+- Basal ganglia
+- Insula
+@ controlled by the hypothalamus
+
+? What is a circadian rhythm?
++ A daily biological rhythm
+- A yearly pattern of depression
+- A brain wave seen in deep sleep
+- A seizure that begins in one area
+@ Circadian rhythm: daily biological rhythm
+
+? Which kind of travel disrupts circadian rhythms more?
++ Travelling east
+- Travelling west
+- Travelling north
+- Both directions are equally disruptive
+@ Eastward travel is harder
+
+? Depression that returns at the same time each year, usually in winter, is called what?
++ Major depressive disorder with seasonal pattern
+- Maintenance insomnia
+- Narcolepsy
+- REM rebound
+@ Major depressive disorder with seasonal pattern: depression at the same time yearly, usually winter, when less light sets the internal clock
+
+? Which brain waves usually mean alert waking?
++ Beta waves
+- Alpha waves
+- Theta waves
+- Delta waves
+@ Alert waking
+
+? Which brain waves usually mean relaxed waking?
++ Alpha waves
+- Beta waves
+- Gamma waves
+- Delta waves
+@ Relaxed waking
+
+? Which brain waves indicate deep N-REM sleep?
++ Delta waves
+- Theta waves
+- Beta waves
+- Gamma waves
+@ Deep N-REM sleep
+
+? What is daydreaming linked to?
++ The default mode network
+- Delta waves
+- The craving system
+- REM paralysis
+@ Daydreaming: spontaneous experiences with no task, stimulus, or response; linked to the DMN; purpose unclear
+
+? In which stage of N-REM sleep do K complexes and sleep spindles appear?
++ Stage 2
+- Stage 1
+- Stage 3
+- Stage 4
+@ Stage 2: heart rate and muscle tension drop
+
+? Why is REM sleep called paradoxical sleep?
++ The brain looks awake while the body looks deeply asleep
+- It happens only in people who are awake
+- It has no brain activity at all
+- It happens only during the first five minutes of sleep
+@ Paradoxical sleep: REM's other name: brain looks awake, body looks deeply asleep
+
+? About how long after falling asleep does REM sleep begin?
++ About 90 to 120 minutes
+- About 5 to 10 minutes
+- About 30 to 45 minutes
+- About 4 to 6 hours
+@ REM starts ~90 to 120 minutes after falling asleep
+
+? In which stages of N-REM sleep does sleepwalking happen?
++ Stages 3–4
+- Stages 1–2
+- During REM sleep only
+- While awake
+@ sleep talking: stages 1–2
+
+? Which sleep stages repair the body and release growth hormone?
++ Stages 3–4 of N-REM sleep
+- Stage 1 of N-REM sleep
+- REM sleep only
+- Waking with alpha waves
+@ Stages 3–4 of N-REM sleep repair the body and release growth hormone
+
+? After being deprived of REM sleep, a person's sleep is mostly REM. What is this called?
++ REM rebound
+- Cataplexy
+- Narcolepsy
+- Sleep terror
+@ REM rebound: after REM deprivation, sleep is mostly REM
+
+? Being aware that you are dreaming and able to control the dream is called what?
++ Lucid dreaming
+- Daydreaming
+- Hypnosis
+- A near-death experience
+@ Lucid dreaming: knowing you are dreaming and controlling the dream
+
+? According to the slides, which is the most common sleep problem after nightmares?
++ Insomnia
+- Sleep apnea
+- Narcolepsy
+- Restless legs syndrome
+@ Insomnia: can't start or maintain normal sleep
+
+? Someone lies in bed for what feels like a long time and cannot fall asleep. What is this?
++ Onset insomnia
+- Maintenance insomnia
+- Cataplexy
+- Sleep apnea
+@ Onset insomnia: lying in bed a long time unable to fall asleep
+
+? In which disorder does REM sleep break into waking as "sleep attacks"?
++ Narcolepsy
+- Cataplexy
+- Insomnia
+- Sleep apnea
+@ Narcolepsy: "sleep attacks" of REM during waking, plus sleep or muscle paralysis
+
+? In which disorder does breathing stop for a minute or two, so the sleeper wakes up gasping?
++ Sleep apnea
+- Narcolepsy
+- Sudden infant death syndrome
+- Restless legs syndrome
+@ Sleep apnea: breathing stops for a minute or two
+
+? What change made SIDS rates fall?
++ Putting infants to sleep on their backs instead of their stomachs
+- Putting infants to sleep on their stomachs instead of their backs
+- Giving infants melatonin
+- Keeping infants awake longer during the day
+@ Sudden infant death syndrome (SIDS): a healthy infant dies in sleep; cause unclear; top cause of death in the first six months in industrialized nations; rates fell with back-sleeping instead of stomach-sleeping
+
+? Restless legs syndrome usually affects what?
++ One leg, which tingles and moves at regular intervals
+- Both arms, which become paralyzed
+- Breathing during sleep
+- The ability to dream
+@ involuntary movement of a limb, usually one leg
+
+? A person has no sleep–wake cycles, cannot be woken, and does not respond to pain or light. What state is this?
++ Coma
+- Vegetative state
+- Cataplexy
+- Absence seizure
+@ Coma: deep unconsciousness: no sleep–wake cycles, can't be woken, no response to pain or light, no voluntary behaviour
+
+? Wakefulness without consciousness after a brain injury is called what?
++ Vegetative state
+- Coma
+- Brain death
+- Lucid dreaming
+@ Vegetative state (VS): wakefulness without consciousness after brain injury, often after coma
+
+? A person with recurring seizures is diagnosed with what?
++ Epilepsy
+- Narcolepsy
+- Cataplexy
+- Restless legs syndrome
+@ Epilepsy: diagnosis for recurring seizures
+
+? A feeling that a seizure is about to happen is called what?
++ An aura
+- A flashback
+- Déjà vu
+- A K complex
+@ sense that a seizure is coming
+
+? What is a hallucinogen?
++ A drug that produces false perceptions
+- A drug that increases nervous system activity
+- A drug that always causes sleep
+- A drug that blocks pain receptors in the brain
+@ Hallucinogen: drug producing false perceptions
+
+? What is a stimulant?
++ A drug that increases the activity of the nervous system
+- A drug that produces false perceptions
+- A drug that causes REM rebound
+- A drug that ends cataplexy
+@ Stimulant: drug increasing nervous system activity
+
+? Needing more of a drug to get the same effect is called what?
++ Tolerance
+- Withdrawal
+- Addiction
+- REM rebound
+@ Tolerance: needing more drug for the same effect, as the nervous system compensates
+
+? Which drug acts on adenosine?
++ Caffeine
+- Nicotine
+- LSD
+- Alcohol
+@ Adenosine
+
+? Which drug acts on acetylcholine?
++ Nicotine
+- Caffeine
+- Marijuana
+- MDMA
+@ Nicotine — Acetylcholine — Tobacco raises heart rate and blood pressure, reduces fatigue, sharpens thinking, relaxes muscles
+
+? An altered state marked by relaxation and greater suggestibility is called what?
++ Hypnosis
+- Meditation
+- Daydreaming
+- A vegetative state
+@ Hypnosis: altered state with relaxation and greater suggestibility
+
+? Meditation is a voluntary change in consciousness marked by what?
++ Positive emotion and an absence of thought
+- Relaxation and greater suggestibility
+- False perceptions
+- Loss of consciousness and muscle jerking
+@ Meditation: voluntary change in consciousness with positive emotion and no thought
+
+## hard
+
+? According to the slides, what role do the thalamus and reticular formation play in consciousness?
++ They may be necessary but are not enough on their own
+- They are the only structures needed for consciousness
+- They play no role at all
+- They switch consciousness off during REM sleep
+@ Thalamus and reticular formation: may be necessary but not sufficient
+
+? Why might being aware of sensations improve an animal's survival?
++ It lets the animal choose a response instead of reacting on reflex and instinct
+- It makes the animal fall asleep faster
+- It removes the need for sleep
+- It lets the animal respond only by instinct
+@ Awareness lets animals choose responses instead of reflex and instinct (hearing a possible predator: keep going, flee, or pause for more information), likely improving survival
+
+? According to the slides, what can too much change to the circadian rhythm cause?
++ Slower reaction time and minor memory loss
+- Narcolepsy and cataplexy
+- Restless legs syndrome
+- A permanent vegetative state
+@ too much change → slower reaction time, minor memory loss
+
+? A Los Angeles resident flies to New York. Why do they find it harder to adjust than a New Yorker flying to Los Angeles?
++ They must go to bed at what feels like 7:00 p.m. and wake at what feels like 3:00 a.m.
+- They must stay up until what feels like 1:00 a.m. and can then sleep in
+- Their circadian rhythm is controlled by the thalamus instead of the hypothalamus
+- Travelling west is always harder than travelling east
+@ Eastward travel is harder: an LA resident in New York sleeps at what feels like 7:00 p.m. and wakes at what feels like 3:00 a.m.; a New Yorker in LA just stays up later (1:00 a.m. NY time) and sleeps in (9:00 a.m. NY time)
+
+? About what share of people experience major depressive disorder with seasonal pattern?
++ About 4% to 6%
+- About 25%
+- About 50%
+- Less than 0.1%
+@ ~4%–6% of people
+
+? Gamma waves are faster than how many cycles per second, and what do they indicate?
++ More than 30; attention to sensory input
+- More than 30; deep N-REM sleep
+- 4 to 7; lighter N-REM sleep
+- 15 to 30; relaxed waking
+@ More than 30 cycles per second
+
+? Which brain waves run at 4 to 7 cycles per second, and when do they appear?
++ Theta waves, in the lighter stages of N-REM sleep
+- Delta waves, in deep N-REM sleep
+- Beta waves, during alert waking
+- Alpha waves, during REM sleep
+@ 4 to 7 cycles per second
+
+? In stage 2 of N-REM sleep, how does a sleeper respond to sounds?
++ They sleep through familiar stimuli but wake to unexpected ones
+- They wake to every sound
+- They cannot be woken by anything
+- They act out the sounds in their dreams
+@ sleep through familiar stimuli, wake to unexpected ones
+
+? How does stage 4 of N-REM sleep differ from stage 3?
++ Stage 4 has more delta activity but is otherwise very similar
+- Stage 4 has beta waves instead of delta waves
+- Stage 4 is the stage of REM paralysis
+- Stage 4 is when sleep talking happens
+@ Stages 3–4: deep sleep with delta waves (more in stage 4, otherwise similar)
+
+? What happens to the body during REM sleep?
++ The sympathetic nervous system is very active, and heart rate, blood pressure, and breathing become rapid and irregular
+- The parasympathetic system takes over and heart rate stays slow and steady
+- Muscles become tense and sleepwalking begins
+- Brain activity becomes flat, like brain death
+@ In REM: very active sympathetic system; rapid, irregular heart rate, blood pressure, breathing; eyes dart; muscles twitch
+
+? What does it suggest that only birds and mammals show evidence of REM sleep?
++ REM appeared fairly recently in evolution
+- REM is the oldest type of sleep
+- REM is needed for breathing
+- Only birds and mammals dream about predators
+@ Only birds and mammals show REM, suggesting it evolved fairly recently
+
+? Which neurons are quiet during REM sleep but somewhat active during N-REM?
++ Neurons that release serotonin and norepinephrine
+- Neurons that release dopamine and GABA
+- Neurons that release adenosine
+- Neurons that release orexins
+@ Serotonin and norepinephrine neurons: quiet in REM, somewhat active in N-REM
+
+? How are depression and REM sleep linked, according to the slides?
++ Depression can bring more REM sleep, and antidepressants suppress REM
+- Depression removes REM sleep, and antidepressants restore it
+- Depression only affects stage 1 sleep
+- They are not linked
+@ REM and mood are linked: depression can bring more REM; antidepressants suppress REM
+
+? Which brain area shows more activity during lucid dreaming?
++ Dorsolateral prefrontal cortex
+- Insula
+- Basal ganglia
+- Superior colliculi
+@ more dorsolateral prefrontal cortex activity (sense of control, voluntary behaviour)
+
+? How do sleep terrors differ from nightmares?
++ Sleep terrors happen in N-REM sleep without nightmare imagery; nightmares happen in REM sleep
+- Sleep terrors happen in REM sleep; nightmares happen in N-REM sleep
+- Both happen only in stage 1 sleep
+- Sleep terrors always include vivid dream imagery; nightmares never do
+@ Sleep terrors: sudden waking from N-REM in great distress without nightmare imagery
+
+? What usually causes maintenance insomnia?
++ Stress
+- Missing orexins
+- A gene variant in the basal ganglia
+- Obesity and snoring
+@ usually stress
+
+? What do the slides say about the insomnia drug zolpidem?
++ It has only very small effects on sleep
+- It cures narcolepsy
+- It increases REM rebound
+- It is the main treatment for sleep apnea
+@ Zolpidem (insomnia drug): very small effects on sleep
+
+? Which brain chemicals are missing or damaged in narcolepsy?
++ Orexins
+- Endorphins
+- Cannabinoids
+- Adenosine
+@ orexins missing or damaged (genes + autoimmune attack on orexin-making cells)
+
+? What is cataplexy, and how can it be ended?
++ REM paralysis while awake without losing consciousness; touching the person ends it
+- A sudden sleep attack; shining a light ends it
+- Stopped breathing during sleep; surgery ends it
+- A seizure with an aura; medication ends it
+@ Cataplexy: REM paralysis while awake, without losing consciousness; touching the person ends it
+
+? Besides airway problems in people who are obese and snore, what else can cause sleep apnea?
++ Malfunctioning brainstem neurons that keep breathing going during sleep
+- A gene variant active in the basal ganglia
+- Missing orexins
+- Low levels of melatonin
+@ Sleep apnea: breathing stops for a minute or two; sleeper wakes gasping; mostly in obese snorers (treat with weight loss, airway surgery); raises heart disease risk; can stem from faulty brainstem breathing neurons
+
+? Restless legs syndrome comes from a gene variant active in which brain area early in prenatal development?
++ Basal ganglia
+- Hypothalamus
+- Insula
+- Reticular formation
+@ gene variant active in the basal ganglia early in prenatal development
+
+? Damage to which areas leads to a coma?
++ Both cerebral hemispheres or the reticular formation
+- Only the occipital lobe
+- Only the cerebellum
+- The insula and the basal ganglia
+@ Coma follows damage to both hemispheres or the reticular formation
+
+? Within about how long do most coma patients recover, move into a vegetative state, or die?
++ 2 to 4 weeks
+- 24 hours
+- 6 months
+- 2 years
+@ within 2–4 weeks most recover, enter a vegetative state, or die
+
+? Which finding shows brain death?
++ Two flat EEGs taken 24 hours apart, or no blood flow to the brain
+- One EEG showing delta waves
+- No response to light but a response to pain
+- Eyes opening at times with teeth grinding
+@ Brain death: complete, irreversible loss of measurable brain activity: two flat EEGs 24 hours apart or no blood flow to the brain
+
+? Which kind of seizure starts in a focal area and often comes with an aura?
++ Partial seizure
+- Generalized seizure
+- Tonic-clonic seizure
+- Absence seizure
+@ Partial seizure: starts in one area (the focal area)
+
+? A partial seizure starting in which lobe can cause déjà vu?
++ Temporal lobe
+- Frontal lobe
+- Occipital lobe
+- Parietal lobe
+@ temporal-lobe seizures can cause déjà vu
+
+? Which seizure involves abnormal activation of circuits linking the cortex and thalamus and has no aura?
++ Generalized seizure
+- Partial seizure
+- Focal seizure
+- Temporal lobe seizure
+@ Generalized seizure: abnormal activation of cortex–thalamus circuits
+
+? Which type of seizure includes loss of consciousness, stopped breathing, and violent rhythmic jerking followed by a short coma?
++ Tonic-clonic seizure
+- Absence seizure
+- Partial seizure
+- Cataplexy
+@ Tonic-clonic seizure: loss of consciousness, stopped breathing, intense contraction, violent rhythmic jerking (possible injuries), then a short coma
+
+? According to the slides, which three brain systems are involved in addiction's faulty decision making?
++ An impulsive system, a reflective system, and a craving system
+- A sensory system, a motor system, and a memory system
+- A visual system, an auditory system, and a smell system
+- The default mode network, the reticular formation, and the thalamus
+@ Addiction involves three systems: impulsive (dopamine pathways, midbrain–basal ganglia), reflective (frontal lobes weigh pros and cons, control impulses), craving (insula)
+
+? Which brain area forms the craving system in addiction?
++ The insula
+- The frontal lobes
+- The basal ganglia
+- The midbrain
+@ Addiction involves three systems: impulsive (dopamine pathways, midbrain–basal ganglia), reflective (frontal lobes weigh pros and cons, control impulses), craving (insula)
+
+? Why is marijuana formally classed as a hallucinogen?
++ It distorts time and space and causes hallucinations in some users
+- It acts on adenosine
+- It always causes depression
+- It increases heart rate and body temperature
+@ distorts time and space
+
+? Which drug acts on serotonin and oxytocin and can cause hyperthermia, convulsions, and death?
++ MDMA (ecstasy)
+- LSD
+- Caffeine
+- Methylphenidate (Ritalin)
+@ MDMA (ecstasy)
+
+? Which drug acts on GABA and dopamine and, at low doses, widens blood vessels and lowers anxiety?
++ Alcohol
+- Opioids
+- Nicotine
+- Cocaine
+@ Alcohol — GABA and dopamine — Low doses widen blood vessels (warm, flushed) and lower anxiety; high doses → aggression, risk-taking, poor coordination; very high → coma or death (suppressed breathing, inhaled vomit)
+
+? Repetitive movements such as chewing or teeth grinding are linked to which drugs?
++ Cocaine and amphetamines
+- Caffeine and nicotine
+- Opioids and alcohol
+- LSD and marijuana
+@ Cocaine and amphetamines
+
+? At high doses, which drug brings a fast, strong "rush" and heavily depressed breathing?
++ Opioids
+- Caffeine
+- LSD
+- Methylphenidate (Ritalin)
+@ Opioids — Endogenous endorphins — Big dopamine release → well-being, pain relief; low doses: euphoria, calm, relaxation, sleep; high doses: a strong "rush" and depressed breathing, sometimes fatal

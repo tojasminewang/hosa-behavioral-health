@@ -25,6 +25,7 @@
   --p4:#7E5E26; --p4-bg:#F3EDDF; --p4-line:#E0CFA9;
   --p5:#2E6C65; --p5-bg:#E1EFEC; --p5-line:#B0D4CE;
   --p6:#5F6488; --p6-bg:#ECEDF5; --p6-line:#C7CADF;
+  --p7:#9A5536; --p7-bg:#F6E9E1; --p7-line:#E6C7B6;
   --pink:#E1EBD3; --pink-ink:#40602A; --lime:#E1EBD2; --sky:#E3ECF7; --beige:#F4F2EB; --mint:#E3EFDE; --butter:#F0EFDD; --peach:#E5EDD9; --coral:#8FB06B;
   --mark:#D9E8C3; --ring:#86A963; --meter-a:#C7DDAC; --logo-bg:#1B1D18; --logo-fg:#E8F0DD;
   --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#7FA35A; --dd4:#A9C3E6; --dd5:#BCD3A2;
@@ -53,6 +54,7 @@
     --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
     --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
     --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+  --p7:#E8AC8E; --p7-bg:#36241B; --p7-line:#714A37;
     --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
     --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
     --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
@@ -77,6 +79,7 @@
   --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
   --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
   --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+  --p7:#E8AC8E; --p7-bg:#36241B; --p7-line:#714A37;
   --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
   --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
   --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
@@ -101,6 +104,7 @@ html:root[data-user-theme="light"]{
   --p4:#7E5E26; --p4-bg:#F3EDDF; --p4-line:#E0CFA9;
   --p5:#2E6C65; --p5-bg:#E1EFEC; --p5-line:#B0D4CE;
   --p6:#5F6488; --p6-bg:#ECEDF5; --p6-line:#C7CADF;
+  --p7:#9A5536; --p7-bg:#F6E9E1; --p7-line:#E6C7B6;
   --pink:#E1EBD3; --pink-ink:#40602A; --lime:#E1EBD2; --sky:#E3ECF7; --beige:#F4F2EB; --mint:#E3EFDE; --butter:#F0EFDD; --peach:#E5EDD9; --coral:#8FB06B;
   --mark:#D9E8C3; --ring:#86A963; --meter-a:#C7DDAC; --logo-bg:#1B1D18; --logo-fg:#E8F0DD;
   --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#7FA35A; --dd4:#A9C3E6; --dd5:#BCD3A2;
@@ -126,6 +130,7 @@ html:root[data-user-theme="dark"]{
   --p4:#DFC28A; --p4-bg:#33291A; --p4-line:#6E5A33;
   --p5:#8DD0C6; --p5-bg:#16302C; --p5-line:#2C6158;
   --p6:#B5B9D9; --p6-bg:#262838; --p6-line:#4C5070;
+  --p7:#E8AC8E; --p7-bg:#36241B; --p7-line:#714A37;
   --pink:#2C3A22; --pink-ink:#C9DFB0; --lime:#212B1A; --sky:#1E2A38; --beige:#23261F; --mint:#1F2E22; --butter:#2B2C1E; --peach:#283223; --coral:#9DBA7C;
   --mark:rgba(170,215,130,.32); --ring:#9DBA7C; --meter-a:#3E5A2C; --logo-bg:#DCE8C9; --logo-fg:#141712;
   --dd1:#9DBA7C; --dd2:#CDBB8E; --dd3:#B6D199; --dd4:#9FBDE6; --dd5:#7FA35A;
@@ -137,6 +142,7 @@ html:root[data-user-theme="dark"]{
 .pc-4{--pc:var(--p4);--pc-bg:var(--p4-bg);--pc-line:var(--p4-line)}
 .pc-5{--pc:var(--p5);--pc-bg:var(--p5-bg);--pc-line:var(--p5-line)}
 .pc-6{--pc:var(--p6);--pc-bg:var(--p6-bg);--pc-line:var(--p6-line)}
+.pc-7{--pc:var(--p7);--pc-bg:var(--p7-bg);--pc-line:var(--p7-line)}
 
 *,*::before,*::after{box-sizing:border-box}
 [hidden]{display:none!important}
@@ -674,8 +680,6 @@ mark.hl[data-noted]{text-decoration-line:underline;text-decoration-style:dotted;
 /* labelled pictures */
 .pic{position:relative;border-radius:16px;overflow:hidden;background:#F7F9F3;line-height:0}
 .pic img{display:block;width:100%;height:auto}
-:root[data-theme="dark"] .pic img,html:root[data-user-theme="dark"] .pic img{filter:brightness(.93)}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]):not([data-user-theme="light"]) .pic img{filter:brightness(.93)}}
 .pin{position:absolute;transform:translate(-50%,-50%);width:25px;height:25px;border-radius:50%;background:#1B1D18;color:#fff;font:700 12.5px/25px var(--font);text-align:center;box-shadow:0 0 0 2.5px rgba(255,255,255,.92),0 2px 6px rgba(0,0,0,.28);transition:transform .15s,background .15s;cursor:default}
 .pin.on{transform:translate(-50%,-50%) scale(1.28);background:#4A6A2E}
 @media (max-width:640px){.prose .pin{width:21px;height:21px;font-size:10.5px;line-height:21px;box-shadow:0 0 0 2px rgba(255,255,255,.92),0 1px 4px rgba(0,0,0,.25)}}
@@ -820,6 +824,56 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
 .figbox .dg{font-size:15px}
 @media (max-width:760px){.figbox .pic{width:200%;max-width:none}.figbox .chart{width:150%;max-width:none}.figbox-in{padding:16px}}
 @media print{.fig-zoom{display:none}.prose .fig{break-inside:avoid}}
+/* ---------- textbook look for the figures: white plate, bold black outlines, flat bright colors ---------- */
+.fig-body{
+  --ink:#111;--ink-2:#1a1a1a;--ink-3:#222;--ink-4:#111;--line:#111;--line-2:#111;--surface:#fff;
+  --primary:#3D46E0;--on-primary:#fff;--mark:#FFE066;--bad-ink:#111;
+  --p1-bg:#FF85CC;--p2-bg:#A5A7FF;--p3-bg:#FF8F73;--p4-bg:#FFE066;--p5-bg:#7FDDD6;--p6-bg:#DDB3FF;
+  --p1-line:#111;--p2-line:#111;--p3-line:#111;--p4-line:#111;--p5-line:#111;--p6-line:#111;
+  background:#fff;color:#1a1a1a;border-radius:14px;padding:10px;
+}
+.fig-body .dg{--p1:#111;--p2:#111;--p3:#111;--p4:#111;--p5:#111;--p6:#111}
+.fig-body .chart{--p1:#D6006E;--p2:#3D46E0;--p3:#D8341F;--p4:#A67C00;--p5:#00857A;--p6:#8A2BE2}
+.prose .fig{background:var(--surface);padding:10px 10px 12px}
+.prose .fig figcaption{margin:12px 12px 2px}
+.pic{background:#fff;border-radius:10px}
+.dg .nd,.dg .dtile,.dg .nest{border-width:2.5px;border-radius:10px}
+.dg .pyr .nd{border-radius:8px}
+.dg .nd>b:first-child,.dg .dtile .tt,.dg .nest>b:first-child,.dg .tl-t b{font-weight:700}
+.dg .dtile.c1{background:var(--p1-bg)}.dg .dtile.c2{background:var(--p2-bg)}.dg .dtile.c3{background:var(--p3-bg)}.dg .dtile.c4{background:var(--p4-bg)}.dg .dtile.c5{background:var(--p5-bg)}.dg .dtile.c6{background:var(--p6-bg)}
+.dg .cyc .ctr b{font-size:16.5px}
+.dg .ar{stroke-width:2.6}
+.dg .tk::before,.dg .tc::before{border-left-width:2.5px}
+.dg .tc::after{border-top-width:2.5px}
+.chart .ax{stroke-width:2.5}
+.chart .gd{stroke:#C4C4C4}
+.chart .ln{stroke-width:3.5}
+.chart .sl{stroke-width:2.2}
+.chart .bx{stroke:#111;stroke-width:2.5}
+/* labelled pictures: the words sit on the figure with leader lines; phones get numbered pins and a numbered key */
+.pic[data-lb]{aspect-ratio:var(--ar)}
+.pic[data-lb] .pi{position:absolute;left:var(--l);top:var(--t);width:var(--w)}
+.pic .pin{display:none}
+.ann{position:absolute;inset:0;width:100%;height:100%;font-family:var(--font);overflow:visible}
+.ann text{fill:#111;font-size:31px;font-weight:600;letter-spacing:-.003em}
+.ann .ll{fill:none;stroke:#111;stroke-width:2.2}
+.ann .ad{fill:#111;stroke:#fff;stroke-width:2}
+.ann [data-k]{cursor:default}
+.ann [data-k].on text{fill:#D6006E}
+.ann [data-k].on .ll{stroke:#D6006E}
+.ann [data-k].on .ad{fill:#D6006E}
+.key .ki.on{background:#FFE066}
+.key .pn{display:none}
+@media (max-width:640px){
+  .prose .pic[data-lb]{aspect-ratio:auto}
+  .prose .pic[data-lb] .pi{position:relative;left:0;top:0;width:100%}
+  .prose .pic .ann{display:none}
+  .prose .pic .pin{display:block}
+  .prose .key .pn{display:block}
+  .prose .fig{padding:6px 6px 10px}
+  .prose .fig .fig-body{padding:4px}
+  .prose .fig figcaption{margin:10px 8px 2px}
+}
 </style>
 <script>(function(){var t=null;try{t=localStorage.getItem('hosa-bh-prep/theme')}catch(e){}if(t!=='auto')document.documentElement.setAttribute('data-user-theme',t==='dark'?'dark':'light')})()</script>
 </head>
@@ -854,6 +908,7 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
   <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
   <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
   <symbol id="i-pencil" viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></symbol>
+  <symbol id="i-slides" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M12 16v4M8 20h8M7 8.5h6M7 11.5h9"/></symbol>
 </svg>
 
 <div class="app">
@@ -872,6 +927,7 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
       <a href="#home" data-act="home" data-view="home"><svg class="ic"><use href="#i-home"/></svg>Home</a>
       <a href="#guide" data-act="tab" data-arg="guide" data-view="guide"><svg class="ic"><use href="#i-target"/></svg>Exam guide</a>
       <a href="#notes" data-act="tab" data-arg="notes" data-view="notes"><svg class="ic"><use href="#i-book"/></svg>Study notes</a>
+      <a href="#slides" data-act="tab" data-arg="slides" data-view="slides"><svg class="ic"><use href="#i-slides"/></svg>HOSA slides</a>
       <a href="#quiz" data-act="tab" data-arg="quiz" data-view="quiz"><svg class="ic"><use href="#i-quiz"/></svg>Quiz</a>
       <a href="#mock" data-act="tab" data-arg="mock" data-view="mock"><svg class="ic"><use href="#i-clock"/></svg>Mock exam<span class="badge neutral" id="mock-badge" hidden>In progress</span></a>
       <a href="#cards" data-act="tab" data-arg="cards" data-view="cards"><svg class="ic"><use href="#i-cards"/></svg>Flashcards</a>
@@ -887,6 +943,8 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
     </div>
     <p class="sec-label"><svg class="ic"><use href="#i-folder-o"/></svg>Test plan</p>
     <nav class="tree" id="tree" aria-label="Test plan parts and topics"></nav>
+    <p class="sec-label" id="slides-label"><svg class="ic"><use href="#i-slides"/></svg>HOSA Canada slides</p>
+    <nav class="tree" id="tree-slides" aria-label="HOSA Canada slide decks"></nav>
   </aside>
   <div class="scrim" id="scrim" hidden></div>
 
@@ -942,6 +1000,8 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
       </section>
 
       <section id="v-guide" hidden></section>
+
+      <section id="v-slides" hidden></section>
 
       <section id="v-mock" hidden></section>
 
@@ -1035,6 +1095,10 @@ const reduceMotion = !!(window.matchMedia && matchMedia('(prefers-reduced-motion
 /* ---------- data ---------- */
 const PARTS = DATA.parts, EV = DATA.events, QS = DATA.questions, CARDS = DATA.cards;
 const ORDER = PARTS.flatMap(p => p.events);
+const PLAN = PARTS.filter(p => !p.slides), SLIDES = PARTS.find(p => p.slides) || null;   // the test plan vs. HOSA Canada's slides
+const PLAN_ORDER = PLAN.flatMap(p => p.events);
+const partTag = n => SLIDES && n === SLIDES.n ? 'HOSA slides' : `Part ${n}`;
+const partName = p => p.slides ? p.title : 'Part ' + p.n + ' · ' + p.title;   // no template literal: the label rewrite below must not touch it
 const byId = {}, byEvent = {}, cardsByEvent = {};
 for (const q of QS) { byId[q.id] = q; (byEvent[q.event] = byEvent[q.event] || []).push(q); }
 for (const q of QS) for (const s of q.also || []) (byEvent[s] = byEvent[s] || []).push(q);   // e.g. word-part spelling also in Medical Spelling
@@ -1110,7 +1174,7 @@ function refreshMeters() {
 }
 
 /* ---------- navigation ---------- */
-const views = { home: $('#v-home'), guide: $('#v-guide'), notes: $('#v-notes'), quiz: $('#v-quiz'), mock: $('#v-mock'), cards: $('#v-cards'), highlights: $('#v-highlights'), review: $('#v-review'), mynotes: $('#v-mynotes') };
+const views = { home: $('#v-home'), guide: $('#v-guide'), slides: $('#v-slides'), notes: $('#v-notes'), quiz: $('#v-quiz'), mock: $('#v-mock'), cards: $('#v-cards'), highlights: $('#v-highlights'), review: $('#v-review'), mynotes: $('#v-mynotes') };
 let current = null, curEvent = null, backFrom = null;
 const sidebar = $('#sidebar'), scrim = $('#scrim'), menuBtn = $('#menu-btn');
 function openMenu() {
@@ -1130,7 +1194,8 @@ function show(name) {
   current = name;
   hideBar();
   for (const k in views) views[k].hidden = k !== name;
-  $$('.nav a').forEach(a => { const on = a.dataset.view === name; a.classList.toggle('active', on); if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+  const navName = name === 'notes' && SLIDES && SLIDES.events.includes(curEvent) ? 'slides' : name;
+  $$('.nav a').forEach(a => { const on = a.dataset.view === navName; a.classList.toggle('active', on); if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
   $$('.tree a').forEach(a => a.setAttribute('aria-current', name === 'notes' && a.dataset.toc === curEvent ? 'true' : 'false'));
   if (name !== 'notes') backFrom = null;
   const pill = $('#back-pill'), from = backFrom || (quiz ? 'quiz' : (mock && !mock.done ? 'mock' : null));
@@ -1158,6 +1223,8 @@ function go(view, arg) {
     renderHighlights(); show('highlights'); setHash('highlights'); toTop();
   } else if (view === 'mynotes') {
     renderMyNotes(); show('mynotes'); setHash('mynotes'); toTop();
+  } else if (view === 'slides') {
+    renderSlides(); show('slides'); setHash('slides'); toTop();
   } else if (view === 'cards') {
     if (arg) setDeck(arg);
     show('cards'); renderCard(true); setHash('cards'); toTop();
@@ -1186,14 +1253,16 @@ document.addEventListener('click', e => {
 });
 
 /* ---------- sidebar tree ---------- */
-$('#tree').append(...PARTS.map(p => {
+const treeGroup = p => {
   const list = h('ol', { id: `tree-${p.n}` }, p.events.map(slug => h('li', null,
     h('a', { href: '#notes-' + slug, 'data-act': 'notes', 'data-arg': slug, 'data-toc': slug }, EV[slug].title))));
   const btn = h('button', { class: 'pkt-btn', type: 'button', 'aria-expanded': 'true', 'aria-controls': `tree-${p.n}` },
     icon('chev', 'ic chev'), icon('folder', 'folder'), h('span', null, p.short));
   btn.addEventListener('click', () => { const open = btn.getAttribute('aria-expanded') !== 'true'; btn.setAttribute('aria-expanded', String(open)); list.hidden = !open; });
   return h('div', { class: `pc-${p.n}` }, btn, list);
-}));
+};
+$('#tree').append(...PLAN.map(treeGroup));
+if (SLIDES) $('#tree-slides').append(treeGroup(SLIDES)); else { $('#slides-label').hidden = true; $('#tree-slides').hidden = true; }
 
 /* ---------- home ---------- */
 function statCard(tone, ic, num, label) {
@@ -1205,6 +1274,26 @@ function toolCard(tone, ic, title, sub, attrs) {
     h('span', { class: `tile ${tone}` }, icon(ic)),
     h('span', { class: 'tool-title' }, title),
     h('span', { class: 'tool-sub' }, sub));
+}
+const deckCard = slug => h('div', { class: 'card deck' },
+          h('span', { class: 'tile pk' }, icon('doc')),
+          h('a', { class: 'deck-title', href: '#notes-' + slug, 'data-act': 'notes', 'data-arg': slug }, EV[slug].title),
+          h('div', { class: 'deck-btns' },
+            h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev', 'data-arg': slug, 'aria-label': `Quiz: ${EV[slug].title}` }, 'Quiz'),
+            hCount(slug) ? h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev-hard', 'data-arg': slug, 'aria-label': `Hard quiz: ${EV[slug].title}` }, 'Hard') : null),
+          h('span', { class: 'deck-meta' }, `${qCount(slug)} questions`, hCount(slug) ? [h('span', { class: 'dot' }, '•'), `${hCount(slug)} hard`] : null, h('span', { class: 'dot' }, '•'), `${cCount(slug)} flashcards`,
+            stats([slug]).missed ? h('button', { class: 'mini-review', type: 'button', 'data-act': 'review-ev', 'data-arg': slug }, `${stats([slug]).missed} wrong`) : null),
+          h('span', { class: 'deck-prog' }, meter(slug), pctLabel(slug)));
+function slidesCard() {
+  if (!SLIDES) return null;
+  const s = stats(SLIDES.events), nc = SLIDES.events.reduce((a, x) => a + cCount(x), 0);
+  return h('div', { class: `card exam-card pc-${SLIDES.n}` },
+    h('span', { class: 'tile pk' }, icon('slides')),
+    h('div', { class: 'exam-text' },
+      h('p', { class: 'exam-title' }, 'HOSA Canada study slides'),
+      h('p', { class: 'exam-sub' }, `Just what HOSA Canada’s ${plural(SLIDES.events.length, 'slide deck')} say, with ${plural(s.total, 'question')} and ${plural(nc, 'flashcard')} of their own.`)),
+    h('div', { class: 'exam-btns' },
+      h('button', { class: 'btn primary', type: 'button', 'data-act': 'tab', 'data-arg': 'slides' }, icon('slides'), 'Open the slides')));
 }
 function renderHome() {
   const all = stats(ORDER), last = EV[st.last] ? st.last : null, days = streak();
@@ -1230,7 +1319,7 @@ function renderHome() {
     h('div', { class: 'home-head' },
       h('div', null,
         h('h1', { class: 'page-title' }, 'Behavioral Health'),
-        h('p', { class: 'page-sub' }, `HOSA ILC 2026–27. Notes, quizzes, flashcards and timed mock exams for all ${ORDER.length} topics in the test plan.`)),
+        h('p', { class: 'page-sub' }, `HOSA ILC 2026–27. Notes, quizzes, flashcards and timed mock exams for all ${PLAN_ORDER.length} topics in the test plan${SLIDES ? ', plus HOSA Canada’s study slides' : ''}.`)),
       h('div', { class: 'actions' },
         h('button', { class: 'btn', type: 'button', 'data-act': 'notes', 'data-arg': last || ORDER[0] }, icon('book'), last ? `Continue: ${EV[last].title}` : 'Start studying'),
         h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-mixed' }, icon('quiz'), 'Mixed quiz', h('span', { class: 'count' }, '· 20')))),
@@ -1239,6 +1328,7 @@ function renderHome() {
       statCard('blue', 'quiz', all.seen.toLocaleString(), 'Questions answered'),
       statCard('green', 'check', tries ? Math.round(right / tries * 100) + '%' : '—', 'Accuracy')),
     examCard(),
+    slidesCard(),
     all.missed ? h('div', { class: 'card exam-card fixcard' },
       h('span', { class: 'tile rose' }, icon('redo')),
       h('div', { class: 'exam-text' },
@@ -1247,7 +1337,7 @@ function renderHome() {
       h('div', { class: 'exam-btns' }, h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-missed' }, icon('redo'), 'Redo wrong answers'))) : null,
     h('h2', { class: 'sec-title' }, 'Study tools'),
     h('div', { class: 'tools' },
-      toolCard('green', 'book', 'Study notes', `${ORDER.length} topics` + (nFig ? ` · ${nFig} figures` : ''), { 'data-act': 'notes', 'data-arg': last || ORDER[0] }),
+      toolCard('green', 'book', 'Study notes', `${PLAN_ORDER.length} topics` + (nFig ? ` · ${nFig} figures` : ''), { 'data-act': 'notes', 'data-arg': last || ORDER[0] }),
       toolCard('blue', 'quiz', 'Practice quizzes', `${QS.length.toLocaleString()} questions`, { 'data-act': 'tab', 'data-arg': 'quiz' }),
       toolCard('orange', 'clock', 'Mock exam', '50 questions, timed', { 'data-act': 'new-mock' }),
       toolCard('rose', 'cards', 'Flashcards', `${CARDS.length.toLocaleString()} cards`, { 'data-act': 'tab', 'data-arg': 'cards' })),
@@ -1257,27 +1347,19 @@ function renderHome() {
       fact),
     h('h2', { class: 'sec-title' }, 'Your test plan'),
     h('p', { class: 'sec-sub' }, 'Six parts, weighted like the real test. Pick a topic to read it, quiz yourself or flip its flashcards.'),
-    PARTS.map(p => {
+    PLAN.map(p => {
       const s = stats(p.events);
       return h('section', { class: `packet pc-${p.n}`, 'aria-labelledby': `pk-${p.n}` },
         h('div', { class: 'packet-head' },
           icon('folder', 'folder'),
-          h('h2', { class: 'packet-title', id: `pk-${p.n}` }, `Part ${p.n} · ${p.title}`),
+          h('h2', { class: 'packet-title', id: `pk-${p.n}` }, partName(p)),
           h('span', { class: 'chip' }, `${p.weight}% of the test`),
           h('span', { class: 'packet-meta' }, `${plural(p.events.length, 'topic')} • ${plural(s.total, 'question')}`),
           h('div', { class: 'packet-actions' },
             s.missed ? h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo wrong answers', h('span', { class: 'count' }, '· ' + s.missed)) : null,
             h('button', { class: 'btn sm', type: 'button', 'data-act': 'quiz-part', 'data-arg': p.n }, 'Quiz this part'),
             h('button', { class: 'btn sm', type: 'button', 'data-act': 'cards', 'data-arg': 'part-' + p.n }, 'Flashcards'))),
-        h('div', { class: 'decks' }, p.events.map(slug => h('div', { class: 'card deck' },
-          h('span', { class: 'tile pk' }, icon('doc')),
-          h('a', { class: 'deck-title', href: '#notes-' + slug, 'data-act': 'notes', 'data-arg': slug }, EV[slug].title),
-          h('div', { class: 'deck-btns' },
-            h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev', 'data-arg': slug, 'aria-label': `Quiz: ${EV[slug].title}` }, 'Quiz'),
-            hCount(slug) ? h('button', { class: 'btn ghost sm quiz-btn', type: 'button', 'data-act': 'quiz-ev-hard', 'data-arg': slug, 'aria-label': `Hard quiz: ${EV[slug].title}` }, 'Hard') : null),
-          h('span', { class: 'deck-meta' }, `${qCount(slug)} questions`, hCount(slug) ? [h('span', { class: 'dot' }, '•'), `${hCount(slug)} hard`] : null, h('span', { class: 'dot' }, '•'), `${cCount(slug)} flashcards`,
-            stats([slug]).missed ? h('button', { class: 'mini-review', type: 'button', 'data-act': 'review-ev', 'data-arg': slug }, `${stats([slug]).missed} wrong`) : null),
-          h('span', { class: 'deck-prog' }, meter(slug), pctLabel(slug))))));
+        h('div', { class: 'decks' }, p.events.map(deckCard)));
     }),
     h('p', { class: 'sources-line' }, 'Built only from the official references: the Cacioppo & Freberg textbook, SAMHSA, NAMI, the HOSA event guidelines and HOSA Canada’s study decks.'));
 }
@@ -1294,6 +1376,37 @@ const SAMPLES = [
   { q: 'Which type of psychology explores regular changes in behavior that occur across the lifespan?', cite: 'Cacioppo pp 24',
     choices: ['Cognitive', 'Developmental', 'Clinical', 'Behavioral'], answer: 1, link: ['careers', 'Explores the normal changes in behavior that occur across the life span'] },
 ];
+/* ---------- HOSA Canada study slides: a section of its own ---------- */
+function renderSlides() {
+  const p = SLIDES;
+  if (!p) { fill(views.slides, h('p', { class: 'page-sub' }, 'No slide decks in this build.')); return; }
+  const s = stats(p.events), sum = f => p.events.reduce((a, x) => a + f(x), 0);
+  const nq = sum(qCount), nh = sum(hCount), nc = sum(cCount);
+  fill(views.slides,
+    h('div', { class: 'home-head' },
+      h('div', null,
+        h('p', { class: `crumb pc-${p.n}` }, h('span', { class: 'chip' }, 'HOSA Canada'), h('span', null, 'Behavioural Health study slides')),
+        h('h1', { class: 'page-title' }, 'HOSA Canada study slides'),
+        h('p', { class: 'page-sub' }, 'Only what HOSA Canada’s Behavioural Health study slides say, rewritten as short notes, with a quiz and flashcards for each slide deck. Nothing in this section comes from the textbook or the other sources.')),
+      h('div', { class: 'actions' },
+        h('button', { class: 'btn', type: 'button', 'data-act': 'cards', 'data-arg': 'part-' + p.n }, icon('cards'), 'Flashcards', h('span', { class: 'count' }, '· ' + nc)),
+        h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-part', 'data-arg': p.n }, icon('quiz'), 'Quiz the slides'))),
+    h('div', { class: 'stats' },
+      statCard('blue', 'slides', String(p.events.length), 'Slide decks'),
+      statCard('green', 'quiz', (nq + nh).toLocaleString(), nh ? `Questions (${nh} hard)` : 'Questions'),
+      statCard('orange', 'cards', nc.toLocaleString(), 'Flashcards')),
+    h('section', { class: `packet pc-${p.n}`, 'aria-labelledby': 'pk-slides' },
+      h('div', { class: 'packet-head' },
+        icon('folder', 'folder'),
+        h('h2', { class: 'packet-title', id: 'pk-slides' }, 'Slide decks'),
+        h('span', { class: 'packet-meta' }, `${plural(p.events.length, 'deck')} • ${plural(s.total, 'question')} • ${Math.round(s.pct * 100)}% mastered`),
+        h('div', { class: 'packet-actions' },
+          s.missed ? h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo wrong answers', h('span', { class: 'count' }, '· ' + s.missed)) : null,
+          h('button', { class: 'btn sm', type: 'button', 'data-act': 'quiz-part', 'data-arg': p.n }, 'Quiz all decks'),
+          h('button', { class: 'btn sm', type: 'button', 'data-act': 'cards', 'data-arg': 'part-' + p.n }, 'Flashcards'))),
+      h('div', { class: 'decks' }, p.events.map(deckCard))),
+    h('p', { class: 'sources-line' }, 'Paraphrased from HOSA Canada’s Behavioural Health study slides (HOSA Canada member app). HOSA Canada says the slides are for educational use only.'));
+}
 function examCard() {
   const live = mock && !mock.done, past = Array.isArray(st.mocks) ? st.mocks : [], last = past[past.length - 1];
   return h('div', { class: 'card exam-card' },
@@ -1365,7 +1478,7 @@ function renderGuide() {
       h('p', { class: 'g-note' }, 'How the 50 questions are split. The mock exam on this site uses the same mix.'),
       h('div', { class: 'tbl' }, h('table', null,
         h('thead', null, h('tr', null, h('th', null, 'Part'), h('th', null, 'Weight'), h('th', null, 'Mock exam'), h('th', null, 'Topics on this site'))),
-        h('tbody', null, PARTS.map(p => h('tr', { class: `pc-${p.n}` },
+        h('tbody', null, PLAN.map(p => h('tr', { class: `pc-${p.n}` },
           h('td', null, h('b', null, `${p.n}. ${p.title}`)),
           h('td', null, h('span', { class: 'chip' }, p.weight + '%')),
           h('td', { class: 'nowrap' }, `${MOCK_PLAN[p.n]} questions`),
@@ -1401,7 +1514,7 @@ const mockAnswered = () => mock ? mock.items.filter(it => it.pick !== null).leng
 const fmtTime = ms => { const s = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`; };
 function buildMock(level) {
   const out = [];
-  for (const p of PARTS) {
+  for (const p of PLAN) {
     const want = MOCK_PLAN[p.n] || 0, seen = new Set(), picked = [];
     const pools = shuffle(p.events.map(s => shuffle(poolFor([s], 'any', level).slice()))).filter(x => x.length);
     let k = 0;
@@ -1441,7 +1554,7 @@ function renderMockSetup() {
   fill(views.mock, h('div', { class: 'quiz-wrap' },
     h('h1', { class: 'page-title' }, 'Mock exam'),
     h('p', { class: 'page-sub' }, 'A practice run of round one: 50 multiple-choice questions picked to match the test plan weights, timed at 60 minutes (or 40 minutes, like HOSA Canada’s FLC). Like the real test, you see the answers only after you submit.'),
-    h('div', { class: 'card breakdown mock-plan' }, h('ul', null, PARTS.map(p => h('li', { class: `pc-${p.n}` },
+    h('div', { class: 'card breakdown mock-plan' }, h('ul', null, PLAN.map(p => h('li', { class: `pc-${p.n}` },
       h('span', null, `Part ${p.n} · ${p.short}`), h('span', { class: 'chip' }, p.weight + '%'), h('span', { class: 'pct' }, String(MOCK_PLAN[p.n])))))),
     h('div', { class: 'mock-opts' },
       h('fieldset', { class: 'card opt' }, h('legend', null, 'Difficulty'),
@@ -1557,7 +1670,7 @@ function renderMockDone() {
     missed.length ? [h('h2', { class: 'sec-title' }, blank ? 'What you missed or left blank' : 'What you missed'), h('ol', { class: 'missed-list' }, missed.map(({ it, q }) => {
       const ev = EV[q.event];
       return h('li', { class: `card missed-item pc-${ev.part}` },
-        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, `Part ${ev.part}`), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, partTag(ev.part)), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
         h('p', { class: 'mq' }, q.q),
         h('p', { class: 'ans-row yours' }, h('span', { class: 'k' }, 'You said'), h('span', { class: 'v' }, it.pick === null ? 'No answer' : q.choices[it.order[it.pick]])),
         h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.choices[0])),
@@ -1586,7 +1699,7 @@ function renderReview() {
       return h('section', { class: `packet pc-${p.n}` },
         h('div', { class: 'packet-head' },
           icon('folder', 'folder'),
-          h('h2', { class: 'packet-title' }, `Part ${p.n} · ${p.title}`),
+          h('h2', { class: 'packet-title' }, partName(p)),
           h('span', { class: 'packet-meta' }, plural(stats(p.events).missed, 'wrong answer')),
           h('div', { class: 'packet-actions' }, h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo this part'))),
         evs.map(sl => {
@@ -1675,7 +1788,7 @@ function renderMyNotes() {
       const evs = p.events.filter(has);
       if (!evs.length) return null;
       return h('section', { class: `packet pc-${p.n}` },
-        h('div', { class: 'packet-head' }, icon('folder', 'folder'), h('h2', { class: 'packet-title' }, `Part ${p.n} · ${p.title}`)),
+        h('div', { class: 'packet-head' }, icon('folder', 'folder'), h('h2', { class: 'packet-title' }, partName(p))),
         evs.map(s => {
           const lines = lineNotes(s), qs = noted.filter(q => q.event === s), evNote = liveNote('ev:' + s);
           return h('div', { class: 'card wrong-sec' },
@@ -1773,7 +1886,7 @@ function runSearch() {
     h('h1', { class: 'page-title' }, 'Search results'),
     h('p', { class: 'results-head', role: 'status' }, hits.length ? `${plural(hits.length, 'match', 'matches')} for “${q}” across the notes` : `No matches for “${q}”. Try a shorter word.`),
     hits.slice(0, 120).map(hit => h('button', { class: 'card result', type: 'button', onclick: () => { showEvent(hit.slug); setHash('notes-' + hit.slug); flash(hit.el); } },
-      h('span', { class: `r-ev pc-${EV[hit.slug].part}` }, h('span', { class: 'chip' }, `Part ${EV[hit.slug].part}`), EV[hit.slug].title),
+      h('span', { class: `r-ev pc-${EV[hit.slug].part}` }, h('span', { class: 'chip' }, partTag(EV[hit.slug].part)), EV[hit.slug].title),
       h('span', { class: 'r-text' }, marked(hit.text, needle)))));
   toTop();
 }
@@ -2003,7 +2116,7 @@ function renderHighlights() {
       h('div', null, h('p', { class: 'empty-title' }, 'No highlights yet'), h('p', { class: 'empty-sub' }, 'Open a topic’s notes, select a line, then choose a color.')),
       h('button', { class: 'btn primary', type: 'button', 'data-act': 'notes' }, icon('book'), 'Open study notes')),
     groups.map(slug => h('section', { class: `hl-group pc-${EV[slug].part}` },
-      h('div', { class: 'hl-group-head' }, h('span', { class: 'chip' }, `Part ${EV[slug].part}`), h('h2', null, EV[slug].title), h('span', { class: 'qn' }, plural(colored(slug).length, 'highlight'))),
+      h('div', { class: 'hl-group-head' }, h('span', { class: 'chip' }, partTag(EV[slug].part)), h('h2', null, EV[slug].title), h('span', { class: 'qn' }, plural(colored(slug).length, 'highlight'))),
       colored(slug).map(x => h('div', { class: 'card hl-item' },
         h('div', { class: 'hl-body' },
           h('p', { class: 'hl-quote' }, h('mark', { class: 'hl', 'data-c': x.c }, x.t)),
@@ -2067,7 +2180,7 @@ function renderSetup() {
           PARTS.map(p => h('fieldset', { class: `card pc-${p.n}` },
             h('legend', null, h('label', { class: 'part-check' },
               h('input', { type: 'checkbox', id: `pick-part-${p.n}`, 'data-part': p.n, onchange: e => { p.events.forEach(s => toggle(s, e.target.checked)); syncSetup(); } }),
-              icon('folder', 'folder'), h('span', null, `Part ${p.n} · ${p.title}`))),
+              icon('folder', 'folder'), h('span', null, partName(p)))),
             h('div', { class: 'ev-opts' }, p.events.map(slug => h('label', { class: 'ev-opt' },
               h('input', { type: 'checkbox', id: `pick-${slug}`, 'data-ev': slug, onchange: e => { toggle(slug, e.target.checked); syncSetup(); } }),
               h('span', null, EV[slug].title),
@@ -2137,7 +2250,7 @@ const cur = () => quiz.items[quiz.i];
 function renderRun() {
   const it = cur(), q = byId[it.id], ev = EV[q.event], n = quiz.items.length, answered = it.ok !== null;
   $('#run-head').className = `run-head pc-${ev.part}`;
-  $('#run-tab').textContent = `Part ${ev.part}`;
+  $('#run-tab').textContent = partTag(ev.part);
   $('#run-ev').textContent = ev.title;
   $('#run-hard').hidden = q.level !== 'hard';
   $('#run-count').textContent = `Question ${quiz.i + 1} of ${n}`;
@@ -2239,7 +2352,7 @@ function renderDone() {
       const q = byId[it.id], ev = EV[q.event];
       const yours = q.type === 'mc' ? q.choices[it.order[it.picked]] : (it.typed || 'No answer (you chose Show answer)');
       return h('li', { class: `card missed-item pc-${ev.part}` },
-        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, `Part ${ev.part}`), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
+        h('p', { class: 'r-ev' }, h('span', { class: 'chip' }, partTag(ev.part)), ev.title, q.level === 'hard' ? h('span', { class: 'chip hard' }, 'Hard') : null),
         h('p', { class: 'mq' }, q.q),
         h('p', { class: 'ans-row yours' }, h('span', { class: 'k' }, 'You said'), h('span', { class: 'v' }, yours)),
         h('p', { class: 'ans-row right' }, h('span', { class: 'k' }, 'Answer'), h('span', { class: 'v' }, q.type === 'mc' ? q.choices[0] : q.answer)),
@@ -2286,8 +2399,8 @@ function buildDeck() {
 function setDeck(key) { deck.key = key; $('#deck').value = key; buildDeck(); }
 const deckSel = $('#deck');
 deckSel.append(h('option', { value: 'all' }, `Every topic (${CARDS.length} cards)`),
-  ...PARTS.map(p => h('optgroup', { label: `Part ${p.n} · ${p.title}` },
-    h('option', { value: 'part-' + p.n }, `All of Part ${p.n} (${p.events.reduce((a, s) => a + cCount(s), 0)})`),
+  ...PARTS.map(p => h('optgroup', { label: partName(p) },
+    h('option', { value: 'part-' + p.n }, `${p.slides ? 'All slide decks' : 'All of Part ' + p.n} (${p.events.reduce((a, s) => a + cCount(s), 0)})`),
     p.events.map(s => h('option', { value: s }, `${EV[s].title} (${cCount(s)})`)))));
 deckSel.addEventListener('change', () => { deck.key = deckSel.value; buildDeck(); renderCard(true); });
 $('#shuffle').addEventListener('click', e => {
@@ -2302,7 +2415,7 @@ function renderCard(instant) {
   $('.fc-back', fc).setAttribute('aria-hidden', String(!deck.flipped));
   if (c) {
     const ev = EV[c.event];
-    $$('.fc-ctx', fc).forEach(el => { el.className = `fc-ctx pc-${ev.part}`; el.replaceChildren(h('span', { class: 'chip' }, `Part ${ev.part}`), h('span', null, ev.title + (c.ctx ? ' · ' + c.ctx : ''))); });
+    $$('.fc-ctx', fc).forEach(el => { el.className = `fc-ctx pc-${ev.part}`; el.replaceChildren(h('span', { class: 'chip' }, partTag(ev.part)), h('span', null, ev.title + (c.ctx ? ' · ' + c.ctx : ''))); });
     $('#fc-term').textContent = c.front;
     $('#fc-def').innerHTML = c.back;
     fc.setAttribute('aria-label', deck.flipped ? `Definition of ${c.front}` : `${c.front}. Press Space to see the definition.`);
@@ -2381,7 +2494,7 @@ $('#figbox-x').addEventListener('click', () => figBox.close());
 figBox.addEventListener('click', e => { if (e.target === figBox) figBox.close(); });
 
 /* ---------- start ---------- */
-const HASH_VIEWS = ['home', 'notes', 'quiz', 'cards', 'highlights', 'review', 'mynotes', 'guide', 'mock'];
+const HASH_VIEWS = ['home', 'notes', 'quiz', 'cards', 'highlights', 'review', 'mynotes', 'guide', 'mock', 'slides'];
 window.addEventListener('hashchange', () => {      // back/forward and edited links (setHash uses replaceState, which does not fire this)
   const v = (location.hash || '').slice(1);
   if (v.startsWith('notes-') && EV[v.slice(6)]) { if (!(current === 'notes' && curEvent === v.slice(6))) go('notes', v.slice(6)); }
@@ -2394,7 +2507,7 @@ refreshMeters();
 refreshNotesBadge();
 const first = (location.hash || '').slice(1);
 if (first.startsWith('notes-') && EV[first.slice(6)]) go('notes', first.slice(6));
-else if (first === 'notes' || first === 'quiz' || first === 'cards' || first === 'highlights' || first === 'review' || first === 'mynotes' || first === 'guide' || first === 'mock') go(first);
+else if (first === 'notes' || first === 'quiz' || first === 'cards' || first === 'highlights' || first === 'review' || first === 'mynotes' || first === 'guide' || first === 'mock' || first === 'slides') go(first);
 else go('home');
 })();
 </script>

@@ -1,0 +1,365 @@
+? What is the slides' definition of emotion?
++ A mix of arousal, physical sensations, and subjective feelings that arise in response to something in the environment
+- A process that arouses, maintains, and steers behaviour toward a goal
+- A steady internal balance
+- A stable characteristic that changes little over time
+@ Emotion: arousal + physical sensations + subjective feelings that arise in response to the environment (e.g., a racing heart in fear readies us to act)
+
+? A process that arouses, maintains, and steers behaviour toward a goal is called what?
++ Motivation
+- Emotion
+- Homeostasis
+- Satiety
+@ Motivation: a process that arouses, maintains, and guides behaviour toward a goal
+
+? What is homeostasis?
++ A steady internal balance
+- A reward from an outside source
+- A feeling of fullness
+- A cultural rule for showing emotion
+@ Homeostasis: steady internal balance that motivation maintains
+
+? Core body temperature, fluid levels, and body weight are examples of what?
++ Set points
+- Incentives
+- Display rules
+- Traits
+@ Set points: values held steady, e.g., core body temperature, fluid levels, body weight
+
+? What is a drive?
++ A state of tension and arousal set off by stimuli that matter for survival
+- A reward that pulls an organism in a certain direction
+- The relief that comes from removing tension
+- A cultural norm for expressing emotions
+@ Drive: tension and arousal from survival-related stimuli (hunger drives eating)
+
+? The relief and reward that come from removing a drive's tension are called what?
++ Drive reduction
+- Satiety
+- Homeostasis
+- Extrinsic reward
+@ Drive reduction: relief and reward from removing a drive
+
+? A reward that comes from inside the person is called what?
++ An intrinsic reward
+- An extrinsic reward
+- An incentive drive
+- A set point
+@ Intrinsic reward: comes from inside
+
+? Getting paid for doing chores is an example of what kind of reward?
++ An extrinsic reward
+- An intrinsic reward
+- Drive reduction
+- Satiety
+@ Extrinsic reward: comes from outside
+
+? Which of these is an external hunger cue?
++ The smell of a favourite food
+- Stomach contractions
+- Low blood sugar
+- Low stored fat
+@ External cues: time of day, sight and smell of favourite foods, social setting
+
+? Which of these is an internal hunger cue?
++ Stomach contractions
+- The time of day
+- The social setting where food is served
+- The sight of a favourite food
+@ Internal cues (real nutrient shortage): stomach contractions, low blood sugar (glucose), low stored fat
+
+? Which hormones influence hunger, according to the slides?
++ Ghrelin and orexins
+- Leptin and cholecystokinin (CCK)
+- Testosterone and cortisol
+- Melatonin and oxytocin
+@ Hunger hormones: ghrelin and orexins
+
+? What is satiety?
++ Feeling full and not needing more food
+- Feeling hungry because of low blood sugar
+- A drive for food
+- An eating disorder
+@ Satiety: feeling full, needing no more food
+
+? Which hormone is made by fat cells and helps the body keep a suitable level of stored fat?
++ Leptin
+- Ghrelin
+- Cholecystokinin (CCK)
+- Testosterone
+@ Leptin: fat-cell hormone that keeps stored fat at a suitable level
+
+? What is BMI?
++ A common way of measuring body weight
+- A hormone that signals fullness
+- A brain area that senses satiety
+- An eating disorder
+@ Body mass index (BMI): common measure of body weight
+
+? Which eating disorder involves keeping body weight unusually low along with a distorted body image?
++ Anorexia nervosa
+- Bulimia nervosa
+- Binge-eating disorder
+- Obesity
+@ Anorexia nervosa: unusually low body weight (food restriction, over-exercise) + distorted body image
+
+? Which eating disorder involves bingeing and purging with feelings of depression, disgust, and lost control?
++ Bulimia nervosa
+- Anorexia nervosa
+- Binge-eating disorder
+- Restless legs syndrome
+@ Bulimia nervosa: bingeing and purging, with depression, disgust, lost control
+
+? Female sexual interest and activity are correlated with which hormone?
++ Testosterone
+- The hormones that bring on ovulation
+- The hormones that bring on menstruation
+- Leptin
+@ Female sexual interest correlates with testosterone, a male hormone
+
+? What is sexual orientation?
++ A stable pattern of attraction to members of a particular sex
+- A period when a female mammal is receptive to sex
+- A drive set off by testosterone
+- A cultural norm for expressing attraction
+@ Sexual orientation: stable pattern of attraction to a particular sex
+
+? What is affiliation?
++ Being connected with other people
+- The desire to outperform others
+- Feeling full after eating
+- A stable personality trait
+@ Affiliation: connection with other people
+
+? What is achievement motivation?
++ The desire to excel or to outperform others
+- The desire to be connected with other people
+- The relief from removing a drive
+- The ability to manage emotions
+@ Achievement motivation: desire to excel or outperform others
+
+? Which two spectrums do emotions fall along?
++ Pleasure and arousal
+- Hunger and fullness
+- Intrinsic and extrinsic
+- Left and right hemisphere
+@ Emotions vary in pleasure (unpleasant to pleasant) and arousal (low to high)
+
+? Which law describes how task complexity, arousal, and performance relate?
++ Yerkes-Dodson law
+- James-Lange theory
+- Cannon-Bard theory
+- Schachter-Singer theory
+@ Yerkes-Dodson law: how task complexity, arousal, and performance relate
+
+? A cultural norm for when, where, and how to express an emotion is called what?
++ A display rule
+- A set point
+- An incentive
+- A trait
+@ Display rule: cultural norm for when, where, and how to express an emotion
+
+? The ability to perceive, use, understand, and manage emotions is called what?
++ Emotional intelligence
+- Achievement motivation
+- Self-awareness
+- Affiliation
+@ Emotional intelligence: perceiving, using, understanding, and managing emotions
+
+? Which theory says physical sensations come first and lead to subjective feelings?
++ James-Lange theory
+- Cannon-Bard theory
+- Schachter-Singer two-factor theory
+- Yerkes-Dodson law
+@ James-Lange theory
+
+? Which theory says physical sensations and subjective feelings happen at the same time?
++ Cannon-Bard theory
+- James-Lange theory
+- Schachter-Singer two-factor theory
+- Somatovisceral afference model of emotion
+@ Cannon-Bard theory
+
+## hard
+
+? How do incentive theories explain motivated behaviour differently from drive theories?
++ They explain it without referring to unpleasant inner drive states
+- They say all behaviour comes from hunger
+- They say rewards push rather than pull
+- They say motivation is controlled only by the hypothalamus
+@ Incentive theories: explain motivation without unpleasant inner drive states
+
+? Which brain area helps sense satiety from hormones and other signals?
++ Ventromedial hypothalamus (VMH)
+- Amygdala
+- Insula
+- Basal ganglia
+@ Ventromedial hypothalamus (VMH): senses satiety from hormones and other signals
+
+? When does the digestive system release cholecystokinin (CCK)?
++ When food arrives
+- When the stomach is empty
+- During sleep
+- When fat stores are low
+@ Cholecystokinin (CCK): digestive hormone released when food arrives
+
+? According to the slides, why do humans naturally prefer sweet, fatty food?
++ To avoid starvation, our ancestors developed strong preferences for calorie-rich sugars and fats
+- Sweet and fatty foods contain the most vitamins
+- Fat cells release leptin when we see sweet foods
+- Our taste buds detect only sweet and fatty flavours
+@ twin studies), sedentary lifestyle, inherited preference for sweet, fatty food (ancestors sought calorie-rich sugars and fats to avoid starvation), social comparison with our circles
+
+? Which is a social factor contributing to obesity, according to the slides?
++ Comparing ourselves with people in our social circles
+- Genes that affect metabolic rate
+- Leptin made by fat cells
+- Stomach contractions
+@ Obesity factors: genes (set points, metabolism; twin studies), sedentary lifestyle, inherited preference for sweet, fatty food (ancestors sought calorie-rich sugars and fats to avoid starvation), social comparison with our circles
+
+? What separates binge-eating disorder from bulimia nervosa?
++ Binge-eating disorder has no compensating behaviours such as vomiting or laxative use
+- Binge-eating disorder includes purging
+- Binge-eating disorder means keeping body weight unusually low
+- Binge-eating disorder happens only during sleep
+@ Binge-eating disorder: huge amounts at one sitting, feeling out of control, without compensating (no vomiting or laxatives)
+
+? What effect does menopause have on sexual activity and interest, according to the slides?
++ Little effect, even though hormone levels change a lot
+- It ends sexual interest completely
+- It greatly increases sexual interest
+- It causes estrus
+@ menopause changes hormones but barely affects sexual interest
+
+? What is estrus?
++ A period of hours or days when females of most mammal species are receptive to sex
+- The monthly release of an egg in humans
+- A drop in testosterone after losing a competition
+- A hormone made by fat cells
+@ Estrus: hours or days when females of most mammals are receptive; hormones and sex tightly linked
+
+? Within the normal range, what does a man's testosterone level predict?
++ It does not strongly predict how often he has sex
+- It strongly predicts how often he has sex
+- It predicts his sexual orientation
+- It predicts his body mass index
+@ In males, testosterone within the normal range does not strongly predict sexual frequency
+
+? What happens to testosterone after a competition?
++ It rises in the winners and drops for a while in the losers
+- It drops in the winners and rises in the losers
+- It rises in everyone who took part
+- It does not change
+@ After competition: winners' testosterone rises, losers' drops for a while
+
+? Why might losing at home cause a bigger drop in testosterone?
++ It is likely left over from our ancestors' need to defend their territory
+- Home games are more physically tiring
+- Fans at home release more cortisol
+- Leptin levels are higher at home
+@ losing at home drops it more (likely from ancestors defending territory)
+
+? What do the slides say shapes sexual orientation?
++ Genes interacting with a person's experiences, which can include prenatal factors
+- Only a single gene
+- Only the person's upbringing
+- Only testosterone levels in adulthood
+@ Genes appear to influence orientation through complex, poorly understood mechanisms, interacting with experience, including prenatal factors
+
+? What do most people rate as most important to their happiness?
++ Love, intimacy, and social connection
+- Wealth
+- Fame
+- Physical health
+@ Most people rate love, intimacy, and social connection above wealth, fame, even physical health
+
+? How do the slides describe loneliness?
++ An unpleasant signal that evolved to warn us our social connections need repair
+- A personality trait that never changes
+- A display rule taught by culture
+- A reward from an outside source
+@ Loneliness: unpleasant signal, like hunger, thirst, pain, that evolved to warn that social connections need repair
+
+? What might keep capable people from attempting a task?
++ Fear of failure
+- Too much leptin
+- Drive reduction
+- High emotional intelligence
+@ fear of failure may stop capable people from trying
+
+? According to the Yerkes-Dodson law, how does high arousal affect performance on a difficult exam?
++ Too much arousal hurts performance on a complex task
+- More arousal always improves performance
+- Arousal has no effect on complex tasks
+- Low arousal always hurts simple tasks most
+@ complex task (difficult exam): too much arousal hurts
+
+? For a simple task like outrunning a predator, how does arousal affect performance?
++ More arousal means better performance
+- More arousal means worse performance
+- Arousal has no effect
+- Only low arousal helps
+@ Simple task (outrunning a predator): more arousal = better
+
+? The sympathetic division's fight-or-flight response is under the immediate control of which structure?
++ Hypothalamus
+- Amygdala
+- Basal ganglia
+- Cingulate cortex
+@ sympathetic division = fight or flight, under immediate control of the hypothalamus
+
+? Which structures, in the fold where the frontal and temporal lobes meet, help identify emotional stimuli and start arousal?
++ Amygdala and insula
+- Basal ganglia and thalamus
+- Hippocampus and cerebellum
+- Medulla and pons
+@ Amygdala and insula
+
+? Which structure is a major gateway between the amygdala and the frontal cortex and receives pathways carrying physical pain information?
++ Cingulate cortex
+- Basal ganglia
+- Hypothalamus
+- Insula
+@ Cingulate cortex
+
+? Which structures coordinate movements in response to emotional stimuli?
++ Basal ganglia
+- Amygdala
+- Hypothalamus
+- Cingulate cortex
+@ coordinate movements in response to emotional stimuli
+
+? Activity in which hemisphere is linked to negative emotions?
++ The right hemisphere
+- The left hemisphere
+- Both equally
+- Neither; only the amygdala is involved
+@ right-hemisphere activity → negative emotions
+
+? What are adults less good at when reading emotions?
++ Telling genuine expressions from fake ones
+- Recognizing any emotion at all
+- Reading emotions in familiar people
+- Noticing facial expressions
+@ Adults read emotions accurately but are worse at telling genuine from fake expressions
+
+? Which disorders do the slides say can reduce a person's ability to read emotional expressions?
++ Schizophrenia and autism
+- Anorexia and bulimia
+- Insomnia and narcolepsy
+- Sleep apnea and narcolepsy
+@ Schizophrenia and autism can reduce the ability to read emotional expressions
+
+? Which theory says general arousal leads to an assessment of the situation, which then leads to feelings?
++ Schachter-Singer two-factor theory
+- James-Lange theory
+- Cannon-Bard theory
+- Yerkes-Dodson law
+@ Schachter-Singer two-factor theory
+
+? Which newer model says physical sensations range from precise to general and need different amounts of thinking before becoming feelings?
++ Somatovisceral afference model of emotion (SAME)
+- Cannon-Bard theory
+- James-Lange theory
+- Schachter-Singer two-factor theory
+@ Somatovisceral afference model of emotion (SAME)

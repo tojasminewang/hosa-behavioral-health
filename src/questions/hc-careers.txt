@@ -1,0 +1,127 @@
+? According to the HOSA Canada slides, how much of the written test do workforce, careers, and laws make up?
++ 5%
+- 15%
+- 25%
+- 50%
+@ Workforce, careers, laws, regulations, and guidelines are 5% of the written test
+
+? Which of these professionals is a medical doctor (MD)?
++ Psychiatrist
+- Clinical psychologist
+- Counselor
+- Life coach
+@ Medical doctor (MD)
+
+? Which degrees can a clinical psychologist hold?
++ A PhD or a PsyD
+- An MD only
+- A bachelor's degree only
+- A certification program only
+@ PhD or PsyD
+
+? Which professional provides short-term therapy focused on one specific problem, such as addiction or stress?
++ Counselor
+- Psychiatrist
+- Clinical psychologist
+- Hypnotherapist
+@ Counselor — PhD, PsyD, doctor of education (EdD), or master's — Bachelor's, master's, CCPA certification — Short-term therapy for one specific problem (e.g., addiction, stress)
+
+? Which professional uses talk therapy and psychometric tests to diagnose and treat mental and behavioural health problems?
++ Clinical psychologist
+- Life coach
+- Hypnotherapist
+- Counselor
+@ Clinical psychologist
+
+? Which professional helps people clarify their goals, find obstacles, and plan strategies for growth?
++ Life coach
+- Counselor
+- Psychiatrist
+- Clinical psychologist
+@ Life coach
+
+? Which professional helps people experience changes in sensations, perceptions, thoughts, or behaviours?
++ Hypnotherapist
+- Life coach
+- Psychiatrist
+- Counselor
+@ Hypnotherapist — American College of Hypnotherapy (ACH) licence — Bachelor's or master's, NBCCH or ACH certification — Treatment producing changes in sensations, perceptions, thoughts, or behaviours
+
+? Which professional's field is a branch of medicine that treats complex and serious mental, behavioural, and emotional disorders?
++ Psychiatrist
+- Counselor
+- Life coach
+- Hypnotherapist
+@ Psychiatrist — Medical doctor (MD) — Bachelor's, MD, 5 years of residency, fellowship to subspecialize — Medical branch preventing, diagnosing, treating complex, serious mental, behavioural, emotional disorders
+
+? What credential do life coaches have, according to the slides?
++ Certification programs
+- A medical degree
+- A PhD in clinical psychology
+- A licence from the College of Psychologists
+@ Certification programs
+
+? Which organization licenses hypnotherapists, according to the slides?
++ The American College of Hypnotherapy (ACH)
+- The College of Psychologists
+- The CCPA
+- SAMHSA
+@ American College of Hypnotherapy (ACH) licence
+
+## hard
+
+? How many years of residency does a psychiatrist complete after the MD?
++ 5 years
+- 1 year
+- 2 years
+- 10 years
+@ 5 years of residency
+
+? What must a psychiatrist complete to subspecialize?
++ A fellowship
+- A second residency in psychology
+- CCPA certification
+- A master's degree in education
+@ Bachelor's, MD, 5 years of residency, fellowship to subspecialize
+
+? What must clinical psychologists complete to register with the College of Psychologists?
++ 5 years of work and practice
+- A medical residency
+- NBCCH certification
+- A fellowship in psychiatry
+@ 5 years of work and practice to register with the College of Psychologists
+
+? Which certification is part of a counselor's training?
++ CCPA certification
+- NBCCH certification
+- An MD
+- A fellowship
+@ Bachelor's, master's, CCPA certification
+
+? Which certifications are part of a hypnotherapist's training?
++ NBCCH or ACH certification
+- CCPA certification
+- An MD and residency
+- Registration with the College of Psychologists
+@ Bachelor's or master's, NBCCH or ACH certification
+
+? Which degree is listed as an option for counselors but not for clinical psychologists?
++ Doctor of education (EdD)
+- Doctor of philosophy (PhD)
+- Doctor of psychology (PsyD)
+- Medical doctor (MD)
+@ PhD, PsyD, doctor of education (EdD), or master's
+
+? Which professional's credential comes from certification programs, with training that varies?
++ Life coach
+- Hypnotherapist
+- Counselor
+- Clinical psychologist
+@ Training varies
+
+? Which professional's training includes a PhD in clinical psychology?
++ Clinical psychologist
+- Psychiatrist
+- Counselor
+- Hypnotherapist
+@ a PhD in clinical psychology

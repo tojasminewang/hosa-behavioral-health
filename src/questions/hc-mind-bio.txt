@@ -1,0 +1,428 @@
+? According to the HOSA Canada slides, how much of the round-one written test does the Mind section make up?
++ 25%
+- 5%
+- 15%
+- 50%
+@ The Mind is 25% of the round-one written test
+
+? Which two structures make up the central nervous system?
++ The brain and the spinal cord
+- The brainstem and the cerebellum
+- The spinal cord and the peripheral nerves
+- The brain and the endocrine glands
+@ Central nervous system (CNS): brain + spinal cord
+
+? What protects the central nervous system, according to the slides?
++ Cerebrospinal fluid (CSF)
+- Myelin
+- Melatonin
+- The corpus callosum
+@ protected by cerebrospinal fluid (CSF)
+
+? Which part of the nervous system is NOT encased in bone?
++ The peripheral nervous system
+- The spinal cord
+- The brainstem
+- The cerebrum
+@ Peripheral nervous system (PNS): nerves outside the CNS carrying sensory and motor messages to and from the body
+
+? Which neurons carry commands from the CNS out to the muscles and glands?
++ Motor neurons
+- Sensory neurons
+- Interneurons
+- Mirror neurons
+@ Motor neurons: carry CNS commands to muscles and glands
+
+? Which neurons bring information from the outside world or from inside the body to the CNS?
++ Sensory neurons
+- Motor neurons
+- Interneurons
+- Mirror neurons
+@ Sensory neurons: carry information from the world or the body to the CNS
+
+? The knee-jerk reflex is an example of what?
++ A spinal reflex
+- A mirror neuron response
+- A parasympathetic response
+- An endocrine response
+@ Spinal reflex: started by the spinal cord without the brain (e.g., knee jerk)
+
+? Which three parts make up the brain, according to the slides?
++ The brainstem, the cerebellum, and the cerebrum
+- The medulla, the pons, and the midbrain
+- The thalamus, the hypothalamus, and the hippocampus
+- The frontal, parietal, and temporal lobes
+@ Three parts: brainstem, cerebellum, cerebrum
+
+? Which structure keeps balance and motor coordination and is affected by alcohol?
++ Cerebellum
+- Medulla
+- Thalamus
+- Nucleus accumbens
+@ Cerebellum: skilled movement and (in humans) complex thinking
+
+? Which brainstem structure runs heart rate, breathing, and blood pressure?
++ Medulla
+- Pons
+- Midbrain
+- Cerebellum
+@ Medulla: above the spinal cord
+
+? Which structure is involved in sleep, arousal, and facial expressions?
++ Pons
+- Medulla
+- Hippocampus
+- Basal ganglia
+@ Pons: relay between medulla and midbrain
+
+? Which structure lies between the pons and the cerebral hemispheres and is involved in sensory reflexes, movement, and pain?
++ Midbrain
+- Medulla
+- Thalamus
+- Cingulate cortex
+@ Midbrain: between the pons and the hemispheres
+
+? What does "subcortical" mean?
++ Below the cortex
+- Outside the brain
+- Above the corpus callosum
+- Inside the spinal cord
+@ Subcortical structures ("below the cortex")
+
+? Which structure is described as the brain's sensory relay center?
++ Thalamus
+- Hypothalamus
+- Amygdala
+- Pons
+@ Thalamus: sensory relay center
+
+? Which structure regulates thirst, hunger, body temperature, sexual behaviour, and aggression?
++ Hypothalamus
+- Thalamus
+- Hippocampus
+- Cerebellum
+@ Hypothalamus: motivation and homeostasis
+
+? Which structure is essential for forming long-term memories?
++ Hippocampus
+- Amygdala
+- Basal ganglia
+- Medulla
+@ Hippocampus: forms long-term memories
+
+? Which structure is thought to process emotion, especially fear and aggression?
++ Amygdala
+- Hippocampus
+- Thalamus
+- Pons
+@ Amygdala: in the temporal lobe
+
+? Which structure is part of the brain's reward and addiction circuitry?
++ Nucleus accumbens
+- Medulla
+- Corpus callosum
+- Occipital lobe
+@ Nucleus accumbens: reward and addiction (eating, sex, gambling)
+
+? What joins the left and right cerebral hemispheres?
++ The corpus callosum
+- The cingulate cortex
+- The reticular formation
+- The pons
+@ Corpus callosum: wide fibre band joining the left and right hemispheres
+
+? Which lobe contains the primary visual cortex?
++ Occipital lobe
+- Temporal lobe
+- Parietal lobe
+- Frontal lobe
+@ Occipital lobe
+
+? Which lobe contains the primary somatosensory cortex, which processes touch?
++ Parietal lobe
+- Occipital lobe
+- Frontal lobe
+- Temporal lobe
+@ Parietal lobe
+
+? Which lobe contains the primary auditory cortex?
++ Temporal lobe
+- Frontal lobe
+- Occipital lobe
+- Parietal lobe
+@ Temporal lobe
+
+? Which lobe handles decision making, speech, and higher-level thinking?
++ Frontal lobe
+- Parietal lobe
+- Occipital lobe
+- Temporal lobe
+@ Frontal lobe
+
+? What were Giacomo Rizzolatti's team studying when they found mirror neurons?
++ How the brain controls movement in monkeys
+- How rats learn to find food in a maze
+- How children learn their first words
+- How sleep affects memory in humans
+@ Early 1990s: Giacomo Rizzolatti's Italian team, studying movement in monkeys, found neurons firing when a monkey reached for a peanut and when it watched the experimenter eat
+
+? Which division of the peripheral nervous system carries voluntary commands to the muscles?
++ Somatic nervous system
+- Autonomic nervous system
+- Parasympathetic nervous system
+- Enteric nervous system
+@ Somatic nervous system: sensory input to the CNS
+
+? Which system switches on the "fight or flight" response?
++ Sympathetic nervous system
+- Parasympathetic nervous system
+- Enteric nervous system
+- Somatic nervous system
+@ Sympathetic nervous system: arousal and stress
+
+? Which system switches on the "rest and digest" response?
++ Parasympathetic nervous system
+- Sympathetic nervous system
+- Somatic nervous system
+- Central nervous system
+@ Parasympathetic nervous system: rest, repair, energy storage
+
+? What does the endocrine system release into the bloodstream?
++ Hormones
+- Neurotransmitters
+- Cerebrospinal fluid
+- Myelin
+@ Endocrine system: glands releasing hormones into the blood
+
+? Which hormone brings on sleep?
++ Melatonin
+- Cortisol
+- Oxytocin
+- Glucagon
+@ melatonin induces sleep, is released in the early evening, breaks down in light
+
+? Which hormone do the adrenal glands release during stress as a general wake-up message?
++ Cortisol
+- Melatonin
+- Insulin
+- Vasopressin
+@ cortisol = body-wide wake-up message
+
+? Which part of a neuron usually receives input from other neurons?
++ Dendrite
+- Axon
+- Myelin
+- Axon terminal
+@ Dendrite: usually receives input from other neurons
+
+? What is the job of myelin?
++ It insulates axons so signals travel quickly
+- It releases neurotransmitters into the synapse
+- It receives input from other neurons
+- It holds the neuron's nucleus
+@ Myelin: axon insulation for fast conduction
+
+? What is a synapse?
++ A point of communication between two neurons
+- The insulation around an axon
+- The central part of a neuron that holds the nucleus
+- A gland that releases hormones
+@ Synapse: communication point between two neurons
+
+? Which neurotransmitter is part of the systems for movement, planning, and reward?
++ Dopamine
+- Serotonin
+- Acetylcholine
+- Endorphins
+@ Dopamine — Movement, planning, reward; Parkinson's disease, schizophrenia, ADHD
+
+? Which neurotransmitter helps regulate sleep, appetite, and mood?
++ Serotonin
+- Dopamine
+- Norepinephrine
+- Acetylcholine
+@ Serotonin — Sleep, appetite, mood (closely linked)
+
+? Which chemicals modify the body's natural response to pain?
++ Endorphins
+- Cortisol
+- Acetylcholine
+- Glucagon
+@ Endorphins — Modify the natural pain response
+
+## hard
+
+? About how much of the CNS's weight does the spinal cord make up?
++ About 2%
+- About 10%
+- About 25%
+- About 50%
+@ only ~2% of CNS weight but vital
+
+? Damage to which structure usually causes a quick death?
++ Medulla
+- Cerebellum
+- Hippocampus
+- Corpus callosum
+@ Medulla: above the spinal cord
+
+? Which structure links the cerebellum to the rest of the brain?
++ Pons
+- Medulla
+- Thalamus
+- Corpus callosum
+@ links the cerebellum to the rest of the brain
+
+? The reticular formation, along the midline of the brainstem, takes part in which functions?
++ Mood, arousal, and sleep
+- Vision, hearing, and touch
+- Thirst, hunger, and temperature
+- Long-term memory formation
+@ mood, arousal, sleep
+
+? Which subcortical structures help control voluntary movement and are implicated in Parkinson's disease?
++ Basal ganglia
+- Hippocampus
+- Amygdala
+- Nucleus accumbens
+@ Basal ganglia: voluntary movement
+
+? How do the two parts of the cingulate cortex differ?
++ The anterior part works on decision making and emotion; the posterior part on memory and visual processing
+- The anterior part works on memory and visual processing; the posterior part on decision making and emotion
+- The anterior part controls voluntary movement; the posterior part relays sensory information
+- The anterior part regulates hunger; the posterior part regulates sleep
+@ Cingulate cortex: above the corpus callosum; anterior part = decision making and emotion; posterior part = memory and visual processing
+
+? In which lobe are Broca's area and the orbitofrontal cortex found?
++ Frontal lobe
+- Temporal lobe
+- Parietal lobe
+- Occipital lobe
+@ Frontal lobe
+
+? In which lobe is Wernicke's area found?
++ Temporal lobe
+- Frontal lobe
+- Parietal lobe
+- Occipital lobe
+@ Temporal lobe
+
+? Why do human studies of mirror neurons describe "mirror systems" rather than single neurons?
++ Human research relies on brain imaging, which shows larger areas of activity
+- Humans have far fewer mirror neurons than monkeys
+- Single mirror neurons in humans fire only during sleep
+- Human mirror neurons are found only in the spinal cord
+@ Human studies use brain imaging, so they see larger "mirror systems" (not single neurons) that help us understand others' actions, emotions, intentions
+
+? A person's left hemisphere is damaged. Based on lateralization, movement and sensation on which side of the body are most affected?
++ The right side
+- The left side
+- Both sides equally
+- Neither side, because movement is handled by the cerebellum
+@ right hemisphere ↔ left side
+
+? What do the slides say hemisphere dominance predicts?
++ Neither a person's choice of occupation nor their artistic talent
+- A person's choice of occupation
+- A person's artistic talent
+- Whether a person is better at math or at art
+@ Hemisphere dominance does not predict occupation or artistic talent
+
+? Human lateralization may explain a vulnerability to which conditions?
++ Schizophrenia and autism spectrum disorder
+- Parkinson's disease and Alzheimer's disease
+- Bipolar disorder and PTSD
+- ADHD and depression
+@ Lateralization may allow multitasking and may have made language possible, but may explain vulnerability to schizophrenia and autism spectrum disorder
+
+? Where is the enteric nervous system found?
++ In the lining of the gastrointestinal (GI) tract
+- Along the midline of the brainstem
+- In the outer layer of the cerebral hemispheres
+- Between the medulla and the midbrain
+@ Enteric nervous system: nerve cells in the lining of the gastrointestinal (GI) tract
+
+? The endocrine system responds especially to signals from which structure?
++ Hypothalamus
+- Hippocampus
+- Cerebellum
+- Corpus callosum
+@ responds to the nervous system, especially the hypothalamus
+
+? When does the body normally release melatonin, and what breaks it down?
++ In the early evening; it breaks down in light
+- In the morning; it breaks down in darkness
+- During stress; it breaks down during sleep
+- After meals; it breaks down in the pancreas
+@ melatonin induces sleep, is released in the early evening, breaks down in light
+
+? Which pituitary hormone helps keep fluid levels steady?
++ Vasopressin
+- Oxytocin
+- Human growth hormone
+- Cortisol
+@ vasopressin: fluid levels
+
+? Low levels of which hormone can mimic the symptoms of depression?
++ Thyroid hormone
+- Melatonin
+- Cortisol
+- Insulin
+@ Thyroid hormone
+
+? Which pair of hormones do the islets of Langerhans produce?
++ Insulin and glucagon
+- Oxytocin and vasopressin
+- Melatonin and cortisol
+- Cortisol and growth hormone
+@ Insulin, glucagon
+
+? Which cells form the blood-brain barrier that keeps toxins out of the brain?
++ Glia
+- Motor neurons
+- Interneurons
+- Mirror neurons
+@ Glia: structural support
+
+? Where does an action potential fire once the membrane potential reaches its threshold?
++ At the axon hillock
+- At the dendrites
+- In the synaptic cleft
+- At the receptor
+@ fires at threshold at the axon hillock
+
+? What frees synaptic vesicles from their protein anchors?
++ An influx of calcium
+- The resting potential
+- Reuptake of neurotransmitter
+- The release of cortisol
+@ Release: action potential reaches terminal → calcium influx frees vesicles from protein anchors → vesicles fuse with membrane → neurotransmitter enters the synaptic cleft → vesicle material recycled → vesicles refilled
+
+? What is reuptake?
++ Neurotransmitter molecules in the synaptic gap returning to the axon terminal that released them
+- The vesicles fusing with the axon's membrane at release sites
+- The electrical charge across a neuron's membrane at rest
+- Neurotransmitters binding to receptors on the receiving neuron
+@ Reuptake: neurotransmitter returning to the axon terminal that released it
+
+? Which neurotransmitter is the key one of the autonomic nervous system and is implicated in Alzheimer's disease?
++ Acetylcholine (ACh)
+- Dopamine
+- Serotonin
+- Norepinephrine
+@ Acetylcholine (ACh)
+
+? Which neurotransmitter is implicated in bipolar disorder and post-traumatic stress disorder?
++ Norepinephrine
+- Dopamine
+- Acetylcholine
+- Endorphins
+@ Norepinephrine — Arousal, vigilance; released by the sympathetic system; bipolar disorder, PTSD
+
+? Dopamine is implicated in which group of conditions?
++ Parkinson's disease, schizophrenia, and ADHD
+- Alzheimer's disease, paralysis, and PTSD
+- Bipolar disorder, PTSD, and depression
+- Autism spectrum disorder, anxiety, and insomnia
+@ Parkinson's disease, schizophrenia, ADHD
