@@ -78,6 +78,8 @@
 - **Counseling:** humanistic, strength-focused origin; now treatment for adjustment problems rather than severe disorders
 - **Evidence-based practice (EBP):** clinician's experience + best scientific evidence + patient's values and expectations
 
+![Evidence-based practice combines three things](hc-ebp)
+
 | Professional | Key facts |
 |---|---|
 | Psychotherapist | Licensed professional who provides psychotherapy |
@@ -91,6 +93,8 @@
 | Group therapy | A group of 6 to 12 people |
 | Family therapy | Family members take part alone and together |
 | Couples therapy | Family therapy focused on intimate relationships |
+
+![Group therapy brings together a group of 6 to 12 people](hc-group-therapy)
 
 - Challenge: large organizations such as insurers, not small private practices, increasingly manage treatment: which disorders are treated and its length, frequency, type
 
@@ -113,6 +117,8 @@
 - **Psychosurgery:** brain surgery to improve symptoms
 - **Deep brain stimulation:** surgically implanted electrodes; anxiety and mood disorders
 - **Neurofeedback:** biofeedback teaching patients to keep brain-activity measures in a range; ADHD and seizures
+
+![Psychological and biological therapies from the slides](hc-treatments)
 
 | Disorder | Psychological treatment | Biological treatment |
 |---|---|---|

@@ -11,3 +11,6 @@
 | Counselor | PhD, PsyD, doctor of education (EdD), or master's | Bachelor's, master's, CCPA certification | Short-term therapy for one specific problem (e.g., addiction, stress) |
 | Hypnotherapist | American College of Hypnotherapy (ACH) licence | Bachelor's or master's, NBCCH or ACH certification | Treatment producing changes in sensations, perceptions, thoughts, or behaviours |
 | Life coach | Certification programs | Training varies | Clarifying goals, finding obstacles, planning strategies for growth |
+
+![Training paths for the five careers](hc-career-paths)
+

@@ -9,6 +9,9 @@
 - Motivation starts with an internal or external stimulus cue
 - **Drive:** tension and arousal from survival-related stimuli (hunger drives eating)
 - **Drive reduction:** relief and reward from removing a drive
+
+![How a drive moves us toward a goal](hc-drive)
+
 - **Incentives:** rewards that pull behaviour; some say no drive "push" is needed
 - **Incentive theories:** explain motivation without unpleasant inner drive states
 - **Intrinsic reward:** comes from inside
@@ -23,6 +26,9 @@
 - **Ventromedial hypothalamus (VMH):** senses satiety from hormones and other signals
 - **Leptin:** fat-cell hormone that keeps stored fat at a suitable level
 - **Cholecystokinin (CCK):** digestive hormone released when food arrives
+
+![Hunger and satiety signals](hc-hunger)
+
 - Experts disagree about ideal weight and obesity's health impact
 - **Body mass index (BMI):** common measure of body weight
 - Obesity factors: genes (set points, metabolism; twin studies), sedentary lifestyle, inherited preference for sweet, fatty food (ancestors sought calorie-rich sugars and fats to avoid starvation), social comparison with our circles
@@ -55,6 +61,8 @@
 - **Yerkes-Dodson law:** how task complexity, arousal, and performance relate; ideal arousal depends on complexity
 - Simple task (outrunning a predator): more arousal = better; complex task (difficult exam): too much arousal hurts
 
+![The Yerkes–Dodson law (a sketch): the best amount of arousal depends on the task](hc-yerkes-dodson)
+
 | Brain area | Role in emotion |
 |---|---|
 | Autonomic nervous system | General arousal; sympathetic division = fight or flight, under immediate control of the hypothalamus |
@@ -77,3 +85,6 @@
 | Cannon-Bard theory | Physical sensations and subjective feelings at the same time |
 | Schachter-Singer two-factor theory | General arousal → assessment of the situation → subjective feelings |
 | Somatovisceral afference model of emotion (SAME) | Newer: sensations range from precise to general and need varying amounts of thinking before becoming feelings |
+
+![Four theories of emotion as sequences](hc-emotion-theories)
+

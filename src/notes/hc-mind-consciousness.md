@@ -17,6 +17,9 @@
 - **Circadian rhythm:** daily biological rhythm; controlled by the hypothalamus; responds to internal and external factors
 - Disruption → jet lag; too much change → slower reaction time, minor memory loss; rhythms differ (morning people, night owls)
 - Eastward travel is harder: an LA resident in New York sleeps at what feels like 7:00 p.m. and wakes at what feels like 3:00 a.m.; a New Yorker in LA just stays up later (1:00 a.m. NY time) and sleeps in (9:00 a.m. NY time)
+
+![Why flying east is harder than flying west](hc-jet-lag)
+
 - **Major depressive disorder with seasonal pattern:** depression at the same time yearly, usually winter, when less light sets the internal clock; ~4%–6% of people; treated with bright light, with or without antidepressants
 
 ## Brain waves (EEG)
@@ -30,6 +33,8 @@
 | Alpha waves | Slower than beta | Relaxed waking |
 | Theta waves | 4 to 7 cycles per second | The lighter stages of N-REM sleep |
 | Delta waves | 1 to 4 cycles per second | Deep N-REM sleep |
+
+![An EEG during sleep. The screen shows the five kinds of brain waves, fastest at the top and slowest at the bottom.](hc-sleep-lab)
 
 - **Daydreaming:** spontaneous experiences with no task, stimulus, or response; linked to the DMN; purpose unclear
 
@@ -45,6 +50,9 @@
 - REM paralysis stops us acting out dreams and getting hurt, and prevents sleepwalking
 - Sleepwalking: stages 3–4 of N-REM; sleep talking: stages 1–2
 - A night's sleep mixes N-REM and REM
+
+![The stages of sleep](hc-sleep-stages)
+
 - Only birds and mammals show REM, suggesting it evolved fairly recently
 
 ## Why we sleep and dream
@@ -89,6 +97,8 @@
 - **Tonic-clonic seizure:** loss of consciousness, stopped breathing, intense contraction, violent rhythmic jerking (possible injuries), then a short coma
 - **Absence seizure:** loss of consciousness; movement limited to blinking, head turns, eye movements
 
+![Kinds of seizures](hc-seizures)
+
 ## Psychoactive drugs
 - **Psychoactive drug:** any drug that can change consciousness
 - **Hallucinogen:** drug producing false perceptions
@@ -97,6 +107,8 @@
 - **Withdrawal:** physical reactions to stopping a habitual drug
 - **Addiction:** compulsive physical or psychological dependence on a substance or activity despite negative consequences; short-term outcomes win over long-term ones
 - Addiction involves three systems: impulsive (dopamine pathways, midbrain–basal ganglia), reflective (frontal lobes weigh pros and cons, control impulses), craving (insula)
+
+![Three systems involved in addiction](hc-addiction)
 
 | Drug | Acts on | Effects |
 |---|---|---|

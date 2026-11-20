@@ -15,6 +15,8 @@
 | Federal Commission on School Safety | Recommends policies and best practices to prevent school violence |
 | National Child Traumatic Stress Initiative (NCTSI) | Awareness of trauma's impact on children and teens; evidence-based interventions to reduce it |
 
+![The prevention programs, grouped by focus](hc-programs)
+
 ## Biological approaches
 - **Medication:** the most commonly used medical therapy
 - **Electroconvulsive therapy (ECT):** some severe depression unresponsive to other treatment; anesthesia and a muscle relaxant, then electrodes on the head induce a generalized seizure
@@ -43,6 +45,9 @@
 - Anxiety = heightened brain activity from expected danger, so drugs aim for a "tranquilizing" effect
 - GABA is the brain's major inhibitory neurotransmitter, so boosting it slows brain activity
 - GABA drugs are used occasionally; antidepressants usually work better, hinting at a shared cause of depression and anxiety
+
+![Medications in the slides and what they do](hc-meds)
+
 - OCD: antidepressants, CBT, or both; CBT trains anticipating a compulsion and doing a competing behaviour instead; meta-analyses show it is highly effective
 - Body dysmorphic disorder: CBT helps, with cognitive restructuring for realistic thinking about perceived flaws; many keep seeking cosmetic surgery and resist psychotherapy
 - PTSD: exposure therapy, with or without SSRIs; co-occurring substance use disorders also need treatment
@@ -56,6 +61,8 @@
 - BPD psychotherapy is often CBT: managing stress, emotions, relationships, and especially suicide risk
 - **Dialectical behaviour therapy (DBT):** designed for BPD; treats in order: suicidal thoughts, then therapy-interfering behaviours, then quality-of-life behaviours
 
+![The order of treatment in dialectical behaviour therapy](hc-dbt)
+
 ## Recovery
 - Recovery has four major dimensions: health, home, purpose, and community
 
@@ -65,3 +72,6 @@
 | Home | A stable, safe place to live |
 | Purpose | Meaningful daily activities for independence, income, and taking part in society (job, volunteering, caregiving, creative work) |
 | Community | Relationships giving support, friendship, love, and hope |
+
+![The four major dimensions of recovery](hc-recovery)
+

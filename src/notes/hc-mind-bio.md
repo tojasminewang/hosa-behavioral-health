@@ -33,6 +33,8 @@
 - **Amygdala:** in the temporal lobe; emotion, especially fear and aggression
 - **Nucleus accumbens:** reward and addiction (eating, sex, gambling)
 
+![Inside the brain, cut down the middle](hc-brain-inside)
+
 ## Cerebral cortex
 - **Corpus callosum:** wide fibre band joining the left and right hemispheres
 - **Cerebral cortex:** thin outer neuron layer of the hemispheres; four lobes with localized functions
@@ -43,6 +45,8 @@
 | Parietal lobe | Top, between frontal and occipital | Primary somatosensory cortex (touch) |
 | Occipital lobe | Back | Primary visual cortex (vision) |
 | Temporal lobe | Sides | Primary auditory cortex (hearing); Wernicke's area |
+
+![The four lobes of the cerebral cortex and some key areas](hc-brain-lobes)
 
 ## Mirror neurons and lateralization
 - Early 1990s: Giacomo Rizzolatti's Italian team, studying movement in monkeys, found neurons firing when a monkey reached for a peanut and when it watched the experimenter eat
@@ -59,6 +63,9 @@
 - **Sympathetic nervous system:** arousal and stress; "fight or flight"
 - **Parasympathetic nervous system:** rest, repair, energy storage; "rest and digest"
 - **Enteric nervous system:** nerve cells in the lining of the gastrointestinal (GI) tract
+
+![How the nervous system is divided](hc-nervous-system)
+
 - **Endocrine system:** glands releasing hormones into the blood; responds to the nervous system, especially the hypothalamus; arousal, metabolism, growth, sex
 
 | Gland | Hormones | Role |
@@ -69,12 +76,17 @@
 | Adrenal glands | Cortisol | Activated by the pituitary in stress; cortisol = body-wide wake-up message |
 | Islets of Langerhans | Insulin, glucagon | In the pancreas; digestion |
 
+![The endocrine glands from the table](hc-endocrine)
+
 ## Neurons and communication
 - **Neuron:** cell specialized to send and receive neural messages
 - **Cell body:** central part holding the nucleus
 - **Axon:** usually sends information on to other neurons
 - **Dendrite:** usually receives input from other neurons
 - **Myelin:** axon insulation for fast conduction
+
+![Parts of a neuron](hc-neuron)
+
 - **Glia:** structural support; form the blood-brain barrier (keeps out toxins); some myelinate neurons
 - Two steps: electrical (action potential down the axon), then chemical (neurotransmitter release)
 - **Resting potential:** membrane charge when the neuron is not processing information
@@ -84,6 +96,8 @@
 - **Receptor:** membrane channel that interacts with neurotransmitters
 - **Reuptake:** neurotransmitter returning to the axon terminal that released it
 - Release: action potential reaches terminal → calcium influx frees vesicles from protein anchors → vesicles fuse with membrane → neurotransmitter enters the synaptic cleft → vesicle material recycled → vesicles refilled
+
+![Chemical signaling at the synapse](hc-synapse)
 
 | Neurotransmitter | Role and links |
 |---|---|

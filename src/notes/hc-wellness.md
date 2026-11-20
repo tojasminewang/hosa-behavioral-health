@@ -20,12 +20,20 @@
 | Resistance | Adapting and coping while stress continues |
 | Exhaustion | Resources run out |
 
+![Selye’s general adaptation syndrome (a sketch)](hc-gas)
+
 ## Sources of stress
 - Stressors are in the eye of the beholder
 - **Cognitive appraisal models:** predict what stresses a person from quick judgements of a stressor as irrelevant or harmless, positive or negative; because people judge from their own point of view, the same event can stress people differently
+
+![Cognitive appraisal: why the same event can stress people differently](hc-appraisal)
+
 - Common stressors: large-scale disasters (terrorist attacks, Haiti and Japan earthquakes, Oklahoma tornadoes), life changes, hassles
 - **Hassles:** relatively minor everyday stressors
 - The amygdala's "fear circuit" quickly flags danger and signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
+
+![The fast fear circuit](hc-stress-path)
+
 - **Tend and befriend:** stress response more common in women, tied to oxytocin, a social-bonding hormone
 - Oxytocin relieves stress in animals only when in a social group, not isolated
 - Lower socioeconomic status brings more noise, toxins, carcinogens, violence, drug and alcohol abuse, anger; fewer resources; less health care, exercise, control, trust (Adler, 2013): all linked to high stress
@@ -39,6 +47,9 @@
 - Stress harms the cardiovascular system by impairing blood vessels' ability to expand
 - Chronic stress can cascade into mood, sleep, and appetite changes; stress-related sleep loss is especially harmful
 - **Cortisol:** stress hormone that also maintains the sleep–wake cycle; high early in the morning (wakefulness), falling through the day; high cortisol at bedtime hurts sleep quality
+
+![Cortisol through the day (a sketch)](hc-cortisol)
+
 - Stress and depression both disturb sleep, especially with frequent night waking
 - Stress hormones make fat cells grow in size and number
 
@@ -50,3 +61,6 @@
 | Relationship-focused coping | Maintains and protects relationships under stress |
 
 - **Biopsychosocial model:** health results from biological, psychological, and social factors
+
+![The biopsychosocial model](hc-biopsychosocial)
+

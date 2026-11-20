@@ -4,7 +4,7 @@ Live site: https://tojasminewang.github.io/hosa-behavioral-health/
 
 A one-page study site for the HOSA Behavioral Health event: notes for every part of the test plan, 42 diagrams and labeled pictures, 1,214 practice questions (normal and hard), 1,179 flashcards, a timed 50-question mock exam (60 or 40 minutes), highlights and personal notes. Progress is saved in your browser.
 
-A separate **HOSA slides** section covers only HOSA Canada's 11 Behavioural Health study decks (Modules 2–7), with short reworded notes, 570 practice questions and 449 flashcards. It is kept out of the mock exam and the test-plan views.
+A separate **HOSA slides** section covers only HOSA Canada's 11 Behavioural Health study decks (Modules 2–7), with short reworded notes, 50 diagrams and labeled pictures, 570 practice questions and 449 flashcards. It is kept out of the mock exam and the test-plan views.
 
 Notes are written from the event's official references (Cacioppo & Freberg, *Discovering Psychology*; the SAMHSA website; the NAMI website) plus the HOSA event guidelines and HOSA Canada study decks.
 

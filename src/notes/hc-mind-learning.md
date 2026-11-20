@@ -12,13 +12,21 @@
 - **Sensitization:** stronger reactions to many stimuli after one strong stimulus (jumpy after an earthquake)
 - **Observational learning:** learning by watching another organism; also called social learning or modeling
 
+![Kinds of learned behaviour](hc-learning-kinds)
+
 ## Classical conditioning
 - "Conditioned" = learned; "unconditioned" = no learning needed
 - **Unconditioned stimulus (UCS):** triggers a response without experience
 - **Unconditioned response (UCR):** unlearned response to the UCS
 - **Conditioned stimulus (CS):** event whose meaning is learned
 - **Conditioned response (CR):** learned response
+
+![Pavlov’s setup](hc-pavlov)
+
 - Pavlov: before, food (UCS) → salivation (UCR) and a metronome → nothing; during, metronome then food; after, metronome alone (CS) → salivation (CR)
+
+![Classical conditioning in three stages](hc-classical)
+
 - **Acquisition:** developing a CR; needs contiguity (CS and UCS close in time) and contingency (CS and UCS correlated)
 - **Extinction:** a CR weakening once the UCS stops following the CS; new learning, not forgetting
 - **Spontaneous recovery:** a CR returning after rest during extinction training
@@ -43,12 +51,16 @@
 - **Law of effect:** Edward Thorndike (cats in "puzzle boxes"): behaviour is "stamped in" depending on its consequences
 - B. F. Skinner extended this with the Skinner box
 
+![A Skinner box](hc-skinner-box)
+
 | Consequence | What happens | Behaviour |
 |---|---|---|
 | Positive reinforcement | A desired outcome is given | Increases |
 | Negative reinforcement | Behaviour escapes or avoids something unpleasant | Increases |
 | Positive punishment | An aversive stimulus is applied | Decreases or stops |
 | Negative punishment | Something desirable is removed | Decreases |
+
+![Positive and negative reinforcement and punishment](hc-consequences)
 
 - **Premack principle:** what an organism spends the most time and energy on is likely important to it
 - **Conditioned reinforcer (secondary reinforcer):** gains value from links to valued things (money, grades)
@@ -60,6 +72,8 @@
 | Variable ratio (VR) | After a changing number of behaviours |
 | Fixed interval (FI) | For the first response after a set time |
 | Variable interval (VI) | For the first response after a changing time |
+
+![Four schedules of partial reinforcement](hc-schedules)
 
 - **Partial reinforcement effect in extinction:** behaviour learned with continuous reinforcement dies out faster than with partial reinforcement
 - **Shaping (method of successive approximations):** reinforce behaviours close to a rare target, then gradually raise the standard
@@ -73,6 +87,9 @@
 ## Observational learning
 - **Imitation:** copying behaviour unlikely to occur on its own
 - **Bobo doll studies:** Bandura: children who watched an adult attack a Bobo doll copied the adult's movements and words
+
+![Bandura’s Bobo doll studies: children who watched an adult attack the doll copied the adult’s movements and words](hc-bobo-doll)
+
 - Modeling needs attention, retention, reproduction, motivation
 - Imitation in monkeys and humans involves mirror neurons, possibly the basis of empathy
 - Culture transmits learning

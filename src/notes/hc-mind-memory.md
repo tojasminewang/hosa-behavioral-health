@@ -16,6 +16,9 @@
 - **Rehearsal:** repeating information
 - **Chunking:** grouping similar or meaningful pieces
 - **Long-term memory:** home of permanent memories
+
+![The Atkinson–Shiffrin model](hc-memory-model)
+
 - **Levels of processing theory:** deeper processing (shallow to deep) predicts easier retrieval
 - **Working memory:** extension of STM: actively handling several kinds of information at once
 
@@ -26,8 +29,12 @@
 | Central executive | Directs attention to tasks, managing the other parts |
 | Episodic buffer | Combines information stored in long-term memory |
 
+![The four parts of working memory](hc-working-memory)
+
 - **Primacy effect:** better recall of the first list items, thought to be in long-term memory
 - **Recency effect:** better recall of the last list items, thought to still be in working memory at recall
+
+![Primacy and recency effects (a sketch)](hc-serial-position)
 
 ## Long-term memory
 - **Declarative (explicit) memory:** conscious, easy to put into words; semantic, episodic, autobiographical
@@ -37,6 +44,9 @@
 - **Nondeclarative (implicit) memory:** unconscious, effortless, hard to put into words: classical conditioning, procedural learning, priming
 - **Procedural memory:** implicit memory for skilled movements
 - **Priming:** a changed response to a stimulus after exposure to an earlier one
+
+![Types of long-term memory](hc-ltm-types)
+
 - The hippocampus consolidates information into long-term memory
 - **Patient H.M.:** surgery damaged his hippocampus; procedural memory intact, but no new declarative memories
 - **Anterograde amnesia:** inability to form new memories, as in H.M.
@@ -58,6 +68,9 @@
 - **Interference:** newer and older information compete
 - **Proactive interference:** earlier learning blocks the target memory
 - **Retroactive interference:** later learning blocks the target memory
+
+![Two kinds of interference](hc-interference)
+
 - **Motivated forgetting:** failing to retrieve negative memories
 
 ## Biology and study tips
@@ -72,3 +85,6 @@
 - **Sleep:** helps form memories and fights interference
 - **Reciting:** putting material in your own words
 - **Mnemonics:** aids linking new information to well-known information
+
+![Five study tips from the slides in one study corner](hc-study-desk)
+

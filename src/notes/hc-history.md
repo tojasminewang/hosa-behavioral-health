@@ -13,6 +13,8 @@
 - Hermann von Helmholtz (1821–1894): speed of nerve signalling showed the mind has a physical basis
 - Philosophy and natural science gradually merged into something like today's psychology
 
+![Psychology’s two roots](hc-roots)
+
 ## Early schools
 - **Wilhelm Wundt (1832–1920):** credited as the first psychologist; former research assistant to von Helmholtz; ran the first documented experiment; saw mental experience as a hierarchy
 - **Structuralism:** Edward Titchener (1867–1923), Wundt's student: the mind breaks down into the smallest elements of mental experience
@@ -31,6 +33,8 @@
 - **Edward Thorndike (1874–1949):** proposed the law of effect (outcomes of a behaviour shape whether it recurs)
 - **B. F. Skinner:** effects of reward and punishment on future behaviour
 
+![When psychology’s early figures lived](hc-lifespans)
+
 ## Six perspectives
 | Perspective | Focus |
 |---|---|
@@ -42,3 +46,6 @@
 | Clinical psychology | Explaining, defining, treating abnormal behaviour |
 
 - No single perspective fully explains a phenomenon; combining them is more holistic
+
+![Six perspectives in psychology](hc-perspectives)
+

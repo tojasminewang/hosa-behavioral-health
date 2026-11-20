@@ -37,11 +37,15 @@
 | Fovea | Detailed central vision; mostly cones |
 | Optic disk | Where the optic nerve exits; no rods or cones, so a blind spot the brain fills in |
 
+![Structures of the eye](hc-eye)
+
 - Optic nerves partly cross at the optic chiasm (axons nearest the nose cross); right hemisphere sees the left visual field, left hemisphere the right
 - Past the chiasm = optic tracts; ~90% of axons → thalamus → amygdala (quick judgements) and primary visual cortex (occipital lobe); ~10% → hypothalamus (sleep–wake) or superior colliculi (visual reflexes)
 - **Trichromatic theory:** three cone types for short (blue), medium (green), long (red) wavelengths; explains colour deficiencies but not afterimages; best fits the cones
 - **Colour afterimage:** seeing the complementary colour after staring at one colour
 - **Opponent process theory:** red-green and blue-yellow channels, each colour inhibiting its partner; explains afterimages; best fits perception
+
+![Two theories of colour vision](hc-color-theories)
 
 ## Gestalt and depth
 - **Gestalt principles:** German psychologists' rules for grouping; the whole is more than the sum of its parts
@@ -50,8 +54,14 @@
 - **Continuity principle:** points forming smooth lines are grouped
 - **Closure principle:** we "fill in the blanks" in gapped images
 - **Simplicity principle (Prägnanz):** we choose the simplest solution
+
+![Five Gestalt principles. Organization: is it a vase, or two faces?](hc-gestalt)
+
 - **Depth perception:** seeing 3D from the 2D retinal image
 - **Monocular cues:** one eye: occlusion (near blocks far), relative size (closer = bigger), motion parallax (closer moves past faster)
+
+![Two monocular depth cues in one picture](hc-depth-cues)
+
 - **Binocular cues:** need both eyes
 - **Retinal disparity:** difference between the two eyes' images; grows with distance between objects
 
@@ -64,6 +74,9 @@
 - **Oval window:** passes vibrations into the inner ear's fluid
 - **Cochlea:** inner-ear structure with the auditory receptors; three chambers (vestibular canal, tympanic canal, cochlear duct); waves travel around its apex and back
 - **Basilar membrane:** separates the cochlear duct; holds the organ of Corti, whose hair cells transduce sound
+
+![The outer, middle and inner ear](hc-ear)
+
 - Route: auditory nerve → medulla → midbrain (sound reflexes) → thalamus → primary auditory cortex → secondary auditory cortex (complex sounds)
 - High frequencies move the basilar membrane most near its base; low frequencies near its apex
 - Frequency affects perceived loudness; hearing is most sensitive at 80–10 000 Hz
@@ -94,6 +107,9 @@
 - Taste receptors are all over the tongue and mouth, each sensitive to all tastes; the "tongue map" is a myth
 - **Papillae:** tongue bumps holding taste buds
 - **Taste bud:** holds taste receptors, which are regularly replaced
+
+![Where smell and taste begin](hc-smell-taste)
+
 - Taste route: mouth → medulla → thalamus → somatosensory cortex → orbitofrontal cortex (emotion of taste)
 
 ## Development and experience
