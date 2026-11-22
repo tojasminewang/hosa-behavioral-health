@@ -257,6 +257,489 @@
 - Athletes in contact sports
 @ females are more sensitive to smell
 
+? Why does perception vary more between people than sensation does?
++ The same stimulus can be interpreted in different ways
+- People have different numbers of sense organs
+- Perception does not involve the brain
+- Sensation is learned, but perception is inborn
+@ Perception: interpreting sensory information; varies more between people
+
+? What is a stimulus?
++ Anything that triggers a sensory reaction
+- A neural signal sent to the brain
+- The weakest signal a person can detect
+- The interpretation of sensory information
+@ Stimulus: anything that triggers a sensory reaction
+
+? The scent of a flower is an example of what kind of stimulus?
++ An external stimulus
+- An internal stimulus
+- A difference threshold
+- A binocular cue
+@ external (scent of a flower)
+
+? Your retina turns light into neural signals for the brain. What is this process called?
++ Transduction
+- Accommodation
+- Adaptation
+- Perception
+@ Transduction: turning sensory information into neural signals sent to the brain
+
+? What does perception let us do with sensory information?
++ Organize, recognize, and use it
+- Turn it into hormones
+- Keep it from reaching the brain
+- Store it in the spinal cord
+@ Perception lets us organize, recognize, and use sensory information
+
+? What do the slides call the "gateway" to perception?
++ Attention
+- Transduction
+- Memory
+- Accommodation
+@ Attention is a gateway to perception
+
+? You listen to a lecture while taking notes and watching the slides. What are you using?
++ Divided attention
+- Selective attention
+- Sensory adaptation
+- A difference threshold
+@ Divided attention: processing several sources at once
+
+? A driver focuses so hard on the GPS that they miss a stop sign. Which kind of attention led to the error?
++ Selective attention
+- Divided attention
+- Sensory adaptation
+- Bottom-up processing
+@ Selective attention: focusing on a few stimuli and ignoring the rest; can cause errors
+
+? You see a strange object for the first time and build your perception from the raw signals alone. Which processing is this?
++ Bottom-up processing
+- Top-down processing
+- Selective attention
+- Signal detection
+@ Bottom-up processing: perception built from new incoming signals
+
+? You read a friend's messy handwriting easily because you expect certain words. Which processing are you relying on?
++ Top-down processing
+- Bottom-up processing
+- Sensory adaptation
+- Divided attention
+@ Top-down processing: perception shaped by knowledge, memories, expectations
+
+? In the slides, the absolute threshold is the weakest stimulus detected at least what share of the time?
++ 50%
+- 10%
+- 75%
+- 100%
+@ Absolute threshold: weakest stimulus detected at least 50% of the time
+
+? You can just tell that one cup of tea is slightly sweeter than another. Which threshold is involved?
++ The difference threshold
+- The absolute threshold
+- The pain threshold
+- The resting threshold
+@ Difference threshold: smallest difference between two stimuli
+
+? What does psychophysics relate?
++ The physical qualities of stimuli and people's subjective responses
+- The brain's electrical activity and the stages of sleep
+- The levels of hormones in the blood and a person's behaviour
+- A person's genes and the personality traits they show
+@ relating stimuli's physical qualities to subjective responses
+
+? What is signal detection about?
++ Judging faint, uncertain stimuli
+- Turning light into neural signals
+- Grouping objects into wholes
+- Locating sounds in space
+@ Signal detection: judging faint, uncertain stimuli
+
+? Which part of the light spectrum does human vision process?
++ The visible part
+- The ultraviolet part
+- The infrared part
+- The x-ray part
+@ Vision: processes the visible part of the light spectrum
+
+? Which clear front surface of the eye starts bending light toward the retina?
++ The cornea
+- The lens
+- The iris
+- The pupil
+@ Cornea: clear front surface; starts bending light toward the retina
+
+? What is the pupil?
++ The opening formed by the iris
+- The coloured ring of muscle
+- The clear front surface of the eye
+- The layer of photoreceptors
+@ Pupil: the opening formed by the iris
+
+? Which clear structure behind the pupil bends light onto the retina?
++ The lens
+- The cornea
+- The iris
+- The fovea
+@ Lens: clear structure behind the pupil; bends light to the retina
+
+? You look up from your phone to read a distant sign. What is the lens changing shape to focus called?
++ Accommodation
+- Transduction
+- Sensory adaptation
+- Retinal disparity
+@ Accommodation: changing the lens's shape to focus near or far
+
+? Which layer at the back of the eye holds the photoreceptors that transduce light?
++ The retina
+- The cornea
+- The iris
+- The optic chiasm
+@ Retina: photoreceptor layers at the back of the eye that transduce light
+
+? Which photoreceptors do NOT see colour?
++ Rods
+- Cones
+- Both rods and cones
+- Neither; both see colour
+@ Rods — Dim light; no colour
+
+? In which light do cones work best?
++ Bright light
+- Dim light
+- Darkness
+- Ultraviolet light
+@ best in bright light
+
+? Where in the retina are cones concentrated?
++ In the fovea
+- In the periphery
+- At the optic disk
+- At the optic chiasm
+@ concentrated in the fovea
+
+? What type of photoreceptor is the fovea mostly made of?
++ Cones
+- Rods
+- Hair cells
+- Free nerve endings
+@ Fovea — Detailed central vision; mostly cones
+
+? What leaves the eye at the optic disk?
++ The optic nerve
+- The auditory nerve
+- Cerebrospinal fluid
+- The lens
+@ Optic disk — Where the optic nerve exits
+
+? Most optic tract axons travel to which structure?
++ The thalamus
+- The hypothalamus
+- The cerebellum
+- The medulla
+@ ~90% of axons → thalamus
+
+? According to the trichromatic theory, how many types of cones are there?
++ Three
+- Two
+- Four
+- Six
+@ Trichromatic theory: three cone types
+
+? What is a colour afterimage?
++ Seeing the complementary colour after staring at one colour
+- Being unable to tell red from green
+- Seeing colour only in bright light
+- A blind spot where the optic nerve exits
+@ Colour afterimage: seeing the complementary colour after staring at one colour
+
+? Which pairs of colour channels does the opponent process theory describe?
++ Red–green and blue–yellow
+- Red–blue and green–yellow
+- Red–yellow and green–blue
+- Blue–green and red–yellow
+@ Opponent process theory: red-green and blue-yellow channels
+
+? Who came up with the Gestalt principles of grouping?
++ German psychologists
+- Italian neuroscientists
+- Russian physiologists
+- American behaviourists
+@ Gestalt principles: German psychologists' rules for grouping
+
+? Which idea sums up Gestalt psychology?
++ The whole is more than the sum of its parts
+- Perception is built only from incoming signals
+- Each taste has its own area of the tongue
+- Only bright stimuli are perceived
+@ the whole is more than the sum of its parts
+
+? Which Gestalt principle splits a scene into a figure and a background?
++ Organization principle
+- Closure principle
+- Proximity principle
+- Continuity principle
+@ Organization principle: split a scene into figure and background
+
+? Six dots are drawn as two clusters of three, and you see two groups. Which principle explains this?
++ Proximity principle
+- Closure principle
+- Continuity principle
+- Organization principle
+@ Proximity principle: close objects are grouped
+
+? Which Gestalt principle says points forming smooth lines are grouped together?
++ Continuity principle
+- Closure principle
+- Simplicity principle
+- Proximity principle
+@ Continuity principle: points forming smooth lines are grouped
+
+? A logo is a circle drawn with small gaps, yet you see a whole circle. Which principle is this?
++ Closure principle
+- Continuity principle
+- Proximity principle
+- Simplicity principle
+@ Closure principle: we "fill in the blanks" in gapped images
+
+? How many eyes do monocular depth cues need?
++ One
+- Two
+- None
+- Two, but only in bright light
+@ Monocular cues: one eye
+
+? A tree partly hides a house, so you judge the tree to be nearer. Which depth cue is this?
++ Occlusion
+- Relative size
+- Motion parallax
+- Retinal disparity
+@ occlusion (near blocks far)
+
+? Of two cars of the same real size, the one that looks bigger seems closer. Which depth cue is this?
++ Relative size
+- Occlusion
+- Motion parallax
+- Retinal disparity
+@ relative size (closer = bigger)
+
+? What do binocular depth cues need?
++ Both eyes
+- Only one eye
+- Bright light
+- Moving objects
+@ Binocular cues: need both eyes
+
+? What is retinal disparity?
++ The difference between the two eyes' images
+- The blind spot where the optic nerve exits
+- The shrinking of far-away objects
+- The fading of an unchanging stimulus
+@ Retinal disparity: difference between the two eyes' images
+
+? What does audition detect?
++ Sound waves
+- Light waves
+- Airborne molecules
+- Head movement
+@ Audition: detects sound waves
+
+? A rock concert is much louder than a whisper. Which property of its sound waves is larger?
++ Amplitude
+- Frequency
+- Pitch
+- Hertz
+@ Amplitude: sound intensity in decibels (dB); higher = louder
+
+? A whistle sounds higher than a tuba. Which property of its sound wave is greater?
++ Frequency
+- Amplitude
+- Decibels
+- Loudness
+@ Frequency: pitch in hertz (Hz); higher = higher pitch
+
+? In what units is a sound's frequency measured?
++ Hertz (Hz)
+- Decibels (dB)
+- Millimetres
+- Volts
+@ Frequency: pitch in hertz (Hz)
+
+? Which part of the outer ear collects and focuses sound?
++ The pinna
+- The cochlea
+- The oval window
+- The basilar membrane
+@ Pinna: collects and focuses sound
+
+? What does the eardrum set vibrating?
++ The ossicles of the middle ear
+- The pinna
+- The auditory nerve
+- The basilar membrane directly
+@ vibrates the middle-ear ossicles
+
+? Which structure passes vibrations into the fluid of the inner ear?
++ The oval window
+- The pinna
+- The eardrum
+- The auditory nerve
+@ Oval window: passes vibrations into the inner ear's fluid
+
+? Which structure on the basilar membrane holds the hair cells that transduce sound?
++ The organ of Corti
+- The oval window
+- The pinna
+- The optic disk
+@ holds the organ of Corti, whose hair cells transduce sound
+
+? Which of these is NOT a somatosensory stimulus in the slides?
++ Sound
+- Touch
+- Temperature
+- Pain
+@ Somatosensory stimuli: body position and movement, touch, temperature, pain
+
+? What do skin neurons respond to, according to the slides?
++ Pressure or vibration
+- Light
+- Sound waves
+- Airborne molecules
+@ skin neurons respond to pressure or vibration
+
+? Which lobe holds the primary somatosensory cortex that touch signals reach?
++ The parietal lobe
+- The occipital lobe
+- The temporal lobe
+- The frontal lobe
+@ primary somatosensory cortex (parietal lobe)
+
+? Which organ has no touch or pain receptors?
++ The brain
+- The skin
+- The mouth
+- The hands
+@ the brain has no touch or pain receptors
+
+? What triggers free nerve endings?
++ Tissue damage
+- Bright light
+- Loud sounds
+- Sweet tastes
+@ Free nerve endings: pain receptors triggered by tissue damage
+
+? Rubbing a bumped elbow makes it hurt less. Which theory explains this?
++ The gate theory of pain
+- The trichromatic theory
+- Signal detection theory
+- The opponent process theory
+@ Gate theory of pain: actions and higher thinking affect pain by competing with pain signals
+
+? A patient feels less pain after a sugar pill they believed was a painkiller. What is this?
++ The placebo effect
+- The gate theory of pain
+- Sensory adaptation
+- The difference threshold
+@ Placebo effect: less pain after an ineffective substance or treatment
+
+? What is gustation?
++ The sense of taste
+- The sense of smell
+- The sense of balance
+- The sense of touch
+@ Gustation: taste
+
+? Which chemical sense works at a distance?
++ Smell (olfaction)
+- Taste (gustation)
+- Touch
+- Pain
+@ nose receptors detect airborne molecules; works at a distance
+
+? Unlike smell, what does taste need?
++ Contact, with molecules dissolved in saliva
+- Airborne molecules from far away
+- Light reaching the retina
+- Sound waves
+@ tongue receptors detect molecules dissolved in saliva; needs contact
+
+? Smelling smoke is an example of which purpose of smell and taste?
++ Warning us of danger
+- Adding to our social life
+- Keeping our balance
+- Locating sounds
+@ Both warn of danger (smoke)
+
+? Which nerve carries smell signals to the olfactory bulbs?
++ The olfactory nerve
+- The optic nerve
+- The auditory nerve
+- The spinal cord
+@ Olfactory nerve: carries smell signals to the olfactory bulbs
+
+? Where are the olfactory bulbs?
++ Below the frontal lobes
+- Behind the occipital lobe
+- Inside the cochlea
+- In the tongue's papillae
+@ Olfactory bulb: one of two structures below the frontal lobes
+
+? After the olfactory bulb and olfactory cortex, smell signals reach which emotional structure?
++ The amygdala
+- The hippocampus
+- The cerebellum
+- The pons
+@ bulb → olfactory cortex → amygdala (emotion)
+
+? What does a taste bud hold?
++ Taste receptors, which are regularly replaced
+- Hair cells that transduce sound
+- Rods and cones
+- Free nerve endings for pain
+@ Taste bud: holds taste receptors, which are regularly replaced
+
+? Why do infants need more contrast to see things?
++ They see what adults see, but with less detail
+- They see only in black and white
+- They cannot see until six months of age
+- Their eyes have no cones
+@ Infants see everything adults do but with less detail, so they need more contrast
+
+? Whose voice can newborns recognize, according to the slides?
++ Their mother's
+- Any adult's
+- Only their father's
+- No one's yet
+@ newborns recognize their mother's voice
+
+? What is perfect pitch?
++ Being able to name a musical tone just by hearing it
+- Hearing sounds above 20 000 Hz
+- Singing every note perfectly in tune
+- Telling apart two very similar tones
+@ Perfect pitch: naming a heard musical tone
+
+? What did prepared-childbirth classes lead to, according to the slides?
++ Less reported pain
+- More reported pain
+- Longer labour
+- No change in pain
+@ Prepared-childbirth classes → less reported pain
+
+? What happens to taste and smell with age?
++ They decline
+- They improve
+- They stay exactly the same
+- Only taste improves
+@ Taste buds and smell decline with age
+
+? For people with PTSD, what can smells sometimes trigger?
++ Bad memories
+- Perfect pitch
+- A blind spot
+- Better balance
+@ smells can trigger bad memories in PTSD
+
 ## hard
 
 ? Why do unfamiliar, changing, or very intense stimuli get high priority for attention?
@@ -447,3 +930,339 @@
 - It appears only in people with hearing loss
 - It depends on the number of taste buds
 @ Perfect pitch: naming a heard musical tone; larger left-hemisphere areas in musicians who have it; can be trained
+
+? According to the slides, what shaped our senses?
++ Natural selection, for survival
+- Culture alone
+- Formal schooling
+- Random chance with no purpose
+@ shaped by natural selection for survival
+
+? What example do the slides give of a subtle difference in sensation between people?
++ Needing glasses
+- Liking a song
+- Fearing spiders
+- Preferring sweet food
+@ differences between people are subtle (e.g., needing glasses)
+
+? Which stimulus is LEAST likely to grab your attention?
++ A familiar, unchanging, mild one
+- A sudden, unfamiliar noise
+- A very bright flash
+- A loud alarm that keeps changing
+@ unfamiliar, changing, or intense stimuli get priority
+
+? In signal detection, which two things decide whether a faint stimulus is reported?
++ The stimulus's intensity and the observer's criteria
+- The stimulus's colour and the observer's age
+- The time of day and the observer's mood
+- Only the stimulus's intensity
+@ depends on the stimulus's intensity and the observer's criteria
+
+? Which of these does human vision NOT process?
++ Infrared light
+- Red light
+- Blue light
+- Green light
+@ not gamma, x-ray, ultraviolet, infrared, microwave, radio
+
+? What kind of image do rods give?
++ A blurry image without colour
+- A sharp image in full colour
+- A sharp image without colour
+- A blurry image in full colour
+@ Dim light; no colour; blurry image
+
+? Where in the retina are most rods found?
++ In the periphery
+- In the fovea
+- At the optic disk
+- At the optic chiasm
+@ mostly in the periphery
+
+? Why don't we usually notice our blind spot?
++ The brain fills it in
+- The fovea covers it with cones
+- The lens bends light around it
+- The iris closes over it
+@ so a blind spot the brain fills in
+
+? Which optic nerve axons cross at the optic chiasm?
++ The axons nearest the nose
+- The axons nearest the ears
+- All of the axons
+- None of the axons
+@ axons nearest the nose cross
+
+? Which hemisphere processes the right visual field?
++ The left hemisphere
+- The right hemisphere
+- Both hemispheres equally
+- Neither; the thalamus does
+@ left hemisphere the right
+
+? From the thalamus, visual information goes on to which two places?
++ The amygdala and the primary visual cortex
+- The hippocampus and the cerebellum
+- The medulla and the pons
+- The hypothalamus and the basal ganglia
+@ thalamus → amygdala (quick judgements) and primary visual cortex (occipital lobe)
+
+? Visual axons that go to the superior colliculi are used for what?
++ Visual reflexes
+- Sleep–wake cycles
+- Colour vision
+- Quick judgements
+@ superior colliculi (visual reflexes)
+
+? Some optic tract axons go to which structure to help set sleep–wake cycles?
++ The hypothalamus
+- The amygdala
+- The superior colliculi
+- The cerebellum
+@ ~10% → hypothalamus (sleep–wake)
+
+? In the trichromatic theory, which colour goes with the long-wavelength cones?
++ Red
+- Blue
+- Green
+- Yellow
+@ long (red) wavelengths
+
+? Which theory of colour vision explains colour deficiencies?
++ Trichromatic theory
+- Opponent process theory
+- Gate theory
+- Signal detection theory
+@ explains colour deficiencies but not afterimages
+
+? In the opponent process theory, what does each colour do to its partner?
++ It inhibits it
+- It strengthens it
+- It replaces it
+- It blends with it
+@ each colour inhibiting its partner
+
+? After staring at a red shape, you look at a white wall and see a green one. What is this, and which theory explains it?
++ A colour afterimage, explained by the opponent process theory
+- A colour afterimage, explained by the trichromatic theory
+- A blind spot, explained by the gate theory
+- Retinal disparity, explained by the Gestalt principles
+@ Colour afterimage: seeing the complementary colour
+
+? Looking at overlapping shapes, you see two simple circles instead of one complicated shape. Which principle is this?
++ Simplicity principle
+- Closure principle
+- Proximity principle
+- Organization principle
+@ Simplicity principle (Prägnanz): we choose the simplest solution
+
+? According to the slides, how does retinal disparity change as the distance between objects grows?
++ It grows
+- It shrinks
+- It disappears
+- It stays the same
+@ grows with distance between objects
+
+? According to the slides, audition helps us with which two things?
++ Identifying objects and language
+- Balance and posture
+- Colour and depth
+- Taste and smell
+@ identifying objects, language
+
+? Which kind of sound location does the pinna help with?
++ Telling whether a sound is above or below
+- Telling whether a sound is to the left or right
+- Telling how far away a sound is
+- Telling a sound's pitch
+@ locates sounds above or below
+
+? What are the three chambers of the cochlea?
++ Vestibular canal, tympanic canal, and cochlear duct
+- Outer ear, middle ear, and inner ear
+- Pinna, eardrum, and oval window
+- Cornea, lens, and retina
+@ three chambers (vestibular canal, tympanic canal, cochlear duct)
+
+? In the hearing route, which structure handles sound reflexes?
++ The midbrain
+- The medulla
+- The thalamus
+- The secondary auditory cortex
+@ midbrain (sound reflexes)
+
+? Which part of the hearing route processes complex sounds?
++ The secondary auditory cortex
+- The primary auditory cortex
+- The medulla
+- The thalamus
+@ secondary auditory cortex (complex sounds)
+
+? After the auditory nerve, which structure does the hearing route reach first?
++ The medulla
+- The thalamus
+- The primary auditory cortex
+- The cerebellum
+@ Route: auditory nerve → medulla
+
+? Where on the basilar membrane do low-frequency tones cause the most movement?
++ Near its apex
+- Near its base
+- Evenly along its length
+- At the oval window
+@ low frequencies near its apex
+
+? Which statement about loudness is true, according to the slides?
++ A sound's frequency affects how loud it seems
+- Only amplitude affects how loud a sound seems
+- Loudness is measured in hertz
+- Pitch and loudness are the same thing
+@ Frequency affects perceived loudness
+
+? According to the slides, somatosensory feedback helps with which three things?
++ Movement, speech, and safety
+- Vision, hearing, and smell
+- Sleep, appetite, and mood
+- Memory, learning, and attention
+@ feedback for movement, speech, safety
+
+? How does the vestibular system detect head movement?
++ Hair cells bend in fluid inside three inner-ear channels
+- Rods and cones detect changes in light
+- Free nerve endings detect tissue damage
+- The pinna collects vibrations
+@ hair cells bend in fluid
+
+? Which nerve carries vestibular signals?
++ The auditory nerve
+- The optic nerve
+- The olfactory nerve
+- The spinal cord
+@ signalling via the auditory nerve
+
+? Vestibular signals go to which two structures?
++ The medulla and the cerebellum
+- The amygdala and the hippocampus
+- The pineal and pituitary glands
+- The occipital and temporal lobes
+@ Vestibular route: medulla and cerebellum
+
+? In the vestibular route, what comes after the somatosensory cortex in the parietal lobe?
++ The motor cortex in the frontal lobe
+- The primary visual cortex in the occipital lobe
+- The amygdala
+- The medulla
+@ somatosensory cortex (parietal) → motor cortex (frontal)
+
+? According to the slides, what role does touch play for infants?
++ It is a form of social communication
+- It replaces vision completely
+- It has no role until age two
+- It only signals pain
+@ social communication in infants
+
+? Besides the skin, where else are touch receptors found?
++ Blood vessels, joints, and organs
+- The brain and the spinal cord
+- The hair and the fingernails
+- The lens and cornea of the eye
+@ receptors also in blood vessels, joints, organs
+
+? Which is the correct touch route?
++ Receptors → spinal cord → thalamus → primary somatosensory cortex
+- Receptors → thalamus → spinal cord → occipital lobe
+- Receptors → medulla → amygdala → frontal lobe
+- Receptors → spinal cord → cerebellum → temporal lobe
+@ Touch route: receptors → spinal cord → thalamus → primary somatosensory cortex
+
+? Which three kinds of tissue damage can trigger free nerve endings?
++ Mechanical, temperature, and chemical
+- Light, sound, and smell
+- Electrical, magnetic, and nuclear
+- Sweet, sour, and bitter
+@ tissue damage (mechanical, temperature, chemical)
+
+? How do pain signals get from the spinal cord to the thalamus?
++ Fast and directly
+- Slowly, through the cerebellum
+- Through the olfactory bulbs
+- Through the optic nerves
+@ Pain: spinal cord → thalamus (fast, direct)
+
+? According to the slides, what can our chemical senses do with complex mixtures?
++ Identify many of them
+- Identify none of them
+- Identify only one ingredient at a time
+- Identify only sweet mixtures
+@ Principles: many complex mixtures identified
+
+? Which of these is a principle of smell and taste in the slides?
++ Experience shapes perception
+- Only single, simple odours can be identified
+- Small differences cannot be detected
+- Smell and taste never change with experience
+@ experience shapes perception
+
+? What dissolves odourants in the nasal cavities?
++ Mucus
+- Saliva
+- Cerebrospinal fluid
+- Blood
+@ mucus dissolves odourants
+
+? What happens to olfactory receptors over time?
++ They die and are replaced
+- They last a lifetime unchanged
+- They turn into taste buds
+- They move to the tongue
+@ receptors die and are replaced
+
+? How many olfactory bulbs are there?
++ Two
+- One
+- Four
+- Hundreds
+@ one of two structures below the frontal lobes
+
+? According to the slides, how many tastes can each taste receptor sense?
++ All of them
+- Only one
+- Only sweet and salty
+- Only bitter
+@ each sensitive to all tastes
+
+? Which is the correct taste route?
++ Mouth → medulla → thalamus → somatosensory cortex → orbitofrontal cortex
+- Mouth → olfactory bulb → amygdala → occipital lobe
+- Mouth → spinal cord → cerebellum → temporal lobe
+- Mouth → thalamus → medulla → hippocampus
+@ Taste route: mouth → medulla → thalamus → somatosensory cortex → orbitofrontal cortex
+
+? Why does colour perception change with age?
++ The lens yellows
+- The cornea turns blue
+- The number of cones increases
+- The pupils grow larger
+@ the lens yellows (changes colour perception)
+
+? Which change happens to the iris and pupils with age?
++ Iris muscles stiffen and pupils stay smaller
+- Iris muscles loosen and pupils stay larger
+- The iris disappears
+- The pupils change colour
+@ iris muscles stiffen, pupils stay smaller
+
+? According to the slides, when does hearing begin?
++ Before birth; fetuses can hear
+- At about one year old
+- At birth, not before
+- At about six months old
+@ Fetuses hear
+
+? Athletes in which kind of sport tolerate more pain, according to the slides?
++ Contact sports
+- Individual sports such as golf
+- Water sports
+- None; athletes feel the same pain as everyone else
+@ contact-sport athletes tolerate more pain

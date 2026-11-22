@@ -152,6 +152,181 @@
 - Cognitive psychology
 @ Social psychology
 
+? A researcher counts how many times a child raises their hand in class. Which part of psychology's subject matter is being measured?
++ Behaviour, which is observable action
+- Mental processes, studied by introspection
+- A hub science
+- Empiricism
+@ Behaviour: observable action
+
+? Which two things make up mental processes in the slides?
++ Thoughts and feelings
+- Actions and reflexes
+- Genes and hormones
+- Rewards and punishments
+@ Mental processes: thoughts and feelings
+
+? Psychology links to the medical sciences, social sciences, and education. What kind of science does that make it?
++ A hub science
+- A natural science only
+- A branch of philosophy only
+- A medical specialty
+@ Hub science: psychology is one of 7 major hub sciences
+
+? Which of these is a question that philosophy and psychology share?
++ The connection between mind and body
+- The speed of light
+- The age of the earth
+- The chemistry of metals
+@ Shared questions: the self, biology versus environment, mind–body connection, humans and other species
+
+? Which view saw the mind at birth as a blank slate, filled in by observation?
++ Empiricism
+- Structuralism
+- Functionalism
+- Humanistic psychology
+@ Empiricism: 17th-century view of the mind as a blank slate at birth
+
+? What brought new discoveries about the body and mind in the 17th and 18th centuries?
++ New technologies
+- Supernatural explanations
+- Freud's psychoanalysis
+- Behaviourism
+@ 17th–18th centuries: new technologies brought discoveries about body and mind
+
+? What did Hermann von Helmholtz measure?
++ The speed of nerve signalling
+- Reaction times in rats
+- Digestion in dogs
+- The size of the brain
+@ Hermann von Helmholtz (1821–1894): speed of nerve signalling
+
+? What did philosophy and natural science gradually merge into?
++ Something like today's psychology
+- Modern medicine only
+- Physics
+- Religion
+@ Philosophy and natural science gradually merged into something like today's psychology
+
+? According to the slides, what did Wilhelm Wundt run?
++ The first documented psychology experiment
+- The first hospital for mental illness
+- The first puzzle-box study
+- The first IQ test
+@ ran the first documented experiment
+
+? Which group of psychologists, active in early 20th-century Germany, challenged structuralism?
++ Gestalt psychologists
+- Behaviourists
+- Humanistic psychologists
+- Functionalists
+@ Gestalt psychologists (early 20th-century Germans) challenged structuralism
+
+? Which school of thought did William James adopt?
++ Functionalism
+- Structuralism
+- Behaviourism
+- Psychoanalysis
+@ Functionalism: William James (1842–1910)
+
+? Which model looks for physical causes and medical treatments for abnormal behaviour?
++ The medical model
+- The psychological model
+- The supernatural model
+- The humanistic model
+@ Medical model: physical causes and medical treatment of abnormal behaviour
+
+? A therapist believes a client's anxiety comes from frightening experiences in childhood. Which model does this reflect?
++ The psychological model
+- The medical model
+- The supernatural model
+- Structuralism
+@ Psychological model: abnormal behaviour from life experiences causing fear, anxiety, other emotions
+
+? What kind of theory did Sigmund Freud develop?
++ Psychodynamic theory
+- Structuralism
+- Behaviourism
+- Functionalism
+@ Sigmund Freud (1856–1939): psychodynamic theory
+
+? When did behaviourism begin?
++ In the early 20th century
+- In the 17th century
+- In the 1870s
+- In the 1960s
+@ Behaviourism: early 20th century
+
+? What is another name for classical conditioning?
++ Pavlovian conditioning
+- Operant conditioning
+- The law of effect
+- Client-centered conditioning
+@ pioneered classical (Pavlovian) conditioning
+
+? What does Thorndike's law of effect say?
++ A behaviour's outcomes shape whether it happens again
+- The mind is a blank slate
+- Behaviour is purposeful because it led to survival
+- The mind breaks into small elements
+@ proposed the law of effect (outcomes of a behaviour shape whether it recurs)
+
+? What did B. F. Skinner study?
++ The effects of reward and punishment on future behaviour
+- Digestion in dogs and classical conditioning
+- The speed of signalling along the nerves
+- What makes a person "good" and motivated
+@ B. F. Skinner: effects of reward and punishment on future behaviour
+
+? What does biological psychology study?
++ Mind and behaviour and their biology, such as genetics and anatomy
+- How the social environment affects a person's behaviour
+- The normal changes in behaviour across the lifespan
+- How to explain, define, and treat abnormal behaviour
+@ Biological psychology — Mind and behaviour and their biology (genetics, biochemistry, anatomy, physiology)
+
+? A researcher asks how a behaviour helped our ancestors survive and reproduce. Which perspective is this?
++ Evolutionary psychology
+- Developmental psychology
+- Clinical psychology
+- Social psychology
+@ Evolutionary psychology — How structure and behaviour were shaped by survival and reproduction
+
+? A researcher studies how people reason their way through puzzles. Which perspective is this?
++ Cognitive psychology
+- Social psychology
+- Developmental psychology
+- Evolutionary psychology
+@ Cognitive psychology — Information processing, thinking, reasoning, problem solving
+
+? A researcher studies how peer pressure changes a teen's choices. Which perspective is this?
++ Social psychology
+- Cognitive psychology
+- Biological psychology
+- Developmental psychology
+@ Social psychology — Effects of the social environment on individuals
+
+? A researcher follows how children's speech changes from age 1 to age 5. Which perspective is this?
++ Developmental psychology
+- Clinical psychology
+- Social psychology
+- Evolutionary psychology
+@ Developmental psychology — Normal behaviour changes across the lifespan
+
+? A psychologist diagnoses and treats a client's depression. Which perspective is this?
++ Clinical psychology
+- Developmental psychology
+- Cognitive psychology
+- Evolutionary psychology
+@ Clinical psychology — Explaining, defining, treating abnormal behaviour
+
+? According to the slides, can any single perspective fully explain a phenomenon?
++ No; combining perspectives gives a more holistic explanation
+- Yes; the biological perspective explains everything
+- Yes; the clinical perspective explains everything
+- Yes; any one perspective is enough
+@ No single perspective fully explains a phenomenon
+
 ## hard
 
 ? How are mental processes studied, according to the slides?
@@ -279,3 +454,59 @@
 - Combining them makes research faster
 - Only clinical psychology matters
 @ No single perspective fully explains a phenomenon; combining them is more holistic
+
+? When did René Descartes live?
++ 1596–1650
+- 384–322 BCE
+- 1821–1894
+- 1856–1939
+@ René Descartes (1596–1650)
+
+? When did Aristotle live?
++ 384–322 BCE
+- 1596–1650
+- 1832–1920
+- 1842–1910
+@ Aristotle (384–322 BCE)
+
+? In which century did empiricism arise, according to the slides?
++ The 17th century
+- The 12th century
+- The 19th century
+- The 20th century
+@ Empiricism: 17th-century view
+
+? When did Wilhelm Wundt live?
++ 1832–1920
+- 1596–1650
+- 1902–1987
+- 1874–1949
+@ Wilhelm Wundt (1832–1920)
+
+? Before the medical and psychological models, how were psychological disorders explained?
++ With supernatural explanations
+- With brain scans
+- With psychodynamic theory
+- With behaviourism
+@ supernatural explanations of disorders gave way to two scientific approaches
+
+? According to the slides, what did Freud popularize?
++ Psychological explanations of everyday behaviour
+- The law of effect for learning in animals
+- Classical conditioning of dogs' salivation
+- The empiricists' idea of a blank slate
+@ popularized psychological explanations of everyday behaviour
+
+? By about which year had humanistic psychology taken hold?
++ 1960
+- 1870
+- 1910
+- 2000
+@ Humanistic psychology: by 1960
+
+? Early behaviourists studied mostly animals. What did they do with what they found?
++ Generalized it to humans
+- Kept it only for animals
+- Used it to support introspection
+- Used it to support psychoanalysis
+@ mostly in animals, generalized to humans

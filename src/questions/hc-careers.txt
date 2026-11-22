@@ -1,9 +1,9 @@
-? According to the HOSA Canada slides, how much of the written test do workforce, careers, and laws make up?
-+ 5%
-- 15%
-- 25%
-- 50%
-@ Workforce, careers, laws, regulations, and guidelines are 5% of the written test
+? Someone wants a few sessions of help with one specific problem, stress at work. Which professional fits best?
++ Counselor
+- Psychiatrist
+- Hypnotherapist
+- Life coach
+@ Short-term therapy for one specific problem (e.g., addiction, stress)
 
 ? Which of these professionals is a medical doctor (MD)?
 + Psychiatrist
@@ -68,6 +68,83 @@
 - SAMHSA
 @ American College of Hypnotherapy (ACH) licence
 
+? A person has a complex, serious mental disorder and needs a medical doctor. Which professional fits?
++ Psychiatrist
+- Counselor
+- Life coach
+- Hypnotherapist
+@ Psychiatrist — Medical doctor (MD)
+
+? Someone wants help setting goals and planning strategies for personal growth. Which professional fits best?
++ Life coach
+- Psychiatrist
+- Clinical psychologist
+- Hypnotherapist
+@ Life coach — Certification programs — Training varies — Clarifying goals, finding obstacles, planning strategies for growth
+
+? Which degree does a psychiatrist hold?
++ An MD
+- A PsyD
+- An EdD
+- Only a bachelor's degree
+@ Psychiatrist — Medical doctor (MD)
+
+? Which professional's training goes from a bachelor's degree to an MD?
++ Psychiatrist
+- Clinical psychologist
+- Counselor
+- Life coach
+@ Bachelor's, MD, 5 years of residency
+
+? Which professional registers with the College of Psychologists?
++ Clinical psychologist
+- Psychiatrist
+- Life coach
+- Hypnotherapist
+@ 5 years of work and practice to register with the College of Psychologists
+
+? CCPA certification is part of which professional's training?
++ Counselor
+- Psychiatrist
+- Hypnotherapist
+- Life coach
+@ Bachelor's, master's, CCPA certification
+
+? What kind of therapy does a counselor provide, according to the slides?
++ Short-term therapy for one specific problem
+- Long-term medical treatment with surgery
+- Goal-setting for personal growth
+- Psychometric testing only
+@ Short-term therapy for one specific problem
+
+? NBCCH certification is part of which professional's training?
++ Hypnotherapist
+- Counselor
+- Clinical psychologist
+- Psychiatrist
+@ NBCCH or ACH certification
+
+? Which degrees are part of a hypnotherapist's training?
++ A bachelor's or a master's degree
+- An MD and a residency
+- A PhD in clinical psychology
+- No degrees at all
+@ Hypnotherapist — American College of Hypnotherapy (ACH) licence — Bachelor's or master's
+
+? What does ACH stand for in the slides?
++ American College of Hypnotherapy
+- Association of Clinical Health
+- American Council on Hospitals
+- Academy of Counseling and Healing
+@ American College of Hypnotherapy (ACH)
+
+? Of the five professionals, whose work is described in terms of growth rather than treating disorders?
++ Life coach
+- Psychiatrist
+- Clinical psychologist
+- Counselor
+@ Clarifying goals, finding obstacles, planning strategies for growth
+
 ## hard
 
 ? How many years of residency does a psychiatrist complete after the MD?
@@ -125,3 +202,45 @@
 - Counselor
 - Hypnotherapist
 @ a PhD in clinical psychology
+
+? In what order does a psychiatrist train, according to the slides?
++ Bachelor's, MD, 5 years of residency, then a fellowship to subspecialize
+- Bachelor's, master's, PhD, then 5 years of practice
+- Bachelor's, master's, then CCPA certification
+- Bachelor's or master's, then NBCCH certification
+@ Bachelor's, MD, 5 years of residency, fellowship to subspecialize
+
+? In what order does a clinical psychologist train, according to the slides?
++ Bachelor's, master's, a PhD in clinical psychology, then 5 years of work and practice
+- Bachelor's, MD, 5 years of residency, then a fellowship
+- Bachelor's, master's, then CCPA certification
+- Bachelor's or master's, then NBCCH or ACH certification
+@ Bachelor's, master's, a PhD in clinical psychology, 5 years of work and practice
+
+? Which two professionals in the slides can both hold a PsyD?
++ Clinical psychologist and counselor
+- Psychiatrist and life coach
+- Hypnotherapist and life coach
+- Psychiatrist and hypnotherapist
+@ Counselor — PhD, PsyD, doctor of education (EdD), or master's
+
+? Which two professionals' training both include a 5-year period?
++ Psychiatrist (residency) and clinical psychologist (work and practice)
+- Counselor (certification) and life coach (training)
+- Hypnotherapist (licence) and counselor (master's)
+- Life coach (certification) and psychiatrist (fellowship)
+@ 5 years of work and practice to register
+
+? Which two specific problems do the slides give as examples of a counselor's focus?
++ Addiction and stress
+- Schizophrenia and bipolar disorder
+- Seizures and ADHD
+- Goal-setting and personal growth
+@ (e.g., addiction, stress)
+
+? Which professional's credential is a licence from a college of hypnotherapy rather than a degree?
++ Hypnotherapist
+- Counselor
+- Clinical psychologist
+- Psychiatrist
+@ Hypnotherapist — American College of Hypnotherapy (ACH) licence

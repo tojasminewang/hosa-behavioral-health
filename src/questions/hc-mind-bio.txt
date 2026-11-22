@@ -1,9 +1,9 @@
-? According to the HOSA Canada slides, how much of the round-one written test does the Mind section make up?
-+ 25%
-- 5%
-- 15%
-- 50%
-@ The Mind is 25% of the round-one written test
+? According to the slides, what is "the mind" a way of talking about?
++ Brain activity
+- A soul that is separate from the body
+- Only behaviour that others can see
+- The reflexes of the spinal cord
+@ The mind = a way of talking about brain activity
 
 ? Which two structures make up the central nervous system?
 + The brain and the spinal cord
@@ -250,6 +250,321 @@
 - Glucagon
 @ Endorphins — Modify the natural pain response
 
+? How many approaches do the slides' Mind decks cover?
++ Eight
+- Four
+- Six
+- Ten
+@ The Mind decks cover eight approaches
+
+? In the slides, "the thinking mind" belongs to which field of psychology?
++ Cognitive psychology
+- Abnormal psychology
+- Biological psychology
+- Social psychology
+@ the thinking mind (cognitive psychology)
+
+? Which field of psychology studies "the troubled mind," according to the slides?
++ Abnormal psychology
+- Cognitive psychology
+- Developmental psychology
+- Biological psychology
+@ the troubled mind (abnormal psychology)
+
+? Which neurons are neither sensory nor motor?
++ Interneurons
+- Mirror neurons
+- Motor neurons
+- Sensory neurons
+@ Interneurons: neither sensory nor motor
+
+? What do the nerves of the peripheral nervous system carry?
++ Sensory and motor messages to and from the body
+- Hormones from the glands to the brain
+- Cerebrospinal fluid around the brain
+- Only commands from the cerebellum
+@ nerves outside the CNS carrying sensory and motor messages to and from the body
+
+? You touch a hot pan. Which neurons carry the "hot" message from your hand to your CNS?
++ Sensory neurons
+- Motor neurons
+- Mirror neurons
+- Interneurons
+@ Sensory neurons: carry information from the world or the body to the CNS
+
+? Your brain sends a command that makes an arm muscle contract. Which neurons carry it?
++ Motor neurons
+- Sensory neurons
+- Mirror neurons
+- Interneurons
+@ Motor neurons: carry CNS commands to muscles and glands
+
+? Which part of the brain is the lowest and is joined to the spinal cord?
++ The brainstem
+- The cerebellum
+- The cerebrum
+- The thalamus
+@ Brainstem: lowest part, joined to the spinal cord
+
+? What two things make up the cerebrum?
++ The cerebral cortex and the subcortical structures
+- The brainstem and the cerebellum
+- The medulla and the pons
+- The spinal cord and the brainstem
+@ Cerebrum: cerebral cortex + subcortical structures
+
+? Someone who has drunk too much alcohol stumbles and loses coordination. Which structure is affected?
++ The cerebellum
+- The medulla
+- The hippocampus
+- The occipital lobe
+@ balance and coordination; affected by alcohol
+
+? Which structure relays messages between the medulla and the midbrain?
++ The pons
+- The thalamus
+- The corpus callosum
+- The hypothalamus
+@ Pons: relay between medulla and midbrain
+
+? Where is the reticular formation found?
++ Along the midline of the brainstem
+- Inside the temporal lobe
+- Just above the corpus callosum
+- In the lining of the gut
+@ Reticular formation: brainstem midline
+
+? Which disease are the basal ganglia implicated in?
++ Parkinson's disease
+- Alzheimer's disease
+- Epilepsy
+- Bipolar disorder
+@ implicated in Parkinson's disease
+
+? After brain damage, a patient can no longer form new long-term memories. Which structure was most likely damaged?
++ The hippocampus
+- The cerebellum
+- The amygdala
+- The pons
+@ Hippocampus: forms long-term memories
+
+? Where does the cingulate cortex sit?
++ Above the corpus callosum
+- Below the medulla
+- Inside the occipital lobe
+- In the spinal cord
+@ Cingulate cortex: above the corpus callosum
+
+? What is the cerebral cortex?
++ The thin outer layer of neurons covering the hemispheres
+- The band of fibres joining the two hemispheres
+- The fluid that protects the brain and spinal cord
+- The lowest part of the brain
+@ Cerebral cortex: thin outer neuron layer of the hemispheres
+
+? Into how many lobes is the cerebral cortex divided?
++ Four
+- Two
+- Three
+- Six
+@ four lobes with localized functions
+
+? A stroke damages the primary visual cortex at the back of the brain. Which sense is most affected?
++ Vision
+- Hearing
+- Touch
+- Balance
+@ Primary visual cortex (vision)
+
+? Which lobe sits on the sides of the brain?
++ The temporal lobe
+- The parietal lobe
+- The frontal lobe
+- The occipital lobe
+@ Primary auditory cortex (hearing); Wernicke's area
+
+? Which neurons fire both when you perform an action and when you watch someone else perform it?
++ Mirror neurons
+- Motor neurons
+- Interneurons
+- Sensory neurons
+@ Mirror neurons: fire both when acting and when watching the same action
+
+? What do human "mirror systems" help us understand, according to the slides?
++ Other people's actions, emotions, and intentions
+- Other people's heart rate and blood pressure
+- Our own spinal reflexes
+- Colours and shapes
+@ that help us understand others' actions, emotions, intentions
+
+? What is lateralization?
++ A function being handled by one hemisphere
+- A signal travelling down the axon
+- Hormones being released into the blood
+- A reflex started by the spinal cord
+@ Lateralization: a function handled by one hemisphere
+
+? The right hemisphere is linked to which side of the body?
++ The left side
+- The right side
+- Both sides equally
+- Neither side
+@ right hemisphere ↔ left side
+
+? According to the slides, does being "left-brained" or "right-brained" predict someone's job or artistic talent?
++ No, hemisphere dominance predicts neither
+- Yes, right-brained people are more artistic
+- Yes, left-brained people choose science jobs
+- It predicts artistic talent but not jobs
+@ Hemisphere dominance does not predict occupation or artistic talent
+
+? Which part of the nervous system gives involuntary control of glands, organs, and smooth muscle?
++ The autonomic nervous system
+- The somatic nervous system
+- The central nervous system
+- The endocrine system
+@ Autonomic nervous system: involuntary control of glands, organs, smooth muscle
+
+? You decide to wave at a friend. Which nervous system carries that voluntary command to your arm?
++ The somatic nervous system
+- The autonomic nervous system
+- The enteric nervous system
+- The parasympathetic nervous system
+@ voluntary commands to muscles
+
+? A student's heart races and body tenses before a big exam. Which system is most active?
++ The sympathetic nervous system
+- The parasympathetic nervous system
+- The enteric nervous system
+- The somatic nervous system
+@ Sympathetic nervous system: arousal and stress
+
+? After a big meal you relax while your body digests and stores energy. Which system is in charge?
++ The parasympathetic nervous system
+- The sympathetic nervous system
+- The somatic nervous system
+- The central nervous system
+@ Parasympathetic nervous system: rest, repair, energy storage
+
+? Which nervous system is made of nerve cells in the lining of the gastrointestinal tract?
++ The enteric nervous system
+- The somatic nervous system
+- The sympathetic nervous system
+- The central nervous system
+@ Enteric nervous system: nerve cells in the lining
+
+? Which gland releases melatonin?
++ The pineal gland
+- The pituitary gland
+- The thyroid gland
+- The adrenal glands
+@ Pineal gland — Melatonin
+
+? Which gland activates other glands and releases oxytocin, vasopressin, and growth hormone?
++ The pituitary gland
+- The pineal gland
+- The thyroid gland
+- The islets of Langerhans
+@ Pituitary gland — Oxytocin, vasopressin, growth hormone
+
+? What does thyroid hormone set?
++ The body's metabolic rate
+- The sleep–wake cycle
+- The body's fluid levels
+- The pain response
+@ Thyroid gland — Thyroid hormone — Sets metabolic rate
+
+? In which organ are the islets of Langerhans found?
++ The pancreas
+- The brain
+- The thyroid
+- The kidneys
+@ Islets of Langerhans — Insulin, glucagon — In the pancreas
+
+? What is a neuron?
++ A cell specialized to send and receive neural messages
+- A chemical messenger that crosses a synapse
+- A gland that releases hormones into the blood
+- A cell that only gives structural support
+@ Neuron: cell specialized to send and receive neural messages
+
+? Which part of a neuron holds the nucleus?
++ The cell body
+- The axon
+- The dendrite
+- The myelin
+@ Cell body: central part holding the nucleus
+
+? Which part of a neuron usually sends information on to other neurons?
++ The axon
+- The dendrite
+- The cell body
+- The receptor
+@ Axon: usually sends information on to other neurons
+
+? Which cells give neurons structural support?
++ Glia
+- Dendrites
+- Receptors
+- Mirror neurons
+@ Glia: structural support
+
+? Neural communication happens in two steps. What are they, in order?
++ Electrical, then chemical
+- Chemical, then electrical
+- Chemical, then hormonal
+- Hormonal, then electrical
+@ Two steps: electrical (action potential down the axon), then chemical (neurotransmitter release)
+
+? What is the resting potential?
++ The membrane's charge when the neuron is not processing information
+- The electrical signal that travels down the axon
+- The point where two neurons communicate
+- Neurotransmitter returning to the axon terminal
+@ Resting potential: membrane charge when the neuron is not processing information
+
+? What is the action potential?
++ The axon's electrical signal
+- A chemical messenger released into the synapse
+- The neuron's charge while it is resting
+- A hormone from the adrenal glands
+@ Action potential: the axon's electrical signal
+
+? What is a neurotransmitter?
++ A chemical messenger that crosses a synapse
+- An electrical signal in the axon
+- A hormone released into the blood
+- A fatty layer that insulates the axon
+@ Neurotransmitter: chemical messenger across a synapse
+
+? What is a receptor, in a neuron's membrane?
++ A channel that interacts with neurotransmitters
+- The part of the cell that holds the nucleus
+- The insulation around the axon
+- The gap between two neurons
+@ Receptor: membrane channel that interacts with neurotransmitters
+
+? What is it called when a neurotransmitter returns to the axon terminal that released it?
++ Reuptake
+- Myelination
+- Resting potential
+- Lateralization
+@ Reuptake: neurotransmitter returning to the axon terminal that released it
+
+? Interference with which neurotransmitter at the neuromuscular junction can cause paralysis or death?
++ Acetylcholine (ACh)
+- Serotonin
+- Dopamine
+- Endorphins
+@ Neuromuscular junction (interference → paralysis or death)
+
+? Which neurotransmitter is linked to arousal and vigilance and is released by the sympathetic system?
++ Norepinephrine
+- Serotonin
+- Acetylcholine
+- Endorphins
+@ Norepinephrine — Arousal, vigilance; released by the sympathetic system
+
 ## hard
 
 ? About how much of the CNS's weight does the spinal cord make up?
@@ -425,4 +740,221 @@
 - Alzheimer's disease, paralysis, and PTSD
 - Bipolar disorder, PTSD, and depression
 - Autism spectrum disorder, anxiety, and insomnia
+@ Parkinson's disease, schizophrenia, ADHD
+
+? Which three structures does the brainstem hold?
++ The medulla, the pons, and the midbrain
+- The thalamus, the hypothalamus, and the hippocampus
+- The cerebellum, the pons, and the amygdala
+- The medulla, the basal ganglia, and the cingulate cortex
+@ holds the medulla, pons, midbrain
+
+? Which of these is NOT one of the brain's three main parts in the slides?
++ The spinal cord
+- The brainstem
+- The cerebellum
+- The cerebrum
+@ Three parts: brainstem, cerebellum, cerebrum
+
+? Where does the spinal cord run, according to the slides?
++ From the medulla to the mid-back
+- From the cerebellum to the lower back
+- From the pons to the neck only
+- From the thalamus to the hips
+@ Spinal cord: neural tissue from the medulla to mid-back
+
+? Besides starting reflexes, what role does the spinal cord play?
++ It is the main route for fibres travelling to and from the brain
+- It makes the cerebrospinal fluid that protects the brain
+- It releases hormones into the blood during stress
+- It stores the long-term memories formed each day
+@ main route for fibres to and from the brain
+
+? What makes a spinal reflex different from other movements?
++ The spinal cord starts it without the brain
+- It must be learned through conditioning
+- The cerebellum has to approve it first
+- It only happens during sleep
+@ Spinal reflex: started by the spinal cord without the brain
+
+? Besides skilled movement, what does the cerebellum do in humans, according to the slides?
++ It takes part in complex thinking
+- It forms long-term memories
+- It releases melatonin
+- It processes touch
+@ (in humans) complex thinking
+
+? Which brainstem structure is involved in pain and sensory reflexes?
++ The midbrain
+- The medulla
+- The pons
+- The reticular formation
+@ Midbrain: between the pons and the hemispheres; sensory reflexes, movement, pain
+
+? Besides relaying sensory information, the thalamus takes part in which functions?
++ Arousal, learning, and memory
+- Thirst, hunger, and temperature
+- Heart rate, breathing, and blood pressure
+- Fear and aggression
+@ Thalamus: sensory relay center; arousal, learning, memory
+
+? The hypothalamus is involved in which two broad functions?
++ Motivation and homeostasis
+- Vision and hearing
+- Long-term memory and language
+- Balance and coordination
+@ Hypothalamus: motivation and homeostasis
+
+? In which lobe is the amygdala found?
++ The temporal lobe
+- The frontal lobe
+- The parietal lobe
+- The occipital lobe
+@ Amygdala: in the temporal lobe
+
+? Which examples of reward and addiction do the slides give for the nucleus accumbens?
++ Eating, sex, and gambling
+- Sleeping, dreaming, and remembering
+- Seeing, hearing, and touching
+- Breathing, heart rate, and blood pressure
+@ reward and addiction (eating, sex, gambling)
+
+? According to the slides, what is the corpus callosum made of?
++ A wide band of fibres
+- A thin layer of neuron cell bodies
+- Cerebrospinal fluid
+- Glandular tissue
+@ Corpus callosum: wide fibre band
+
+? Which lobe contains the primary motor cortex?
++ The frontal lobe
+- The parietal lobe
+- The temporal lobe
+- The occipital lobe
+@ Primary motor, prefrontal, and orbitofrontal cortex
+
+? Where is the parietal lobe located?
++ At the top, between the frontal and occipital lobes
+- At the very front, behind the forehead
+- At the back of the brain, behind the others
+- On the sides of the brain, low down
+@ Top, between frontal and occipital
+
+? When did Giacomo Rizzolatti's team find mirror neurons?
++ In the early 1990s
+- In the early 1960s
+- In the late 1970s
+- In the early 2010s
+@ Early 1990s: Giacomo Rizzolatti's Italian team
+
+? In Rizzolatti's study, the same neurons fired when the monkey did which two things?
++ Reached for a peanut, and watched the experimenter eat
+- Pressed a lever for food, and heard a bell
+- Solved a puzzle box, and saw a light flash
+- Climbed a ladder, and watched another monkey climb
+@ found neurons firing when a monkey reached for a peanut and when it watched the experimenter eat
+
+? What might mirror neurons help us do, according to the slides?
++ Grasp other people's actions and intentions
+- Store long-term memories
+- Keep our balance
+- Control the sleep–wake cycle
+@ may help us grasp others' actions and intentions
+
+? According to the slides, what might lateralization allow, and what might it have made possible?
++ Multitasking, and language
+- Spinal reflexes, and balance
+- Dreaming, and REM sleep
+- Colour vision, and depth perception
+@ Lateralization may allow multitasking and may have made language possible
+
+? How many divisions does the autonomic nervous system have in the slides?
++ Three
+- Two
+- Four
+- Five
+@ involuntary control of glands, organs, smooth muscle; three divisions
+
+? Which of these is NOT listed in the slides as something the endocrine system affects?
++ Vision
+- Arousal
+- Metabolism
+- Growth
+@ arousal, metabolism, growth, sex
+
+? Which pituitary hormone is linked to breastfeeding?
++ Oxytocin
+- Vasopressin
+- Growth hormone
+- Melatonin
+@ oxytocin: breastfeeding
+
+? The pituitary gland controls sex hormones, which affect which two things, according to the slides?
++ Puberty and fertility
+- Sleep and appetite
+- Balance and coordination
+- Memory and learning
+@ controls sex hormones (puberty, fertility)
+
+? During stress, what activates the adrenal glands to release cortisol?
++ The pituitary gland
+- The pineal gland
+- The thyroid gland
+- The pancreas
+@ Activated by the pituitary in stress
+
+? Myelin insulates axons for fast conduction. If an axon lost its myelin, what would most likely happen?
++ Its signals would travel more slowly
+- Its signals would travel faster
+- It would start releasing hormones
+- It would no longer need neurotransmitters
+@ Myelin: axon insulation for fast conduction
+
+? Besides giving support and forming the blood-brain barrier, what do some glia do?
++ Myelinate neurons
+- Release melatonin
+- Fire action potentials
+- Carry commands to muscles
+@ some myelinate neurons
+
+? What is the first step in neurotransmitter release?
++ The action potential reaches the axon terminal
+- The vesicles fuse with the membrane
+- Calcium frees the vesicles
+- Neurotransmitter enters the synaptic cleft
+@ Release: action potential reaches terminal
+
+? In neurotransmitter release, what happens right after the vesicles fuse with the membrane?
++ Neurotransmitter enters the synaptic cleft
+- Calcium flows into the terminal
+- The action potential reaches the terminal
+- The vesicles are refilled
+@ vesicles fuse with membrane → neurotransmitter enters the synaptic cleft
+
+? Besides its role in the autonomic system, acetylcholine is important for which mental functions?
++ Learning and memory
+- Sleep and appetite
+- Reward and planning
+- Vigilance and arousal
+@ key autonomic transmitter; learning, memory
+
+? According to the slides, how are sleep, appetite, and mood related in the serotonin system?
++ They are closely linked
+- Each is controlled by a separate, unrelated chemical
+- Only mood depends on serotonin
+- They are controlled only by melatonin
+@ Sleep, appetite, mood (closely linked)
+
+? A runner hardly feels an injury until the race is over. Which chemicals are most likely modifying the pain response?
++ Endorphins
+- Acetylcholine
+- Melatonin
+- Thyroid hormone
+@ Endorphins — Modify the natural pain response
+
+? A researcher studies ADHD and schizophrenia. Based on the slides, which neurotransmitter would they most likely focus on?
++ Dopamine
+- Serotonin
+- Acetylcholine
+- Endorphins
 @ Parkinson's disease, schizophrenia, ADHD

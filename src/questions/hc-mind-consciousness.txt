@@ -243,6 +243,405 @@
 - Loss of consciousness and muscle jerking
 @ Meditation: voluntary change in consciousness with positive emotion and no thought
 
+? Which two structures may be necessary, but not enough, for consciousness?
++ The thalamus and the reticular formation
+- The cerebellum and the pons
+- The hippocampus and the amygdala
+- The pineal and pituitary glands
+@ Thalamus and reticular formation: may be necessary but not sufficient
+
+? According to the slides, how is consciousness best understood?
++ As changing activity in brain networks
+- As the work of one particular structure
+- As a property of the spinal cord
+- As something unrelated to the brain
+@ Better seen as changing activity in brain networks than as particular structures
+
+? Why might varying alertness, between sleep and waking, be useful?
++ It may help repair the body and save energy
+- It keeps the brain from forming memories
+- It lowers the need for oxygen to zero
+- It stops the body from growing
+@ Varying alertness may help repair the body and save energy
+
+? According to the slides, how might sleep help keep animals safe?
++ Animals are built for light or dark, so sleeping through the other part may aid survival
+- Sleeping animals give off no scent, so predators cannot find them
+- Sleep makes animals stronger and faster than their predators
+- Sleep removes the need to eat, so animals can stay hidden all day
+@ Safety: animals are built for light or dark
+
+? A deer hears a twig snap. According to the slides, which choices does awareness give it?
++ Keep going, flee, or pause for more information
+- Only freeze, by reflex
+- Only flee, by instinct
+- Fall asleep until the danger passes
+@ hearing a possible predator: keep going, flee, or pause for more information
+
+? What is sleep, according to the slides?
++ A normal state with reduced awareness of outside stimuli
+- A state of complete unconsciousness, like a coma
+- A state with no brain activity
+- A state of alertness to outside stimuli
+@ Sleep: normal state with reduced awareness of outside stimuli
+
+? What is waking, according to the slides?
++ A normal state of alertness and awareness of outside stimuli
+- A state with reduced awareness of outside stimuli
+- A state of relaxation and greater suggestibility
+- A state with no brain waves
+@ Waking: normal state of alertness and awareness of outside stimuli
+
+? What is the biological clock?
++ An internal mechanism that sets a rough schedule for body processes
+- A brain wave that appears only in deep sleep
+- A hormone released each morning to wake us up
+- The number of minutes it takes to fall asleep
+@ Biological clock: internal mechanism setting a rough schedule for body processes
+
+? Disrupting the circadian rhythm by flying across time zones causes what?
++ Jet lag
+- Narcolepsy
+- Sleep apnea
+- Cataplexy
+@ Disruption → jet lag
+
+? What do "morning people" and "night owls" show, according to the slides?
++ Circadian rhythms differ between people
+- Everyone's circadian rhythm is the same
+- Night owls have no circadian rhythm
+- Morning people need no sleep
+@ rhythms differ (morning people, night owls)
+
+? Why does depression with seasonal pattern usually come in winter?
++ There is less light to set the internal clock
+- People eat more in winter
+- Cold weather damages the hypothalamus
+- Winter holidays cause stress
+@ usually winter, when less light sets the internal clock
+
+? How is major depressive disorder with seasonal pattern treated, according to the slides?
++ With bright light, with or without antidepressants
+- With sleep deprivation and less exposure to light
+- With brain surgery and stimulant drugs
+- With caffeine and staying up later at night
+@ treated with bright light, with or without antidepressants
+
+? What does an electroencephalogram (EEG) record?
++ Overall brain activity
+- The heart's electrical activity
+- Blood flow in the legs
+- Eye movements only
+@ Electroencephalogram (EEG): recording of overall brain activity
+
+? Which brain waves appear while we are awake?
++ Gamma, beta, and alpha
+- Theta and delta
+- Delta only
+- Theta, delta, and alpha
+@ Awake: gamma, beta, alpha
+
+? Which brain waves appear during N-REM sleep?
++ Theta and delta
+- Gamma and beta
+- Beta and alpha
+- Gamma only
+@ N-REM sleep: theta, delta
+
+? Which brain waves are linked to attention to sensory input?
++ Gamma waves
+- Alpha waves
+- Theta waves
+- Delta waves
+@ Gamma waves — More than 30 cycles per second — Attention to sensory input
+
+? You lie on a beach with your eyes closed, awake but relaxed. Which brain waves are most likely?
++ Alpha waves
+- Beta waves
+- Delta waves
+- Theta waves
+@ Alpha waves — Slower than beta — Relaxed waking
+
+? What is daydreaming?
++ Spontaneous experiences with no task, stimulus, or response
+- Dreaming during REM sleep
+- Knowing you are dreaming and controlling it
+- A seizure that causes déjà vu
+@ Daydreaming: spontaneous experiences with no task, stimulus, or response
+
+? How many stages does N-REM sleep have, according to the slides?
++ Four
+- Two
+- Three
+- Five
+@ deep physical relaxation; four stages
+
+? Which kind of sleep has theta and delta waves and deep physical relaxation?
++ N-REM sleep
+- REM sleep
+- Paradoxical sleep
+- Lucid dreaming
+@ Non-rapid eye movement (N-REM) sleep: theta and delta waves, deep physical relaxation
+
+? Which stage of sleep is the stage of falling asleep?
++ Stage 1
+- Stage 2
+- Stage 3
+- REM
+@ Stage 1: falling asleep
+
+? What happens if someone is woken from stages 3–4 of N-REM sleep?
++ They are very disoriented
+- They feel completely alert
+- They remember a vivid dream
+- They cannot move for an hour
+@ very disoriented if woken
+
+? Which kind of sleep has a waking-like EEG, rapid eye movements, and muscle paralysis?
++ REM sleep
+- Stage 1 of N-REM sleep
+- Stage 2 of N-REM sleep
+- Stages 3–4 of N-REM sleep
+@ Rapid eye movement (REM) sleep: waking-like EEG, rapid eye movements, muscle paralysis
+
+? What does the muscle paralysis of REM sleep prevent?
++ Acting out our dreams and getting hurt
+- Dreaming, which then happens only in N-REM sleep
+- Breathing, which stops during REM sleep
+- Rapid eye movements under the eyelids
+@ REM paralysis stops us acting out dreams and getting hurt
+
+? In which stages of N-REM sleep does sleep talking happen?
++ Stages 1–2
+- Stages 3–4
+- Only during REM
+- Only stage 4
+@ sleep talking: stages 1–2
+
+? What does a typical night's sleep contain?
++ A mix of N-REM and REM sleep
+- Only REM sleep
+- Only N-REM sleep
+- N-REM sleep, then waking, with no REM
+@ A night's sleep mixes N-REM and REM
+
+? Which animals show REM sleep, according to the slides?
++ Only birds and mammals
+- All animals with a brain
+- Only humans
+- Only reptiles and fish
+@ Only birds and mammals show REM
+
+? According to the slides, what do all stages of sleep do?
++ Restore energy and improve memory
+- Release growth hormone
+- Cause muscle paralysis
+- Produce dreams
+@ All sleep restores energy and improves memory
+
+? What can losing REM sleep cause?
++ Irritability and trouble concentrating
+- A better mood and sharper focus
+- Sleepwalking during stages 3–4
+- Narcolepsy and sleep attacks
+@ REM loss → irritability, trouble concentrating
+
+? What do antidepressants do to REM sleep?
++ They suppress it
+- They increase it
+- They have no effect on it
+- They turn it into N-REM stage 1
+@ antidepressants suppress REM
+
+? What is dreaming, according to the slides?
++ A mental state during sleep with visual imagery
+- Spontaneous thoughts while awake
+- A seizure during sleep
+- The muscle paralysis of REM
+@ Dreaming: mental state in sleep with visual imagery
+
+? Which disorder involves waking suddenly from N-REM sleep in great distress, without nightmare imagery?
++ Sleep terrors
+- Nightmares
+- Narcolepsy
+- Cataplexy
+@ Sleep terrors: sudden waking from N-REM in great distress without nightmare imagery
+
+? In which kind of sleep do nightmares happen?
++ REM sleep
+- Stage 2 of N-REM sleep
+- Stages 3–4 of N-REM sleep
+- Stage 1 of N-REM sleep
+@ Nightmares: often confused with sleep terrors but occur in REM
+
+? What is insomnia?
++ Being unable to start or maintain normal sleep
+- Falling asleep suddenly during the day
+- Stopping breathing during sleep
+- Acting out dreams
+@ Insomnia: can't start or maintain normal sleep
+
+? Someone keeps waking during the night and wakes up too early. Which kind of insomnia is this?
++ Maintenance insomnia
+- Onset insomnia
+- Narcolepsy
+- Sleep apnea
+@ Maintenance insomnia: interrupted sleep or early waking
+
+? REM paralysis while awake, without losing consciousness, is called what?
++ Cataplexy
+- Narcolepsy
+- Sleep apnea
+- An absence seizure
+@ Cataplexy: REM paralysis while awake, without losing consciousness
+
+? In which people is sleep apnea most common, according to the slides?
++ People who are obese and snore
+- Infants who sleep on their backs
+- Older adults who meditate
+- Children who sleepwalk
+@ mostly in obese snorers
+
+? What is sudden infant death syndrome (SIDS)?
++ A healthy infant dying in its sleep, for unclear reasons
+- An infant who cannot fall asleep
+- An infant whose breathing speeds up in sleep
+- An infant who sleepwalks
+@ Sudden infant death syndrome (SIDS): a healthy infant dies in sleep; cause unclear
+
+? Which two features of brain damage change consciousness, according to the slides?
++ Its location and its severity
+- Its colour and its shape
+- The person's age and height
+- Only the time of day it happened
+@ Both the location and the severity of damage change consciousness
+
+? What is brain death?
++ A complete, irreversible loss of measurable brain activity
+- A coma that lasts for more than one day
+- Wakefulness without consciousness after an injury
+- A very deep stage of N-REM sleep
+@ Brain death: complete, irreversible loss of measurable brain activity
+
+? Which experiences are typical of a near-death experience?
++ Feeling "out of body," seeing light at the end of a tunnel, calm, and reluctance to return
+- Vivid, colourful hallucinations and flashbacks, like those from LSD
+- Sudden sleep attacks, with muscle paralysis while awake
+- Déjà vu and an aura, like those before a partial seizure
+@ Near-death experience: altered state near death
+
+? What is a seizure?
++ Sudden abnormal activation of the brain
+- A gradual loss of memory
+- A lack of REM sleep
+- A drug that changes consciousness
+@ Seizure: sudden abnormal brain activation
+
+? What can cause seizures, according to the slides?
++ Brain injury, infection, or no obvious cause
+- Caffeine, chocolate, or late nights
+- Vaccines, poor diet, or cold weather
+- Jet lag, daydreaming, or meditation
+@ Causes: brain injury, infection, or no obvious cause
+
+? What is the area where a partial seizure starts called?
++ The focal area
+- The aura
+- The default mode network
+- The vegetative area
+@ Partial seizure: starts in one area (the focal area)
+
+? Which kind of seizure has no single starting area?
++ Generalized seizure
+- Partial seizure
+- Focal seizure
+- Temporal-lobe seizure
+@ Generalized seizure: abnormal activation of cortex–thalamus circuits; no single starting area
+
+? A child stares blankly for a moment, blinking and not responding. Which kind of seizure is this?
++ Absence seizure
+- Tonic-clonic seizure
+- Partial seizure with an aura
+- Cataplexy
+@ Absence seizure: loss of consciousness; movement limited to blinking, head turns, eye movements
+
+? What is a psychoactive drug?
++ Any drug that can change consciousness
+- Only drugs that cause hallucinations
+- Only illegal drugs
+- Only drugs that increase nervous system activity
+@ Psychoactive drug: any drug that can change consciousness
+
+? Physical reactions to stopping a drug you use regularly are called what?
++ Withdrawal
+- Tolerance
+- Addiction
+- Rebound
+@ Withdrawal: physical reactions to stopping a habitual drug
+
+? What is addiction, according to the slides?
++ Compulsive dependence on a substance or activity despite negative consequences
+- Needing more of a drug over time to get the same effect
+- Physical reactions that follow stopping a habitual drug
+- Any drug that is able to change a person's consciousness
+@ Addiction: compulsive physical or psychological dependence on a substance or activity despite negative consequences
+
+? Which drug acts on the body's own (endogenous) cannabinoids?
++ Marijuana (cannabis)
+- Caffeine (coffee)
+- Nicotine (tobacco)
+- LSD (a hallucinogen)
+@ Marijuana (cannabis) — Endogenous cannabinoids
+
+? Which drug acts on serotonin and causes vivid, colourful hallucinations and flashbacks?
++ LSD
+- Caffeine
+- Alcohol
+- Opioids
+@ LSD — Serotonin — Vivid colourful hallucinations, intrusive hallucinations, flashbacks
+
+? Which neurotransmitter do cocaine and amphetamines act on?
++ Dopamine
+- Adenosine
+- Acetylcholine
+- GABA
+@ Cocaine and amphetamines — Dopamine
+
+? Which drug acts on dopamine and norepinephrine to improve alertness and concentration?
++ Methylphenidate (Ritalin)
+- Caffeine (coffee)
+- Nicotine (tobacco)
+- Cannabis (marijuana)
+@ Methylphenidate (Ritalin) — Dopamine and norepinephrine — Better alertness and concentration
+
+? According to the slides, what do high doses of alcohol cause?
++ Aggression, risk-taking, and poor coordination
+- Calm, relaxation, and better coordination
+- Vivid colourful hallucinations
+- Better alertness and concentration
+@ high doses → aggression, risk-taking, poor coordination
+
+? Which drugs act on the body's own endorphins and cause a large dopamine release?
++ Opioids
+- Caffeine
+- LSD
+- Nicotine
+@ Opioids — Endogenous endorphins — Big dopamine release
+
+? A volunteer relaxes deeply and readily follows suggestions. Which state is this?
++ Hypnosis
+- Meditation
+- Lucid dreaming
+- A vegetative state
+@ Hypnosis: altered state with relaxation and greater suggestibility
+
+? Which of these can change consciousness without drugs, according to the slides?
++ Scuba diving
+- Drinking coffee
+- Smoking tobacco
+- Drinking alcohol
+@ Others: high altitude, scuba diving, starvation, sleep deprivation, sensory deprivation, twirling, rhythm-induced trance
+
 ## hard
 
 ? According to the slides, what role do the thalamus and reticular formation play in consciousness?
@@ -489,3 +888,248 @@
 - LSD
 - Methylphenidate (Ritalin)
 @ Opioids — Endogenous endorphins — Big dopamine release → well-being, pain relief; low doses: euphoria, calm, relaxation, sleep; high doses: a strong "rush" and depressed breathing, sometimes fatal
+
+? According to the slides, what would staying awake 24 hours a day require?
++ More food
+- Less food
+- More REM sleep
+- Less oxygen
+@ (being awake 24 hours would need more food)
+
+? What does the circadian rhythm respond to?
++ Both internal and external factors
+- Only sunlight
+- Only hormones
+- Nothing; it never changes
+@ responds to internal and external factors
+
+? A New Yorker flies to Los Angeles. How do they mostly adjust?
++ They stay up later and sleep in
+- They go to bed at what feels like 7:00 p.m.
+- They wake at what feels like 3:00 a.m.
+- They cannot adjust at all
+@ a New Yorker in LA just stays up later (1:00 a.m. NY time) and sleeps in (9:00 a.m. NY time)
+
+? How fast are beta waves?
++ 15 to 30 cycles per second
+- 1 to 4 cycles per second
+- 4 to 7 cycles per second
+- More than 100 cycles per second
+@ Beta waves — 15 to 30 cycles per second
+
+? How fast are delta waves?
++ 1 to 4 cycles per second
+- 4 to 7 cycles per second
+- 15 to 30 cycles per second
+- More than 30 cycles per second
+@ Delta waves — 1 to 4 cycles per second
+
+? How do alpha waves compare with beta waves?
++ They are slower
+- They are faster
+- They are the same speed
+- They only appear in deep sleep
+@ Alpha waves — Slower than beta
+
+? What do the slides say about the purpose of daydreaming?
++ It is unclear
+- It repairs the body
+- It releases growth hormone
+- It prevents seizures
+@ linked to the DMN; purpose unclear
+
+? Why do people woken from stage 1 sleep often deny that they were asleep?
++ Stage 1 is so brief
+- Stage 1 has rapid eye movements
+- Stage 1 causes memory loss
+- Stage 1 is the deepest stage
+@ so brief people deny sleeping
+
+? In stage 2 of N-REM sleep, what happens to heart rate and muscle tension?
++ They drop
+- They rise sharply
+- They become rapid and irregular
+- They stop completely
+@ Stage 2: heart rate and muscle tension drop
+
+? Which feature does REM sleep share with waking?
++ A waking-like EEG
+- Normal muscle tone
+- Slow, regular breathing
+- Delta waves
+@ waking-like EEG
+
+? Besides stopping us from acting out dreams, what else does REM paralysis prevent?
++ Sleepwalking
+- Sleep terrors
+- Snoring
+- Dreaming
+@ and prevents sleepwalking
+
+? According to the slides, dreaming that you cannot move reflects what?
++ REM paralysis
+- A seizure
+- Sleep apnea
+- Too much growth hormone
+@ dreaming you can't move reflects REM paralysis
+
+? The extra dorsolateral prefrontal cortex activity in lucid dreaming is linked to what?
++ A sense of control and voluntary behaviour
+- Fear and aggression toward others
+- Hunger, thirst, and body temperature
+- Balance and smooth coordination
+@ more dorsolateral prefrontal cortex activity (sense of control, voluntary behaviour)
+
+? What causes orexins to be missing or damaged in narcolepsy?
++ Genes plus an autoimmune attack on the cells that make orexins
+- Too much caffeine, which destroys the cells that make orexins
+- Sleeping on the stomach during infancy
+- Jet lag that resets the hypothalamus over and over
+@ genes + autoimmune attack on orexin-making cells
+
+? Sleep apnea raises the risk of which disease?
++ Heart disease
+- Parkinson's disease
+- Alzheimer's disease
+- Epilepsy
+@ raises heart disease risk
+
+? Which treatments do the slides list for sleep apnea in people who are obese and snore?
++ Weight loss and airway surgery
+- Bright light and antidepressants
+- Zolpidem and caffeine
+- Hypnosis and meditation
+@ treat with weight loss, airway surgery
+
+? In industrialized nations, SIDS is the top cause of death during which period?
++ The first six months of life
+- The first week of life
+- The teenage years
+- Old age
+@ top cause of death in the first six months in industrialized nations
+
+? What do the slides say about the EEGs of coma patients?
++ They differ depending on the cause of the coma
+- They are always completely flat
+- They always show REM sleep
+- They are the same as in waking
+@ EEGs differ by cause
+
+? Which behaviours may people in a vegetative state show?
++ Grinding teeth, screaming, smiling, or crying
+- Holding normal conversations
+- Planning their day
+- Reading and writing
+@ may grind teeth, scream, smile, cry
+
+? A vegetative state often follows which state?
++ A coma
+- REM sleep
+- Lucid dreaming
+- Hypnosis
+@ Vegetative state (VS): wakefulness without consciousness after brain injury, often after coma
+
+? Which of these is NOT a sign of brain death in the slides?
++ The eyes opening at times
+- Two flat EEGs taken 24 hours apart
+- No blood flow to the brain
+- No cranial-nerve reflexes
+@ no response to any stimulus including pain; no cranial-nerve reflexes
+
+? Near death, what may a damaged brain release, according to the slides?
++ Chemicals that limit cell loss
+- Extra growth hormone
+- Melatonin, to cause sleep
+- Orexins, to cause narcolepsy
+@ a damaged brain may release chemicals that limit cell loss
+
+? What do animals near death show, according to the slides?
++ Heightened consciousness
+- No brain activity at all
+- Only delta waves
+- Sleepwalking
+@ Animals near death show heightened consciousness
+
+? What do the changes in consciousness during seizures show?
++ Cortical activity is tied to consciousness
+- The spinal cord controls consciousness
+- Consciousness does not depend on the brain
+- Only the cerebellum controls consciousness
+@ changes in consciousness show cortical activity is tied to consciousness
+
+? Why does tolerance to a drug develop?
++ The nervous system compensates for the drug
+- The drug becomes stronger over time
+- The liver stops working
+- The person forgets the drug's effects
+@ as the nervous system compensates
+
+? In addiction, which outcomes win out?
++ Short-term outcomes over long-term ones
+- Long-term outcomes over short-term ones
+- Outcomes chosen by the reflective system
+- Neither; decisions are random
+@ short-term outcomes win over long-term ones
+
+? In addiction, which brain area is the reflective system that weighs pros and cons?
++ The frontal lobes
+- The insula
+- The midbrain
+- The cerebellum
+@ reflective (frontal lobes weigh pros and cons, control impulses)
+
+? In addiction, the impulsive system relies on which pathways?
++ Dopamine pathways in the midbrain and basal ganglia
+- Serotonin pathways in the occipital lobe
+- The insula alone
+- The frontal lobes alone
+@ impulsive (dopamine pathways, midbrain–basal ganglia)
+
+? Which neurotransmitter does caffeine act on, and what does caffeine withdrawal bring?
++ Adenosine; fatigue and headaches
+- Dopamine; hallucinations and flashbacks
+- GABA; aggression and poor coordination
+- Serotonin; dehydration and hyperthermia
+@ Caffeine — Adenosine — Alertness; withdrawal brings fatigue and headaches
+
+? Which of these is NOT an effect of nicotine in the slides?
++ It lowers heart rate
+- It raises blood pressure
+- It reduces fatigue
+- It relaxes muscles
+@ Tobacco raises heart rate and blood pressure, reduces fatigue, sharpens thinking, relaxes muscles
+
+? Besides alertness and concentration, what does methylphenidate affect?
++ Sleep and appetite
+- Hearing and smell
+- Balance and coordination
+- Pain and temperature
+@ affects sleep and appetite
+
+? Which three things does MDMA raise?
++ Heart rate, blood pressure, and body temperature
+- Appetite, sleep, and memory
+- Pain, calm, and relaxation
+- Coordination, focus, and reaction time
+@ Raises heart rate, blood pressure, body temperature
+
+? How can very high doses of alcohol cause death?
++ Through suppressed breathing or inhaled vomit
+- Through hyperthermia and convulsions
+- Through a sudden sleep attack
+- Through a rise in body temperature
+@ very high → coma or death (suppressed breathing, inhaled vomit)
+
+? What do low doses of opioids cause?
++ Euphoria, calm, relaxation, and sleep
+- A strong "rush" and depressed breathing
+- Vivid colourful hallucinations
+- Aggression and risk-taking
+@ low doses: euphoria, calm, relaxation, sleep
+
+? How does meditation differ from hypnosis, according to the slides?
++ Meditation brings positive emotion and no thought; hypnosis brings relaxation and suggestibility
+- Meditation brings relaxation and suggestibility; hypnosis brings positive emotion and no thought
+- Meditation needs a psychoactive drug; hypnosis needs no drug at all
+- They are the same state of consciousness with two different names
+@ Meditation: voluntary change in consciousness with positive emotion and no thought

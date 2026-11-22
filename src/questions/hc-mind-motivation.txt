@@ -180,6 +180,258 @@
 - Somatovisceral afference model of emotion
 @ Cannon-Bard theory
 
+? In fear, your heart races. According to the slides, what does this do?
++ It readies you to act
+- It stops you from feeling the emotion
+- It lowers your arousal
+- It has no purpose
+@ a racing heart in fear readies us to act
+
+? Where do emotions show, according to the slides?
++ In facial expressions, body language, gestures, and tone of voice
+- In brain scans and blood tests, but not in behaviour
+- In the eyes alone, not in gestures or the voice
+- In written words, but not in the face or body
+@ Emotions show in facial expressions, body language, gestures, tone of voice
+
+? According to the slides, what does motivation help maintain?
++ Homeostasis, a steady internal balance
+- Constant change in body temperature
+- High arousal at all times
+- Rapid weight gain
+@ Homeostasis: steady internal balance that motivation maintains
+
+? Your body keeps your core temperature close to the same value. That value is an example of what?
++ A set point
+- A drive
+- An incentive
+- A display rule
+@ Set points: values held steady, e.g., core body temperature
+
+? According to the slides, what does motivation start with?
++ An internal or external stimulus cue
+- A reward that has already been received
+- A personality trait
+- A display rule
+@ Motivation starts with an internal or external stimulus cue
+
+? Hunger pushes you to eat. In the slides, hunger is an example of what?
++ A drive
+- An incentive
+- A set point
+- An extrinsic reward
+@ Drive: tension and arousal from survival-related stimuli (hunger drives eating)
+
+? After a long run, you drink water and feel relief. What is that relief called?
++ Drive reduction
+- An incentive
+- Satiety
+- Homeostasis
+@ Drive reduction: relief and reward from removing a drive
+
+? What are incentives?
++ Rewards that pull behaviour
+- Tensions that push behaviour
+- Values the body holds steady
+- Cultural rules for showing emotion
+@ Incentives: rewards that pull behaviour
+
+? Someone paints because they love it, not for money or praise. What kind of reward drives them?
++ An intrinsic reward
+- An extrinsic reward
+- An incentive from others
+- Drive reduction
+@ Intrinsic reward: comes from inside
+
+? What does hunger respond to, according to the slides?
++ Both external and internal cues
+- Only internal cues
+- Only external cues
+- Neither; it is random
+@ Hunger responds to external and internal cues
+
+? According to the slides, internal hunger cues signal what?
++ A real shortage of nutrients
+- The time of day
+- A social setting
+- The smell of food
+@ Internal cues (real nutrient shortage)
+
+? After a big dinner you feel full and want no dessert. What is this feeling called?
++ Satiety
+- Drive
+- Homeostasis
+- Arousal
+@ Satiety: feeling full, needing no more food
+
+? Which digestive hormone is released when food arrives?
++ Cholecystokinin (CCK)
+- Leptin
+- Ghrelin
+- Testosterone
+@ Cholecystokinin (CCK): digestive hormone released when food arrives
+
+? What do experts disagree about, according to the slides?
++ Ideal weight and obesity's health impact
+- Whether people need food
+- Whether hunger exists
+- Whether BMI measures weight
+@ Experts disagree about ideal weight and obesity's health impact
+
+? Which of these is a factor in obesity, according to the slides?
++ A sedentary lifestyle
+- Too much exercise
+- Eating too little
+- A dislike of sweet food
+@ sedentary lifestyle
+
+? Which two features mark eating disorders?
++ Unusual eating and a distorted body image
+- High arousal and a set point
+- Low blood sugar and leptin
+- Display rules and achievement motivation
+@ Eating disorders: unusual eating plus distorted body image
+
+? A teen binges, then purges, and feels disgust and a loss of control. Which disorder fits?
++ Bulimia nervosa
+- Anorexia nervosa
+- Binge-eating disorder
+- Obesity
+@ Bulimia nervosa: bingeing and purging, with depression, disgust, lost control
+
+? Which eating disorder involves eating huge amounts at one sitting and feeling out of control, without vomiting or laxatives?
++ Binge-eating disorder
+- Bulimia nervosa
+- Anorexia nervosa
+- Estrus
+@ Binge-eating disorder: huge amounts at one sitting, feeling out of control
+
+? What makes a man's testosterone level vary through the day?
++ Biology and the environment, such as competition
+- His age, which fixes it for the whole day
+- The food he eats at each meal
+- Nothing; it stays the same all day long
+@ Male testosterone varies through the day with biology and environment (e.g., competition)
+
+? Joining a club so you feel connected with other people reflects which motive?
++ Affiliation
+- Achievement motivation
+- Drive reduction
+- Satiety
+@ Affiliation: connection with other people
+
+? What can a lack of social connection be, according to the slides?
++ Devastating
+- Harmless
+- Always helpful
+- Good for health
+@ Lacking connection can be devastating
+
+? Loneliness is compared with which other unpleasant signals?
++ Hunger, thirst, and pain
+- Joy, pride, and love
+- Sight, sound, and smell
+- Sleep, dreams, and memory
+@ Loneliness: unpleasant signal, like hunger, thirst, pain
+
+? A student studies extra hours just to outperform everyone in the class. Which motive is this?
++ Achievement motivation
+- Affiliation
+- Drive reduction
+- Homeostasis
+@ Achievement motivation: desire to excel or outperform others
+
+? What is a trait, according to the slides?
++ A stable characteristic that changes little but interacts with situations
+- A passing feeling that changes from minute to minute
+- A hormone made by fat cells to control body weight
+- A cultural rule for when and how to show an emotion
+@ Trait: stable characteristic that changes little but interacts with situations
+
+? On the pleasure dimension, emotions range from what to what?
++ Unpleasant to pleasant
+- Low to high
+- Learned to built in
+- Fake to genuine
+@ Emotions vary in pleasure (unpleasant to pleasant)
+
+? According to the Yerkes-Dodson law, what does the ideal level of arousal depend on?
++ How complex the task is
+- The time of day
+- The person's age
+- How hungry the person is
+@ ideal arousal depends on complexity
+
+? A student is so anxious during a hard exam that their mind goes blank. Which law explains this?
++ The Yerkes-Dodson law
+- The James-Lange theory
+- Drive reduction theory
+- The display rule
+@ Yerkes-Dodson law: how task complexity, arousal, and performance relate
+
+? Which part of the nervous system handles general arousal?
++ The autonomic nervous system
+- The somatic nervous system
+- The central nervous system
+- The enteric nervous system only
+@ Autonomic nervous system — General arousal
+
+? Which structure directly manages the autonomic nervous system?
++ The hypothalamus
+- The cerebellum
+- The basal ganglia
+- The insula
+@ Hypothalamus — Directly manages the autonomic nervous system
+
+? Where are the amygdala and insula found, according to the slides?
++ In the fold where the frontal and temporal lobes meet
+- At the back of the occipital lobe
+- In the brainstem
+- In the spinal cord
+@ In the fold where the frontal and temporal lobes meet
+
+? Activity in the left hemisphere is linked to which emotions?
++ Positive emotions
+- Negative emotions
+- No emotions
+- Only fear
+@ Left-hemisphere activity → positive emotions
+
+? Which question about emotional expressions do the slides say is still open?
++ Whether they are learned or built in
+- Whether emotions exist
+- Whether faces show emotion at all
+- Whether arousal affects performance
+@ Open question: are emotional expressions learned or built in?
+
+? In some cultures mourners cry loudly at funerals; in others they stay quiet. What explains the difference?
++ Display rules
+- Set points
+- Drive reduction
+- Satiety
+@ Display rule: cultural norm for when, where, and how to express an emotion
+
+? Which statement about adults reading emotions is true, according to the slides?
++ They read emotions accurately but are worse at spotting fake expressions
+- They cannot read emotions at all
+- They spot fake expressions perfectly
+- They read emotions only through tone of voice
+@ Adults read emotions accurately
+
+? You notice your heart pounding, and only then realize you feel afraid. Which theory fits?
++ James-Lange theory
+- Cannon-Bard theory
+- Schachter-Singer two-factor theory
+- Drive reduction theory
+@ James-Lange theory — Physical sensations first, leading to subjective feelings
+
+? Your heart pounds at the very moment you feel afraid. Which theory fits?
++ Cannon-Bard theory
+- James-Lange theory
+- Schachter-Singer two-factor theory
+- Incentive theory
+@ Cannon-Bard theory — Physical sensations and subjective feelings at the same time
+
 ## hard
 
 ? How do incentive theories explain motivated behaviour differently from drive theories?
@@ -363,3 +615,171 @@
 - James-Lange theory
 - Schachter-Singer two-factor theory
 @ Somatovisceral afference model of emotion (SAME)
+
+? According to the slides, what comes along with motivation?
++ Emotional states
+- Muscle paralysis
+- Loss of consciousness
+- Sleep spindles
+@ comes with emotional states
+
+? According to some psychologists, what is NOT needed for incentives to motivate behaviour?
++ A drive "push"
+- A reward
+- A goal
+- A stimulus cue
+@ some say no drive "push" is needed
+
+? Which of these is NOT an external hunger cue in the slides?
++ Low blood sugar
+- The time of day
+- The sight of a favourite food
+- The social setting
+@ External cues: time of day, sight and smell of favourite foods, social setting
+
+? Low blood sugar (glucose) is which kind of hunger cue?
++ An internal cue
+- An external cue
+- A social cue
+- A satiety cue
+@ low blood sugar (glucose)
+
+? Where is leptin made?
++ In fat cells
+- In the stomach
+- In the ventromedial hypothalamus
+- In the adrenal glands
+@ Leptin: fat-cell hormone
+
+? Which kind of studies show genes play a role in obesity?
++ Twin studies
+- Sleep studies
+- Brain-wave studies
+- Taste-bud studies
+@ genes (set points, metabolism; twin studies)
+
+? Through which two things do genes affect obesity, according to the slides?
++ Set points and metabolism
+- Display rules and traits
+- Estrus and menopause
+- Arousal and pleasure
+@ genes (set points, metabolism
+
+? According to the slides, how might a person with an eating disorder feel even while starving?
++ Obese
+- Satisfied with their weight
+- Very hungry and eager to eat
+- Nothing at all
+@ may feel obese while starving
+
+? How do people with anorexia nervosa keep their body weight low?
++ By restricting food and over-exercising
+- By bingeing and purging
+- By eating huge amounts with no purging
+- By taking extra leptin
+@ unusually low body weight (food restriction, over-exercise)
+
+? In most mammals, how are hormones and sex related?
++ They are tightly linked
+- They are unrelated
+- Hormones only matter after menopause
+- Sex controls hormones, but not the reverse
+@ hormones and sex tightly linked
+
+? How much do the hormones of ovulation and menstruation affect women's sexual interest?
++ Barely at all
+- They control it completely
+- They double it every month
+- They end it
+@ In women, ovulation and menstruation hormones barely affect sexual interest
+
+? Female sexual interest correlates with testosterone, which the slides describe as what kind of hormone?
++ A male hormone
+- A hunger hormone
+- A sleep hormone
+- A stress hormone
+@ correlates with testosterone, a male hormone
+
+? A tennis player loses a match on their home court. What likely happens to their testosterone?
++ It drops more than it would after losing away from home
+- It rises more than the winner's
+- It stays exactly the same
+- It drops less than after losing away from home
+@ losing at home drops it more
+
+? According to the slides, how do genes influence sexual orientation?
++ Through complex mechanisms that are poorly understood
+- Through one simple gene
+- They have no influence
+- Only through hormones after puberty
+@ Genes appear to influence orientation through complex, poorly understood mechanisms
+
+? Most people rate love and social connection above which things?
++ Wealth, fame, and even physical health
+- Only wealth
+- Nothing; they rate wealth highest
+- Only fame
+@ above wealth, fame, even physical health
+
+? Achievement motivation resembles what?
++ A personality trait
+- A reflex
+- A hormone
+- A sleep stage
+@ resembles a personality trait
+
+? According to the slides, trait achievement motivation interacts with what?
++ Opportunities in the environment
+- The sleep–wake cycle
+- Blood sugar
+- Leptin levels
+@ Trait achievement motivation interacts with environmental opportunities
+
+? Using the slides' two dimensions, how would calm contentment be described?
++ Pleasant and low in arousal
+- Unpleasant and high in arousal
+- Pleasant and high in arousal
+- Unpleasant and low in arousal
+@ Emotions vary in pleasure (unpleasant to pleasant) and arousal (low to high)
+
+? Besides managing the autonomic nervous system, what does the hypothalamus do in emotion?
++ It is part of several emotions
+- It stores all emotional memories
+- It controls facial expressions alone
+- It has no role in emotion
+@ Directly manages the autonomic nervous system; part of several emotions
+
+? Besides identifying emotional stimuli, what do the amygdala and insula do?
++ Start arousal
+- Store long-term memories
+- Control skilled movement
+- Make leptin
+@ identify emotional stimuli and start arousal
+
+? What do the basal ganglia do in voluntary movement and emotion?
++ They coordinate movements in response to emotional stimuli
+- They identify emotional stimuli and start arousal
+- They manage the autonomic nervous system
+- They receive pathways carrying pain
+@ Basal ganglia — Voluntary movement
+
+? What does emotional intelligence predict, according to the slides?
++ Success at work and in relationships
+- How fast a person falls asleep
+- A person's body mass index
+- Testosterone levels
+@ predicts work and relationship success
+
+? Your heart races. You look around, see a snarling dog, and conclude you are afraid. Which theory fits?
++ Schachter-Singer two-factor theory
+- James-Lange theory
+- Cannon-Bard theory
+- Incentive theory
+@ Schachter-Singer two-factor theory — General arousal → assessment of the situation → subjective feelings
+
+? Which of the emotion theories in the slides is the newest?
++ The somatovisceral afference model of emotion (SAME)
+- The James-Lange theory
+- The Cannon-Bard theory
+- The Schachter-Singer two-factor theory
+@ Somatovisceral afference model of emotion (SAME) — Newer

@@ -1,9 +1,9 @@
-? According to the HOSA Canada slides, how much of the written test do wellness, stress, and coping make up?
-+ 15%
-- 5%
-- 25%
-- 40%
-@ Wellness, stress, and coping are 15% of the written test
+? Which three areas does the wellness, stress, and coping deck cover?
++ Stress and coping, health psychology, and positive psychology
+- Sleep and dreams, hypnosis, and meditation
+- Learning and memory, thinking, and problem solving
+- Laws and regulations, careers, and guidelines
+@ Covers stress and coping, health psychology, positive psychology
 
 ? How do the slides define stress?
 + An unpleasant emotional state that comes from perceiving danger
@@ -138,6 +138,188 @@
 - Type A model
 @ Biopsychosocial model: health results from biological, psychological, and social factors
 
+? According to the slides, what may make a person's reactions to stressors more or less dramatic?
++ Their genes
+- Their eye colour
+- The weather
+- Their height
+@ Genes may make reactions to stressors more or less dramatic
+
+? A big presentation tomorrow is making you anxious. In the slides' terms, what is the presentation?
++ A stressor
+- A hassle-free event
+- A coping strategy
+- A lymphocyte
+@ Stressor: the source of stress
+
+? According to the slides, how individual are stressors?
++ Highly individual
+- The same for everyone
+- Only physical, never emotional
+- Only found in adults
+@ Stressor: the source of stress; highly individual
+
+? During fight or flight, what happens to nonessential body functions?
++ They are held back
+- They speed up
+- They take over
+- They do not change
+@ nonessential functions are held back
+
+? In Selye's studies, what did stronger stressors do to how long the rats swam?
++ They shortened it
+- They lengthened it
+- They had no effect
+- They made the rats swim forever
+@ cold water, restraint, shock, surgery, and whisker cutting all shortened it
+
+? Who described the general adaptation syndrome?
++ Hans Selye
+- Meyer Friedman
+- Ray Rosenman
+- Adler
+@ General adaptation syndrome (GAS): Selye's consistent response pattern to any stressor
+
+? Which stage of the general adaptation syndrome comes first?
++ Alarm
+- Resistance
+- Exhaustion
+- Recovery
+@ GAS has three stages, in order: alarm, resistance, exhaustion
+
+? A hiker suddenly sees a bear, and their body gets ready to run. Which GAS stage is this?
++ Alarm
+- Resistance
+- Exhaustion
+- Appraisal
+@ Alarm — Resources mobilized for fight or flight
+
+? A student has been coping for months with a stressful family situation, adapting as well as they can. Which GAS stage is this?
++ Resistance
+- Alarm
+- Exhaustion
+- Tend and befriend
+@ Resistance — Adapting and coping while stress continues
+
+? After months of non-stop stress, a worker's resources run out and they get sick. Which GAS stage is this?
++ Exhaustion
+- Alarm
+- Resistance
+- Hassles
+@ Exhaustion — Resources run out
+
+? What do the slides mean by saying stressors are "in the eye of the beholder"?
++ What stresses one person may not stress another
+- Only things we see can stress us
+- Stress always comes from the eyes
+- Everyone is stressed by the same things
+@ Stressors are in the eye of the beholder
+
+? Which of these is a common kind of stressor listed in the slides?
++ Life changes
+- A good night's sleep
+- A balanced diet
+- Regular exercise
+@ Common stressors: large-scale disasters (terrorist attacks, Haiti and Japan earthquakes, Oklahoma tornadoes), life changes, hassles
+
+? Losing your keys and sitting in traffic are examples of what?
++ Hassles
+- Large-scale disasters
+- Major life changes
+- Cognitive appraisals
+@ Hassles: relatively minor everyday stressors
+
+? Under stress, a woman calls her friends and looks after her children. Which stress response is this?
++ Tend and befriend
+- Fight or flight
+- Exhaustion
+- Problem-focused coping only
+@ Tend and befriend: stress response more common in women
+
+? According to the slides, which group faces more noise, toxins, and violence, and has fewer resources?
++ People of lower socioeconomic status
+- People of higher socioeconomic status
+- People who exercise often
+- People with Type B personalities
+@ Lower socioeconomic status brings more noise, toxins, carcinogens, violence
+
+? What does chronic stress do to the immune system?
++ It weakens it
+- It strengthens it
+- It has no effect
+- It makes it attack cancer more
+@ chronic stress weakens it
+
+? How did Friedman and Rosenman describe Type A people?
++ Competitive workaholics
+- Laid-back and relaxed
+- Shy and anxious
+- Lonely and sad
+@ Type A personality: Meyer Friedman and Ray Rosenman's (1974) competitive workaholics
+
+? Type A people were proposed to be more prone to which disease?
++ Heart disease
+- Diabetes
+- Cancer
+- Alzheimer's disease
+@ proposed to be more prone to heart disease
+
+? What were laid-back people called, in contrast to Type A?
++ Type B
+- Type C
+- Type Z
+- Type 2
+@ laid-back Type B people
+
+? According to later findings, how much did competitiveness itself matter for heart problems?
++ Very little
+- It was the main cause
+- It was the only cause
+- It protected the heart
+@ Competitiveness itself mattered little
+
+? Chronic stress can cascade into changes in which three things?
++ Mood, sleep, and appetite
+- Height, eye colour, and hair
+- Hearing, vision, and smell
+- Memory, language, and balance only
+@ Chronic stress can cascade into mood, sleep, and appetite changes
+
+? What happens to cortisol levels as the day goes on?
++ They fall
+- They rise
+- They stay the same
+- They drop to zero by noon
+@ high early in the morning (wakefulness), falling through the day
+
+? Which two conditions disturb sleep, especially with frequent night waking?
++ Stress and depression
+- Exercise and good diet
+- Hassles and hobbies
+- Oxytocin and leptin
+@ Stress and depression both disturb sleep, especially with frequent night waking
+
+? Worried about a failing grade, you meet your teacher and make a study plan. Which kind of coping is this?
++ Problem-focused coping
+- Emotion-focused coping
+- Relationship-focused coping
+- Tend and befriend
+@ Problem-focused coping — Addresses the problem itself
+
+? Worried about a failing grade, you go for a run to calm your feelings. Which kind of coping is this?
++ Emotion-focused coping
+- Problem-focused coping
+- Relationship-focused coping
+- Cognitive appraisal
+@ Emotion-focused coping — Handles negative emotions from a stressor
+
+? During a stressful move, you make time to stay in touch with your best friend so the friendship doesn't suffer. Which kind of coping is this?
++ Relationship-focused coping
+- Problem-focused coping
+- Emotion-focused coping
+- Alarm
+@ Relationship-focused coping — Maintains and protects relationships under stress
+
 ## hard
 
 ? What positive outcome of stress do the slides describe (Selye, 1975)?
@@ -265,3 +447,80 @@
 - Emotion-focused coping
 - Cognitive appraisal
 @ Relationship-focused coping
+
+? Which researcher wrote in 1975 that stress can push us to perform well?
++ Selye
+- Friedman
+- Rosenman
+- Adler
+@ Selye (1975)
+
+? According to the slides, what tuned the fight-or-flight response for emergencies?
++ Evolution
+- Culture
+- Schooling
+- Medication
+@ tuned by evolution for emergencies
+
+? Which of these was NOT one of the stressors used with Selye's rats?
++ Loud music
+- Cold water
+- Restraint
+- Whisker cutting
+@ cold water, restraint, shock, surgery, and whisker cutting all shortened it
+
+? In cognitive appraisal models, a stressor is quickly judged along which lines?
++ Irrelevant or harmless, and positive or negative
+- Large or small, and old or new
+- Loud or quiet, and bright or dark
+- Short or long, and near or far
+@ quick judgements of a stressor as irrelevant or harmless, positive or negative
+
+? Which of these is given in the slides as a large-scale disaster stressor?
++ The earthquakes in Haiti and Japan
+- Losing your keys
+- Moving to a new school
+- Sitting in traffic
+@ Haiti and Japan earthquakes
+
+? In the stress response, which system does the hypothalamus command?
++ The autonomic (sympathetic, fight-or-flight) system
+- The somatic system, which moves voluntary muscles
+- The immune system, which fights infection and cancer
+- The digestive system, which absorbs food
+@ signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
+
+? Chronic stress raises vulnerability to which kind of infection, in the slides' example?
++ Colds
+- Broken bones
+- Sunburn
+- Food allergies
+@ raising vulnerability to infections like colds
+
+? In which year did Friedman and Rosenman propose the Type A personality?
++ 1974
+- 1954
+- 1994
+- 2013
+@ Meyer Friedman and Ray Rosenman's (1974)
+
+? Which effect of stress do the slides call especially harmful?
++ Sleep loss caused by stress
+- Short-term stress during a memory task
+- Mild hassles
+- Tend and befriend
+@ stress-related sleep loss is especially harmful
+
+? What does high cortisol at bedtime do?
++ It hurts sleep quality
+- It improves sleep quality
+- It ends stress
+- It shrinks fat cells
+@ high cortisol at bedtime hurts sleep quality
+
+? Which of these is NOT one of the three factors in the biopsychosocial model?
++ Financial factors
+- Biological factors
+- Psychological factors
+- Social factors
+@ Biopsychosocial model: health results from biological, psychological, and social factors

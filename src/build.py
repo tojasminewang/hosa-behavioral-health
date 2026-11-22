@@ -2,6 +2,7 @@
 """Build the HOSA Behavioral Health study site.
 
   python3 build.py           check everything, then write ../index.html
+  python3 build.py --full    the same, with every topic (see SLIDES_ONLY below)
   python3 build.py --check   only check the questions against the notes
 
 Inputs (all in this folder):
@@ -21,6 +22,12 @@ import unicodedata
 HERE = pathlib.Path(__file__).resolve().parent
 NOTES, QDIR, TEMPLATE, OUT = HERE / 'notes', HERE / 'questions', HERE / 'template.html', HERE.parent / 'index.html'
 FIGS, IMGS = HERE / 'figures', HERE.parent / 'img'
+
+# For now the site shows only HOSA Canada's study slides (asked for on 2026-11-22). The textbook, SAMHSA and NAMI topics
+# stay in notes/, questions/ and figures/; set this to False, or build with --full, to put them back on the site.
+SLIDES_ONLY = True
+if '--full' in sys.argv:
+    SLIDES_ONLY = False
 
 # HOSA Canada study slides: (topic slug, title, deck it comes from)
 SLIDE_DECKS = [
@@ -56,6 +63,14 @@ PARTS = [
     # not part of the test plan: only what HOSA Canada's study slides say (kept out of the mock exam and the test-plan views)
     dict(n=7, weight=0, slides=True, short='Slide decks', title='HOSA Canada study slides', events=[s for s, _, _ in SLIDE_DECKS]),
 ]
+if SLIDES_ONLY:
+    # Each slide module covers one part of the test plan (Module 2 = Part 1 ... Module 7 = Part 6), so the decks become the
+    # parts' topics and the mock exam, exam guide and test plan keep working with the slides alone.
+    DECKS_OF_PART = {1: ['hc-mind-bio', 'hc-mind-sensation', 'hc-mind-consciousness', 'hc-mind-motivation', 'hc-mind-learning',
+                         'hc-mind-memory'],
+                     2: ['hc-disorders'], 3: ['hc-prevention'], 4: ['hc-wellness'], 5: ['hc-careers'], 6: ['hc-history']}
+    assert sorted(s for v in DECKS_OF_PART.values() for s in v) == sorted(s for s, _, _ in SLIDE_DECKS)
+    PARTS = [dict(p, events=DECKS_OF_PART[p['n']]) for p in PARTS if not p.get('slides')]
 TITLES = {
     'biological': 'Biological Psychology', 'sensation': 'Sensation', 'perception': 'Perception',
     'consciousness': 'Consciousness & Sleep', 'motivation': 'Motivation', 'emotion': 'Emotion', 'learning': 'Learning',
@@ -386,7 +401,7 @@ def article_html(slug, body, counts):
     prev = group[i - 1] if i else None
     nxt = group[i + 1] if i + 1 < len(group) else None
     esc = html.escape
-    crumb = (f'<span class="chip">HOSA Canada slides</span><span>{esc(DECK_OF[slug])}</span>' if p.get('slides')
+    crumb = (f'<span class="chip">HOSA Canada slides</span><span>{esc(DECK_OF[slug])}</span>' if slug in DECK_OF
              else f'<span class="chip">Part {p["n"]} · {p["weight"]}%</span><span>{esc(p["title"])}</span>')
     meta = f'<span>{n} questions</span>'
     if nh:
@@ -432,12 +447,15 @@ def main():
         n, nh, nc = counts[slug]
         print(f'  {slug:18} {n:3} normal {nh:3} hard {nc:4} cards')
     print(f'TOTAL {tot_n} normal + {tot_h} hard = {tot_n + tot_h} questions, {len(cards)} flashcards, {len(FIG_USED)} figures')
-    for label, group in (('test plan', [s for p in PARTS if not p.get('slides') for s in p['events']]),
-                         ('HOSA slides', [s for s, _, _ in SLIDE_DECKS])):
+    for label, group in ((('HOSA slides only', ORDER),) if SLIDES_ONLY else
+                         (('test plan', [s for p in PARTS if not p.get('slides') for s in p['events']]),
+                          ('HOSA slides', [s for s, _, _ in SLIDE_DECKS]))):
         if group:
             n, nh, nc = (sum(counts[s][k] for s in group) for k in range(3))
             print(f'  {label}: {len(group)} topics, {n} normal + {nh} hard = {n + nh} questions, {nc} flashcards')
-    unused = sorted({p.stem for p in FIGS.glob('*.html')} - {n for _, n in FIG_USED}) if FIGS.exists() else []
+    if SLIDES_ONLY:
+        print(f'  slides only: {len(TITLES) - len(ORDER)} other topics stay in notes/ but are left out (build with --full to include them)')
+    unused = sorted({p.stem for p in FIGS.glob('*.html')} - {n for _, n in FIG_USED}) if FIGS.exists() and not SLIDES_ONLY else []
     if unused:
         print('figures not placed in any notes:', ', '.join(unused))
     if problems:
@@ -454,6 +472,8 @@ def main():
         'events': {s: {'title': TITLES[s], 'part': PART_OF[s]} for s in ORDER},
         'questions': qs, 'cards': cards,
     }
+    if SLIDES_ONLY:
+        data['slidesOnly'] = True
     blob = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
     page = TEMPLATE.read_text(encoding='utf-8')
     page = page.replace('{{ARTICLES}}', '\n'.join(article_html(s, b, counts) for s, b in articles))

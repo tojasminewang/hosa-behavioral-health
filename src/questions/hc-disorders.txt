@@ -278,6 +278,412 @@
 - Anti-anxiety medication
 @ Lithium carbonate
 
+? According to the slides, which threads do the causes of psychological disorders draw on?
++ Genetic, biological, cognitive, developmental, and social
+- Genetic factors alone, with no role for experience
+- Social factors alone, such as poverty and stress
+- Supernatural forces and simple bad luck
+@ Causes draw on genetic, biological, cognitive, developmental, and social threads
+
+? According to the slides, what is a psychological disorder?
++ A syndrome of clinically significant disturbance in thinking, emotion regulation, or behaviour
+- Any behaviour that is unusual, even if it causes no distress or harm
+- Any strong emotion, such as grief after the loss of a loved one
+- A physical illness with a known medical cause, such as an infection
+@ Psychological disorder: syndrome of clinically significant disturbance in thinking, emotion regulation, or behaviour
+
+? What is abnormal behaviour, according to the slides?
++ Behaviour that is not typical, usual, or regular
+- Behaviour that breaks the law
+- Any behaviour a person regrets
+- Behaviour that happens during sleep
+@ Abnormal behaviour: behaviour that is not typical, usual, or regular
+
+? What is the first step toward labelling and treating a disorder?
++ Telling typical behaviour from abnormal behaviour
+- Prescribing medication to calm the symptoms
+- Starting group therapy with 6 to 12 people
+- Testing the person's IQ against a cutoff
+@ Telling typical from abnormal is the first step toward labelling and treatment
+
+? A person has both major depressive disorder and an anxiety disorder at the same time. What are these disorders called?
++ Comorbid disorders
+- Dissociative disorders
+- Neurodevelopmental disorders
+- Personality disorders
+@ Comorbid disorders: more than one disorder at once
+
+? According to the slides, what does combining perspectives on disorders lead to?
++ A richer understanding and better treatments
+- More confusing diagnoses
+- Fewer treatment options
+- Diagnosis without observing behaviour
+@ Combining perspectives shows how causes interact; richer understanding → better treatments
+
+? When are neurodevelopmental disorders diagnosed?
++ In childhood, and they are often lifelong
+- In old age, and they usually fade quickly
+- In adulthood, after a major trauma
+- At any age, and they last only weeks
+@ Neurodevelopmental disorders: diagnosed in childhood, often lifelong
+
+? A child struggles with social communication and lines up toys the same way every day, getting upset if the ritual changes. Which disorder do these signs fit?
++ Autism spectrum disorder (ASD)
+- ADHD
+- Bipolar disorder
+- Panic disorder
+@ deficits in social relatedness and communication, often with repetitive, ritualistic behaviour
+
+? What causes autism spectrum disorder, according to the slides?
++ Genetic influence plus interacting environmental factors
+- Childhood vaccines, which are its main cause
+- Cold, distant parenting, with no role for genes
+- A single head injury in early childhood
+@ ASD: genetic influence plus interacting environmental factors
+
+? A student is very inattentive, fidgety, and impulsive at school and at home. Which disorder do these signs fit?
++ ADHD
+- Autism spectrum disorder
+- Schizophrenia
+- Body dysmorphic disorder
+@ Attention deficit hyperactivity disorder (ADHD): unusual inattention, hyperactivity-impulsivity, or both
+
+? Which of these is a symptom of schizophrenia listed in the slides?
++ Restricted affect
+- Grandiosity
+- Fear of open spaces
+- An unrealistic view of physical flaws
+@ movement problems, restricted affect
+
+? A man firmly believes, against all evidence, that a TV host is sending him secret messages. What is this?
++ A delusion
+- A hallucination
+- An obsession
+- A compulsion
+@ Delusions: false, illogical beliefs
+
+? A woman hears voices when no one is there. What is this?
++ A hallucination
+- A delusion
+- A compulsion
+- An aura
+@ Hallucinations: false perceptions
+
+? What role do genes play in schizophrenia, according to the slides?
++ A strong genetic vulnerability, involving many genes
+- No role at all; it is caused by parenting
+- One single gene that always causes it
+- Genes matter only for people over age 60
+@ Strong genetic vulnerability; many genes
+
+? What kind of disorder is bipolar disorder?
++ A mood disorder
+- An anxiety disorder
+- A personality disorder
+- A dissociative disorder
+@ Bipolar disorder: mood disorder alternating mania and depression
+
+? Which of these is a symptom of major depressive disorder in the slides?
++ Loss of pleasure
+- Unrealistically elevated mood
+- Grandiosity
+- Fear of open spaces
+@ long low mood, lost pleasure, sleep and appetite changes
+
+? Which age group has the highest rate of major depressive disorder, according to the slides?
++ People aged 18 to 29
+- People over 60
+- Children under 10
+- People aged 40 to 50
+@ ages 18–29 have three times the rate of people over 60
+
+? What range do theories of depression cover, according to the slides?
++ From learning, social, and cognitive theories to biological ones
+- Biological theories alone, since depression is purely genetic
+- Learning theories alone, since depression is purely learned
+- Supernatural theories, from the 17th century to today
+@ Theories range from learning, social, and cognitive to biological
+
+? A student who fails no matter how hard they study stops trying and feels hopeless. Which concept fits?
++ Learned helplessness
+- Sensitization
+- Mania
+- Free association
+@ Learned helplessness: helplessness, possibly depression, after random or uncontrollable consequences
+
+? Which genes are named in the slides as involved in depression?
++ Serotonin genes
+- Orexin genes
+- Leptin genes
+- Melatonin genes
+@ Genes involved include serotonin genes
+
+? What are anxiety disorders?
++ Anxiety that is out of proportion to the circumstances
+- Any fear of a real danger
+- Mood disorders with mania
+- Disorders with false perceptions
+@ Anxiety disorders: anxiety out of proportion to circumstances
+
+? An intense fear of spiders would most likely be classed as which disorder?
++ Specific phobia
+- Agoraphobia
+- Social anxiety disorder
+- Panic disorder
+@ Specific phobia: fear of objects other than those in agoraphobia or social anxiety disorder
+
+? A student avoids speaking in class because they fear being judged and criticized far more than is realistic. Which disorder fits?
++ Social anxiety disorder
+- Agoraphobia
+- Specific phobia
+- Generalized anxiety disorder
+@ Social anxiety disorder: unrealistic fear of being scrutinized and criticized
+
+? What is a panic attack?
++ Intense fear with autonomic arousal
+- A false, illogical belief
+- A period of elevated mood
+- A sudden sleep attack
+@ Panic attack: intense fear with autonomic arousal
+
+? What is agoraphobia a fear of?
++ Open spaces
+- Spiders
+- Being criticized
+- Germs
+@ Agoraphobia: fear of open spaces
+
+? For more than 6 months, a woman has worried constantly about many things, not tied to any one object or situation. Which disorder fits?
++ Generalized anxiety disorder (GAD)
+- Specific phobia
+- Panic disorder
+- PTSD
+@ Generalized anxiety disorder (GAD): excessive anxiety and worry for 6 months
+
+? Which two features make up obsessive-compulsive disorder?
++ Intrusive obsessions and compulsions
+- Mania and depression
+- Delusions and hallucinations
+- Grandiosity and lack of empathy
+@ Obsessive-compulsive disorder (OCD): intrusive obsessions and compulsions
+
+? A man washes his hands in the same ritual dozens of times a day to calm his anxiety. What is the handwashing?
++ A compulsion
+- An obsession
+- A delusion
+- A panic attack
+@ Compulsion: repetitive, ritualistic behaviour tied to high anxiety
+
+? A teen spends hours checking a tiny mark on their face that others barely notice, convinced it is a serious flaw. Which disorder fits?
++ Body dysmorphic disorder
+- Somatic symptom disorder
+- Social anxiety disorder
+- Narcissistic personality disorder
+@ Body dysmorphic disorder: unrealistic perception of physical flaws
+
+? Which of these is a PTSD symptom listed in the slides?
++ Flashbacks
+- Grandiosity
+- Unrealistically elevated mood
+- An unrealistic view of physical flaws
+@ reliving via intrusive thoughts, flashbacks, dreams
+
+? What do dissociative disorders disrupt?
++ Identity, memory, or consciousness
+- Movement, balance, or coordination
+- Appetite, thirst, or body temperature
+- Hearing, vision, or the sense of smell
+@ Dissociative disorders: disrupted identity, memory, or consciousness
+
+? After a car crash, a woman cannot remember anything about the crash itself, though she remembers the rest of her life. Which disorder fits?
++ Dissociative amnesia
+- Anterograde amnesia
+- Depersonalization/derealization disorder
+- Somatic symptom disorder
+@ Dissociative amnesia: forgetting important information about specific events
+
+? A man feels as if he is watching himself from outside, and the world around him seems unreal. Which disorder fits?
++ Depersonalization/derealization disorder
+- Dissociative amnesia
+- Schizophrenia
+- Panic disorder
+@ Depersonalization/derealization disorder: strong feeling that the self or surroundings are unreal
+
+? Which of these is a somatic symptom listed in the slides?
++ Vague pain
+- Hallucinations
+- Mania
+- Grandiosity
+@ Somatic symptoms: vague pain, gut upset
+
+? What do personality disorders impair, according to the slides?
++ Identity, personality traits, empathy, or intimacy
+- Hearing, vision, balance, or smell
+- Memory, sleep, appetite, or growth
+- Reflexes, coordination, or movement
+@ Personality disorders: impaired identity, personality traits, empathy or intimacy
+
+? A coworker brags constantly, demands admiration, and shows no empathy. Which disorder do these traits fit?
++ Narcissistic personality disorder (NPD)
+- Borderline personality disorder (BPD)
+- Antisocial personality disorder (ASPD)
+- Social anxiety disorder
+@ Narcissistic personality disorder (NPD): grandiosity, need for admiration, lack of empathy
+
+? Which type of narcissist pairs inflated self-worth with aggressiveness and dominance?
++ A grandiose narcissist
+- A vulnerable narcissist
+- A borderline narcissist
+- A dependent narcissist
+@ Grandiose narcissist: inflated self-worth with aggressiveness and dominance
+
+? In clinical psychology, treatments are of which two kinds?
++ Psychological or biological
+- Legal or financial
+- Spiritual or social
+- Dietary or surgical only
+@ treatments are psychological or biological
+
+? What does EBP stand for?
++ Evidence-based practice
+- Emotion-based psychology
+- Early behavioural planning
+- Expressed behaviour pattern
+@ Evidence-based practice (EBP)
+
+? What is a psychotherapist?
++ A licensed professional who provides psychotherapy
+- A medical doctor who prescribes medication
+- A person with no training who gives advice
+- A surgeon who operates on the brain
+@ Psychotherapist — Licensed professional who provides psychotherapy
+
+? Which degrees do psychologists hold, according to the slides?
++ A PhD or PsyD in psychology
+- An MD in psychiatry
+- Only a bachelor's degree
+- No degree is required
+@ Psychologist — Advanced degree in psychology (PhD or PsyD)
+
+? What do counselors specialize in?
++ Adjustment problems
+- Prescribing medication
+- Brain surgery
+- Severe psychotic disorders
+@ specializes in adjustment problems
+
+? What is brief therapy?
++ Short-term psychotherapy
+- Therapy for a group of 6 to 12 people
+- Brain surgery
+- Therapy lasting several years
+@ Brief therapy — Short-term psychotherapy
+
+? How do family members take part in family therapy?
++ Alone and together
+- Only together
+- Only alone
+- Only by phone
+@ Family therapy — Family members take part alone and together
+
+? Couples therapy is family therapy focused on what?
++ Intimate relationships
+- Children's school problems
+- Workplace conflict
+- Medication
+@ Couples therapy — Family therapy focused on intimate relationships
+
+? What is insight therapy?
++ Improving symptoms by building understanding of one's situation
+- Treating symptoms with medication
+- Using electrodes to stimulate the brain
+- Rewarding desired behaviour with tokens
+@ Insight therapy: improving symptoms by building understanding of one's situation
+
+? A patient lies back and says whatever pops into their head, without holding anything back. Which technique is this?
++ Free association
+- Transference
+- Cognitive restructuring
+- Systematic desensitization
+@ Free association: saying whatever comes to mind without censoring
+
+? What kind of therapy is Carl Rogers's person-centered therapy?
++ Humanistic
+- Psychoanalytic
+- Biological
+- Behavioural
+@ Person-centered therapy: Carl Rogers's humanistic therapy
+
+? What does behaviour therapy apply to symptoms and adjustment problems?
++ Classical and operant conditioning
+- Free association and transference
+- Medication and surgery
+- Hypnosis and meditation
+@ Behaviour therapy: classical and operant conditioning applied to symptoms and adjustment problems
+
+? What does cognitive therapy try to change?
++ How people think about situations
+- The structure of the brain
+- A person's genes
+- The people around the patient
+@ Cognitive therapy: changing how people think about situations
+
+? A therapist helps a client replace "I'm a total failure" with "I made one mistake." What is this?
++ Cognitive restructuring
+- Free association
+- Transference
+- Resistance
+@ Cognitive restructuring: replacing irrational beliefs with rational ones
+
+? How does the biopsychosocial approach treat disorders?
++ By treating biological, personal, and social roots together
+- By using medication alone for every disorder
+- By using talk therapy alone, never medication
+- By treating the social roots and ignoring biology
+@ Biopsychosocial approach: treating biological, personal, and social roots together
+
+? What is psychosurgery?
++ Brain surgery to improve symptoms
+- Talk therapy in a group
+- Medication for depression
+- A form of hypnosis
+@ Psychosurgery: brain surgery to improve symptoms
+
+? What kind of therapy is neurofeedback?
++ Biofeedback that teaches patients to keep brain-activity measures within a range
+- Surgery that implants electrodes deep in the brain
+- Medication that boosts dopamine and norepinephrine
+- Talk therapy in which patients say whatever comes to mind
+@ Neurofeedback: biofeedback teaching patients to keep brain-activity measures in a range
+
+? Which type of medication is listed for ADHD?
++ Stimulants
+- Lithium carbonate
+- Antipsychotics
+- No medication works
+@ ADHD — Behaviour therapy — Stimulants
+
+? Which drugs are listed as a biological treatment for schizophrenia?
++ Antipsychotic drugs
+- Stimulants
+- Lithium carbonate
+- No drugs work
+@ Antipsychotic drugs
+
+? Which of these is listed as a treatment for major depressive disorder?
++ Exercise
+- Lithium carbonate
+- Stimulants
+- Antipsychotics for self-injury
+@ Major depressive disorder — CBT — Antidepressants, ECT, exercise
+
+? Which psychological treatment is listed for anxiety disorders, OCD, body dysmorphic disorder, and PTSD?
++ CBT
+- Psychoanalysis
+- Applied behaviour analysis
+- DBT
+@ Anxiety disorders, OCD, body dysmorphic disorder, PTSD — CBT
+
 ## hard
 
 ? What two problems do the slides name with a purely statistical approach to defining disorders?
@@ -348,7 +754,7 @@
 - About the same
 - About half as high
 - About ten times higher
-@ 5 times more common in lower than higher socioeconomic groups (poverty stress may trigger it)
+@ ages 18–29 have three times the rate of people over 60
 
 ? According to one cognitive view, depression comes from negative thoughts about which three things?
 + The self, the world, and the future
@@ -552,3 +958,199 @@
 - Lithium carbonate
 - Stimulant medication
 @ No effective biological treatments
+
+? Which disorder do the slides say is defined using statistics?
++ Intellectual disability
+- Schizophrenia
+- Bipolar disorder
+- PTSD
+@ Intellectual disability uses statistics
+
+? Which movement problem can occur in schizophrenia, according to the slides?
++ Grossly disorganized or abnormal movement
+- Rhythmic leg movements during sleep
+- Muscle paralysis during REM sleep
+- Contagious yawning
+@ grossly disorganized or abnormal movement
+
+? According to the slides, why might schizophrenia be more common in lower socioeconomic groups?
++ The stress of poverty may trigger it
+- Wealth protects the genes
+- It is diagnosed only in poor countries
+- Diet has no effect
+@ (poverty stress may trigger it)
+
+? Besides extreme stress and genes, what else matters for schizophrenia, according to the slides?
++ The prenatal environment
+- The season of the year
+- Vaccines
+- Sleeping position
+@ prenatal environment matters
+
+? According to the slides, what may interact with genes in bipolar disorder?
++ Diet
+- Vaccines
+- Sleeping on the stomach
+- Eye colour
+@ diet may interact
+
+? Which is NOT a symptom of major depressive disorder in the slides?
++ Unrealistically elevated mood
+- Loss of pleasure
+- Changes in sleep and appetite
+- Hopelessness
+@ long low mood, lost pleasure, sleep and appetite changes, poor concentration, hopelessness
+
+? After losing a job and drifting from friends, a person gets fewer rewards from daily life and becomes depressed. Which view of depression fits?
++ The learning view
+- The cognitive view
+- The biological view
+- The psychoanalytic view
+@ Learning view: less positive reinforcement or more negative outcomes
+
+? According to the slides, what does depression involve besides biology?
++ Biology interacting with thinking patterns and life events
+- Nothing else; depression comes from genes alone
+- The weather and the changing seasons, and little else
+- Past head injuries, with no role for thinking
+@ biology interacts with thinking patterns and life events
+
+? According to the slides, what may OCD sometimes follow?
++ A head injury
+- A vaccine
+- Jet lag
+- Too much sleep
+@ may follow head injury
+
+? What does culture shape in OCD, according to the slides?
++ How often it occurs and what it is about
+- Which genes cause it and how strong they are
+- Whether it follows a head injury or not
+- Which medication works best to treat it
+@ culture shapes frequency and content
+
+? Which of these is NOT a PTSD symptom in the slides?
++ Mania
+- Hypervigilance
+- Emotional numbing
+- Avoiding reminders
+@ PTSD symptoms: hypervigilance, avoiding reminders, emotional numbing
+
+? Which learning factor plays a part in PTSD, according to the slides?
++ Conditioned responses to trauma cues
+- Latent learning of maze routes
+- Token economies
+- Higher-order conditioning of hunger
+@ conditioned responses to trauma cues
+
+? Which feature goes along with somatic symptom disorder?
++ Excessive worry, often with high anxiety
+- Grandiosity and lack of empathy
+- Hallucinations and delusions
+- Mania alternating with depression
+@ with excessive worry and often high anxiety
+
+? Which common term is close in meaning to antisocial personality disorder?
++ "Psychopath"
+- "Narcissist"
+- "Perfectionist"
+- "Introvert"
+@ close to the term "psychopath"
+
+? According to research in the slides, what mainly causes antisocial personality disorder?
++ Mainly genes
+- Mainly vaccines
+- Mainly diet
+- Mainly sleep loss
+@ mainly genetic per research
+
+? What causes borderline personality disorder, according to the slides?
++ Trauma interacting with a genetic tendency
+- Vaccines
+- A head injury alone
+- Too much praise in childhood
+@ trauma interacting with genetic tendency
+
+? Where did counseling originate, according to the slides?
++ In a humanistic, strength-focused approach
+- In Freud's psychoanalysis
+- In brain surgery
+- In medication research
+@ Counseling: humanistic, strength-focused origin
+
+? Which degrees can counselors hold, according to the slides?
++ A PhD, PsyD, EdD, or master's degree
+- Only an MD
+- Only a high school diploma
+- Only a PhD
+@ Counselor — PhD, PsyD, EdD, or master's degree
+
+? Which challenge to therapy do the slides describe?
++ Large organizations such as insurers increasingly manage treatment
+- There are too few trained therapists to treat anyone
+- Therapy has been made illegal in most countries
+- Medication has completely replaced talk therapy
+@ large organizations such as insurers, not small private practices, increasingly manage treatment
+
+? According to the slides, who uses psychoanalysis?
++ Followers of psychodynamic theories
+- Behaviourists
+- Neurosurgeons
+- Humanistic counselors only
+@ used by followers of psychodynamic theories
+
+? What happens during electroconvulsive therapy (ECT)?
++ Electrodes on the head induce a generalized seizure
+- Electrodes are surgically implanted deep in the brain
+- The patient learns to control brain waves
+- A small part of the brain is removed
+@ electrodes on the head induce a generalized seizure
+
+? What is given to the patient before ECT?
++ Anesthesia and a muscle relaxant
+- A stimulant and caffeine
+- Lithium carbonate
+- Nothing at all
+@ anesthesia and a muscle relaxant
+
+? Which medicines are listed in the slides for self-injury in autism spectrum disorder?
++ Antipsychotics
+- Stimulants
+- Lithium carbonate
+- Antidepressants
+@ Antipsychotics for self-injury
+
+? Which psychological treatment is listed for ADHD?
++ Behaviour therapy
+- Psychoanalysis
+- DBT
+- Supportive CBT
+@ ADHD — Behaviour therapy
+
+? Which psychological treatments are listed for schizophrenia?
++ Psychosocial rehabilitation and evaluating expressed emotion
+- Applied behaviour analysis and a token economy
+- Dialectical behaviour therapy and learning models
+- Free association and transference in psychoanalysis
+@ Schizophrenia — Psychosocial rehabilitation; evaluating expressed emotion
+
+? Which psychological treatment is listed for bipolar disorder?
++ Supportive CBT
+- Applied behaviour analysis
+- Psychoanalysis
+- Learning models
+@ Bipolar disorder — Supportive CBT
+
+? Which treatment is listed for narcissistic personality disorder?
++ CBT
+- DBT
+- Lithium carbonate
+- Applied behaviour analysis
+@ CBT (NPD)
+
+? Which treatment approach is listed for antisocial personality disorder?
++ Learning models
+- DBT
+- Lithium carbonate
+- ECT
+@ Learning models (ASPD)

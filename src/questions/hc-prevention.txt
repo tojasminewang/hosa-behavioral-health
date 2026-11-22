@@ -1,9 +1,9 @@
-? According to the HOSA Canada slides, how much of the written test does this topic make up?
-+ 25%
-- 5%
-- 15%
-- 50%
-@ This topic is 25% of the written test
+? The campaign Talk. They Hear You. aims to cut drinking and substance use among young people under what age?
++ 21
+- 12
+- 16
+- 25
+@ Campaign to cut underage drinking and substance use (under 21)
 
 ? Which campaign aims to reduce underage drinking and substance use and gives parents resources for talking with children?
 + Talk. They Hear You.
@@ -171,6 +171,209 @@
 - Purpose
 - Home
 - Health
+@ Community — Relationships giving support, friendship, love, and hope
+
+? What does ICCPUD stand for?
++ Interagency Coordinating Committee on the Prevention of Underage Drinking
+- International Council for the Care of People with Use Disorders
+- Interagency Committee on Children's Psychological and Untreated Disorders
+- Institute for Community Care and Prevention of Underage Drug use
+@ Interagency Coordinating Committee on the Prevention of Underage Drinking (ICCPUD)
+
+? Which committee runs the STOP Underage Drinking website?
++ ICCPUD
+- The Federal Commission on School Safety
+- NCTSI
+- National Prevention Week
+@ STOP Underage Drinking — ICCPUD website
+
+? What does National Prevention Week raise awareness of?
++ Substance use and mental disorders
+- School violence and safety policies
+- Heart disease and blood pressure
+- Childhood vaccines and infections
+@ awareness of substance use and mental disorders
+
+? Which national initiative gives resources and stipends to community groups, colleges, and state organizations?
++ Communities Talk to Prevent Alcohol and Other Drug Misuse
+- Talk. They Hear You.
+- National Children's Mental Health Awareness Day
+- The Federal Commission on School Safety
+@ Communities Talk to Prevent Alcohol and Other Drug Misuse — National initiative giving resources and stipends
+
+? In which month is National Children's Mental Health Awareness Day?
++ May
+- January
+- September
+- December
+@ National Children's Mental Health Awareness Day — In May
+
+? Which treatment, for some severe depression that has not responded to other treatment, uses electrodes on the head to induce a generalized seizure?
++ Electroconvulsive therapy (ECT)
+- Deep brain stimulation
+- Neurofeedback
+- Psychosurgery
+@ Electroconvulsive therapy (ECT): some severe depression unresponsive to other treatment
+
+? Brain stimulation with implanted electrodes is used for which disorders?
++ Some anxiety and mood disorders
+- ADHD and seizures
+- Autism spectrum disorder only
+- Schizophrenia only
+@ Brain stimulation: implanted electrodes for some anxiety and mood disorders
+
+? Which conditions is neurofeedback used for?
++ ADHD and seizures
+- Bipolar disorder and schizophrenia
+- PTSD and OCD
+- Autism and body dysmorphic disorder
+@ Neurofeedback: biofeedback for ADHD and seizures
+
+? How is ADHD treated, according to the slides?
++ With medication alone or with behaviour therapy
+- With psychoanalysis and free association
+- With brain surgery on the frontal lobes
+- With lithium carbonate and regular blood tests
+@ ADHD: medication alone or with behaviour therapy
+
+? Which of these is NOT listed in the slides as an ADHD stimulant?
++ Lithium carbonate
+- Methylphenidate (Ritalin)
+- Dextroamphetamine
+- Amphetamine salts (Adderall)
+@ top drugs are stimulants: methylphenidate (Ritalin), dextroamphetamine, amphetamine salts (Adderall)
+
+? Which symptoms of schizophrenia improve more with antipsychotic drugs?
++ Hallucinations and delusions
+- Social withdrawal
+- Emotional disturbance
+- All symptoms improve equally
+@ hallucinations and delusions improve more than negative symptoms
+
+? After years on phenothiazines, a patient develops tremors and involuntary movements of the face and tongue. What is this?
++ Tardive dyskinesia
+- A tonic-clonic seizure
+- Cataplexy
+- Restless legs syndrome
+@ Tardive dyskinesia: tremors and involuntary movements, especially face and tongue, from phenothiazines
+
+? For people with schizophrenia who take medication, does psychological treatment still help?
++ Yes, it still helps
+- No, it makes symptoms worse
+- No, medication replaces it completely
+- Only if they stop the medication
+@ Most people with schizophrenia take medication, but psychological treatment still helps
+
+? What kind of substance is lithium carbonate?
++ A simple salt
+- A stimulant
+- An antipsychotic
+- A hormone
+@ most prescribed is lithium carbonate, a simple salt
+
+? According to the slides, which treatments are used for major depressive disorder?
++ Medical, cognitive, and behavioural treatments, aerobic exercise, and combinations
+- Medication alone, since nothing else has been shown to help
+- Lithium carbonate and antipsychotics, but never exercise
+- Cognitive therapy alone, because medication makes it worse
+@ varied treatments: medical, cognitive, behavioural, aerobic exercise, combinations
+
+? What does SSRI stand for?
++ Selective serotonin reuptake inhibitor
+- Serotonin-stimulating receptor injection
+- Standard sleep rhythm intervention
+- Selective synapse response increaser
+@ Selective serotonin reuptake inhibitors (SSRIs)
+
+? Which of these is an anxiety disorder named in the slides?
++ Panic disorder
+- Bipolar disorder
+- Schizophrenia
+- ADHD
+@ Anxiety disorders (GAD, phobias, panic disorder)
+
+? Why do drugs for anxiety aim for a "tranquilizing" effect?
++ Anxiety is heightened brain activity caused by expecting danger
+- Anxiety comes from too little brain activity
+- Anxiety is caused by low dopamine only
+- Anxiety is a sleep disorder
+@ Anxiety = heightened brain activity from expected danger, so drugs aim for a "tranquilizing" effect
+
+? What happens to brain activity when GABA is boosted?
++ It slows
+- It speeds up
+- It stops completely
+- It does not change
+@ so boosting it slows brain activity
+
+? Which treatments are used for OCD, according to the slides?
++ Antidepressants, CBT, or both
+- Only psychosurgery
+- Only stimulants
+- Only lithium carbonate
+@ OCD: antidepressants, CBT, or both
+
+? What do meta-analyses show about CBT for OCD?
++ It is highly effective
+- It does not work
+- It makes OCD worse
+- It works only with surgery
+@ meta-analyses show it is highly effective
+
+? Which of these is given as an example of a somatic symptom disorder?
++ Pain without a physical basis
+- A fear of open spaces
+- Hearing voices
+- Alternating mania and depression
+@ Somatic symptom disorders (e.g., pain without physical basis)
+
+? What do the slides say about medication for antisocial behaviour?
++ No medication targets it
+- Lithium cures it
+- Stimulants cure it
+- SSRIs cure it
+@ no medication targets antisocial behaviour
+
+? How do people with antisocial personality disorder tend to see their need for treatment?
++ They see themselves as "okay," not needing treatment
+- They usually ask for treatment
+- They see themselves as very ill
+- They prefer surgery
+@ People with ASPD tend to see themselves as "okay", not needing treatment
+
+? Is there an approved medication for borderline personality disorder?
++ No, though several kinds of medication are often prescribed
+- Yes, lithium carbonate is approved for it
+- Yes, stimulants are approved for it
+- Yes, phenothiazines are approved for it
+@ BPD: no approved medication
+
+? Which dimension of recovery means overcoming or managing disease through informed, healthy choices?
++ Health
+- Home
+- Purpose
+- Community
+@ Health — Overcoming or managing disease through informed, healthy choices
+
+? A person in recovery moves into a safe, stable apartment. Which dimension of recovery does this support?
++ Home
+- Health
+- Purpose
+- Community
+@ Home — A stable, safe place to live
+
+? A person in recovery starts volunteering at an animal shelter. Which dimension of recovery does this support?
++ Purpose
+- Home
+- Health
+- Community
+@ Purpose — Meaningful daily activities
+
+? A person in recovery joins a support group and rebuilds friendships. Which dimension of recovery does this support?
++ Community
+- Home
+- Health
+- Purpose
 @ Community — Relationships giving support, friendship, love, and hope
 
 ## hard
@@ -349,3 +552,136 @@
 - Purpose
 - Community
 @ Health — Overcoming or managing disease through informed, healthy choices (e.g., abstaining from alcohol, illicit drugs, non-prescribed medication)
+
+? ICCPUD coordinates federal agencies on which plan?
++ A Comprehensive Plan for Preventing and Reducing Underage Drinking
+- A National Plan for Preventing Violence in Schools
+- A Federal Strategy for Recovery and Community Support
+- A National Plan for Children's Traumatic Stress
+@ A Comprehensive Plan for Preventing and Reducing Underage Drinking
+
+? Which themes does National Children's Mental Health Awareness Day highlight?
++ Youth development, recovery, and resilience
+- Underage drinking and funding
+- School violence and safety policy
+- Medication and surgery
+@ youth development, recovery, resilience
+
+? Besides raising awareness of trauma's impact, what does the National Child Traumatic Stress Initiative promote?
++ Evidence-based interventions to reduce that impact
+- Stipends for college groups
+- Policies to prevent school violence
+- A website on underage drinking
+@ evidence-based interventions to reduce it
+
+? Which kinds of behaviours does applied behaviour analysis target?
++ Observable, socially important behaviours such as language
+- Hidden thoughts and dreams found through free association
+- Automatic reflexes, such as the knee jerk
+- Eating behaviours, such as bingeing and purging
+@ operant conditioning on observable, socially important behaviours like language
+
+? According to the slides, what should the gains from applied behaviour analysis do?
++ Last and generalize
+- Disappear after treatment ends
+- Happen only in the clinic
+- Replace all medication
+@ gains should last and generalize
+
+? Adderall is a brand name for which drug?
++ Amphetamine salts
+- Methylphenidate
+- Dextroamphetamine
+- Lithium carbonate
+@ amphetamine salts (Adderall)
+
+? Phenothiazines act as what kind of drug at dopamine receptors?
++ Dopamine antagonists
+- Dopamine boosters
+- Serotonin reuptake inhibitors
+- GABA boosters
+@ antipsychotics that block dopamine receptors (dopamine antagonists)
+
+? A patient taking lithium develops nausea, vomiting, and tremors. What is most likely happening?
++ Their lithium level has become toxic
+- The lithium is working normally
+- They have tardive dyskinesia
+- They are going through caffeine withdrawal
+@ Toxic lithium → nausea, vomiting, tremors, seizures, even coma
+
+? Which psychotherapy do the slides single out as relieving depression without adverse side effects?
++ CBT
+- Psychoanalysis
+- Applied behaviour analysis
+- Free association
+@ Psychotherapies (notably CBT) relieve depression without adverse side effects
+
+? How often are GABA-boosting drugs used for anxiety, according to the slides?
++ Occasionally
+- For every patient
+- Never
+- Only for children
+@ GABA drugs are used occasionally
+
+? In CBT for body dysmorphic disorder, what does cognitive restructuring aim for?
++ Realistic thinking about perceived flaws
+- Seeking cosmetic surgery sooner
+- Avoiding mirrors forever
+- Ignoring all appearance concerns
+@ cognitive restructuring for realistic thinking about perceived flaws
+
+? What do the slides say about diagnosing and treating dissociative identity disorder?
++ Both are controversial
+- Both are simple and agreed on
+- It is never diagnosed
+- It is treated only with medication
+@ Dissociative identity disorder: diagnosis and treatment are controversial
+
+? Therapists who accept dissociative identity disorder as valid often link it to what?
++ Serious trauma, especially childhood sexual abuse
+- Heavy caffeine use during the teenage years
+- A gene variant active in the basal ganglia
+- Poor sleep caused by jet lag and shift work
+@ often following serious trauma (especially childhood sexual abuse)
+
+? What is the aim of working through traumatic memories in dissociative identity disorder?
++ To integrate the personalities
+- To create new personalities
+- To forget the trauma completely
+- To induce hypnosis
+@ work through traumatic memories to integrate personalities
+
+? How suggestible are people diagnosed with dissociative identity disorder, according to the slides?
++ Far more suggestible than average
+- Less suggestible than average
+- About as suggestible as average
+- Not suggestible at all
+@ people with this diagnosis are far more suggestible than average
+
+? Why do the slides call antisocial personality disorder a high treatment priority?
++ Because of the harm it causes
+- Because it is easy to treat
+- Because medication cures it
+- Because it affects most people
+@ ASPD: high priority given the harm caused
+
+? Which of these is NOT listed as often prescribed for borderline personality disorder?
++ Stimulants
+- Antidepressants
+- Mood stabilizers such as lithium
+- Anticonvulsants
+@ antidepressants, antipsychotics, mood stabilizers (e.g., lithium), anti-anxiety drugs, and anticonvulsants are often prescribed
+
+? In CBT for borderline personality disorder, which risk gets special attention?
++ Suicide risk
+- Sleep apnea
+- Tardive dyskinesia
+- Lithium toxicity
+@ BPD psychotherapy is often CBT: managing stress, emotions, relationships, and especially suicide risk
+
+? According to the slides, what do the meaningful daily activities of the purpose dimension provide?
++ Independence, income, and a way to take part in society
+- A stable, safe place to live and sleep each night
+- Relationships that give friendship, love, and hope
+- Freedom from disease through informed, healthy choices
+@ Meaningful daily activities for independence, income, and taking part in society

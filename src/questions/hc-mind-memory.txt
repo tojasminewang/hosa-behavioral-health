@@ -166,6 +166,321 @@
 - Chunks
 @ Mnemonics: aids linking new information to well-known information
 
+? How do the slides define memory?
++ The ability to keep knowledge
+- The ability to sense stimuli
+- The ability to move skilfully
+- The ability to sleep deeply
+@ Memory: the ability to keep knowledge
+
+? In the information processing continuum, which way does processing flow?
++ Both bottom-up and top-down
+- Only bottom-up
+- Only top-down
+- In neither direction
+@ Information processing continuum: processing flows bottom-up and top-down
+
+? Taking in information and moving it into memory is called what?
++ Encoding
+- Storage
+- Retrieval
+- Decay
+@ Encoding: taking in information and moving it into memory
+
+? Keeping information in the brain is called what?
++ Storage
+- Encoding
+- Retrieval
+- Chunking
+@ Storage: keeping information in the brain
+
+? During a test, you pull an answer out of memory. Which memory step is this?
++ Retrieval
+- Encoding
+- Storage
+- Rehearsal
+@ Retrieval: getting stored information back
+
+? According to the slides, what is memory's adaptive advantage?
++ Using the past to meet challenges quickly
+- Forgetting everything unpleasant
+- Sleeping more deeply
+- Sensing more stimuli
+@ Adaptive advantage: using the past to meet challenges quickly
+
+? According to the Atkinson-Shiffrin model, how does information move through memory?
++ It passes through a series of stages
+- It goes straight into long-term memory
+- It stays only in sensory memory
+- It moves randomly between stages
+@ Atkinson-Shiffrin model: information passes through stages
+
+? Which memory stage holds a little information for a limited time?
++ Short-term memory (STM)
+- Sensory memory
+- Long-term memory
+- Procedural memory
+@ Short-term memory (STM): a little information for a limited time
+
+? You repeat a phone number to yourself until you dial it. What is this?
++ Rehearsal
+- Chunking
+- Priming
+- Decay
+@ Rehearsal: repeating information
+
+? What is chunking?
++ Grouping similar or meaningful pieces of information
+- Repeating information over and over
+- Forgetting rarely used information
+- Mixing topics within a study session
+@ Chunking: grouping similar or meaningful pieces
+
+? Where are permanent memories kept, according to the slides?
++ In long-term memory
+- In sensory memory
+- In short-term memory
+- In the phonological loop
+@ Long-term memory: home of permanent memories
+
+? Working memory is an extension of which memory?
++ Short-term memory
+- Sensory memory
+- Procedural memory
+- Semantic memory
+@ Working memory: extension of STM
+
+? You silently repeat a list of words in your head. Which part of working memory are you using?
++ The phonological loop
+- The visuospatial sketch pad
+- The episodic buffer
+- The central executive
+@ Phonological loop — Verbal and auditory (sound) information
+
+? You picture the route from your home to school. Which part of working memory are you using?
++ The visuospatial sketch pad
+- The phonological loop
+- The episodic buffer
+- Sensory memory
+@ Visuospatial sketch pad — Visual and spatial information
+
+? After hearing a list of 20 words, you remember the first few best. Which effect is this?
++ The primacy effect
+- The recency effect
+- Priming
+- Chunking
+@ Primacy effect: better recall of the first list items
+
+? After hearing a list of 20 words, you remember the last few best. Which effect is this?
++ The recency effect
+- The primacy effect
+- Decay
+- Proactive interference
+@ Recency effect: better recall of the last list items
+
+? What is another name for declarative memory?
++ Explicit memory
+- Implicit memory
+- Procedural memory
+- Sensory memory
+@ Declarative (explicit) memory
+
+? Which three kinds of memory are declarative?
++ Semantic, episodic, and autobiographical
+- Procedural, priming, and classical conditioning
+- Sensory, short-term, and working
+- Verbatim, gist, and flashbulb
+@ semantic, episodic, autobiographical
+
+? What does semantic memory hold?
++ General knowledge
+- Personal experiences
+- Skilled movements
+- Sensory information for a moment
+@ Semantic memory: general knowledge
+
+? What does episodic memory hold?
++ Personal experiences
+- General knowledge
+- Skilled movements
+- Conditioned responses
+@ Episodic memory: personal experiences
+
+? What is another name for nondeclarative memory?
++ Implicit memory
+- Explicit memory
+- Semantic memory
+- Episodic memory
+@ Nondeclarative (implicit) memory
+
+? You ride a bike without thinking about each step. Which kind of memory are you using?
++ Procedural memory
+- Semantic memory
+- Episodic memory
+- Sensory memory
+@ Procedural memory: implicit memory for skilled movements
+
+? What is priming?
++ A changed response to a stimulus after exposure to an earlier one
+- Repeating information to keep it in mind
+- Grouping pieces of information
+- Rebuilding a memory from stored pieces
+@ Priming: a changed response to a stimulus after exposure to an earlier one
+
+? Why couldn't patient H.M. form new declarative memories?
++ Surgery damaged his hippocampus
+- He had a stroke in his cerebellum
+- He never slept
+- His basal ganglia were removed
+@ Patient H.M.: surgery damaged his hippocampus
+
+? After a head injury, a patient remembers their childhood but cannot remember anyone they have met since. What is this?
++ Anterograde amnesia
+- Motivated forgetting
+- Proactive interference
+- Decay
+@ Anterograde amnesia: inability to form new memories
+
+? You expect a restaurant to have menus, tables, and servers. What is this set of expectations called?
++ A schema
+- A retrieval cue
+- A mnemonic
+- A flashbulb memory
+@ Schema: expectations about objects and situations
+
+? Who found that we search short-term memory one item at a time?
++ Sternberg
+- Atkinson and Shiffrin
+- Pavlov
+- Bandura
+@ Sternberg: we search STM one item at a time
+
+? The smell of sunscreen brings back memories of a beach trip. What is the smell acting as?
++ A retrieval cue
+- A schema
+- Interference
+- Rehearsal
+@ Cue: stimulus that aids retrieval
+
+? Which is usually harder, recall or recognition?
++ Recall, because it gives fewer cues
+- Recognition, because it gives fewer cues
+- They are always equally hard
+- Recognition, because it needs more rehearsal
+@ Recall gives fewer cues than recognition, so recall is harder
+
+? You know an actor's name starts with "B" but can't quite bring it up. What is this called?
++ The tip-of-the-tongue phenomenon
+- A flashbulb memory
+- Anterograde amnesia
+- Priming
+@ Retrieval isn't all-or-none (tip-of-the-tongue phenomenon)
+
+? What is reconstruction in memory?
++ Rebuilding a memory from stored pieces
+- Making a perfect copy of an event
+- Repeating information
+- Forgetting negative memories
+@ Reconstruction: rebuilding a memory from stored pieces
+
+? In fuzzy trace theory, what does a "gist" memory hold?
++ The general idea
+- An exact, word-for-word record
+- A skilled movement
+- Nothing at all
+@ verbatim (exact) to gist (general idea)
+
+? You remember exactly where you were when you heard shocking news. What kind of memory is this?
++ A flashbulb memory
+- A procedural memory
+- A semantic memory
+- A primed memory
+@ Flashbulb memory: vivid, detailed memory of an emotional event
+
+? What is forgetting, according to the slides?
++ A reduced ability to remember something once stored
+- Never having encoded the information
+- Remembering only the first items on a list
+- Grouping information into chunks
+@ Forgetting: reduced ability to remember something once stored
+
+? You can't remember a formula you haven't used since middle school. Which explanation fits best?
++ Decay
+- Motivated forgetting
+- Priming
+- Anterograde amnesia
+@ Decay: rarely used information becomes harder to retrieve over time
+
+? What is interference?
++ Newer and older information competing
+- Information fading from lack of use
+- Failing to retrieve negative memories
+- Rebuilding a memory from pieces
+@ Interference: newer and older information compete
+
+? Which kind of interference happens when earlier learning blocks the target memory?
++ Proactive interference
+- Retroactive interference
+- Motivated forgetting
+- Decay
+@ Proactive interference: earlier learning blocks the target memory
+
+? Which kind of interference happens when later learning blocks the target memory?
++ Retroactive interference
+- Proactive interference
+- Latent inhibition
+- Decay
+@ Retroactive interference: later learning blocks the target memory
+
+? What is cramming called in the slides?
++ Massed practice
+- Distributed practice
+- Interleaving
+- Reciting
+@ instead of massed practice (cramming)
+
+? What is the "testing" study tip?
++ Practising retrieval with tests
+- Mixing topics within one session
+- Putting material in your own words
+- Spreading study over time
+@ Testing: practising retrieval with tests
+
+? In one study session, you switch between math, chemistry, and history problems. Which study tip is this?
++ Interleaving
+- Distributed practice
+- Massed practice
+- Reciting
+@ Interleaving: mixing topics and skills within a session
+
+? Besides its effect on the brain, how does exercise help, according to the slides?
++ It helps health and mood
+- It replaces the need for sleep
+- It stops all forgetting
+- It makes cramming work better
+@ helps health and mood
+
+? Which study tip helps form memories and fights interference?
++ Sleep
+- Cramming
+- Massed practice
+- Skipping breakfast
+@ Sleep: helps form memories and fights interference
+
+? What is reciting?
++ Putting material in your own words
+- Reading the same page over and over
+- Mixing topics in one session
+- Testing yourself with flashcards
+@ Reciting: putting material in your own words
+
+? You remember a new classmate named Rose by picturing a rose. What kind of memory aid is this?
++ A mnemonic
+- A schema
+- Interference
+- Priming
+@ Mnemonics: aids linking new information to well-known information
+
 ## hard
 
 ? What does levels of processing theory say predicts how easily information can be retrieved?
@@ -335,3 +650,87 @@
 - It only helps procedural memory
 - It replaces the need for rehearsal
 @ helps form memories and fights interference
+
+? How does short-term memory differ from sensory memory?
++ STM holds a little for a limited time; sensory memory holds a lot very briefly
+- STM holds a lot very briefly; sensory memory holds a little for a limited time
+- STM holds permanent memories; sensory memory holds skilled movements
+- They are two names for the same stage of memory, with no difference
+@ Sensory memory: lots of incoming information for a very short time
+
+? While driving and following spoken directions, which part of working memory decides where your attention goes?
++ The central executive
+- The phonological loop
+- The visuospatial sketch pad
+- The episodic buffer
+@ Central executive — Directs attention to tasks, managing the other parts
+
+? Which of these is NOT a form of nondeclarative memory?
++ Semantic memory
+- Classical conditioning
+- Procedural learning
+- Priming
+@ unconscious, effortless, hard to put into words: classical conditioning, procedural learning, priming
+
+? How do nondeclarative memories differ from declarative ones?
++ They are unconscious, effortless, and hard to put into words
+- They are conscious and easy to put into words
+- They are always about yourself
+- They last only a few seconds
+@ Nondeclarative (implicit) memory: unconscious, effortless, hard to put into words
+
+? What kind of theory is the spreading activation model?
++ A connectionist theory
+- A drive theory
+- A levels of processing theory
+- A fuzzy trace theory
+@ Spreading activation model: connectionist theory
+
+? According to encoding specificity, what does a memory hold?
++ A unique mix of information from the time it was encoded
+- Only the most important fact
+- Only information from sensory memory
+- An exact recording of everything
+@ Encoding specificity: memories hold a unique mix of information from encoding
+
+? According to fuzzy trace theory, how do we give our limited resources to different memories?
++ By need
+- Equally to every memory
+- Only to the newest memories
+- Only to verbatim memories
+@ limited resources go to different memories by need
+
+? A person cannot remember an embarrassing moment from years ago. Which kind of forgetting might this be?
++ Motivated forgetting
+- Proactive interference
+- Decay
+- Anterograde amnesia
+@ Motivated forgetting: failing to retrieve negative memories
+
+? Two neurons are activated together again and again, and their communication grows stronger. What is this?
++ Long-term potentiation (LTP)
+- Habituation
+- Decay
+- Reuptake
+@ Long-term potentiation (LTP): stronger communication between two neurons from activating them together
+
+? Which step of memory does acetylcholine especially affect?
++ Encoding new information
+- Retrieving old information
+- Forgetting negative memories
+- Reconstructing memories
+@ especially encoding new information
+
+? The NMDA receptor is a receptor for which neurotransmitter?
++ Glutamate
+- Acetylcholine
+- Dopamine
+- Serotonin
+@ NMDA receptor: a glutamate receptor
+
+? According to the slides, what does exercise improve in mice?
++ Neurogenesis
+- Interference
+- Decay
+- Priming
+@ Exercise: improves neurogenesis in mice

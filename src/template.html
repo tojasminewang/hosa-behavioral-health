@@ -1111,6 +1111,7 @@ const PARTS = DATA.parts, EV = DATA.events, QS = DATA.questions, CARDS = DATA.ca
 const ORDER = PARTS.flatMap(p => p.events);
 const PLAN = PARTS.filter(p => !p.slides), SLIDES = PARTS.find(p => p.slides) || null;   // the test plan vs. HOSA Canada's slides
 const PLAN_ORDER = PLAN.flatMap(p => p.events);
+const SLIDES_ONLY = !!DATA.slidesOnly;   // for now: only HOSA Canada's slide decks, filling the test plan's six parts
 const partTag = n => SLIDES && n === SLIDES.n ? 'HOSA slides' : `Part ${n}`;
 const partName = p => p.slides ? p.title : 'Part ' + p.n + ' · ' + p.title;   // no template literal: the label rewrite below must not touch it
 const byId = {}, byEvent = {}, cardsByEvent = {};
@@ -1222,6 +1223,7 @@ function show(name) {
 function setHash(t) { try { history.replaceState(null, '', '#' + t); } catch (e) {} }
 const toTop = () => window.scrollTo(0, 0);
 function go(view, arg) {
+  if (view === 'slides' && !SLIDES) view = 'home';   // no separate slides page when the whole site is the slides
   if (view === 'notes') {
     const slug = EV[arg] ? arg : (curEvent || (EV[st.last] ? st.last : ORDER[0]));
     showEvent(slug); show('notes'); setHash('notes-' + slug); toTop();
@@ -1276,7 +1278,7 @@ const treeGroup = p => {
   return h('div', { class: `pc-${p.n}` }, btn, list);
 };
 $('#tree').append(...PLAN.map(treeGroup));
-if (SLIDES) $('#tree-slides').append(treeGroup(SLIDES)); else { $('#slides-label').hidden = true; $('#tree-slides').hidden = true; }
+if (SLIDES) $('#tree-slides').append(treeGroup(SLIDES)); else { $('#slides-label').hidden = true; $('#tree-slides').hidden = true; $$('[data-view="slides"]').forEach(a => { a.hidden = true; }); }
 
 /* ---------- home ---------- */
 function statCard(tone, ic, num, label) {
@@ -1312,7 +1314,7 @@ function slidesCard() {
 function renderHome() {
   const all = stats(ORDER), last = EV[st.last] ? st.last : null, days = streak();
   let tries = 0, right = 0;
-  for (const r of Object.values(st.q)) if (Array.isArray(r)) { tries += r[1] || 0; right += r[2] || 0; }
+  for (const [id, r] of Object.entries(st.q)) if (byId[id] && Array.isArray(r)) { tries += r[1] || 0; right += r[2] || 0; }
   const nFig = document.querySelectorAll('.prose .fig').length;
   const fact = h('div', { class: 'fact', 'aria-live': 'polite' }), factNav = h('div', { class: 'fact-nav' });
   const drawFact = step => {
@@ -1333,7 +1335,8 @@ function renderHome() {
     h('div', { class: 'home-head' },
       h('div', null,
         h('h1', { class: 'page-title' }, 'Behavioral Health'),
-        h('p', { class: 'page-sub' }, `HOSA ILC 2026–27. Notes, quizzes, flashcards and timed mock exams for all ${PLAN_ORDER.length} topics in the test plan${SLIDES ? ', plus HOSA Canada’s study slides' : ''}.`)),
+        h('p', { class: 'page-sub' }, SLIDES_ONLY ? `HOSA ILC 2026–27. Notes, quizzes, flashcards and timed mock exams from HOSA Canada’s ${PLAN_ORDER.length} Behavioural Health study slide decks.`
+          : `HOSA ILC 2026–27. Notes, quizzes, flashcards and timed mock exams for all ${PLAN_ORDER.length} topics in the test plan${SLIDES ? ', plus HOSA Canada’s study slides' : ''}.`)),
       h('div', { class: 'actions' },
         h('button', { class: 'btn', type: 'button', 'data-act': 'notes', 'data-arg': last || ORDER[0] }, icon('book'), last ? `Continue: ${EV[last].title}` : 'Start studying'),
         h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-mixed' }, icon('quiz'), 'Mixed quiz', h('span', { class: 'count' }, '· 20')))),
@@ -1351,7 +1354,7 @@ function renderHome() {
       h('div', { class: 'exam-btns' }, h('button', { class: 'btn primary', type: 'button', 'data-act': 'quiz-missed' }, icon('redo'), 'Redo wrong answers'))) : null,
     h('h2', { class: 'sec-title' }, 'Study tools'),
     h('div', { class: 'tools' },
-      toolCard('green', 'book', 'Study notes', `${PLAN_ORDER.length} topics` + (nFig ? ` · ${nFig} figures` : ''), { 'data-act': 'notes', 'data-arg': last || ORDER[0] }),
+      toolCard('green', 'book', 'Study notes', plural(PLAN_ORDER.length, SLIDES_ONLY ? 'slide deck' : 'topic') + (nFig ? ` · ${nFig} figures` : ''), { 'data-act': 'notes', 'data-arg': last || ORDER[0] }),
       toolCard('blue', 'quiz', 'Practice quizzes', `${QS.length.toLocaleString()} questions`, { 'data-act': 'tab', 'data-arg': 'quiz' }),
       toolCard('orange', 'clock', 'Mock exam', '50 questions, timed', { 'data-act': 'new-mock' }),
       toolCard('rose', 'cards', 'Flashcards', `${CARDS.length.toLocaleString()} cards`, { 'data-act': 'tab', 'data-arg': 'cards' })),
@@ -1360,7 +1363,8 @@ function renderHome() {
         h('h2', { class: 'factcard-title', id: 'fact-title' }, 'Flashcard of the moment'), factNav),
       fact),
     h('h2', { class: 'sec-title' }, 'Your test plan'),
-    h('p', { class: 'sec-sub' }, 'Six parts, weighted like the real test. Pick a topic to read it, quiz yourself or flip its flashcards.'),
+    h('p', { class: 'sec-sub' }, SLIDES_ONLY ? 'Six parts, weighted like the real test, each with the HOSA Canada slide decks that cover it. Pick a deck to read it, quiz yourself or flip its flashcards.'
+      : 'Six parts, weighted like the real test. Pick a topic to read it, quiz yourself or flip its flashcards.'),
     PLAN.map(p => {
       const s = stats(p.events);
       return h('section', { class: `packet pc-${p.n}`, 'aria-labelledby': `pk-${p.n}` },
@@ -1368,14 +1372,15 @@ function renderHome() {
           icon('folder', 'folder'),
           h('h2', { class: 'packet-title', id: `pk-${p.n}` }, partName(p)),
           h('span', { class: 'chip' }, `${p.weight}% of the test`),
-          h('span', { class: 'packet-meta' }, `${plural(p.events.length, 'topic')} • ${plural(s.total, 'question')}`),
+          h('span', { class: 'packet-meta' }, `${plural(p.events.length, SLIDES_ONLY ? 'slide deck' : 'topic')} • ${plural(s.total, 'question')}`),
           h('div', { class: 'packet-actions' },
             s.missed ? h('button', { class: 'btn sm', type: 'button', 'data-act': 'review-part', 'data-arg': p.n }, icon('redo'), 'Redo wrong answers', h('span', { class: 'count' }, '· ' + s.missed)) : null,
             h('button', { class: 'btn sm', type: 'button', 'data-act': 'quiz-part', 'data-arg': p.n }, 'Quiz this part'),
             h('button', { class: 'btn sm', type: 'button', 'data-act': 'cards', 'data-arg': 'part-' + p.n }, 'Flashcards'))),
         h('div', { class: 'decks' }, p.events.map(deckCard)));
     }),
-    h('p', { class: 'sources-line' }, 'Built only from the official references: the Cacioppo & Freberg textbook, SAMHSA, NAMI, the HOSA event guidelines and HOSA Canada’s study decks.'));
+    h('p', { class: 'sources-line' }, SLIDES_ONLY ? 'Paraphrased from HOSA Canada’s Behavioural Health study slides (HOSA Canada member app). HOSA Canada says the slides are for educational use only.'
+      : 'Built only from the official references: the Cacioppo & Freberg textbook, SAMHSA, NAMI, the HOSA event guidelines and HOSA Canada’s study decks.'));
 }
 
 /* ---------- exam guide: what the HOSA Behavioral Health guidelines (September 2026) say ---------- */
@@ -1449,7 +1454,7 @@ function sampleCard(s, i) {
       h('p', { class: 'verdict ' + (picked === s.answer ? 'ok' : 'no') }, icon(picked === s.answer ? 'check' : 'xc'),
         h('span', null, picked === s.answer ? 'Correct!' : `The official answer is ${'ABCD'[s.answer]}: ${s.choices[s.answer]}`)),
       s.note ? h('p', { class: 'explain' }, s.note) : null,
-      s.link ? h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(s.link[0], s.link[1]) }, 'Show in notes →') : null,
+      s.link && EV[s.link[0]] ? h('button', { class: 'linkbtn', type: 'button', onclick: () => showSource(s.link[0], s.link[1]) }, 'Show in notes →') : null,
       h('button', { class: 'linkbtn', type: 'button', onclick: () => { picked = null; draw(); } }, 'Try again')));
   draw();
   return box;
@@ -1491,7 +1496,7 @@ function renderGuide() {
     sec('Test plan',
       h('p', { class: 'g-note' }, 'How the 50 questions are split. The mock exam on this site uses the same mix.'),
       h('div', { class: 'tbl' }, h('table', null,
-        h('thead', null, h('tr', null, h('th', null, 'Part'), h('th', null, 'Weight'), h('th', null, 'Mock exam'), h('th', null, 'Topics on this site'))),
+        h('thead', null, h('tr', null, h('th', null, 'Part'), h('th', null, 'Weight'), h('th', null, 'Mock exam'), h('th', null, SLIDES_ONLY ? 'Slide decks on this site' : 'Topics on this site'))),
         h('tbody', null, PLAN.map(p => h('tr', { class: `pc-${p.n}` },
           h('td', null, h('b', null, `${p.n}. ${p.title}`)),
           h('td', null, h('span', { class: 'chip' }, p.weight + '%')),
@@ -1504,6 +1509,7 @@ function renderGuide() {
         li(h('b', null, 'Cacioppo & Freberg, '), h('i', null, 'Discovering Psychology'), ' (Cengage Learning, latest edition)'),
         li(h('b', null, 'NAMI website'), ' (nami.org)'),
         li('Also available: the HOSA webinar “SAMHSA - Behavioral Health Pathways.”')),
+      SLIDES_ONLY ? h('p', { class: 'g-note' }, 'What this site covers for now: only HOSA Canada’s Behavioural Health study slides (Modules 2–7), rewritten as short notes with their own quizzes and flashcards. The textbook, SAMHSA and NAMI notes are set aside for now.') :
       h('p', { class: 'g-note' }, 'What this site covers: textbook Chapters 1, 4–9, and 14–16 (textbook page numbers are next to each heading), SAMHSA pages for every part of the test plan, the NAMI website’s condition, treatment, statistics, crisis and program pages (sections marked NAMI, from saved copies of the pages as of October 2026), and HOSA Canada’s Behavioural Health study decks (sections marked HOSA Canada; they summarize the textbook, so only points not already in the notes were added). Not included: textbook Chapters 2–3 and 10–13 (research methods, genes and evolution, thinking and intelligence, development, personality, and social psychology), which the test plan does not name.')),
     h('h2', { class: 'sec-title' }, 'Sample test questions'),
     h('p', { class: 'page-sub' }, 'These three are from the guidelines. Pick an answer to see the official one.'),
