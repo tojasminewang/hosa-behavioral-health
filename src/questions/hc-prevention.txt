@@ -376,6 +376,48 @@
 - Purpose
 @ Community — Relationships giving support, friendship, love, and hope
 
+? Which therapy approach is directive and uses dream analysis?
++ Psychoanalysis
+- Humanistic therapy
+- Behaviour therapy
+- Cognitive therapy
+@ psychoanalysis (psychodynamic theory; directive; free association, dream analysis
+
+? Which approach is nondirective and uses unconditional positive regard?
++ Humanistic therapy
+- Psychoanalysis
+- Behaviour therapy
+- Biological treatment
+@ humanistic therapy (nondirective; unconditional positive regard, reflection, empathy)
+
+? Which approach relies only on observed behaviour?
++ Behaviour therapy
+- Psychoanalysis
+- Humanistic therapy
+- Cognitive therapy
+@ behaviour therapy (behaviourism; classical and operant principles for behaviour modification, based only on observed behaviour)
+
+? Which of these is a biological treatment?
++ Brain stimulation
+- Free association
+- Reflection
+- Cognitive restructuring
+@ biological treatments (medication, ECT, psychosurgery, brain stimulation, neurofeedback)
+
+? What is cognitive therapy's main technique?
++ Cognitive restructuring
+- Dream analysis
+- Electroconvulsive therapy
+- A token economy
+@ cognitive therapy (cognitive restructuring, combined with behaviour modification in CBT)
+
+? Dextrostat is a brand of which ADHD drug?
++ Dextroamphetamine
+- Methylphenidate
+- Lithium carbonate
+- Zolpidem
+@ dextroamphetamine brands include Dextrostat
+
 ## hard
 
 ? What does ICCPUD's STOP Underage Drinking website offer?
@@ -685,3 +727,17 @@
 - Relationships that give friendship, love, and hope
 - Freedom from disease through informed, healthy choices
 @ Meaningful daily activities for independence, income, and taking part in society
+
+? Which theory is psychoanalysis built on?
++ Psychodynamic theory
+- Behaviourism
+- Humanistic theory
+- Biology
+@ psychoanalysis (psychodynamic theory
+
+? In CBT, cognitive restructuring is combined with what?
++ Behaviour modification
+- Dream analysis sessions
+- Antidepressant medication
+- Psychosurgery on the brain
+@ combined with behaviour modification in CBT

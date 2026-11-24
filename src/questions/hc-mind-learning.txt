@@ -488,6 +488,69 @@
 - Habituation
 @ Culture transmits learning
 
+? What are the three main types of learning?
++ Associative, nonassociative and observational
+- Classical, operant and latent
+- Reflexes, instincts and habits
+- Habituation, sensitization and imitation
+@ Three main types of learning: associative, nonassociative, observational
+
+? Before conditioning, what is the metronome in Pavlov's study?
++ A neutral stimulus
+- An unconditioned stimulus
+- A conditioned response
+- An unconditioned response
+@ before conditioning the metronome is a neutral stimulus
+
+? In Pavlov's study, how do we know learning has happened?
++ The metronome alone brings salivation
+- Food brings salivation
+- The dog stops eating
+- The metronome stops ticking
+@ once it brings salivation on its own, learning has happened
+
+? In reinforcement and punishment, what does "positive" mean?
++ A stimulus is added
+- A stimulus is taken away
+- The behaviour is good
+- The learner feels happy
+@ Positive = a stimulus is added
+
+? In reinforcement and punishment, what does "negative" mean?
++ A stimulus is taken away
+- A stimulus is added
+- The behaviour is bad
+- The learner feels sad
+@ negative = a stimulus is taken away
+
+? What does punishment always do to a behaviour?
++ Lowers it
+- Raises it
+- Leaves it unchanged
+- Makes it automatic
+@ punishment lowers it
+
+? Which kind of schedule gives higher response rates?
++ Variable schedules
+- Fixed schedules
+- Continuous schedules
+- No schedule at all
+@ Variable schedules give higher response rates than fixed ones
+
+? On a fixed-interval schedule, when does responding speed up?
++ As the end of the interval nears
+- Right after each reward
+- At random times
+- It never changes
+@ a fixed interval gives slow responding early in the interval and a burst as its end nears
+
+? What is the Skinner box?
++ A specially adapted cage for studying reinforcement and punishment
+- The puzzle box Thorndike used to watch cats learn to escape
+- A machine for recording brain waves during sleep and waking
+- A paper test of short-term memory span used in classrooms
+@ a specially adapted cage for studying how reinforcement and punishment change how likely a rat is to press a lever
+
 ## hard
 
 ? How do instincts differ from reflexes, according to the slides?
@@ -811,3 +874,31 @@
 - Retention
 - Motivation
 @ Modeling needs attention, retention, reproduction, motivation
+
+? Which of these is NOT part of a Skinner box?
++ A metronome
+- A lever
+- A food dispenser
+- An electric grid floor
+@ (it has a lever, food dispenser, signal lights, a speaker, and an electric grid floor)
+
+? In a Skinner box, what do researchers usually measure?
++ How likely a rat is to press a lever
+- How fast a dog salivates
+- How long a cat takes to escape
+- How a child copies an adult
+@ how likely a rat is to press a lever
+
+? Removing a stimulus in order to raise a behaviour is called what?
++ Negative reinforcement
+- Positive reinforcement
+- Positive punishment
+- Negative punishment
+@ negative = a stimulus is taken away; reinforcement raises a behaviour
+
+? Responding is slow at the start of each interval and bursts near its end. Which schedule is this?
++ Fixed interval
+- Variable interval
+- Fixed ratio
+- Variable ratio
+@ a fixed interval gives slow responding early in the interval

@@ -327,6 +327,139 @@
 - Yes; any one perspective is enough
 @ No single perspective fully explains a phenomenon
 
+? Ancient Greek philosophers explained what they saw with what kind of causes?
++ Natural, not supernatural, causes
+- Supernatural causes only
+- Religious texts only
+- Measurements from brain scans
+@ Ancient Greek philosophers — Explained what they saw with natural, not supernatural, causes
+
+? Which group held that knowledge comes from experience?
++ British empiricists
+- Ancient physicians
+- Gestalt psychologists
+- Structuralists
+@ British empiricists — Knowledge comes from experience
+
+? Ancient physicians saw which organ as the source of the mind?
++ The brain
+- The heart
+- The liver
+- The stomach
+@ Ancient physicians — The brain is the source of the mind
+
+? What did 17th- and 18th-century findings on sensation and movement show?
++ That the mind is physical
+- That the mind is supernatural
+- That the mind lives in the heart
+- That sensation cannot be studied
+@ Findings on sensation and movement showed the mind is physical
+
+? Which kind of study by Helmholtz backed the idea of a physical mind?
++ Reaction-time studies
+- Dream studies
+- Personality tests
+- Twin studies
+@ Reaction-time studies backed the idea of a physical mind
+
+? Wundt is linked with which school of psychology?
++ Structuralism
+- Functionalism
+- Behaviourism
+- Humanistic psychology
+@ linked with structuralism (behaviour can be broken into parts)
+
+? Which Gestalt psychologist argued that breaking behaviour into parts loses its meaning?
++ Max Wertheimer
+- William James
+- Edward Titchener
+- John B. Watson
+@ Max Wertheimer (1880–1943): breaking behaviour into parts loses its meaning
+
+? Who led the cognitive revolution?
++ Ulric Neisser
+- B. F. Skinner
+- Ivan Pavlov
+- Sigmund Freud
+@ Ulric Neisser (1928–2012): led the cognitive revolution
+
+? What was the main idea of the cognitive revolution?
++ Private mental processing can be studied scientifically
+- Only observable behaviour can be studied
+- The mind is a blank slate at birth
+- People are innately good
+@ private mental processing can be studied scientifically
+
+? For behaviourists like Pavlov, what is the main source of behaviour?
++ Experience
+- Genes
+- The unconscious
+- Free will
+@ for behaviourism, experience is the main source of behaviour
+
+? Freud's ideas laid the groundwork for later work in which two areas?
++ Personality and therapy
+- Vision and hearing
+- Memory and sleep
+- Learning and language
+@ laid the groundwork for later work on personality and therapy
+
+? Which degree does a career in psychiatry need?
++ Medical doctor (MD)
+- Bachelor's degree
+- Master's degree
+- Doctor of philosophy (PhD)
+@ Medical doctor (MD) — Psychiatry
+
+? With a bachelor's degree in psychology, which job is possible?
++ Probation work
+- Psychiatry
+- University research professor
+- Community college teaching
+@ Bachelor's degree — Rehabilitation, research assistance, management, sales, service, public affairs, education, human resources, probation, journalism
+
+? Marriage and family counseling typically needs which degree?
++ Master's degree
+- Bachelor's degree
+- Medical doctor (MD)
+- No degree at all
+@ Master's degree — Community college teaching, marriage and family counseling
+
+? University teaching and research typically need which degree?
++ Doctor of philosophy (PhD)
+- Bachelor's degree
+- Master's degree
+- Medical doctor (MD)
+@ Doctor of philosophy (PhD) — University teaching and research
+
+? Why can people with psychology training follow so many career paths?
++ Psychology is a hub science
+- Psychology needs no training
+- Psychology is only a branch of medicine
+- Psychology does no research
+@ Being a hub science opens many career paths
+
+? Which perspective recognizes that behaviour varies around averages?
++ The individual (personality) perspective
+- The clinical perspective
+- The cognitive perspective
+- The developmental perspective
+@ adds an individual (personality) perspective: behaviour varies around averages
+
+? Besides treating disorders, what else does clinical psychology do?
++ Promote general well-being
+- Measure reaction times
+- Study animal evolution
+- Design brain scanners
+@ also promotes general well-being
+
+? What does social psychology study about other people's presence?
++ How it changes behaviour
+- How it changes genes
+- How it changes eyesight
+- How it changes neuron firing
+@ how other people's presence changes behaviour
+
 ## hard
 
 ? How are mental processes studied, according to the slides?
@@ -510,3 +643,59 @@
 - Used it to support introspection
 - Used it to support psychoanalysis
 @ mostly in animals, generalized to humans
+
+? When did Max Wertheimer live?
++ 1880–1943
+- 1832–1920
+- 1856–1939
+- 1928–2012
+@ Max Wertheimer (1880–1943)
+
+? When did Ulric Neisser live?
++ 1928–2012
+- 1880–1943
+- 1849–1936
+- 1908–1970
+@ Ulric Neisser (1928–2012)
+
+? Which statement about psychology's perspectives today is correct?
++ 21st-century psychology works to integrate cross-cutting perspectives
+- Each perspective now works completely on its own
+- Only the biological perspective is still used
+- The perspectives were dropped in favour of philosophy
+@ 21st-century psychology works to integrate cross-cutting perspectives
+
+? What do all of psychology's perspectives rest on?
++ Scientific research methods
+- Introspection alone
+- Religious explanations
+- Personal opinion
+@ all resting on scientific research methods
+
+? Which two perspectives are often grouped together?
++ Biological and evolutionary psychology
+- Social and clinical psychology
+- Cognitive and developmental psychology
+- Clinical and evolutionary psychology
+@ The summary slide pairs biological with evolutionary psychology
+
+? Which of these is NOT listed as work for someone with a PhD in psychology?
++ Psychiatry
+- University teaching and research
+- Therapy
+- Government
+@ Doctor of philosophy (PhD) — University teaching and research, therapy, business, government, education
+
+? In the individual perspective, individual differences often interact with what?
++ Environments
+- Only genes
+- Only hormones
+- Nothing else
+@ individual differences often interact with environments
+
+? Which of these is a bachelor's-level job area in psychology?
++ Journalism
+- Psychiatry
+- University research
+- Marriage and family counseling
+@ human resources, probation, journalism

@@ -684,6 +684,209 @@
 - DBT
 @ Anxiety disorders, OCD, body dysmorphic disorder, PTSD — CBT
 
+? In what order does the mental health continuum run?
++ Normal → mild → moderate → less severe disorder → more severe disorder
+- Mild → normal → more severe disorder → moderate → less severe disorder
+- Moderate → normal → mild → less severe disorder → more severe disorder
+- Normal → less severe disorder → mild → moderate → more severe disorder
+@ Mental health runs along a continuum: normal → mild → moderate → less severe disorder → more severe disorder
+
+? On the continuum, feeling sad or down only briefly is which level?
++ Mild
+- Normal
+- Moderate
+- Disorder, less severe
+@ Mild — Sad or down, but only briefly
+
+? A student is sad, but a good grade could lift their mood. Which level is this?
++ Moderate
+- Mild
+- Normal
+- Disorder, more severe
+@ Moderate — Sad, though a good grade could lift the mood
+
+? A student can't get out of bed, eat or leave home, and cries often. Which level is this?
++ Disorder, more severe
+- Disorder, less severe
+- Moderate
+- Mild
+@ Disorder, more severe — Extreme sadness all the time
+
+? A student feels intense sadness most of the day and skips most classes. Which level is this?
++ Disorder, less severe
+- Disorder, more severe
+- Moderate
+- Mild
+@ Disorder, less severe — Intense sadness most of the day
+
+? Thinking "not the grades I want, but I'll keep trying" fits which level?
++ Normal
+- Mild
+- Moderate
+- Disorder, less severe
+@ Normal — Alert, in a good mood — Not the grades I want, but I'll keep trying
+
+? What is the difference threshold?
++ The smallest detectable difference between two stimuli
+- The weakest stimulus that can be detected at all
+- The point where a disorder becomes severe
+- The gap between two IQ scores
+@ difference threshold (the smallest difference between two stimuli that can be detected)
+
+? Which of these is a cause of ASD being studied?
++ Parents' age
+- Vaccinations
+- Food additives
+- Marijuana use
+@ causes being studied: genes, parents' age, disrupted brain development
+
+? Which of these is a possible cause of ADHD being studied?
++ Food additives
+- Parents' age
+- Marijuana use
+- Seasonal light changes
+@ causes being studied also include brain development, exposure to toxins, food additives
+
+? Which of these is a suspected cause of schizophrenia?
++ Marijuana use
+- Food additives
+- Parents' age
+- Omega-3 fatty acids
+@ Schizophrenia causes being studied: genes, reduced frontal-lobe activity
+
+? Which neurotransmitter problems are studied in schizophrenia?
++ Dopamine and glutamate abnormalities
+- Low acetylcholine and melatonin levels
+- Too much GABA and too little leptin
+- Too many endorphins and oxytocin
+@ dopamine and glutamate abnormalities
+
+? Which of these is a symptom of bipolar disorder?
++ Grandiosity
+- Avolition
+- Flashbacks
+- Ritualistic behaviour
+@ symptoms also include grandiosity, little need for sleep, rapid speech
+
+? Which of these is a suspected factor in major depressive disorder?
++ Rumination
+- Food additives
+- Parents' age
+- Marijuana use
+@ other suspected factors: rumination, depressive attributions
+
+? Which body rhythm is a suspected factor in depression?
++ Circadian rhythms
+- Lunar cycles
+- Seasonal migration
+- Heart rhythms
+@ circadian rhythms
+
+? Which of these is a cause of specific phobias being studied?
++ Classical conditioning
+- An orexin abnormality
+- Food additives
+- The prenatal environment
+@ causes being studied: exaggerated normal caution, classical conditioning
+
+? Which cultural factor is studied in phobias?
++ Collectivist cultures that stress shame
+- Individualist cultures that stress success
+- Cultures that eat a lot of fish
+- Cultures with long, dark winters
+@ collectivist cultures that stress shame
+
+? A possible abnormality in which brain chemical is studied in panic disorder?
++ Orexin
+- Leptin
+- Melatonin
+- Insulin
+@ causes being studied: a possible orexin abnormality
+
+? Which of these is a cause of generalized anxiety disorder being studied?
++ Fearful schemas
+- Parents' age
+- Marijuana use
+- Food additives
+@ fearful schemas, low socioeconomic status, weakened social connections
+
+? Low activity of which neurotransmitter is a suspected factor in OCD?
++ Serotonin
+- Dopamine
+- Glutamate
+- Endorphins
+@ other suspected factors: low serotonin activity
+
+? OCD may be an exaggerated form of which natural behaviours?
++ Grooming and territorial behaviour
+- Eating and sleeping behaviour
+- Running, climbing and hunting
+- Singing, dancing and play
+@ exaggerated grooming and territorial behaviour
+
+? Which perception difference is studied in body dysmorphic disorder?
++ Unusually sharp perception of facial distortions
+- Unusually poor colour vision in bright light
+- Weak hearing for high-pitched sounds
+- A missing or weakened sense of smell
+@ unusually sharp perception of facial distortions
+
+? Which brain areas are studied in PTSD?
++ The hippocampus and prefrontal cortex
+- The cerebellum and medulla
+- The occipital lobe and retina
+- The pons and pituitary gland
+@ areas studied: hippocampus and prefrontal cortex
+
+? Which social factor is studied in PTSD?
++ Social support
+- Social media use
+- Number of siblings
+- School grades
+@ social support
+
+? Is psychoanalysis directive or nondirective?
++ Directive
+- Nondirective
+- Neither; it only uses medication
+- Both equally
+@ directive; uses free association, dream analysis
+
+? Which technique is part of psychoanalysis?
++ Dream analysis
+- Unconditional positive regard
+- Exposure therapy
+- Neurofeedback
+@ dream analysis, and analysis of resistance and transference
+
+? How is humanistic therapy described?
++ Nondirective, with unconditional positive regard
+- Directive, with dream analysis and free association
+- Based only on observed behaviour and its rewards
+- Focused mainly on medication and brain stimulation
+@ humanistic therapy is nondirective, with unconditional positive regard, reflection and empathy
+
+? Behaviour therapy is based only on what?
++ Observed behaviour
+- Dreams
+- Childhood memories
+- Brain scans
+@ behaviour modification based only on observed behaviour
+
+? Behaviour therapy is rooted in which school of thought?
++ Behaviourism
+- Psychodynamic theory
+- Humanistic theory
+- Biology
+@ rooted in behaviourism
+
+? In CBT, cognitive restructuring is combined with what?
++ Applied behaviour analysis
+- Dream analysis
+- Electroconvulsive therapy
+- Free association
+@ cognitive restructuring + behavioural treatment (applied behaviour analysis)
+
 ## hard
 
 ? What two problems do the slides name with a purely statistical approach to defining disorders?
@@ -1154,3 +1357,108 @@
 - Lithium carbonate
 - ECT
 @ Learning models (ASPD)
+
+? On the continuum, what does a student at the "mild" level do?
++ Still goes to class but finds studying harder
+- Skips most classes and can't keep eye contact
+- Can't get out of bed, eat or leave home
+- Skips a few classes and avoids professors
+@ Goes to class but finds studying harder; sees people less
+
+? Which thought fits the "disorder, more severe" level?
++ Seeing yourself as a total failure with no hope
+- Worrying until your stomach hurts
+- Feeling the grades may set you back
+- Wishing you had studied better
+@ Sees themselves as a total failure; no hope
+
+? Which behaviour fits the "moderate" level?
++ Skipping a few classes and avoiding classmates
+- Not being able to leave home
+- Going to class and talking to professors
+- Being unable to keep eye contact
+@ Skips a few classes; unmotivated; avoids professors and classmates
+
+? At the "disorder, less severe" level, what happens with eye contact?
++ The student can't keep eye contact
+- The student makes too much eye contact
+- Eye contact is completely normal
+- Only eye contact with family is avoided
+@ can't keep eye contact
+
+? Which of these is NOT a schizophrenia cause being studied?
++ Food additives
+- Reduced frontal-lobe activity
+- The prenatal environment
+- Stress
+@ Schizophrenia causes being studied
+
+? Which of these is NOT a suspected factor in depression?
++ Marijuana use
+- Rumination
+- Reduced serotonin activity
+- Depressive attributions
+@ rumination, depressive attributions, reduced serotonin activity
+
+? Which of these is a cause of panic disorder being studied?
++ Expectations and embarrassment
+- Exaggerated grooming behaviour
+- The parents' age at birth
+- Sharp perception of facial flaws
+@ expectations and embarrassment
+
+? Activity in which brain areas is a suspected factor in OCD?
++ Prefrontal cortex and basal ganglia
+- Occipital lobe and retina
+- Cerebellum and pons
+- Hypothalamus and pituitary
+@ prefrontal and basal ganglia activity
+
+? OCD may be an extension of what?
++ Cultural rituals
+- Food preferences
+- Sleep cycles
+- Language skills
+@ extended cultural rituals
+
+? Which receptors are studied in PTSD?
++ Benzodiazepine receptors
+- Dopamine receptors
+- Glutamate receptors
+- Orexin receptors
+@ benzodiazepine receptors
+
+? Disturbances in which neurotransmitter are a suspected cause of bipolar disorder?
++ Serotonin
+- Glutamate
+- Acetylcholine
+- Orexin
+@ serotonin disturbances are another suspected cause
+
+? Which of these is NOT a technique of psychoanalysis?
++ Unconditional positive regard
+- Free association
+- Analysis of transference
+- Dream analysis
+@ uses free association, dream analysis, and analysis of resistance and transference
+
+? Reflection and empathy belong to which kind of therapy?
++ Humanistic therapy
+- Psychoanalysis
+- Behaviour therapy
+- Biological treatment
+@ reflection and empathy
+
+? Which cause of generalized anxiety disorder is about relationships?
++ Weakened social connections
+- Exaggerated normal caution
+- An orexin abnormality
+- Facial distortions
+@ weakened social connections
+
+? Which ASD cause is still described as unknown?
++ Some environmental influences
+- Childhood vaccinations
+- A strict parenting style
+- Food additives in the diet
+@ unknown environmental influences

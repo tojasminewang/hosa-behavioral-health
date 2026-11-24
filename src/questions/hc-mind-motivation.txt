@@ -432,6 +432,167 @@
 - Incentive theory
 @ Cannon-Bard theory — Physical sensations and subjective feelings at the same time
 
+? When fat stores are low, what happens to leptin?
++ Leptin levels are low
+- Leptin levels are high
+- Leptin turns into ghrelin
+- Leptin comes from the stomach
+@ Hormones — Leptin low
+
+? Which hormones are active when fat stores are low?
++ Ghrelin and orexins
+- Leptin and CCK
+- Cortisol and insulin
+- Oxytocin and vasopressin
+@ ghrelin and orexins active
+
+? When fat stores are low, which division is active, and what does the body do?
++ Parasympathetic; it stores nutrients
+- Sympathetic; it spends nutrients
+- Somatic; it stores nutrients
+- Enteric; it spends nutrients
+@ Parasympathetic: the body stores nutrients
+
+? When fat stores are high, which division is active, and what does the body do?
++ Sympathetic; it spends nutrients
+- Parasympathetic; it stores nutrients
+- Somatic; it moves muscles
+- Enteric; it rests
+@ Sympathetic: the body spends nutrients
+
+? Which part of the hypothalamus drives eating?
++ The lateral hypothalamus
+- The ventromedial hypothalamus
+- The pituitary gland
+- The amygdala
+@ Lateral hypothalamus drives eating
+
+? Which part of the hypothalamus holds eating back?
++ The ventromedial hypothalamus
+- The lateral hypothalamus
+- The thalamus
+- The insula
+@ Ventromedial hypothalamus holds eating back
+
+? What happens to metabolic activity when fat stores are high?
++ It goes up
+- It goes down
+- It stops
+- It stays the same
+@ Metabolic activity — Lower — Higher
+
+? What does a BMI under 18.5 mean?
++ Underweight
+- Healthy weight
+- Overweight
+- Obese
+@ under 18.5 = underweight
+
+? Which BMI range counts as a healthy weight?
++ 18.5–24
+- 25–29
+- 30–39
+- Over 40
+@ 18.5–24 = healthy weight
+
+? A BMI of 27 falls in which group?
++ Overweight
+- Healthy weight
+- Obese
+- Underweight
+@ 25–29 = overweight
+
+? A BMI of 35 falls in which group?
++ Obese
+- Overweight
+- Healthy weight
+- Severely obese
+@ 30–39 = obese
+
+? What is at the base of Maslow's hierarchy of needs?
++ Immediate physiological needs
+- Self-actualization and personal growth
+- Esteem and respect from others
+- Love, affection and belonging
+@ bottom to top: immediate physiological needs → safety
+
+? What is at the top of Maslow's hierarchy of needs?
++ Self-actualization
+- Esteem
+- Safety
+- Love and belonging
+@ esteem (respect) → self-actualization
+
+? In Maslow's hierarchy, which need comes right after physiological needs?
++ Safety
+- Esteem
+- Love
+- Self-actualization
+@ immediate physiological needs → safety
+
+? In Maslow's hierarchy, what does esteem refer to?
++ Respect
+- Food and water
+- Belonging
+- Physical safety
+@ esteem (respect)
+
+? What is at the top of the updated pyramid of needs (Kenrick et al., 2010)?
++ Parenting
+- Self-actualization
+- Affiliation
+- Mate acquisition
+@ mate retention → parenting
+
+? What does the updated pyramid of needs add to Maslow's?
++ Developmental and evolutionary views
+- Biological and chemical views
+- Cultural and legal views
+- Medical and surgical views
+@ adds developmental and evolutionary views
+
+? On the emotion map, "afraid" and "frustrated" are which kind of emotion?
++ Unpleasant and high in arousal
+- Pleasant and high in arousal
+- Pleasant and low in arousal
+- Unpleasant and low in arousal
+@ unpleasant + high arousal = alarmed, afraid, tense, angry, annoyed, frustrated
+
+? On the emotion map, where does "excited" sit?
++ Pleasant and high in arousal
+- Unpleasant and high in arousal
+- Pleasant and low in arousal
+- Unpleasant and low in arousal
+@ pleasant + high arousal = aroused, excited, astonished, delighted
+
+? On the emotion map, "bored" and "gloomy" are which kind of emotion?
++ Unpleasant and low in arousal
+- Pleasant and low in arousal
+- Unpleasant and high in arousal
+- Pleasant and high in arousal
+@ unpleasant + low arousal = miserable, depressed, sad, gloomy, bored, tired, sleepy
+
+? In the comparison of cultures, which country held back emotion the least?
++ Switzerland
+- Hong Kong
+- Japan
+- China
+@ Switzerland held back emotion least (score 3.05)
+
+? In the comparison of cultures, which place held back emotion the most?
++ Hong Kong
+- Switzerland
+- Italy
+- The United States
+@ Hong Kong most (4.72)
+
+? Overall, how do cultures compare in how much emotion they show?
++ Fairly alike, but they vary somewhat
+- Completely different from one another
+- Exactly the same everywhere
+- Only Western cultures show emotion
+@ Cultures are fairly alike in how much emotion they show, but they vary
+
 ## hard
 
 ? How do incentive theories explain motivated behaviour differently from drive theories?
@@ -783,3 +944,66 @@
 - The Cannon-Bard theory
 - The Schachter-Singer two-factor theory
 @ Somatovisceral afference model of emotion (SAME) — Newer
+
+? What does a BMI over 40 mean?
++ Severely (morbidly) obese
+- Obese, but not severely
+- Overweight, but not obese
+- Healthy weight for most adults
+@ over 40 = severely (morbidly) obese
+
+? In the updated pyramid of needs, what comes right after self-protection?
++ Affiliation
+- Status/esteem
+- Mate acquisition
+- Parenting
+@ self-protection → affiliation
+
+? Which order is correct for the top of the updated pyramid of needs?
++ Mate acquisition → mate retention → parenting
+- Parenting → mate retention → mate acquisition
+- Affiliation → parenting → status
+- Self-protection → parenting → affiliation
+@ mate acquisition → mate retention → parenting
+
+? In Maslow's hierarchy, love (affection, belonging) sits between which two needs?
++ Safety and esteem
+- Esteem and self-actualization
+- Physiological needs and safety
+- Self-actualization and safety
+@ safety → love (affection, belonging) → esteem
+
+? When fat stores are high, what is the end result?
++ Stored fat falls
+- Stored fat rises
+- Ghrelin rises
+- Eating starts
+@ Result — Stored fat rises — Stored fat falls
+
+? Lowered metabolic activity goes with which state?
++ Low fat stores (hunger)
+- High fat stores (satiety)
+- High leptin
+- Sympathetic activation
+@ Metabolic activity — Lower
+
+? Where do "serene" and "relaxed" sit on the emotion map?
++ Pleasant, lower arousal
+- Pleasant, high arousal
+- Unpleasant, high arousal
+- Unpleasant, low arousal
+@ pleasant + lower arousal = happy, glad, pleased, serene, calm, relaxed
+
+? What was Switzerland's emotion-suppression score in the comparison?
++ 3.05
+- 4.72
+- 1.50
+- 5.00
+@ (score 3.05)
+
+? Which places fell between Switzerland and Hong Kong in holding back emotion?
++ China, Italy, Japan and the United States
+- Only Japan
+- Canada and Mexico
+- None; only two places were compared
+@ with China, Italy, Japan and the United States in between

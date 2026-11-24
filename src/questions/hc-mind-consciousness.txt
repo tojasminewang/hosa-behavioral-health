@@ -642,6 +642,125 @@
 - Drinking alcohol
 @ Others: high altitude, scuba diving, starvation, sleep deprivation, sensory deprivation, twirling, rhythm-induced trance
 
+? Being asleep or awake, or hallucinating or not, describes which aspect of consciousness?
++ The state of awareness
+- The content of awareness
+- Self-awareness
+- The default mode network
+@ State of awareness — How aware we are of inner states or surroundings
+
+? Noticing that you're hungry and it's time to eat is part of which aspect of consciousness?
++ The content of awareness
+- The state of awareness
+- Self-awareness
+- Daydreaming
+@ Content of awareness — The running list of inner and outer stimuli
+
+? Which aspect of consciousness is the running list of stimuli we're attending to right now?
++ Content of awareness
+- State of awareness
+- Self-awareness
+- Lucid dreaming
+@ The running list of inner and outer stimuli we're attending to right now
+
+? A state of awareness can be high or low, and realistic or what?
++ Distorted
+- Permanent
+- Inherited
+- Silent
+@ high or low, realistic or distorted
+
+? Mind wandering and thinking about yourself go with which brain network?
++ The default mode network
+- The reticular formation
+- The visual pathway
+- The fear circuit
+@ active in mind wandering and thinking about the self
+
+? Which brain waves does REM sleep show?
++ Waking-like (beta-like) waves
+- Mostly slow, deep delta waves
+- Only light-sleep theta waves
+- Flat lines with no waves at all
+@ REM sleep: waking-like (beta-like) waves
+
+? In which sleep stage do sleep spindles and K complexes appear alongside more theta waves?
++ N-REM stage 2
+- N-REM stage 1
+- N-REM stage 4
+- REM sleep
+@ N-REM stage 2 — More theta, plus sleep spindles and K complexes
+
+? Which stage brings very large drops in heart rate and muscle tension, with almost no response to stimuli?
++ N-REM stage 4
+- N-REM stage 1
+- N-REM stage 2
+- REM sleep
+@ N-REM stage 4 — More delta — Very large drops
+
+? In which stage is logical thought still present while heart rate and muscle tension start to drop?
++ N-REM stage 1
+- N-REM stage 3
+- N-REM stage 4
+- REM sleep
+@ N-REM stage 1 — Some theta — Logical thought
+
+? Which stage brings vivid dreams and irregular autonomic activity?
++ REM sleep
+- N-REM stage 1
+- N-REM stage 3
+- N-REM stage 4
+@ REM sleep — Like waking — Rapid eye movements; muscle paralysis; irregular autonomic activity; vivid dreams
+
+? While awake, what alternates with periods of relaxation?
++ Alertness
+- Muscle paralysis
+- Delta waves
+- Dreaming
+@ Waking — Alpha, beta, gamma — Alertness alternates with relaxation
+
+? Which EEG pattern marks N-REM stage 3?
++ Some delta waves
+- More theta waves
+- Waking-like waves
+- Gamma waves
+@ N-REM stage 3 — Some delta
+
+? What can studying sleep problems teach us?
++ About the normal ups and downs of consciousness
+- How to cure every mental disorder with sleep
+- How dreams can be used to predict the future
+- Nothing at all about normal, healthy sleep
+@ What goes wrong in sleep gives extra insight into the normal ups and downs of consciousness
+
+? A seizure is what kind of disturbance in the brain?
++ An uncontrollable electrical disturbance
+- A chemical problem in the stomach
+- A slow, planned change in hormones
+- A shortage of oxygen in the blood
+@ an uncontrollable electrical disturbance in the brain
+
+? Where does a partial seizure spread after starting at its focus?
++ To cortical and subcortical structures
+- Only down into the spinal cord
+- Only to the eyes
+- Nowhere; it stays at the focus
+@ spreads from the focus to cortical and subcortical structures
+
+? How does a generalized seizure spread once it starts?
++ Evenly through both sides of the brain
+- Only through the left hemisphere
+- From the spinal cord upward
+- It does not spread at all
+@ once started, spreads evenly through both sides of the brain
+
+? Which connections carry a generalized seizure through the brain?
++ Thalamus–cortex connections
+- The optic nerves
+- Spinal reflex circuits
+- The cranial nerves
+@ along thalamus–cortex connections
+
 ## hard
 
 ? According to the slides, what role do the thalamus and reticular formation play in consciousness?
@@ -1133,3 +1252,52 @@
 - Meditation needs a psychoactive drug; hypnosis needs no drug at all
 - They are the same state of consciousness with two different names
 @ Meditation: voluntary change in consciousness with positive emotion and no thought
+
+? Which of these is NOT a region of the default mode network?
++ The occipital visual cortex
+- The medial prefrontal cortex
+- The lateral parietal cortex
+- The lateral temporal cortex
+@ spans medial prefrontal, medial parietal, lateral parietal and lateral temporal cortex
+
+? Which two stages both show theta waves?
++ N-REM stages 1 and 2
+- N-REM stages 3 and 4
+- REM sleep and stage 4
+- Waking and stage 3
+@ N-REM stage 1 — Some theta
+
+? How does responsiveness in N-REM stage 2 compare with stage 1?
++ It is lower
+- It is higher
+- It is the same
+- It disappears completely
+@ N-REM stage 2 — More theta, plus sleep spindles and K complexes — Less responsive
+
+? Thinking over a news story is an example of which aspect of consciousness?
++ Content of awareness
+- State of awareness
+- Self-awareness
+- The default mode network
+@ thinking over a news story
+
+? Being hypnotized or meditating changes which aspect of consciousness?
++ The state of awareness
+- The content of awareness
+- Self-awareness
+- The circadian rhythm
+@ hypnotized or not; meditating or not
+
+? How is nicotine usually taken?
++ As smoked or chewed tobacco
+- As an injection
+- As a nasal spray only
+- As a skin cream
+@ smoked or chewed
+
+? Which statement about opioids is true?
++ They have legitimate medical uses
+- They act mainly on adenosine
+- They never affect breathing
+- They are classed as stimulants
+@ also have legitimate medical uses

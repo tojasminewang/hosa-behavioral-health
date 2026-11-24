@@ -740,6 +740,279 @@
 - Better balance
 @ smells can trigger bad memories in PTSD
 
+? Do our senses keep receiving information while we sleep?
++ Yes, information floods in awake or asleep
+- No, the senses switch off completely
+- Only hearing keeps working in sleep
+- Only while we are dreaming
+@ Our senses are flooded with information whether we're awake or asleep
+
+? What is each sensory system suited to?
++ The niche its species lives in
+- Only the needs of adults
+- Whatever a person decides to notice
+- Artificial, human-made settings
+@ each sensory system evolved to suit a species' niche
+
+? When does sensation begin?
++ When a physical stimulus meets a sensory system
+- When the brain decides what a stimulus means
+- When we choose to pay attention
+- When a memory of the stimulus is stored
+@ sensation begins when a physical stimulus meets a sensory system
+
+? What does the brain build perceptions out of?
++ Neural signals
+- Memories alone
+- Hormones
+- Muscle movements
+@ the brain builds perceptions out of neural signals
+
+? Speech turned into sine waves sounds like birds, until people are told it is speech. This shows what?
++ Top-down processing
+- Bottom-up processing
+- Sensory adaptation
+- Transduction
+@ Top-down example: speech recordings turned into artificial sine waves
+
+? In signal detection, saying "yes" when a stimulus really is there is called what?
++ A hit
+- A false alarm
+- A miss
+- A correct rejection
+@ hit (says yes, stimulus there)
+
+? In signal detection, saying "yes" when nothing is there is called what?
++ A false alarm
+- A hit
+- A miss
+- A correct rejection
+@ false alarm (says yes, nothing there)
+
+? In signal detection, saying "no" when a stimulus is there is called what?
++ A miss
+- A hit
+- A false alarm
+- A correct rejection
+@ miss (says no, stimulus there)
+
+? Correctly saying "no" when nothing is there is called what?
++ A correct rejection
+- A miss
+- A false alarm
+- A hit
+@ correct rejection (says no, nothing there)
+
+? Seeing a candle flame 30 miles away on a dark night is an example of what?
++ The absolute threshold
+- The difference threshold
+- Sensory adaptation
+- Selective attention
+@ absolute threshold = seeing a candle flame 30 miles away on a dark night
+
+? Telling two weights apart is an example of what?
++ The difference threshold
+- The absolute threshold
+- Signal detection
+- Transduction
+@ difference threshold = telling two weights apart
+
+? A radiologist correctly spotting cancer on a mammogram is an example of what?
++ Signal detection
+- The absolute threshold
+- Sensory adaptation
+- Divided attention
+@ signal detection = a radiologist correctly spotting cancer on a mammogram
+
+? In what order does light pass into the eye?
++ Cornea → pupil → lens → retina
+- Lens → cornea → retina → pupil
+- Retina → lens → pupil → cornea
+- Pupil → retina → cornea → lens
+@ Light's path into the eye: cornea → pupil → lens → retina
+
+? In which lobe is the primary visual cortex?
++ The occipital lobe
+- The temporal lobe
+- The frontal lobe
+- The parietal lobe
+@ Primary visual cortex: in the occipital lobe
+
+? Which structure gives the primary visual cortex its input?
++ The thalamus
+- The hypothalamus
+- The cerebellum
+- The superior colliculi
+@ gets visual input from the thalamus and does the first analysis
+
+? Which theory of colour vision is supported by the three primary colours of light?
++ The trichromatic theory
+- The opponent process theory
+- Gestalt theory
+- The gate theory
+@ supported by the three primary colours of light
+
+? Which Gestalt grouping says look-alike items go together?
++ Similarity
+- Proximity
+- Closure
+- Common region
+@ similarity (look-alike items group together)
+
+? Which Gestalt grouping says items inside one boundary go together?
++ Common region
+- Similarity
+- Continuity
+- Simplicity
+@ common region (items inside one boundary group together)
+
+? What is sound?
++ Vibration waves sent out by a moving object
+- Light waves that happen to reach the ear
+- Electrical signals travelling through air
+- Chemicals that drift through the air
+@ Sound: a moving object sends out vibrations as waves
+
+? What carries sound waves in to the eardrum?
++ The auditory canal
+- The cochlea
+- The Eustachian tube
+- The oval window
+@ Auditory canal: carries sound waves in to the eardrum
+
+? Which part of the ear holds the Eustachian tube?
++ The middle ear
+- The outer ear
+- The inner ear
+- The pinna
+@ middle ear = ossicles, with the Eustachian tube
+
+? Which structures make up the outer ear?
++ The pinna and the auditory canal
+- The cochlea and the oval window
+- The ossicles and the Eustachian tube
+- The auditory nerve and the cochlea
+@ Outer ear = pinna and auditory canal
+
+? Which of these is part of the inner ear?
++ The cochlea
+- The pinna
+- The ossicles
+- The auditory canal
+@ inner ear = oval window, cochlea, auditory nerve
+
+? What starts the transduction of sound into neural signals?
++ The eardrum's movement
+- The pinna collecting sound
+- The thalamus relaying sound
+- The auditory cortex
+@ the eardrum's movement starts the transduction of sound into neural signals
+
+? Where is the basilar membrane narrow and stiff?
++ At its base
+- At its apex
+- In its middle
+- Everywhere along it
+@ narrow and stiff at the base
+
+? After sound waves travel around the cochlea's apex, where do they end up?
++ At the round window
+- At the oval window
+- At the pinna
+- At the eardrum
+@ waves run from the oval window around the apex and back to the round window
+
+? What moves in the cochlear duct to create the sound we hear?
++ Hair cells
+- Ossicles
+- The pinna
+- Taste buds
+@ moving hair cells in the cochlear duct, which we hear as sound
+
+? Which sound level is about 0 dB?
++ The threshold of hearing
+- A whisper
+- Rustling leaves
+- Normal conversation
+@ Threshold of hearing — 0 dB
+
+? About how loud is normal conversation?
++ 60 dB
+- 20 dB
+- 100 dB
+- 130 dB
+@ Normal conversation — 60 dB
+
+? About how loud is a whisper?
++ 20 dB
+- 60 dB
+- 0 dB
+- 90 dB
+@ Whisper — 20 dB
+
+? At about what loudness is the threshold of pain?
++ 130 dB
+- 60 dB
+- 90 dB
+- 160 dB
+@ Threshold of pain; machine-gun fire — 130 dB
+
+? What happens at about 160 dB?
++ The eardrum bursts instantly
+- Normal conversation
+- A vacuum cleaner runs
+- Leaves rustle
+@ Eardrum bursts instantly — 160 dB
+
+? Which sound is about 80 dB?
++ A vacuum cleaner
+- A whisper
+- A military jet taking off
+- Rustling leaves
+@ Vacuum cleaner — 80 dB
+
+? Which of these sounds is the loudest?
++ A military jet taking off
+- The front rows of a rock concert
+- Busy street traffic
+- An iPod with standard earbuds
+@ Military jet taking off — 140 dB
+
+? How many directions of head movement do the vestibular channels cover?
++ Three
+- One
+- Two
+- Five
+@ the three channels cover three directions of head movement
+
+? In gate theory, where is the pain "gate"?
++ In the spinal cord
+- In the hippocampus
+- In the eye
+- In the skin
+@ the "gate" is in the spinal cord
+
+? Which of these opens the pain gate wider, so pain feels worse?
++ Chronic stress
+- Rubbing a hurt elbow
+- High arousal
+- A placebo
+@ chronic stress opens it wider (more pain)
+
+? You bump your elbow and rub it, and it hurts less. In gate theory, what did rubbing do?
++ It closed the gate
+- It opened the gate wider
+- It removed the pain receptors
+- It caused a false alarm
+@ while rubbing a hurt elbow or high arousal closes it (less pain)
+
+? Which cells inside a taste bud detect taste?
++ Taste receptor cells
+- Supporting cells
+- Hair cells
+- Rods and cones
+@ inside are taste receptor cells (with microvilli) and supporting cells
+
 ## hard
 
 ? Why do unfamiliar, changing, or very intense stimuli get high priority for attention?
@@ -1266,3 +1539,129 @@
 - Water sports
 - None; athletes feel the same pain as everyone else
 @ contact-sport athletes tolerate more pain
+
+? What carries taste signals away from the taste bud?
++ Cranial-nerve axons
+- The olfactory nerve
+- The auditory nerve
+- The optic tract
+@ cranial-nerve axons carry the signal away
+
+? In the visual pathway, which axons stay on their own side instead of crossing?
++ The outer axons
+- The axons nearest the nose
+- All of the axons
+- None of the axons
+@ the outer axons stay on their own side
+
+? Where is the basilar membrane wide and floppy, and which tones move it most there?
++ At the apex; low tones
+- At the base; high tones
+- At the apex; high tones
+- At the base; low tones
+@ wide and floppy at the apex
+
+? Which area first analyzes sound coming from the thalamus?
++ The primary auditory cortex, in the temporal lobe
+- The secondary auditory cortex, in the parietal lobe
+- The primary visual cortex, in the occipital lobe
+- The medulla, in the brainstem
+@ the thalamus passes brainstem input on to the primary auditory cortex (temporal lobe), which analyzes it first
+
+? Where do sound waves enter the cochlea?
++ At the oval window
+- At the round window
+- At the apex
+- At the Eustachian tube
+@ waves run from the oval window around the apex
+
+? About how loud is busy street traffic?
++ 70 dB
+- 20 dB
+- 120 dB
+- 160 dB
+@ Busy street traffic — 70 dB
+
+? About how loud is the water at the foot of Niagara Falls?
++ 90 dB
+- 60 dB
+- 140 dB
+- 10 dB
+@ Water at the foot of Niagara Falls — 90 dB
+
+? Which sound is about 100 dB?
++ An iPod with standard earbuds
+- Leaves rustling in a light breeze
+- A quiet whisper across a table
+- A normal conversation between friends
+@ iPod with standard earbuds — 100 dB
+
+? About how loud are the front rows of a rock concert?
++ 110 dB
+- 60 dB
+- 80 dB
+- 160 dB
+@ Front rows of a rock concert — 110 dB
+
+? Which sound is about 120 dB?
++ A propeller plane taking off
+- A vacuum cleaner in the next room
+- Busy street traffic at rush hour
+- A whisper from across the room
+@ Propeller plane taking off — 120 dB
+
+? About how loud are rustling leaves?
++ 10 dB
+- 40 dB
+- 70 dB
+- 0 dB
+@ Rustling leaves — 10 dB
+
+? In gate theory, which of these closes the pain gate?
++ High arousal
+- Chronic stress
+- Tissue damage
+- Free nerve endings firing
+@ high arousal closes it
+
+? What else is inside a taste bud besides taste receptor cells?
++ Supporting cells
+- Hair cells
+- Rods
+- Olfactory bulbs
+@ and supporting cells
+
+? A radiologist says "no cancer" when a tumour is actually there. In signal detection, this is what?
++ A miss
+- A false alarm
+- A hit
+- A correct rejection
+@ miss (says no, stimulus there)
+
+? Where do blood vessels enter the eye?
++ At the optic disk
+- At the fovea
+- At the lens
+- At the cornea
+@ blood vessels enter the eye here too
+
+? Whatever you look straight at lands on which part of the retina?
++ The fovea
+- The optic disk
+- The blind spot
+- The periphery
+@ whatever is in the centre of our gaze lands on it
+
+? Besides rods and cones, what does the retina hold?
++ Other visual neurons
+- Taste receptors
+- Hair cells
+- Ossicles
+@ holds the rods, cones and other visual neurons
+
+? Why does the organization principle split a scene into figure and background?
++ To pick out the main object
+- To judge how far away things are
+- To see colours more clearly
+- To fill in gaps in an outline
+@ to pick out the main object

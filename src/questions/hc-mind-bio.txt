@@ -250,12 +250,12 @@
 - Glucagon
 @ Endorphins — Modify the natural pain response
 
-? How many approaches do the slides' Mind decks cover?
-+ Eight
-- Four
-- Six
-- Ten
-@ The Mind decks cover eight approaches
+? Where do the brain's subcortical structures sit?
++ Inside the white matter of the cerebral hemispheres
+- In the outer gray layer of the cerebral cortex
+- Inside the spinal cord's central canal
+- Between the skull and the surface of the brain
+@ They sit inside the white matter of the cerebral hemispheres
 
 ? In the slides, "the thinking mind" belongs to which field of psychology?
 + Cognitive psychology
@@ -564,6 +564,279 @@
 - Acetylcholine
 - Endorphins
 @ Norepinephrine — Arousal, vigilance; released by the sympathetic system
+
+? Which part of the nervous system is encased in bone?
++ The central nervous system
+- The peripheral nervous system
+- The somatic nervous system
+- The enteric nervous system
+@ encased in bone (the PNS is not)
+
+? The spinal cord is continuous with which part of the brain?
++ The brainstem
+- The cerebellum
+- The corpus callosum
+- The frontal lobe
+@ continuous with the brainstem
+
+? What do spinal injuries show about the spinal cord?
++ How vital its functions are
+- That it is mostly unnecessary
+- That it repairs itself quickly
+- That it only handles reflexes
+@ spinal injuries show how vital it is
+
+? Besides its life-support jobs, what passes through the medulla?
++ Fibre bundles going to and from higher brain levels
+- The optic nerves on their way to the eyes
+- The corpus callosum joining the hemispheres
+- Cerebrospinal fluid made by the cortex
+@ big fibre bundles pass through it to and from higher brain levels
+
+? The cerebral cortex is made of which kind of tissue?
++ Gray matter
+- White matter
+- Cerebrospinal fluid
+- Myelin sheaths
+@ it is gray matter
+
+? Areas of the cerebral cortex do which three kinds of work?
++ Sensory, motor and association
+- Digestive, hormonal and immune
+- Breathing, heart rate and sleep
+- Reflex, balance and coordination
+@ its areas do sensory, motor or association work
+
+? How many pairs of cranial nerves are there?
++ 12
+- 31
+- 8
+- 4
+@ 12 pairs of cranial nerves
+
+? How many pairs of spinal nerves are there?
++ 31
+- 12
+- 24
+- 50
+@ 31 pairs of spinal nerves
+
+? The somatic nervous system mainly deals with which two things?
++ Sensation and movement
+- Digestion and heart rate
+- Hormones and growth
+- Sleep and dreaming
+@ sensation and movement; 12 pairs
+
+? Together, the brainstem and cerebellum handle which of these?
++ Arousal, reflexes and body functions like heart rate
+- Language, reading, writing and speech production
+- Storing and retrieving long-term personal memories
+- Colour vision, depth perception and naming objects
+@ with the cerebellum: white-matter pathways, arousal, reflexes, body functions such as heart rate
+
+? What does the sympathetic system do to the pupil?
++ Dilates it
+- Contracts it
+- Closes it completely
+- Has no effect on it
+@ Pupil — Dilates
+
+? What does the parasympathetic system do to salivation?
++ Stimulates it
+- Inhibits it
+- Stops it for good
+- Has no effect on it
+@ Salivation — Inhibits — Stimulates
+
+? What does the sympathetic system do to the heartbeat?
++ Speeds it up
+- Slows it down
+- Stops it briefly
+- Has no effect on it
+@ Heartbeat — Speeds up
+
+? What does the parasympathetic system do to the airway?
++ Constricts it
+- Relaxes it
+- Blocks it completely
+- Has no effect on it
+@ Airway — Relaxes — Constricts
+
+? What does the sympathetic system do to digestion?
++ Inhibits it
+- Stimulates it
+- Doubles its speed
+- Has no effect on it
+@ Digestion (stomach, liver, pancreas, intestines) — Inhibits
+
+? What does the sympathetic system do to blood vessels?
++ Constricts them
+- Widens them
+- Repairs them
+- Clears toxins from them
+@ Blood vessels — Constricts
+
+? What does the parasympathetic system do to urination?
++ Promotes it
+- Inhibits it
+- Stops it completely
+- Has no effect on it
+@ Urination — Inhibits — Promotes
+
+? How do sympathetic and parasympathetic input usually affect the same organ?
++ They push it in opposite directions
+- They affect it in exactly the same way
+- Only one of them ever reaches it
+- Neither of them affects organs
+@ Sympathetic and parasympathetic input usually push an organ in opposite directions
+
+? During which activity do the sympathetic and parasympathetic systems work together?
++ Sex
+- Digestion
+- Sleep
+- Breathing
+@ but the two work together during sex
+
+? Which glands make sex hormones under the pituitary's control?
++ The ovaries and testes
+- The pineal and thyroid glands
+- The adrenal glands
+- The islets of Langerhans
+@ Ovaries (females), testes (males) — Sex hormones
+
+? What is metabolism?
++ The chemical processes the body needs to stay alive
+- The speed of signals along a nerve
+- The amount of fat stored in the body
+- The release of hormones into the blood
+@ the hormone can raise or lower metabolism (the chemistry the body needs to stay alive)
+
+? Which part of a neuron does most of the cell's housekeeping?
++ The cell body
+- The axon
+- The dendrites
+- The myelin
+@ does most of the cell's housekeeping
+
+? Besides support and myelin, which two jobs do glia do?
++ Hold neurons in place and clean up debris
+- Fire action potentials and release hormones
+- Store memories and process vision
+- Pump blood and carry oxygen
+@ also hold neurons in place and clean up debris
+
+? How do glia form the blood-brain barrier?
++ Through tight links with blood vessels
+- By coating neurons in myelin
+- By releasing neurotransmitters
+- By filling the brain with fluid
+@ the barrier comes from their tight links with blood vessels
+
+? In what way are neurons like other body cells?
++ They have a nucleus and a fatty membrane
+- All body cells have axons and dendrites
+- All body cells fire action potentials
+- All body cells release neurotransmitters
+@ Neurons have what other cells have (a nucleus; a fatty membrane between intracellular and extracellular fluid)
+
+? What lets ions move in and out of the axon?
++ Pores in the membrane that act as channels
+- Gaps in the myelin called nuclei
+- The nucleus of the cell body
+- Synaptic vesicles in the terminal
+@ Pores through the axon membrane work as channels
+
+? Why can't the electrical signal jump straight from one neuron to the next?
++ Fluid separates the neurons
+- Bone separates the neurons
+- The signal is far too weak
+- Myelin blocks every axon terminal
+@ Fluid separates neurons, so the electrical signal can't leap from one to the next
+
+? About what is a neuron's resting potential?
++ −70 mV
+- +40 mV
+- −65 mV
+- 0 mV
+@ resting about −70 mV
+
+? About what voltage does an action potential peak at?
++ +40 mV
+- −70 mV
+- −65 mV
+- +100 mV
+@ peak about +40 mV
+
+? What happens first in an action potential?
++ Sodium channels open and sodium rushes in
+- Potassium channels close
+- Sodium channels close
+- Potassium starts to leave the cell
+@ (1) sodium channels open and sodium rushes in (depolarization)
+
+? What is the dip below resting level at the end of an action potential called?
++ Hyperpolarization
+- Depolarization
+- Reuptake
+- Threshold
+@ at the bottom of a dip below resting level (hyperpolarization)
+
+? What is the refractory period?
++ The time after an action potential when firing again is harder
+- The time a neurotransmitter takes to cross the synapse
+- The resting state before any signal arrives
+- The moment a neuron reaches threshold
+@ Refractory period: the stretch right after each action potential, when firing again is harder
+
+? Which neurotransmitter steps up (excites) brain activity?
++ Glutamate
+- GABA
+- Serotonin
+- Endorphins
+@ Glutamate — Excites
+
+? Which neurotransmitter calms (inhibits) brain activity?
++ GABA
+- Glutamate
+- Dopamine
+- Norepinephrine
+@ GABA — Inhibits
+
+? Epinephrine (adrenaline) is linked with what?
++ Arousal
+- Sleep
+- Appetite
+- Pain relief
+@ Epinephrine (adrenaline) — Arousal
+
+? What happens to neurotransmitter molecules after they act on receptors?
++ They return through reuptake channels to be reused
+- They are stored in the hippocampus for later
+- They turn into myelin around the axon
+- They travel down to the spinal cord
+@ the molecules go back in through reuptake channels to be recycled and used again
+
+? Besides memory and learning, which behaviour does acetylcholine affect?
++ Movement
+- Appetite
+- Pain
+- Vigilance
+@ also movement; part of many systems behind behaviour
+
+? What is the neuromuscular junction?
++ The synapse where nerves command muscles
+- The gap between the two hemispheres
+- Where the spinal cord meets the brain
+- A gland inside the pancreas
+@ neuromuscular junction = the synapse where nerves command muscles
+
+? What is another name for norepinephrine?
++ Noradrenaline
+- Adrenaline
+- Acetylcholine
+- Dopamine
+@ also called noradrenaline
 
 ## hard
 
@@ -958,3 +1231,129 @@
 - Acetylcholine
 - Endorphins
 @ Parkinson's disease, schizophrenia, ADHD
+
+? Sympathetic fibres leave which part of the spinal cord?
++ The thoracic and upper lumbar cord (T1 to L2)
+- The sacral and lower lumbar cord (S2 to S4)
+- The cervical cord, just below the brainstem
+- The coccygeal cord, at the bottom of the spine
+@ Sympathetic fibres leave the thoracic and upper lumbar cord (T1 to L2)
+
+? Which nerve is NOT one of the parasympathetic routes out of the brain?
++ The auditory nerve
+- The oculomotor nerve
+- The facial nerve
+- The vagus nerve
+@ parasympathetic fibres leave the brain through cranial nerves III (oculomotor), VII (facial), IX (glossopharyngeal) and X (vagus)
+
+? Besides the cranial nerves, where else do parasympathetic fibres leave the central nervous system?
++ The sacral cord (S2 to S4)
+- The thoracic cord (T1 to T12)
+- Only the lumbar cord
+- The cerebellum
+@ and the sacral cord (S2 to S4)
+
+? Which cranial nerve is number X?
++ Vagus
+- Facial
+- Oculomotor
+- Glossopharyngeal
+@ and X (vagus)
+
+? In the sexual response, what does parasympathetic input stimulate?
++ Penile erection and labial engorgement
+- Orgasm and a faster heartbeat
+- Inhibited urination and digestion
+- Pupil dilation and airway relaxation
+@ Stimulates penile erection and labial engorgement
+
+? In the sexual response, what does sympathetic input stimulate?
++ Orgasm
+- Penile erection
+- Labial engorgement
+- Salivation
+@ Sex — Stimulates orgasm
+
+? About what is the threshold for firing an action potential?
++ −65 mV
+- −70 mV
+- +40 mV
+- −90 mV
+@ threshold about −65 mV
+
+? In an action potential, what happens right after sodium rushes in?
++ Potassium channels open and potassium starts to leave
+- Sodium channels open for a second time
+- The neuron goes straight back to rest
+- Calcium floods into the axon hillock
+@ (2) potassium channels open and potassium starts to leave
+
+? Which step comes third in an action potential?
++ Sodium channels close
+- Potassium channels open
+- Sodium rushes in
+- Potassium channels close
+@ (3) sodium channels close
+
+? The rising phase of an action potential, when sodium rushes in, is called what?
++ Depolarization
+- Hyperpolarization
+- Reuptake
+- The refractory period
+@ sodium rushes in (depolarization)
+
+? About how long does a whole action potential take?
++ A few milliseconds
+- Several seconds
+- About a minute
+- About an hour
+@ all within a few milliseconds
+
+? What do the sex hormones from the ovaries and testes do?
++ Start puberty and maintain fertility
+- Set the metabolic rate
+- Control the sleep–wake cycle
+- Regulate blood sugar
+@ start puberty, maintain fertility
+
+? Which statement about the cerebral cortex's functions is correct?
++ Some are localized and some are lateralized
+- Both hemispheres handle every function equally
+- None can be tied to a particular area
+- All of them sit in the frontal lobe
+@ some functions are localized, some lateralized
+
+? Which of these do neurons have that most other cells lack?
++ Axons and dendrites
+- A nucleus
+- A fatty membrane
+- Intracellular fluid
+@ plus special branches (axon, dendrites) for sending and receiving information
+
+? What does the sympathetic system do to the airway?
++ Relaxes it
+- Constricts it
+- Fills it with mucus
+- Has no effect on it
+@ Airway — Relaxes
+
+? Which of these effects comes from the parasympathetic system?
++ Slowing the heartbeat
+- Dilating the pupil
+- Inhibiting digestion
+- Constricting blood vessels
+@ Heartbeat — Speeds up — Slows
+
+? Which of these effects comes from the sympathetic system?
++ Inhibiting urination
+- Stimulating salivation
+- Contracting the pupil
+- Stimulating digestion
+@ Urination — Inhibits
+
+? Which structure is described as having large white-matter pathways and handling reflexes?
++ The spinal cord
+- The cerebral cortex
+- The pituitary gland
+- The retina
+@ large white-matter pathways; spinal injuries

@@ -2,7 +2,7 @@
 
 Live site: https://tojasminewang.github.io/hosa-behavioral-health/
 
-**For now, the site shows only HOSA Canada's Behavioural Health study slides**: the 11 decks in Modules 2–7, as reworded notes that cover all the facts on the slides (including their summary tables and pictures), with 50 diagrams and labeled pictures, 1,259 practice questions (normal and hard), 510 flashcards, a timed 50-question mock exam (60 or 40 minutes), highlights and personal notes. Each slide module matches one part of the test plan, so the decks fill the six parts and the mock exam keeps the test-plan weights. Progress is saved in your browser.
+**For now, the site shows only HOSA Canada's Behavioural Health study slides**: the 11 decks in Modules 2–7, as reworded notes that cover all the facts on the slides (including their summary tables and pictures), with 50 diagrams and labeled pictures, 1,568 practice questions (normal and hard), 510 flashcards, a timed 50-question mock exam (60 or 40 minutes), highlights and personal notes. Each slide module matches one part of the test plan, so the decks fill the six parts and the mock exam keeps the test-plan weights. Progress is saved in your browser.
 
 The full study notes are still in `src/`, left out of the page for now. They cover every part of the test plan and were written from the event's official references (Cacioppo & Freberg, *Discovering Psychology*; the SAMHSA website; the NAMI website) plus the HOSA event guidelines. They have 42 diagrams and labeled pictures, 1,214 practice questions and 1,179 flashcards. To put them back on the site, set `SLIDES_ONLY = False` in `src/build.py`, or build with `--full`.
 

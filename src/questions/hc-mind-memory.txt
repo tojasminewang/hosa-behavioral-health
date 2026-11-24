@@ -481,6 +481,125 @@
 - Priming
 @ Mnemonics: aids linking new information to well-known information
 
+? In the Atkinson-Shiffrin model, what keeps information alive in short-term memory?
++ Rehearsal
+- Chunking
+- Decay
+- Priming
+@ short-term memory (kept alive by rehearsal)
+
+? In the Atkinson-Shiffrin model, from which stages can information be forgotten?
++ Sensory memory and short-term memory
+- Only long-term memory
+- Only sensory memory
+- None; nothing is ever forgotten
+@ with forgetting out of the first two stages
+
+? How does sensory memory handle the different senses?
++ It has a separate channel for each sense
+- It mixes every sense into one channel
+- It only stores sounds
+- It only stores sights
+@ separate channels for each sense (sound, sight, etc.)
+
+? About how much can short-term memory hold?
++ About 5–9 bits
+- About 1–2 bits
+- About 50 bits
+- An unlimited amount
+@ about 5–9 bits for at most about 30 seconds
+
+? About how long can short-term memory hold information?
++ At most about 30 seconds
+- About two hours at most
+- Roughly a full day
+- Forever, with no limit
+@ for at most about 30 seconds
+
+? What stretches how much short-term memory can hold?
++ Chunking
+- Rehearsal
+- Decay
+- Interference
+@ chunking stretches how much it holds
+
+? What capacity and duration does long-term memory have?
++ Very large capacity and very long duration
+- Small capacity and short duration
+- Large capacity but brief duration
+- Small capacity but long duration
+@ very large capacity, very long duration
+
+? Whose model of working memory do the slides describe?
++ Alan Baddeley's (with Hitch, 1974)
+- Atkinson and Shiffrin's (stage model)
+- Sternberg's (memory search studies)
+- Rescorla and Wagner's (1972 model)
+@ Alan Baddeley's model (Baddeley and Hitch, 1974)
+
+? How does working memory differ from short-term memory?
++ It works on information instead of only storing it
+- It holds information for years without any rehearsal
+- It only handles sounds, never pictures or words
+- It is stored in the spinal cord instead of the brain
+@ unlike STM, which only stores passively, it lets us work on information
+
+? How is semantic memory organized?
++ By category
+- By time
+- By emotion
+- By sense
+@ organized by category
+
+? How is episodic memory organized?
++ By time
+- By category
+- By size
+- By sense
+@ personal history, organized by time
+
+? Procedural memory is hard to put into words but easy to do what?
++ Demonstrate
+- Forget
+- Recall on a test
+- Write down
+@ hard to put into words but easy to demonstrate
+
+? Which of these is a topic under retrieval cues?
++ Context-dependent memory
+- Long-term potentiation
+- Chunking
+- Neurogenesis
+@ context-dependent memory
+
+? How does retrieval usually come?
++ Gradually, not all at once
+- Instantly and completely
+- Only under hypnosis
+- Only during sleep
+@ it comes gradually
+
+? What can a wrong retrieval do to the right memory?
++ Block it or act as a cue for it
+- Erase it permanently
+- Turn it into a procedural memory
+- Move it back into sensory memory
+@ a wrong retrieval can block the right one or act as a cue for it
+
+? Which memories are more open to reconstruction?
++ Newer memories
+- Older memories
+- Procedural memories
+- Sensory memories
+@ newer memories are more open to it
+
+? Why does memory reconstruction matter in court?
++ It affects eyewitness testimony
+- It proves memories never change
+- It makes every witness truthful
+- It speeds up trials
+@ which matters for eyewitness testimony
+
 ## hard
 
 ? What does levels of processing theory say predicts how easily information can be retrieved?
@@ -734,3 +853,38 @@
 - Decay
 - Priming
 @ Exercise: improves neurogenesis in mice
+
+? Which two retrieval topics go with reconstruction?
++ Fuzzy trace theory and source monitoring
+- Chunking and rehearsal
+- Priming and procedural memory
+- Long-term potentiation and NMDA
+@ fuzzy trace theory and source monitoring belong here too
+
+? Self-generated cues and encoding specificity are both topics about what?
++ Retrieval cues
+- Forgetting by decay
+- Memory consolidation in sleep
+- The parts of working memory
+@ topics under cues: recognition vs recall, self-generated cues, encoding specificity
+
+? Besides flashbulb memories, what else do the slides say about emotion and memory?
++ Timing matters, and chronic stress affects memory
+- Emotion never has any effect on what we remember
+- Only happy events are ever remembered in detail
+- Stress always improves memory, whatever the timing
+@ with emotion, timing matters, and chronic stress affects memory too
+
+? Which pairing of memory type and feature is correct?
++ Procedural memory: automatic skills
+- Semantic memory: organized by time
+- Episodic memory: organized by category
+- Short-term memory: very large capacity
+@ automatic skills
+
+? In which year did Baddeley and Hitch describe working memory?
++ 1974
+- 1972
+- 1966
+- 2010
+@ (Baddeley and Hitch, 1974)

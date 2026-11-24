@@ -1,9 +1,9 @@
-? Which three areas does the wellness, stress, and coping deck cover?
-+ Stress and coping, health psychology, and positive psychology
-- Sleep and dreams, hypnosis, and meditation
-- Learning and memory, thinking, and problem solving
-- Laws and regulations, careers, and guidelines
-@ Covers stress and coping, health psychology, positive psychology
+? Which stress pathway is faster?
++ The sympathetic adrenal-medullary (SAM) system
+- The hypothalamic-pituitary-adrenal (HPA) axis
+- The enteric nervous system
+- The somatic nervous system
+@ the faster sympathetic adrenal-medullary (SAM) system
 
 ? How do the slides define stress?
 + An unpleasant emotional state that comes from perceiving danger
@@ -320,6 +320,132 @@
 - Alarm
 @ Relationship-focused coping — Maintains and protects relationships under stress
 
+? Which hormone does the HPA axis end with?
++ Cortisol
+- Adrenaline
+- Oxytocin
+- Melatonin
+@ hypothalamus → pituitary gland → adrenal glands → cortisol
+
+? What does the HPA axis do to the immune system?
++ Suppresses it
+- Boosts it
+- Has no effect on it
+- Replaces it
+@ cortisol; suppresses the immune system
+
+? What does the SAM system do to the immune system?
++ Boosts it
+- Suppresses it
+- Destroys it
+- Has no effect on it
+@ boosts the immune system
+
+? In what order does the HPA axis run?
++ Hypothalamus → pituitary gland → adrenal glands
+- Adrenal glands → pituitary gland → hypothalamus
+- Pituitary gland → hypothalamus → thyroid gland
+- Amygdala → spinal cord → heart
+@ hypothalamus → pituitary gland → adrenal glands → cortisol
+
+? Which hormones do the adrenal glands release in the SAM system?
++ Norepinephrine and epinephrine (adrenaline)
+- Cortisol and melatonin together
+- Insulin and glucagon together
+- Oxytocin and vasopressin together
+@ the adrenal glands release norepinephrine and epinephrine, or adrenaline
+
+? In the GAS, what happens to resistance to stress during the resistance stage?
++ It climbs above normal
+- It drops below normal
+- It stays exactly normal
+- It falls to zero
+@ climbs above normal (resistance)
+
+? In which GAS stage does resistance drop below normal?
++ Exhaustion
+- Alarm
+- Resistance
+- Recovery
+@ then drops below normal (exhaustion)
+
+? Right after a stressor hits, what happens to resistance in the alarm stage?
++ It dips
+- It rises far above normal
+- It stays the same
+- It falls to zero for good
+@ Resistance to stress dips at first (alarm)
+
+? In fear conditioning, a rat hears a tone and then gets a shock. What does it end up doing at the tone?
++ Freezing
+- Eating
+- Sleeping
+- Pressing a lever
+@ both reach the amygdala, and the rat freezes
+
+? Where do the tone and shock signals meet in fear conditioning?
++ The amygdala
+- The cerebellum
+- The hippocampus
+- The medulla
+@ both reach the amygdala
+
+? In the integrated view of stress, family, school and work make up which layer?
++ Micro
+- Meso
+- Exo
+- Macro
+@ micro (family, peer groups, school, work)
+
+? Which layer holds culture and political systems?
++ Macro
+- Micro
+- Meso
+- Exo
+@ macro (political, legal and economic systems, social norms, education, culture, race and ethnicity)
+
+? Mass media and the neighbourhood belong to which layer?
++ Exo
+- Micro
+- Meso
+- Macro
+@ exo (social networks, neighbourhood, communications, mass media
+
+? What is the meso layer made of?
++ The links among the micro settings
+- Political and legal systems
+- Mass media and transportation
+- Genes and development
+@ meso (links among those)
+
+? In the biopsychosocial diagram, what does perceived stress involve?
++ Threat, helplessness and vigilance
+- Hunger, thirst and sleep
+- Joy, pride and calm
+- Memory, language and attention
+@ perceived stress (threat, helplessness, vigilance)
+
+? In the biopsychosocial diagram, which of these is a behavioural response to stress?
++ Smoking
+- Genes
+- Major life events
+- Trauma
+@ behavioural responses (fight or flight; habits such as diet, smoking, drinking, exercise)
+
+? Which individual differences shape the stress–health cycle?
++ Genes, development and experience
+- Height, weight and age
+- Income, job and car
+- Hair, eye and skin colour
+@ individual differences (genes, development, experience)
+
+? What follows physical responses in the biopsychosocial diagram?
++ Adaptation, then health outcomes
+- Perceived stress, then trauma
+- Genes, then behaviour
+- Major life events, then stressors
+@ physical responses → adaptation → health outcomes
+
 ## hard
 
 ? What positive outcome of stress do the slides describe (Selye, 1975)?
@@ -524,3 +650,52 @@
 - Psychological factors
 - Social factors
 @ Biopsychosocial model: health results from biological, psychological, and social factors
+
+? What do sympathetic nerves release in the SAM system?
++ Norepinephrine
+- Cortisol
+- Acetylcholine
+- Leptin
+@ sympathetic nerves release norepinephrine
+
+? Which stress pathway is slower?
++ The HPA axis
+- The SAM system
+- Both are equally fast
+- Neither responds to stress
+@ the slower hypothalamic-pituitary-adrenal (HPA) axis
+
+? In fear conditioning, which path does the tone take?
++ Auditory thalamus → auditory cortex → amygdala
+- Somatosensory thalamus → somatosensory cortex → amygdala
+- Retina → occipital cortex → amygdala
+- Spinal cord → cerebellum → amygdala
+@ a tone (CS) travels through the auditory thalamus and auditory cortex
+
+? In fear conditioning, the shock is which kind of stimulus?
++ The unconditioned stimulus (UCS)
+- The conditioned stimulus (CS)
+- A neutral stimulus
+- A conditioned response
+@ a shock (UCS) through the somatosensory thalamus and cortex
+
+? Transportation and government agencies sit in which layer of the integrated view?
++ Exo
+- Micro
+- Meso
+- Macro
+@ transportation, goods and services, government agencies
+
+? Race and ethnicity appear in which layer?
++ Macro
+- Exo
+- Meso
+- Micro
+@ culture, race and ethnicity
+
+? What starts the cycle in the biopsychosocial diagram?
++ Environmental stressors, major life events, trauma or abuse
+- Health outcomes such as illness or recovery
+- Adaptation to the stressor over time
+- Physical responses like a racing heart
+@ environmental stressors, major life events and trauma or abuse → perceived stress
