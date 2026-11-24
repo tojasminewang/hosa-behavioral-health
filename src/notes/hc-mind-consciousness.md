@@ -1,11 +1,17 @@
 @ HOSA Canada Behavioural Health study slides, Module 2: "The Mind (Consciousness)", based on Cacioppo, Freberg & Cacioppo, Discovering Psychology, 4th ed.
 
 ## Consciousness
-- **Consciousness:** awareness of experiences inside us and around us
-- **Self-awareness:** understanding the self as separate from other stimuli
+- **Consciousness:** awareness of experiences inside us and around us; a state of awareness
+- **Self-awareness:** understanding the self as separate from other stimuli; e.g., knowing it's you in the mirror, or knowing you're asleep and dreaming
+
+| Aspect of consciousness | Meaning | Examples |
+|---|---|---|
+| State of awareness | How aware we are of inner states or surroundings: high or low, realistic or distorted | Asleep or awake; seeing things as they are or hallucinating; hypnotized or not; meditating or not |
+| Content of awareness | The running list of inner and outer stimuli we're attending to right now | Hearing a neighbour's music; noticing you're hungry and it's time to eat; thinking over a news story |
+
 - Thalamus and reticular formation: may be necessary but not sufficient
 - Better seen as changing activity in brain networks than as particular structures
-- **Default mode network (DMN):** keeps up unconscious background activity; readies the brain for conscious thought
+- **Default mode network (DMN):** keeps up unconscious background activity; readies the brain for conscious thought; active in mind wandering and thinking about the self; spans medial prefrontal, medial parietal, lateral parietal and lateral temporal cortex
 - Varying alertness may help repair the body and save energy (being awake 24 hours would need more food)
 - Safety: animals are built for light or dark, so sleeping through the other part may aid survival
 - Awareness lets animals choose responses instead of reflex and instinct (hearing a possible predator: keep going, flee, or pause for more information), likely improving survival
@@ -24,7 +30,7 @@
 
 ## Brain waves (EEG)
 - **Electroencephalogram (EEG):** recording of overall brain activity used to describe states of awareness
-- Awake: gamma, beta, alpha; N-REM sleep: theta, delta
+- Awake: gamma, beta, alpha; N-REM sleep: theta, delta; REM sleep: waking-like (beta-like) waves
 
 | Wave | Speed | Usually means |
 |---|---|---|
@@ -51,6 +57,15 @@
 - Sleepwalking: stages 3–4 of N-REM; sleep talking: stages 1–2
 - A night's sleep mixes N-REM and REM
 
+| Stage | EEG | What else happens |
+|---|---|---|
+| Waking | Alpha, beta, gamma | Alertness alternates with relaxation; logical thought; voluntary movement; responds to stimuli |
+| N-REM stage 1 | Some theta | Logical thought; heart rate and muscle tension drop; still somewhat responsive |
+| N-REM stage 2 | More theta, plus sleep spindles and K complexes | Less responsive; heart rate and muscle tension drop further |
+| N-REM stage 3 | Some delta | Heart rate and muscle tension drop further still |
+| N-REM stage 4 | More delta | Very large drops in heart rate and muscle tension; barely responsive |
+| REM sleep | Like waking | Rapid eye movements; muscle paralysis; irregular autonomic activity; vivid dreams |
+
 ![The stages of sleep](hc-sleep-stages)
 
 - Only birds and mammals show REM, suggesting it evolved fairly recently
@@ -66,6 +81,7 @@
 - **Lucid dreaming:** knowing you are dreaming and controlling the dream; more dorsolateral prefrontal cortex activity (sense of control, voluntary behaviour)
 
 ## Sleep disorders
+- What goes wrong in sleep gives extra insight into the normal ups and downs of consciousness
 - **Sleep terrors:** sudden waking from N-REM in great distress without nightmare imagery; disoriented and confused if woken
 - **Nightmares:** often confused with sleep terrors but occur in REM
 - **Insomnia:** can't start or maintain normal sleep; most common sleep problem after nightmares
@@ -88,12 +104,12 @@
 - Animals near death show heightened consciousness; a damaged brain may release chemicals that limit cell loss
 
 ## Seizures
-- **Seizure:** sudden abnormal brain activation; changes in consciousness show cortical activity is tied to consciousness
+- **Seizure:** sudden abnormal brain activation; changes in consciousness show cortical activity is tied to consciousness; an uncontrollable electrical disturbance in the brain
 - **Epilepsy:** diagnosis for recurring seizures
 - Causes: brain injury, infection, or no obvious cause
-- **Partial seizure:** starts in one area (the focal area); often has an aura; temporal-lobe seizures can cause déjà vu
+- **Partial seizure:** starts in one area (the focal area); often has an aura; temporal-lobe seizures can cause déjà vu; spreads from the focus to cortical and subcortical structures
 - **Aura:** sense that a seizure is coming
-- **Generalized seizure:** abnormal activation of cortex–thalamus circuits; no single starting area; no aura
+- **Generalized seizure:** abnormal activation of cortex–thalamus circuits; no single starting area; no aura; once started, spreads evenly through both sides of the brain along thalamus–cortex connections
 - **Tonic-clonic seizure:** loss of consciousness, stopped breathing, intense contraction, violent rhythmic jerking (possible injuries), then a short coma
 - **Absence seizure:** loss of consciousness; movement limited to blinking, head turns, eye movements
 
@@ -115,12 +131,12 @@
 | Marijuana (cannabis) | Endogenous cannabinoids | Excitement, vivid imagery, mild euphoria (or depression, withdrawal); distorts time and space; some hallucinate, so it is classed as a hallucinogen |
 | LSD | Serotonin | Vivid colourful hallucinations, intrusive hallucinations, flashbacks |
 | Caffeine | Adenosine | Alertness; withdrawal brings fatigue and headaches |
-| Nicotine | Acetylcholine | Tobacco raises heart rate and blood pressure, reduces fatigue, sharpens thinking, relaxes muscles |
+| Nicotine | Acetylcholine | Tobacco raises heart rate and blood pressure, reduces fatigue, sharpens thinking, relaxes muscles; smoked or chewed |
 | Cocaine and amphetamines | Dopamine | Alertness, good mood, confidence; hallucinations, delusional fears of harm, repetitive movements (chewing, teeth grinding) |
 | Methylphenidate (Ritalin) | Dopamine and norepinephrine | Better alertness and concentration; affects sleep and appetite |
 | MDMA (ecstasy) | Serotonin and oxytocin | Raises heart rate, blood pressure, body temperature; excess serotonin → dehydration, exhaustion, hyperthermia, convulsions, death |
 | Alcohol | GABA and dopamine | Low doses widen blood vessels (warm, flushed) and lower anxiety; high doses → aggression, risk-taking, poor coordination; very high → coma or death (suppressed breathing, inhaled vomit) |
-| Opioids | Endogenous endorphins | Big dopamine release → well-being, pain relief; low doses: euphoria, calm, relaxation, sleep; high doses: a strong "rush" and depressed breathing, sometimes fatal |
+| Opioids | Endogenous endorphins | Big dopamine release → well-being, pain relief; low doses: euphoria, calm, relaxation, sleep; high doses: a strong "rush" and depressed breathing, sometimes fatal; also have legitimate medical uses |
 
 ## Without drugs
 - **Hypnosis:** altered state with relaxation and greater suggestibility

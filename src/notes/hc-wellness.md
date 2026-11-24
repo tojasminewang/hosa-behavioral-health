@@ -13,6 +13,7 @@
 - Hans Selye studied stronger, longer stressors in rats by timing how long they swam before giving up; cold water, restraint, shock, surgery, and whisker cutting all shortened it
 - **General adaptation syndrome (GAS):** Selye's consistent response pattern to any stressor
 - GAS has three stages, in order: alarm, resistance, exhaustion
+- Resistance to stress dips at first (alarm), climbs above normal (resistance), then drops below normal (exhaustion)
 
 | GAS stage | What happens |
 |---|---|
@@ -31,6 +32,8 @@
 - Common stressors: large-scale disasters (terrorist attacks, Haiti and Japan earthquakes, Oklahoma tornadoes), life changes, hassles
 - **Hassles:** relatively minor everyday stressors
 - The amygdala's "fear circuit" quickly flags danger and signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
+- Fear-conditioning picture: in a rat, a tone (CS) travels through the auditory thalamus and auditory cortex, and a shock (UCS) through the somatosensory thalamus and cortex; both reach the amygdala, and the rat freezes
+- Two stress pathways: the faster sympathetic adrenal-medullary (SAM) system (sympathetic nerves release norepinephrine, the adrenal glands release norepinephrine and epinephrine, or adrenaline; boosts the immune system) and the slower hypothalamic-pituitary-adrenal (HPA) axis (hypothalamus → pituitary gland → adrenal glands → cortisol; suppresses the immune system)
 
 ![The fast fear circuit](hc-stress-path)
 
@@ -52,6 +55,7 @@
 
 - Stress and depression both disturb sleep, especially with frequent night waking
 - Stress hormones make fat cells grow in size and number
+- Integrated view: stress and health sit inside nested social layers: micro (family, peer groups, school, work), meso (links among those), exo (social networks, neighbourhood, communications, mass media, transportation, goods and services, government agencies), macro (political, legal and economic systems, social norms, education, culture, race and ethnicity)
 
 ## Coping
 | Type of coping | Purpose |
@@ -61,6 +65,7 @@
 | Relationship-focused coping | Maintains and protects relationships under stress |
 
 - **Biopsychosocial model:** health results from biological, psychological, and social factors
+- The slide's diagram: environmental stressors, major life events and trauma or abuse → perceived stress (threat, helplessness, vigilance) → behavioural responses (fight or flight; habits such as diet, smoking, drinking, exercise) and physical responses → adaptation → health outcomes, all shaped by individual differences (genes, development, experience)
 
 ![The biopsychosocial model](hc-biopsychosocial)
 

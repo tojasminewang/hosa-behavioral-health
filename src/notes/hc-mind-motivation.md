@@ -29,8 +29,17 @@
 
 ![Hunger and satiety signals](hc-hunger)
 
+| When fat stores are… | Low (hunger) | High (satiety) |
+|---|---|---|
+| Hormones | Leptin low; ghrelin and orexins active | Leptin high |
+| Eating | Starts | Stops |
+| Autonomic nervous system | Parasympathetic: the body stores nutrients | Sympathetic: the body spends nutrients |
+| Metabolic activity | Lower | Higher |
+| Hypothalamus | Lateral hypothalamus drives eating | Ventromedial hypothalamus holds eating back |
+| Result | Stored fat rises | Stored fat falls |
+
 - Experts disagree about ideal weight and obesity's health impact
-- **Body mass index (BMI):** common measure of body weight
+- **Body mass index (BMI):** common measure of body weight; under 18.5 = underweight, 18.5–24 = healthy weight, 25–29 = overweight, 30–39 = obese, over 40 = severely (morbidly) obese
 - Obesity factors: genes (set points, metabolism; twin studies), sedentary lifestyle, inherited preference for sweet, fatty food (ancestors sought calorie-rich sugars and fats to avoid starvation), social comparison with our circles
 - **Eating disorders:** unusual eating plus distorted body image (may feel obese while starving)
 - **Anorexia nervosa:** unusually low body weight (food restriction, over-exercise) + distorted body image
@@ -55,9 +64,12 @@
 - **Achievement motivation:** desire to excel or outperform others; resembles a personality trait
 - **Trait:** stable characteristic that changes little but interacts with situations
 - Trait achievement motivation interacts with environmental opportunities; fear of failure may stop capable people from trying
+- **Maslow's hierarchy of needs:** the classic pyramid of motivational priorities, bottom to top: immediate physiological needs → safety → love (affection, belonging) → esteem (respect) → self-actualization
+- **Updated pyramid of needs (Kenrick et al., 2010):** adds developmental and evolutionary views; bottom to top: immediate physiological needs → self-protection → affiliation → status/esteem → mate acquisition → mate retention → parenting
 
 ## Emotion and arousal
 - Emotions vary in pleasure (unpleasant to pleasant) and arousal (low to high)
+- On that map: unpleasant + high arousal = alarmed, afraid, tense, angry, annoyed, frustrated; pleasant + high arousal = aroused, excited, astonished, delighted; pleasant + lower arousal = happy, glad, pleased, serene, calm, relaxed; unpleasant + low arousal = miserable, depressed, sad, gloomy, bored, tired, sleepy
 - **Yerkes-Dodson law:** how task complexity, arousal, and performance relate; ideal arousal depends on complexity
 - Simple task (outrunning a predator): more arousal = better; complex task (difficult exam): too much arousal hurts
 
@@ -75,6 +87,7 @@
 ## Expressing and reading emotion
 - Open question: are emotional expressions learned or built in?
 - **Display rule:** cultural norm for when, where, and how to express an emotion
+- Cultures are fairly alike in how much emotion they show, but they vary: in one comparison Switzerland held back emotion least (score 3.05) and Hong Kong most (4.72), with China, Italy, Japan and the United States in between
 - Adults read emotions accurately but are worse at telling genuine from fake expressions
 - **Emotional intelligence:** perceiving, using, understanding, and managing emotions; predicts work and relationship success
 - Schizophrenia and autism can reduce the ability to read emotional expressions

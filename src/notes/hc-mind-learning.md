@@ -4,6 +4,7 @@
 - **Reflexes:** automatic, involuntary, fast, reliable responses that protect us (goosebumps from stress or cold, left over from hairy ancestors)
 - **Instincts (fixed action patterns):** inborn patterns set off by the environment; run to completion once started; need more neurons than reflexes (e.g., contagious yawning, possibly linked to empathy)
 - **Learned behaviours:** relatively permanent changes in behaviour (or capacity for it) from experience
+- Three main types of learning: associative, nonassociative, observational
 - **Associative learning:** linking stimuli and behaviours; helps predict the future from the past
 - **Classical conditioning:** links two stimuli that occur one after the other
 - **Operant conditioning:** links behaviours and their outcomes
@@ -23,7 +24,7 @@
 
 ![Pavlov’s setup](hc-pavlov)
 
-- Pavlov: before, food (UCS) → salivation (UCR) and a metronome → nothing; during, metronome then food; after, metronome alone (CS) → salivation (CR)
+- Pavlov: before, food (UCS) → salivation (UCR) and a metronome → nothing; during, metronome then food; after, metronome alone (CS) → salivation (CR); before conditioning the metronome is a neutral stimulus, and once it brings salivation on its own, learning has happened
 
 ![Classical conditioning in three stages](hc-classical)
 
@@ -49,7 +50,7 @@
 
 ## Operant conditioning
 - **Law of effect:** Edward Thorndike (cats in "puzzle boxes"): behaviour is "stamped in" depending on its consequences
-- B. F. Skinner extended this with the Skinner box
+- B. F. Skinner extended this with the Skinner box: a specially adapted cage for studying how reinforcement and punishment change how likely a rat is to press a lever (it has a lever, food dispenser, signal lights, a speaker, and an electric grid floor)
 
 ![A Skinner box](hc-skinner-box)
 
@@ -61,6 +62,8 @@
 | Negative punishment | Something desirable is removed | Decreases |
 
 ![Positive and negative reinforcement and punishment](hc-consequences)
+
+- Positive = a stimulus is added; negative = a stimulus is taken away; reinforcement raises a behaviour, punishment lowers it
 
 - **Premack principle:** what an organism spends the most time and energy on is likely important to it
 - **Conditioned reinforcer (secondary reinforcer):** gains value from links to valued things (money, grades)
@@ -74,6 +77,8 @@
 | Variable interval (VI) | For the first response after a changing time |
 
 ![Four schedules of partial reinforcement](hc-schedules)
+
+- Variable schedules give higher response rates than fixed ones; a fixed interval gives slow responding early in the interval and a burst as its end nears
 
 - **Partial reinforcement effect in extinction:** behaviour learned with continuous reinforcement dies out faster than with partial reinforcement
 - **Shaping (method of successive approximations):** reinforce behaviours close to a rare target, then gradually raise the standard

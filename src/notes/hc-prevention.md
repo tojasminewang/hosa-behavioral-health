@@ -23,11 +23,12 @@
 - **Psychosurgery:** brain surgery for psychological disorders
 - **Brain stimulation:** implanted electrodes for some anxiety and mood disorders
 - **Neurofeedback:** biofeedback for ADHD and seizures; keeping brain-activity measures in a range
+- Approaches at a glance: psychoanalysis (psychodynamic theory; directive; free association, dream analysis, analysis of resistance and transference); humanistic therapy (nondirective; unconditional positive regard, reflection, empathy); behaviour therapy (behaviourism; classical and operant principles for behaviour modification, based only on observed behaviour); cognitive therapy (cognitive restructuring, combined with behaviour modification in CBT); biological treatments (medication, ECT, psychosurgery, brain stimulation, neurofeedback)
 
 ## Treating disorders
 - ASD: abnormal serotonin, GABA, glutamate, but no medication proven to ease symptoms
 - **Applied behaviour analysis (ABA):** most common ASD treatment; operant conditioning on observable, socially important behaviours like language; gains should last and generalize
-- ADHD: medication alone or with behaviour therapy; top drugs are stimulants: methylphenidate (Ritalin), dextroamphetamine, amphetamine salts (Adderall); they boost dopamine and norepinephrine
+- ADHD: medication alone or with behaviour therapy; top drugs are stimulants: methylphenidate (Ritalin), dextroamphetamine, amphetamine salts (Adderall); they boost dopamine and norepinephrine; dextroamphetamine brands include Dextrostat
 - **Stimulant rationale:** impulsive hyperactivity arises when areas for planned behaviour (basal ganglia, frontal lobes) are underactive
 - **Phenothiazines:** antipsychotics that block dopamine receptors (dopamine antagonists), reducing psychosis
 - Nearly a quarter of patients with schizophrenia don't respond; hallucinations and delusions improve more than negative symptoms (social withdrawal, emotional disturbance)
