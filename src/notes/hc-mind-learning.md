@@ -31,6 +31,9 @@
 - **Acquisition:** developing a CR; needs contiguity (CS and UCS close in time) and contingency (CS and UCS correlated)
 - **Extinction:** a CR weakening once the UCS stops following the CS; new learning, not forgetting
 - **Spontaneous recovery:** a CR returning after rest during extinction training
+
+![Acquisition, extinction and spontaneous recovery (a sketch)](hc-extinction)
+
 - **Inhibition:** a CS predicting that the UCS won't happen; inhibitory CSs tied to an absent drug effect might aid addiction recovery
 - **Generalization:** responding to stimuli similar to the CS
 - **Discrimination:** learned ability to tell stimuli apart

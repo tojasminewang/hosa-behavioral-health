@@ -7,6 +7,9 @@
 - **Encoding:** taking in information and moving it into memory
 - **Storage:** keeping information in the brain
 - **Retrieval:** getting stored information back
+
+![Memory’s three steps](hc-memory-steps)
+
 - Adaptive advantage: using the past to meet challenges quickly
 
 ## Processing memories

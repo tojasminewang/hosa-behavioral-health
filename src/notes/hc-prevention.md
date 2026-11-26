@@ -41,6 +41,9 @@
 - MDD: varied causes, varied treatments: medical, cognitive, behavioural, aerobic exercise, combinations
 - Medication is the most popular MDD treatment today
 - **Selective serotonin reuptake inhibitors (SSRIs):** most prescribed antidepressants (e.g., Prozac, Zoloft); block serotonin reuptake, leaving more in the synapse
+
+![Where two medications act at the synapse](hc-ssri)
+
 - Psychotherapies (notably CBT) relieve depression without adverse side effects
 - Anxiety disorders (GAD, phobias, panic disorder): medication, CBT, or both
 - Anxiety = heightened brain activity from expected danger, so drugs aim for a "tranquilizing" effect

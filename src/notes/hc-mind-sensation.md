@@ -24,9 +24,14 @@
 - **Signal detection outcomes:** hit (says yes, stimulus there), false alarm (says yes, nothing there), miss (says no, stimulus there), correct rejection (says no, nothing there)
 - Examples: absolute threshold = seeing a candle flame 30 miles away on a dark night; difference threshold = telling two weights apart; signal detection = a radiologist correctly spotting cancer on a mammogram
 
+![The four outcomes of signal detection](hc-signal-detection)
+
 ## Vision
 - **Vision:** processes the visible part of the light spectrum (not gamma, x-ray, ultraviolet, infrared, microwave, radio)
 - ~50% of the cortex processes vision (vs ~3% hearing, ~11% touch and pain)
+
+![How much of the cortex vision, touch and pain, and hearing use](hc-cortex-share)
+
 - **Cornea:** clear front surface; starts bending light toward the retina
 - **Iris:** coloured muscle ring; adjusts the pupil to light and to autonomic signals
 - **Pupil:** the opening formed by the iris
@@ -47,6 +52,9 @@
 - Optic nerves partly cross at the optic chiasm (axons nearest the nose cross); right hemisphere sees the left visual field, left hemisphere the right; the outer axons stay on their own side
 - Past the chiasm = optic tracts; ~90% of axons → thalamus → amygdala (quick judgements) and primary visual cortex (occipital lobe); ~10% → hypothalamus (sleep–wake) or superior colliculi (visual reflexes)
 - **Primary visual cortex:** in the occipital lobe; gets visual input from the thalamus and does the first analysis
+
+![From the eyes to the primary visual cortex, seen from above](hc-visual-pathway)
+
 - **Trichromatic theory:** three cone types for short (blue), medium (green), long (red) wavelengths; explains colour deficiencies but not afterimages; best fits the cones; supported by the three primary colours of light
 - **Colour afterimage:** seeing the complementary colour after staring at one colour
 - **Opponent process theory:** red-green and blue-yellow channels, each colour inhibiting its partner; explains afterimages; best fits perception
@@ -89,6 +97,9 @@
 
 - Route: auditory nerve → medulla → midbrain (sound reflexes) → thalamus → primary auditory cortex → secondary auditory cortex (complex sounds); the thalamus passes brainstem input on to the primary auditory cortex (temporal lobe), which analyzes it first
 - High frequencies move the basilar membrane most near its base; low frequencies near its apex, like the strings of an instrument; waves run from the oval window around the apex and back to the round window, moving hair cells in the cochlear duct, which we hear as sound
+
+![The cochlea drawn uncoiled: where high and low frequencies move the basilar membrane](hc-basilar)
+
 - Frequency affects perceived loudness; hearing is most sensitive at 80–10 000 Hz
 
 | Sound | Loudness |
@@ -107,6 +118,8 @@
 | Military jet taking off | 140 dB |
 | Eardrum bursts instantly | 160 dB |
 
+![How loud everyday sounds are, from the slides’ decibel table](hc-decibels)
+
 - Locating sounds: vertically by the pinna; horizontally by comparing loudness and timing at each ear
 
 ## Body senses
@@ -119,6 +132,9 @@
 - **Free nerve endings:** pain receptors triggered by tissue damage (mechanical, temperature, chemical)
 - Pain: spinal cord → thalamus (fast, direct) → anterior cingulate cortex (pain's emotional side)
 - **Gate theory of pain:** actions and higher thinking affect pain by competing with pain signals; the "gate" is in the spinal cord: chronic stress opens it wider (more pain), while rubbing a hurt elbow or high arousal closes it (less pain)
+
+![The gate theory of pain](hc-gate)
+
 - **Placebo effect:** less pain after an ineffective substance or treatment
 
 ## Smell and taste
@@ -138,6 +154,8 @@
 ![Where smell and taste begin](hc-smell-taste)
 
 - Taste route: mouth → medulla → thalamus → somatosensory cortex → orbitofrontal cortex (emotion of taste)
+
+![How signals from each sense reach the brain](hc-sense-routes)
 
 ## Development and experience
 - Infants see everything adults do but with less detail, so they need more contrast

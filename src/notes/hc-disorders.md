@@ -16,6 +16,8 @@
 | Disorder, less severe | Intense sadness most of the day; some trouble concentrating; eats a little less | So worried their stomach hurts; doesn't know what to do | Skips most classes; can't keep eye contact; little motivation |
 | Disorder, more severe | Extreme sadness all the time; great trouble concentrating; no appetite | Sees themselves as a total failure; no hope; won't do anything today | Can't get out of bed, eat or leave home; no energy; cries often |
 
+![The mental health continuum, from normal to more severe disorder](hc-continuum)
+
 - Intellectual disability uses statistics: IQ of 70 or below is the cutoff
 - A purely statistical approach implies an unwanted cultural specificity and misses a disorder's distress
 - **Comorbid disorders:** more than one disorder at once, so adding up each disorder's rate doesn't work

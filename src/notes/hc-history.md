@@ -5,6 +5,9 @@
 - **Behaviour:** observable action
 - **Mental processes:** thoughts and feelings, studied through introspection
 - **Hub science:** psychology is one of 7 major hub sciences, linked to the medical sciences, social sciences, and education
+
+![Psychology as a hub science](hc-hub)
+
 - The discipline dates to the 1870s, with 2 major roots: philosophy and the natural sciences
 - Shared questions: the self, biology versus environment, mind–body connection, humans and other species
 - René Descartes (1596–1650): ideas and emotions are innate; Aristotle (384–322 BCE): all knowledge comes from sensory experience

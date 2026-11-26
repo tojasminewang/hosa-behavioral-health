@@ -33,9 +33,14 @@
 - **Hassles:** relatively minor everyday stressors
 - The amygdala's "fear circuit" quickly flags danger and signals the hypothalamus, which commands the autonomic (sympathetic, fight-or-flight) system
 - Fear-conditioning picture: in a rat, a tone (CS) travels through the auditory thalamus and auditory cortex, and a shock (UCS) through the somatosensory thalamus and cortex; both reach the amygdala, and the rat freezes
+
+![Fear conditioning in a rat: the tone and shock signals meet in the amygdala](hc-fear-conditioning)
+
 - Two stress pathways: the faster sympathetic adrenal-medullary (SAM) system (sympathetic nerves release norepinephrine, the adrenal glands release norepinephrine and epinephrine, or adrenaline; boosts the immune system) and the slower hypothalamic-pituitary-adrenal (HPA) axis (hypothalamus → pituitary gland → adrenal glands → cortisol; suppresses the immune system)
 
 ![The fast fear circuit](hc-stress-path)
+
+![The two stress pathways: the faster SAM system and the slower HPA axis](hc-sam-hpa)
 
 - **Tend and befriend:** stress response more common in women, tied to oxytocin, a social-bonding hormone
 - Oxytocin relieves stress in animals only when in a social group, not isolated
@@ -56,6 +61,8 @@
 - Stress and depression both disturb sleep, especially with frequent night waking
 - Stress hormones make fat cells grow in size and number
 - Integrated view: stress and health sit inside nested social layers: micro (family, peer groups, school, work), meso (links among those), exo (social networks, neighbourhood, communications, mass media, transportation, goods and services, government agencies), macro (political, legal and economic systems, social norms, education, culture, race and ethnicity)
+
+![Stress and health sit inside nested social layers](hc-layers)
 
 ## Coping
 | Type of coping | Purpose |

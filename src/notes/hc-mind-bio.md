@@ -14,6 +14,8 @@
 - **Spinal cord:** neural tissue from the medulla to mid-back; only ~2% of CNS weight but vital; main route for fibres to and from the brain; continuous with the brainstem; large white-matter pathways; spinal injuries show how vital it is
 - **Spinal reflex:** started by the spinal cord without the brain (e.g., knee jerk)
 
+![A spinal reflex, such as the knee jerk, is started by the spinal cord without the brain](hc-reflex)
+
 ## Brain
 - Three parts: brainstem, cerebellum, cerebrum
 - **Brainstem:** lowest part, joined to the spinal cord; holds the medulla, pons, midbrain; with the cerebellum: white-matter pathways, arousal, reflexes, body functions such as heart rate
@@ -23,6 +25,8 @@
 - **Pons:** relay between medulla and midbrain; sleep, arousal, facial expressions; links the cerebellum to the rest of the brain
 - **Midbrain:** between the pons and the hemispheres; sensory reflexes, movement, pain
 - **Reticular formation:** brainstem midline; mood, arousal, sleep
+
+![The brain’s three parts](hc-brain-parts)
 
 ## Subcortical structures ("below the cortex")
 - They sit inside the white matter of the cerebral hemispheres
@@ -80,6 +84,8 @@
 
 ![How the nervous system is divided](hc-nervous-system)
 
+![The autonomic nervous system: where its two divisions leave the brain and spinal cord, and what each does to the body](hc-autonomic)
+
 - **Endocrine system:** glands releasing hormones into the blood; responds to the nervous system, especially the hypothalamus; arousal, metabolism, growth, sex
 
 | Gland | Hormones | Role |
@@ -112,6 +118,9 @@
 - In numbers: resting about −70 mV, threshold about −65 mV, peak about +40 mV, all within a few milliseconds
 - Steps: (1) sodium channels open and sodium rushes in (depolarization); (2) potassium channels open and potassium starts to leave; (3) sodium channels close; (4) potassium channels close at the bottom of a dip below resting level (hyperpolarization)
 - **Refractory period:** the stretch right after each action potential, when firing again is harder
+
+![An action potential, step by step (a sketch using the slides’ approximate numbers)](hc-action-potential)
+
 - **Synapse:** communication point between two neurons
 - **Neurotransmitter:** chemical messenger across a synapse
 - **Receptor:** membrane channel that interacts with neurotransmitters

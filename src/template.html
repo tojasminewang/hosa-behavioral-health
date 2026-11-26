@@ -888,6 +888,20 @@ dialog.figbox::backdrop{background:rgba(18,22,15,.55)}
 .dg .nest .flow .nd{flex:1 1 0}
 .dg .nd .sw{width:.85em;height:.85em;margin-right:.4em;box-shadow:inset 0 0 0 2px #111}
 @media (max-width:640px){.dg .mx{grid-template-columns:minmax(64px,auto) minmax(0,1fr) minmax(0,1fr);gap:6px}.dg .mx .rh{max-width:84px}.dg .mx .nd{padding:8px}.dg .mx .nd>b:first-child{font-size:14px}}
+/* more HOSA slides figures (2026-11-25): a drawing beside a mirror table, narrower charts */
+.chart.nw{max-width:480px}
+.chart.big text{font-size:17px}.chart.big .ts{font-size:15px}
+.chart.nn{max-width:430px}
+.figbox .chart.nw,.figbox .chart.nn{max-width:none}
+.dg .side{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:16px 22px;align-items:center}
+.dg .mir{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:6px;align-items:stretch}
+.dg .mir>span{display:flex;align-items:center;justify-content:center;text-align:center;min-width:0;padding:6px 8px;border:2.5px solid var(--line-2);border-radius:10px;font-size:13.5px;line-height:1.3;color:var(--ink)}
+.dg .mir>.mt{border:0;padding:0 2px;font-weight:700;font-size:13px}
+.dg .mir>.mh{flex-direction:column;border:0;padding:0 2px 2px;font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3)}
+.dg .mir>.mh small{display:block;margin-top:1px;font-size:12px;font-weight:500;letter-spacing:0;text-transform:none}
+.dg .chain .ch.c1{background:var(--p1-bg)}.dg .chain .ch.c2{background:var(--p2-bg)}.dg .chain .ch.c3{background:var(--p3-bg)}
+.dg .chain .ch.c4{background:var(--p4-bg)}.dg .chain .ch.c5{background:var(--p5-bg)}.dg .chain .ch.c6{background:var(--p6-bg)}
+@media (max-width:640px){.dg .side{grid-template-columns:minmax(0,1fr)}.dg .side>.chart{max-width:330px}.dg .mir>span{font-size:13px;padding:5px 6px}}
 </style>
 <script>(function(){var t=null;try{t=localStorage.getItem('hosa-bh-prep/theme')}catch(e){}if(t!=='auto')document.documentElement.setAttribute('data-user-theme',t==='dark'?'dark':'light')})()</script>
 </head>

@@ -100,6 +100,9 @@
 - Coma follows damage to both hemispheres or the reticular formation; within 2–4 weeks most recover, enter a vegetative state, or die; EEGs differ by cause
 - **Vegetative state (VS):** wakefulness without consciousness after brain injury, often after coma; eyes open at times; may grind teeth, scream, smile, cry; some respond to pain; awareness still debated despite imaging
 - **Brain death:** complete, irreversible loss of measurable brain activity: two flat EEGs 24 hours apart or no blood flow to the brain; no response to any stimulus including pain; no cranial-nerve reflexes
+
+![What can follow a coma, and what counts as brain death](hc-coma)
+
 - **Near-death experience:** altered state near death: "out of body", light at the end of a tunnel, calm, reluctant return
 - Animals near death show heightened consciousness; a damaged brain may release chemicals that limit cell loss
 
@@ -137,6 +140,8 @@
 | MDMA (ecstasy) | Serotonin and oxytocin | Raises heart rate, blood pressure, body temperature; excess serotonin → dehydration, exhaustion, hyperthermia, convulsions, death |
 | Alcohol | GABA and dopamine | Low doses widen blood vessels (warm, flushed) and lower anxiety; high doses → aggression, risk-taking, poor coordination; very high → coma or death (suppressed breathing, inhaled vomit) |
 | Opioids | Endogenous endorphins | Big dopamine release → well-being, pain relief; low doses: euphoria, calm, relaxation, sleep; high doses: a strong "rush" and depressed breathing, sometimes fatal; also have legitimate medical uses |
+
+![Which brain chemical each drug in the table acts on](hc-drug-targets)
 
 ## Without drugs
 - **Hypnosis:** altered state with relaxation and greater suggestibility
